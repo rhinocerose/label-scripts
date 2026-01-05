@@ -1,5 +1,6 @@
 import csv
 import argparse
+import os
 
 
 choices = ["c", "r"]
@@ -32,17 +33,22 @@ def parse_data(input_arr, component_type):
             temp = [line[0], line[1], stat[1], stat[0], stat[3], stat[2], line[4]]
             output_arr.append(temp)
     elif component_type == "r":
-        output_arr = [["LCSC Number", "MPN", "Resistance", "Power", "Tolerance", "Size"]]   
+        output_arr.append(["LCSC Number", "MPN", "Resistance", "Power", "Tolerance", "Size"]) 
         for line in input_arr:
-            stat = line[5].split
+            stat = line[5].split()
             temp = [line[0], line[1], stat[1], stat[0], stat[3], line[4]]
             output_arr.append(temp)    
     return output_arr        
 
-def write_csv()
+def write_csv(input_arr, filename):
+    with open(filename, 'w') as inp:
+        writer = csv.writer(inp, delimiter=',')
+        writer.writerows(input_arr)
         
 if __name__ == "__main__":
     input_file, component_type = options()
+    output_file, _ = os.path.splitext(input_file)
+    output_file = output_file + "_out.csv"
     arr = read_into_list(input_file)
     out_arr = parse_data(arr, component_type)
-    print(out_arr)
+    write_csv(out_arr, output_file)
