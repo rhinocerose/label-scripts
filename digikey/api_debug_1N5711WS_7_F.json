@@ -1,0 +1,672 @@
+{
+    "timestamp": "2026-07-07 14:22:16",
+    "part_number": "1N5711WS-7-F",
+    "request_payload": {
+        "Keywords": "1N5711WS-7-F",
+        "SearchOptions": "ManufacturerProductNumber",
+        "RecordCount": 10,
+        "RecordStartPosition": 0,
+        "Sort": {
+            "Option": "SortByDigiKeyPartNumber",
+            "Direction": "Ascending",
+            "SortParameterId": 0
+        },
+        "RequestedQuantity": 0
+    },
+    "status_code": 200,
+    "response_text": "{\"Products\":[{\"Description\":{\"ProductDescription\":\"DIODE SCHOTTKY 70V 150MW SOD323\",\"DetailedDescription\":\"RF Diode Schottky - Single 70V 15 mA 150 mW SOD-323\"},\"Manufacturer\":{\"Id\":31,\"Name\":\"Diodes Incorporated\"},\"ManufacturerProductNumber\":\"1N5711WS-7-F\",\"UnitPrice\":0.23,\"ProductUrl\":\"https://www.digikey.com/en/products/detail/diodes-incorporated/1N5711WS-7-F/814971\",\"DatasheetUrl\":\"https://www.diodes.com/assets/Datasheets/1N5711WS.pdf\",\"PhotoUrl\":\"https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/5741/31%7ESOD323%7E%7E2.jpg\",\"ProductVariations\":[{\"DigiKeyProductNumber\":\"1N5711WS-FDITR-ND\",\"PackageType\":{\"Id\":1,\"Name\":\"Tape & Reel (TR)\"},\"StandardPricing\":[{\"BreakQuantity\":3000,\"UnitPrice\":0.09047,\"TotalPrice\":271.41000},{\"BreakQuantity\":6000,\"UnitPrice\":0.08763,\"TotalPrice\":525.78000},{\"BreakQuantity\":9000,\"UnitPrice\":0.0862,\"TotalPrice\":775.8000},{\"BreakQuantity\":15000,\"UnitPrice\":0.08463,\"TotalPrice\":1269.45000},{\"BreakQuantity\":21000,\"UnitPrice\":0.08371,\"TotalPrice\":1757.91000},{\"BreakQuantity\":30000,\"UnitPrice\":0.08282,\"TotalPrice\":2484.60000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":31,\"Name\":\"Diodes Incorporated\"},\"QuantityAvailableforPackageType\":0,\"MaxQuantityForDistribution\":0,\"MinimumOrderQuantity\":3000,\"StandardPackage\":0,\"DigiReelFee\":0.0},{\"DigiKeyProductNumber\":\"1N5711WS-FDICT-ND\",\"PackageType\":{\"Id\":2,\"Name\":\"Cut Tape (CT)\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":0.23,\"TotalPrice\":0.23},{\"BreakQuantity\":10,\"UnitPrice\":0.154,\"TotalPrice\":1.540},{\"BreakQuantity\":25,\"UnitPrice\":0.136,\"TotalPrice\":3.400},{\"BreakQuantity\":100,\"UnitPrice\":0.1162,\"TotalPrice\":11.6200},{\"BreakQuantity\":250,\"UnitPrice\":0.10668,\"TotalPrice\":26.67000},{\"BreakQuantity\":500,\"UnitPrice\":0.10098,\"TotalPrice\":50.49000},{\"BreakQuantity\":1000,\"UnitPrice\":0.09628,\"TotalPrice\":96.28000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":31,\"Name\":\"Diodes Incorporated\"},\"QuantityAvailableforPackageType\":3177,\"MaxQuantityForDistribution\":0,\"MinimumOrderQuantity\":1,\"StandardPackage\":0,\"DigiReelFee\":0.0},{\"DigiKeyProductNumber\":\"1N5711WS-FDIDKR-ND\",\"PackageType\":{\"Id\":243,\"Name\":\"Digi-Reel\u00ae\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":0.23,\"TotalPrice\":0.23},{\"BreakQuantity\":10,\"UnitPrice\":0.154,\"TotalPrice\":1.540},{\"BreakQuantity\":25,\"UnitPrice\":0.136,\"TotalPrice\":3.400},{\"BreakQuantity\":100,\"UnitPrice\":0.1162,\"TotalPrice\":11.6200},{\"BreakQuantity\":250,\"UnitPrice\":0.10668,\"TotalPrice\":26.67000},{\"BreakQuantity\":500,\"UnitPrice\":0.10098,\"TotalPrice\":50.49000},{\"BreakQuantity\":1000,\"UnitPrice\":0.09628,\"TotalPrice\":96.28000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":31,\"Name\":\"Diodes Incorporated\"},\"QuantityAvailableforPackageType\":3177,\"MaxQuantityForDistribution\":0,\"MinimumOrderQuantity\":1,\"StandardPackage\":0,\"DigiReelFee\":7.0}],\"QuantityAvailable\":3177,\"ProductStatus\":{\"Id\":0,\"Status\":\"Active\"},\"BackOrderNotAllowed\":false,\"NormallyStocking\":true,\"Discontinued\":false,\"EndOfLife\":false,\"Ncnr\":false,\"PrimaryVideoUrl\":\"\",\"Parameters\":[{\"ParameterId\":96,\"ParameterText\":\"Diode Type\",\"ParameterType\":\"String\",\"ValueId\":\"400392\",\"ValueText\":\"Schottky - Single\"},{\"ParameterId\":720,\"ParameterText\":\"Voltage - Peak Reverse (Max)\",\"ParameterType\":\"String\",\"ValueId\":\"274110\",\"ValueText\":\"70V\"},{\"ParameterId\":2072,\"ParameterText\":\"Current - Max\",\"ParameterType\":\"UnitOfMeasure\",\"ValueId\":\"15 mA\",\"ValueText\":\"15 mA\"},{\"ParameterId\":718,\"ParameterText\":\"Capacitance @ Vr, F\",\"ParameterType\":\"String\",\"ValueId\":\"168575\",\"ValueText\":\"2pF @ 0V, 1MHz\"},{\"ParameterId\":719,\"ParameterText\":\"Resistance @ If, F\",\"ParameterType\":\"String\",\"ValueId\":\"1\",\"ValueText\":\"-\"},{\"ParameterId\":2188,\"ParameterText\":\"Power Dissipation (Max)\",\"ParameterType\":\"UnitOfMeasure\",\"ValueId\":\"150 mW\",\"ValueText\":\"150 mW\"},{\"ParameterId\":252,\"ParameterText\":\"Operating Temperature\",\"ParameterType\":\"String\",\"ValueId\":\"242921\",\"ValueText\":\"-55\u00b0C ~ 125\u00b0C (TJ)\"},{\"ParameterId\":16,\"ParameterText\":\"Package / Case\",\"ParameterType\":\"String\",\"ValueId\":\"400241\",\"ValueText\":\"SC-76, SOD-323\"},{\"ParameterId\":1291,\"ParameterText\":\"Supplier Device Package\",\"ParameterType\":\"String\",\"ValueId\":\"404849\",\"ValueText\":\"SOD-323\"}],\"BaseProductNumber\":{\"Id\":9141,\"Name\":\"1N5711\"},\"Category\":{\"CategoryId\":19,\"ParentId\":0,\"Name\":\"Discrete Semiconductor Products\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/350/MFG_CAB450M12XM3_tmb.jpg\",\"SeoDescription\":\"Discrete semiconductor products include individual transistors, diodes, and thyristors, as well as small arrays of such composed of two, three, four, or some other small number of similar devices within a single package. They are most commonly used for constructing circuits with considerable voltage or current stress, or for realizing very basic circuit functions.\",\"ChildCategories\":[{\"CategoryId\":2042,\"ParentId\":19,\"Name\":\"Diodes\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/961/736/31_SOT-23-3%20PKG_tmb.jpg\",\"SeoDescription\":\"Diodes are devices that allow the flow of current in one direction and block current flow in the opposite direction. Types of diodes include current regulation, bridge rectifiers, RF, rectifier arrays, rectifiers, variable capacitance (varicaps, varactors), zener, zener arrays, and more.\",\"ChildCategories\":[{\"CategoryId\":284,\"ParentId\":2042,\"Name\":\"RF Diodes\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/196/921/DB4_tmb%2864x64%29.jpg\",\"SeoDescription\":\"RF Diodes are a semiconductor device with two terminals that allows the flow of electricity in one direction and restricts the flow in the other. The devices in this family are used in radio frequency matching circuits for electronic tuning. The diode types are pin, Schottky, and standard, with reverse voltages ranging from 1 to 15,000 volts and current values ranging from 10 mA to 20 A.\",\"ChildCategories\":[]}]}]},\"DateLastBuyChance\":null,\"ManufacturerLeadWeeks\":\"40\",\"ManufacturerPublicQuantity\":0,\"Series\":{\"Id\":818,\"Name\":\"-\"},\"ShippingInfo\":null,\"Classifications\":{\"ReachStatus\":\"REACH Unaffected\",\"RohsStatus\":\"ROHS3 Compliant\",\"MoistureSensitivityLevel\":\"1  (Unlimited)\",\"ExportControlClassNumber\":\"EAR99\",\"HtsusCode\":\"8541.10.0080\"},\"OtherNames\":[\"1N5711WS-FDIDKR\",\"1N5711WS-FDITR\",\"1N5711WS-FDICT\",\"1N5711WS7F\"]}],\"ProductsCount\":1,\"ExactMatches\":[{\"Description\":{\"ProductDescription\":\"DIODE SCHOTTKY 70V 150MW SOD323\",\"DetailedDescription\":\"RF Diode Schottky - Single 70V 15 mA 150 mW SOD-323\"},\"Manufacturer\":{\"Id\":31,\"Name\":\"Diodes Incorporated\"},\"ManufacturerProductNumber\":\"1N5711WS-7-F\",\"UnitPrice\":0.23,\"ProductUrl\":\"https://www.digikey.com/en/products/detail/diodes-incorporated/1N5711WS-7-F/814971\",\"DatasheetUrl\":\"https://www.diodes.com/assets/Datasheets/1N5711WS.pdf\",\"PhotoUrl\":\"https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/5741/31%7ESOD323%7E%7E2.jpg\",\"ProductVariations\":[{\"DigiKeyProductNumber\":\"1N5711WS-FDITR-ND\",\"PackageType\":{\"Id\":1,\"Name\":\"Tape & Reel (TR)\"},\"StandardPricing\":[{\"BreakQuantity\":3000,\"UnitPrice\":0.09047,\"TotalPrice\":271.41000},{\"BreakQuantity\":6000,\"UnitPrice\":0.08763,\"TotalPrice\":525.78000},{\"BreakQuantity\":9000,\"UnitPrice\":0.0862,\"TotalPrice\":775.8000},{\"BreakQuantity\":15000,\"UnitPrice\":0.08463,\"TotalPrice\":1269.45000},{\"BreakQuantity\":21000,\"UnitPrice\":0.08371,\"TotalPrice\":1757.91000},{\"BreakQuantity\":30000,\"UnitPrice\":0.08282,\"TotalPrice\":2484.60000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":31,\"Name\":\"Diodes Incorporated\"},\"QuantityAvailableforPackageType\":0,\"MaxQuantityForDistribution\":0,\"MinimumOrderQuantity\":3000,\"StandardPackage\":0,\"DigiReelFee\":0.0},{\"DigiKeyProductNumber\":\"1N5711WS-FDICT-ND\",\"PackageType\":{\"Id\":2,\"Name\":\"Cut Tape (CT)\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":0.23,\"TotalPrice\":0.23},{\"BreakQuantity\":10,\"UnitPrice\":0.154,\"TotalPrice\":1.540},{\"BreakQuantity\":25,\"UnitPrice\":0.136,\"TotalPrice\":3.400},{\"BreakQuantity\":100,\"UnitPrice\":0.1162,\"TotalPrice\":11.6200},{\"BreakQuantity\":250,\"UnitPrice\":0.10668,\"TotalPrice\":26.67000},{\"BreakQuantity\":500,\"UnitPrice\":0.10098,\"TotalPrice\":50.49000},{\"BreakQuantity\":1000,\"UnitPrice\":0.09628,\"TotalPrice\":96.28000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":31,\"Name\":\"Diodes Incorporated\"},\"QuantityAvailableforPackageType\":3177,\"MaxQuantityForDistribution\":0,\"MinimumOrderQuantity\":1,\"StandardPackage\":0,\"DigiReelFee\":0.0},{\"DigiKeyProductNumber\":\"1N5711WS-FDIDKR-ND\",\"PackageType\":{\"Id\":243,\"Name\":\"Digi-Reel\u00ae\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":0.23,\"TotalPrice\":0.23},{\"BreakQuantity\":10,\"UnitPrice\":0.154,\"TotalPrice\":1.540},{\"BreakQuantity\":25,\"UnitPrice\":0.136,\"TotalPrice\":3.400},{\"BreakQuantity\":100,\"UnitPrice\":0.1162,\"TotalPrice\":11.6200},{\"BreakQuantity\":250,\"UnitPrice\":0.10668,\"TotalPrice\":26.67000},{\"BreakQuantity\":500,\"UnitPrice\":0.10098,\"TotalPrice\":50.49000},{\"BreakQuantity\":1000,\"UnitPrice\":0.09628,\"TotalPrice\":96.28000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":31,\"Name\":\"Diodes Incorporated\"},\"QuantityAvailableforPackageType\":3177,\"MaxQuantityForDistribution\":0,\"MinimumOrderQuantity\":1,\"StandardPackage\":0,\"DigiReelFee\":7.0}],\"QuantityAvailable\":3177,\"ProductStatus\":{\"Id\":0,\"Status\":\"Active\"},\"BackOrderNotAllowed\":false,\"NormallyStocking\":true,\"Discontinued\":false,\"EndOfLife\":false,\"Ncnr\":false,\"PrimaryVideoUrl\":\"\",\"Parameters\":[{\"ParameterId\":96,\"ParameterText\":\"Diode Type\",\"ParameterType\":\"String\",\"ValueId\":\"400392\",\"ValueText\":\"Schottky - Single\"},{\"ParameterId\":720,\"ParameterText\":\"Voltage - Peak Reverse (Max)\",\"ParameterType\":\"String\",\"ValueId\":\"274110\",\"ValueText\":\"70V\"},{\"ParameterId\":2072,\"ParameterText\":\"Current - Max\",\"ParameterType\":\"UnitOfMeasure\",\"ValueId\":\"15 mA\",\"ValueText\":\"15 mA\"},{\"ParameterId\":718,\"ParameterText\":\"Capacitance @ Vr, F\",\"ParameterType\":\"String\",\"ValueId\":\"168575\",\"ValueText\":\"2pF @ 0V, 1MHz\"},{\"ParameterId\":719,\"ParameterText\":\"Resistance @ If, F\",\"ParameterType\":\"String\",\"ValueId\":\"1\",\"ValueText\":\"-\"},{\"ParameterId\":2188,\"ParameterText\":\"Power Dissipation (Max)\",\"ParameterType\":\"UnitOfMeasure\",\"ValueId\":\"150 mW\",\"ValueText\":\"150 mW\"},{\"ParameterId\":252,\"ParameterText\":\"Operating Temperature\",\"ParameterType\":\"String\",\"ValueId\":\"242921\",\"ValueText\":\"-55\u00b0C ~ 125\u00b0C (TJ)\"},{\"ParameterId\":16,\"ParameterText\":\"Package / Case\",\"ParameterType\":\"String\",\"ValueId\":\"400241\",\"ValueText\":\"SC-76, SOD-323\"},{\"ParameterId\":1291,\"ParameterText\":\"Supplier Device Package\",\"ParameterType\":\"String\",\"ValueId\":\"404849\",\"ValueText\":\"SOD-323\"}],\"BaseProductNumber\":{\"Id\":9141,\"Name\":\"1N5711\"},\"Category\":{\"CategoryId\":19,\"ParentId\":0,\"Name\":\"Discrete Semiconductor Products\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/350/MFG_CAB450M12XM3_tmb.jpg\",\"SeoDescription\":\"Discrete semiconductor products include individual transistors, diodes, and thyristors, as well as small arrays of such composed of two, three, four, or some other small number of similar devices within a single package. They are most commonly used for constructing circuits with considerable voltage or current stress, or for realizing very basic circuit functions.\",\"ChildCategories\":[{\"CategoryId\":2042,\"ParentId\":19,\"Name\":\"Diodes\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/961/736/31_SOT-23-3%20PKG_tmb.jpg\",\"SeoDescription\":\"Diodes are devices that allow the flow of current in one direction and block current flow in the opposite direction. Types of diodes include current regulation, bridge rectifiers, RF, rectifier arrays, rectifiers, variable capacitance (varicaps, varactors), zener, zener arrays, and more.\",\"ChildCategories\":[{\"CategoryId\":284,\"ParentId\":2042,\"Name\":\"RF Diodes\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/196/921/DB4_tmb%2864x64%29.jpg\",\"SeoDescription\":\"RF Diodes are a semiconductor device with two terminals that allows the flow of electricity in one direction and restricts the flow in the other. The devices in this family are used in radio frequency matching circuits for electronic tuning. The diode types are pin, Schottky, and standard, with reverse voltages ranging from 1 to 15,000 volts and current values ranging from 10 mA to 20 A.\",\"ChildCategories\":[]}]}]},\"DateLastBuyChance\":null,\"ManufacturerLeadWeeks\":\"40\",\"ManufacturerPublicQuantity\":0,\"Series\":{\"Id\":818,\"Name\":\"-\"},\"ShippingInfo\":null,\"Classifications\":{\"ReachStatus\":\"REACH Unaffected\",\"RohsStatus\":\"ROHS3 Compliant\",\"MoistureSensitivityLevel\":\"1  (Unlimited)\",\"ExportControlClassNumber\":\"EAR99\",\"HtsusCode\":\"8541.10.0080\"},\"OtherNames\":[\"1N5711WS-FDIDKR\",\"1N5711WS-FDITR\",\"1N5711WS-FDICT\",\"1N5711WS7F\"]}],\"FilterOptions\":{\"Manufacturers\":[{\"Id\":31,\"Value\":\"Diodes Incorporated\",\"ProductCount\":1}],\"Packaging\":null,\"Status\":null,\"Series\":null,\"ParametricFilters\":null,\"TopCategories\":null,\"MarketPlaceFilters\":null},\"SearchLocaleUsed\":{\"Site\":\"US\",\"Language\":\"en\",\"Currency\":\"USD\"},\"AppliedParametricFiltersDto\":[]}",
+    "response_json": {
+        "Products": [
+            {
+                "Description": {
+                    "ProductDescription": "DIODE SCHOTTKY 70V 150MW SOD323",
+                    "DetailedDescription": "RF Diode Schottky - Single 70V 15 mA 150 mW SOD-323"
+                },
+                "Manufacturer": {
+                    "Id": 31,
+                    "Name": "Diodes Incorporated"
+                },
+                "ManufacturerProductNumber": "1N5711WS-7-F",
+                "UnitPrice": 0.23,
+                "ProductUrl": "https://www.digikey.com/en/products/detail/diodes-incorporated/1N5711WS-7-F/814971",
+                "DatasheetUrl": "https://www.diodes.com/assets/Datasheets/1N5711WS.pdf",
+                "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/5741/31%7ESOD323%7E%7E2.jpg",
+                "ProductVariations": [
+                    {
+                        "DigiKeyProductNumber": "1N5711WS-FDITR-ND",
+                        "PackageType": {
+                            "Id": 1,
+                            "Name": "Tape & Reel (TR)"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 3000,
+                                "UnitPrice": 0.09047,
+                                "TotalPrice": 271.41
+                            },
+                            {
+                                "BreakQuantity": 6000,
+                                "UnitPrice": 0.08763,
+                                "TotalPrice": 525.78
+                            },
+                            {
+                                "BreakQuantity": 9000,
+                                "UnitPrice": 0.0862,
+                                "TotalPrice": 775.8
+                            },
+                            {
+                                "BreakQuantity": 15000,
+                                "UnitPrice": 0.08463,
+                                "TotalPrice": 1269.45
+                            },
+                            {
+                                "BreakQuantity": 21000,
+                                "UnitPrice": 0.08371,
+                                "TotalPrice": 1757.91
+                            },
+                            {
+                                "BreakQuantity": 30000,
+                                "UnitPrice": 0.08282,
+                                "TotalPrice": 2484.6
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 31,
+                            "Name": "Diodes Incorporated"
+                        },
+                        "QuantityAvailableforPackageType": 0,
+                        "MaxQuantityForDistribution": 0,
+                        "MinimumOrderQuantity": 3000,
+                        "StandardPackage": 0,
+                        "DigiReelFee": 0.0
+                    },
+                    {
+                        "DigiKeyProductNumber": "1N5711WS-FDICT-ND",
+                        "PackageType": {
+                            "Id": 2,
+                            "Name": "Cut Tape (CT)"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 0.23,
+                                "TotalPrice": 0.23
+                            },
+                            {
+                                "BreakQuantity": 10,
+                                "UnitPrice": 0.154,
+                                "TotalPrice": 1.54
+                            },
+                            {
+                                "BreakQuantity": 25,
+                                "UnitPrice": 0.136,
+                                "TotalPrice": 3.4
+                            },
+                            {
+                                "BreakQuantity": 100,
+                                "UnitPrice": 0.1162,
+                                "TotalPrice": 11.62
+                            },
+                            {
+                                "BreakQuantity": 250,
+                                "UnitPrice": 0.10668,
+                                "TotalPrice": 26.67
+                            },
+                            {
+                                "BreakQuantity": 500,
+                                "UnitPrice": 0.10098,
+                                "TotalPrice": 50.49
+                            },
+                            {
+                                "BreakQuantity": 1000,
+                                "UnitPrice": 0.09628,
+                                "TotalPrice": 96.28
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 31,
+                            "Name": "Diodes Incorporated"
+                        },
+                        "QuantityAvailableforPackageType": 3177,
+                        "MaxQuantityForDistribution": 0,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 0,
+                        "DigiReelFee": 0.0
+                    },
+                    {
+                        "DigiKeyProductNumber": "1N5711WS-FDIDKR-ND",
+                        "PackageType": {
+                            "Id": 243,
+                            "Name": "Digi-Reel\u00ae"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 0.23,
+                                "TotalPrice": 0.23
+                            },
+                            {
+                                "BreakQuantity": 10,
+                                "UnitPrice": 0.154,
+                                "TotalPrice": 1.54
+                            },
+                            {
+                                "BreakQuantity": 25,
+                                "UnitPrice": 0.136,
+                                "TotalPrice": 3.4
+                            },
+                            {
+                                "BreakQuantity": 100,
+                                "UnitPrice": 0.1162,
+                                "TotalPrice": 11.62
+                            },
+                            {
+                                "BreakQuantity": 250,
+                                "UnitPrice": 0.10668,
+                                "TotalPrice": 26.67
+                            },
+                            {
+                                "BreakQuantity": 500,
+                                "UnitPrice": 0.10098,
+                                "TotalPrice": 50.49
+                            },
+                            {
+                                "BreakQuantity": 1000,
+                                "UnitPrice": 0.09628,
+                                "TotalPrice": 96.28
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 31,
+                            "Name": "Diodes Incorporated"
+                        },
+                        "QuantityAvailableforPackageType": 3177,
+                        "MaxQuantityForDistribution": 0,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 0,
+                        "DigiReelFee": 7.0
+                    }
+                ],
+                "QuantityAvailable": 3177,
+                "ProductStatus": {
+                    "Id": 0,
+                    "Status": "Active"
+                },
+                "BackOrderNotAllowed": false,
+                "NormallyStocking": true,
+                "Discontinued": false,
+                "EndOfLife": false,
+                "Ncnr": false,
+                "PrimaryVideoUrl": "",
+                "Parameters": [
+                    {
+                        "ParameterId": 96,
+                        "ParameterText": "Diode Type",
+                        "ParameterType": "String",
+                        "ValueId": "400392",
+                        "ValueText": "Schottky - Single"
+                    },
+                    {
+                        "ParameterId": 720,
+                        "ParameterText": "Voltage - Peak Reverse (Max)",
+                        "ParameterType": "String",
+                        "ValueId": "274110",
+                        "ValueText": "70V"
+                    },
+                    {
+                        "ParameterId": 2072,
+                        "ParameterText": "Current - Max",
+                        "ParameterType": "UnitOfMeasure",
+                        "ValueId": "15 mA",
+                        "ValueText": "15 mA"
+                    },
+                    {
+                        "ParameterId": 718,
+                        "ParameterText": "Capacitance @ Vr, F",
+                        "ParameterType": "String",
+                        "ValueId": "168575",
+                        "ValueText": "2pF @ 0V, 1MHz"
+                    },
+                    {
+                        "ParameterId": 719,
+                        "ParameterText": "Resistance @ If, F",
+                        "ParameterType": "String",
+                        "ValueId": "1",
+                        "ValueText": "-"
+                    },
+                    {
+                        "ParameterId": 2188,
+                        "ParameterText": "Power Dissipation (Max)",
+                        "ParameterType": "UnitOfMeasure",
+                        "ValueId": "150 mW",
+                        "ValueText": "150 mW"
+                    },
+                    {
+                        "ParameterId": 252,
+                        "ParameterText": "Operating Temperature",
+                        "ParameterType": "String",
+                        "ValueId": "242921",
+                        "ValueText": "-55\u00b0C ~ 125\u00b0C (TJ)"
+                    },
+                    {
+                        "ParameterId": 16,
+                        "ParameterText": "Package / Case",
+                        "ParameterType": "String",
+                        "ValueId": "400241",
+                        "ValueText": "SC-76, SOD-323"
+                    },
+                    {
+                        "ParameterId": 1291,
+                        "ParameterText": "Supplier Device Package",
+                        "ParameterType": "String",
+                        "ValueId": "404849",
+                        "ValueText": "SOD-323"
+                    }
+                ],
+                "BaseProductNumber": {
+                    "Id": 9141,
+                    "Name": "1N5711"
+                },
+                "Category": {
+                    "CategoryId": 19,
+                    "ParentId": 0,
+                    "Name": "Discrete Semiconductor Products",
+                    "ProductCount": 0,
+                    "NewProductCount": 0,
+                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/350/MFG_CAB450M12XM3_tmb.jpg",
+                    "SeoDescription": "Discrete semiconductor products include individual transistors, diodes, and thyristors, as well as small arrays of such composed of two, three, four, or some other small number of similar devices within a single package. They are most commonly used for constructing circuits with considerable voltage or current stress, or for realizing very basic circuit functions.",
+                    "ChildCategories": [
+                        {
+                            "CategoryId": 2042,
+                            "ParentId": 19,
+                            "Name": "Diodes",
+                            "ProductCount": 0,
+                            "NewProductCount": 0,
+                            "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/961/736/31_SOT-23-3%20PKG_tmb.jpg",
+                            "SeoDescription": "Diodes are devices that allow the flow of current in one direction and block current flow in the opposite direction. Types of diodes include current regulation, bridge rectifiers, RF, rectifier arrays, rectifiers, variable capacitance (varicaps, varactors), zener, zener arrays, and more.",
+                            "ChildCategories": [
+                                {
+                                    "CategoryId": 284,
+                                    "ParentId": 2042,
+                                    "Name": "RF Diodes",
+                                    "ProductCount": 0,
+                                    "NewProductCount": 0,
+                                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/196/921/DB4_tmb%2864x64%29.jpg",
+                                    "SeoDescription": "RF Diodes are a semiconductor device with two terminals that allows the flow of electricity in one direction and restricts the flow in the other. The devices in this family are used in radio frequency matching circuits for electronic tuning. The diode types are pin, Schottky, and standard, with reverse voltages ranging from 1 to 15,000 volts and current values ranging from 10 mA to 20 A.",
+                                    "ChildCategories": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "DateLastBuyChance": null,
+                "ManufacturerLeadWeeks": "40",
+                "ManufacturerPublicQuantity": 0,
+                "Series": {
+                    "Id": 818,
+                    "Name": "-"
+                },
+                "ShippingInfo": null,
+                "Classifications": {
+                    "ReachStatus": "REACH Unaffected",
+                    "RohsStatus": "ROHS3 Compliant",
+                    "MoistureSensitivityLevel": "1  (Unlimited)",
+                    "ExportControlClassNumber": "EAR99",
+                    "HtsusCode": "8541.10.0080"
+                },
+                "OtherNames": [
+                    "1N5711WS-FDIDKR",
+                    "1N5711WS-FDITR",
+                    "1N5711WS-FDICT",
+                    "1N5711WS7F"
+                ]
+            }
+        ],
+        "ProductsCount": 1,
+        "ExactMatches": [
+            {
+                "Description": {
+                    "ProductDescription": "DIODE SCHOTTKY 70V 150MW SOD323",
+                    "DetailedDescription": "RF Diode Schottky - Single 70V 15 mA 150 mW SOD-323"
+                },
+                "Manufacturer": {
+                    "Id": 31,
+                    "Name": "Diodes Incorporated"
+                },
+                "ManufacturerProductNumber": "1N5711WS-7-F",
+                "UnitPrice": 0.23,
+                "ProductUrl": "https://www.digikey.com/en/products/detail/diodes-incorporated/1N5711WS-7-F/814971",
+                "DatasheetUrl": "https://www.diodes.com/assets/Datasheets/1N5711WS.pdf",
+                "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/5741/31%7ESOD323%7E%7E2.jpg",
+                "ProductVariations": [
+                    {
+                        "DigiKeyProductNumber": "1N5711WS-FDITR-ND",
+                        "PackageType": {
+                            "Id": 1,
+                            "Name": "Tape & Reel (TR)"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 3000,
+                                "UnitPrice": 0.09047,
+                                "TotalPrice": 271.41
+                            },
+                            {
+                                "BreakQuantity": 6000,
+                                "UnitPrice": 0.08763,
+                                "TotalPrice": 525.78
+                            },
+                            {
+                                "BreakQuantity": 9000,
+                                "UnitPrice": 0.0862,
+                                "TotalPrice": 775.8
+                            },
+                            {
+                                "BreakQuantity": 15000,
+                                "UnitPrice": 0.08463,
+                                "TotalPrice": 1269.45
+                            },
+                            {
+                                "BreakQuantity": 21000,
+                                "UnitPrice": 0.08371,
+                                "TotalPrice": 1757.91
+                            },
+                            {
+                                "BreakQuantity": 30000,
+                                "UnitPrice": 0.08282,
+                                "TotalPrice": 2484.6
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 31,
+                            "Name": "Diodes Incorporated"
+                        },
+                        "QuantityAvailableforPackageType": 0,
+                        "MaxQuantityForDistribution": 0,
+                        "MinimumOrderQuantity": 3000,
+                        "StandardPackage": 0,
+                        "DigiReelFee": 0.0
+                    },
+                    {
+                        "DigiKeyProductNumber": "1N5711WS-FDICT-ND",
+                        "PackageType": {
+                            "Id": 2,
+                            "Name": "Cut Tape (CT)"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 0.23,
+                                "TotalPrice": 0.23
+                            },
+                            {
+                                "BreakQuantity": 10,
+                                "UnitPrice": 0.154,
+                                "TotalPrice": 1.54
+                            },
+                            {
+                                "BreakQuantity": 25,
+                                "UnitPrice": 0.136,
+                                "TotalPrice": 3.4
+                            },
+                            {
+                                "BreakQuantity": 100,
+                                "UnitPrice": 0.1162,
+                                "TotalPrice": 11.62
+                            },
+                            {
+                                "BreakQuantity": 250,
+                                "UnitPrice": 0.10668,
+                                "TotalPrice": 26.67
+                            },
+                            {
+                                "BreakQuantity": 500,
+                                "UnitPrice": 0.10098,
+                                "TotalPrice": 50.49
+                            },
+                            {
+                                "BreakQuantity": 1000,
+                                "UnitPrice": 0.09628,
+                                "TotalPrice": 96.28
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 31,
+                            "Name": "Diodes Incorporated"
+                        },
+                        "QuantityAvailableforPackageType": 3177,
+                        "MaxQuantityForDistribution": 0,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 0,
+                        "DigiReelFee": 0.0
+                    },
+                    {
+                        "DigiKeyProductNumber": "1N5711WS-FDIDKR-ND",
+                        "PackageType": {
+                            "Id": 243,
+                            "Name": "Digi-Reel\u00ae"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 0.23,
+                                "TotalPrice": 0.23
+                            },
+                            {
+                                "BreakQuantity": 10,
+                                "UnitPrice": 0.154,
+                                "TotalPrice": 1.54
+                            },
+                            {
+                                "BreakQuantity": 25,
+                                "UnitPrice": 0.136,
+                                "TotalPrice": 3.4
+                            },
+                            {
+                                "BreakQuantity": 100,
+                                "UnitPrice": 0.1162,
+                                "TotalPrice": 11.62
+                            },
+                            {
+                                "BreakQuantity": 250,
+                                "UnitPrice": 0.10668,
+                                "TotalPrice": 26.67
+                            },
+                            {
+                                "BreakQuantity": 500,
+                                "UnitPrice": 0.10098,
+                                "TotalPrice": 50.49
+                            },
+                            {
+                                "BreakQuantity": 1000,
+                                "UnitPrice": 0.09628,
+                                "TotalPrice": 96.28
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 31,
+                            "Name": "Diodes Incorporated"
+                        },
+                        "QuantityAvailableforPackageType": 3177,
+                        "MaxQuantityForDistribution": 0,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 0,
+                        "DigiReelFee": 7.0
+                    }
+                ],
+                "QuantityAvailable": 3177,
+                "ProductStatus": {
+                    "Id": 0,
+                    "Status": "Active"
+                },
+                "BackOrderNotAllowed": false,
+                "NormallyStocking": true,
+                "Discontinued": false,
+                "EndOfLife": false,
+                "Ncnr": false,
+                "PrimaryVideoUrl": "",
+                "Parameters": [
+                    {
+                        "ParameterId": 96,
+                        "ParameterText": "Diode Type",
+                        "ParameterType": "String",
+                        "ValueId": "400392",
+                        "ValueText": "Schottky - Single"
+                    },
+                    {
+                        "ParameterId": 720,
+                        "ParameterText": "Voltage - Peak Reverse (Max)",
+                        "ParameterType": "String",
+                        "ValueId": "274110",
+                        "ValueText": "70V"
+                    },
+                    {
+                        "ParameterId": 2072,
+                        "ParameterText": "Current - Max",
+                        "ParameterType": "UnitOfMeasure",
+                        "ValueId": "15 mA",
+                        "ValueText": "15 mA"
+                    },
+                    {
+                        "ParameterId": 718,
+                        "ParameterText": "Capacitance @ Vr, F",
+                        "ParameterType": "String",
+                        "ValueId": "168575",
+                        "ValueText": "2pF @ 0V, 1MHz"
+                    },
+                    {
+                        "ParameterId": 719,
+                        "ParameterText": "Resistance @ If, F",
+                        "ParameterType": "String",
+                        "ValueId": "1",
+                        "ValueText": "-"
+                    },
+                    {
+                        "ParameterId": 2188,
+                        "ParameterText": "Power Dissipation (Max)",
+                        "ParameterType": "UnitOfMeasure",
+                        "ValueId": "150 mW",
+                        "ValueText": "150 mW"
+                    },
+                    {
+                        "ParameterId": 252,
+                        "ParameterText": "Operating Temperature",
+                        "ParameterType": "String",
+                        "ValueId": "242921",
+                        "ValueText": "-55\u00b0C ~ 125\u00b0C (TJ)"
+                    },
+                    {
+                        "ParameterId": 16,
+                        "ParameterText": "Package / Case",
+                        "ParameterType": "String",
+                        "ValueId": "400241",
+                        "ValueText": "SC-76, SOD-323"
+                    },
+                    {
+                        "ParameterId": 1291,
+                        "ParameterText": "Supplier Device Package",
+                        "ParameterType": "String",
+                        "ValueId": "404849",
+                        "ValueText": "SOD-323"
+                    }
+                ],
+                "BaseProductNumber": {
+                    "Id": 9141,
+                    "Name": "1N5711"
+                },
+                "Category": {
+                    "CategoryId": 19,
+                    "ParentId": 0,
+                    "Name": "Discrete Semiconductor Products",
+                    "ProductCount": 0,
+                    "NewProductCount": 0,
+                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/350/MFG_CAB450M12XM3_tmb.jpg",
+                    "SeoDescription": "Discrete semiconductor products include individual transistors, diodes, and thyristors, as well as small arrays of such composed of two, three, four, or some other small number of similar devices within a single package. They are most commonly used for constructing circuits with considerable voltage or current stress, or for realizing very basic circuit functions.",
+                    "ChildCategories": [
+                        {
+                            "CategoryId": 2042,
+                            "ParentId": 19,
+                            "Name": "Diodes",
+                            "ProductCount": 0,
+                            "NewProductCount": 0,
+                            "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/961/736/31_SOT-23-3%20PKG_tmb.jpg",
+                            "SeoDescription": "Diodes are devices that allow the flow of current in one direction and block current flow in the opposite direction. Types of diodes include current regulation, bridge rectifiers, RF, rectifier arrays, rectifiers, variable capacitance (varicaps, varactors), zener, zener arrays, and more.",
+                            "ChildCategories": [
+                                {
+                                    "CategoryId": 284,
+                                    "ParentId": 2042,
+                                    "Name": "RF Diodes",
+                                    "ProductCount": 0,
+                                    "NewProductCount": 0,
+                                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/196/921/DB4_tmb%2864x64%29.jpg",
+                                    "SeoDescription": "RF Diodes are a semiconductor device with two terminals that allows the flow of electricity in one direction and restricts the flow in the other. The devices in this family are used in radio frequency matching circuits for electronic tuning. The diode types are pin, Schottky, and standard, with reverse voltages ranging from 1 to 15,000 volts and current values ranging from 10 mA to 20 A.",
+                                    "ChildCategories": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "DateLastBuyChance": null,
+                "ManufacturerLeadWeeks": "40",
+                "ManufacturerPublicQuantity": 0,
+                "Series": {
+                    "Id": 818,
+                    "Name": "-"
+                },
+                "ShippingInfo": null,
+                "Classifications": {
+                    "ReachStatus": "REACH Unaffected",
+                    "RohsStatus": "ROHS3 Compliant",
+                    "MoistureSensitivityLevel": "1  (Unlimited)",
+                    "ExportControlClassNumber": "EAR99",
+                    "HtsusCode": "8541.10.0080"
+                },
+                "OtherNames": [
+                    "1N5711WS-FDIDKR",
+                    "1N5711WS-FDITR",
+                    "1N5711WS-FDICT",
+                    "1N5711WS7F"
+                ]
+            }
+        ],
+        "FilterOptions": {
+            "Manufacturers": [
+                {
+                    "Id": 31,
+                    "Value": "Diodes Incorporated",
+                    "ProductCount": 1
+                }
+            ],
+            "Packaging": null,
+            "Status": null,
+            "Series": null,
+            "ParametricFilters": null,
+            "TopCategories": null,
+            "MarketPlaceFilters": null
+        },
+        "SearchLocaleUsed": {
+            "Site": "US",
+            "Language": "en",
+            "Currency": "USD"
+        },
+        "AppliedParametricFiltersDto": []
+    }
+}

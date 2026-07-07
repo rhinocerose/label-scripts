@@ -1,0 +1,1269 @@
+{
+    "timestamp": "2026-07-07 14:22:29",
+    "part_number": "STM32F427VIT6",
+    "request_payload": {
+        "Keywords": "STM32F427VIT6",
+        "SearchOptions": "ManufacturerProductNumber",
+        "RecordCount": 10,
+        "RecordStartPosition": 0,
+        "Sort": {
+            "Option": "SortByDigiKeyPartNumber",
+            "Direction": "Ascending",
+            "SortParameterId": 0
+        },
+        "RequestedQuantity": 0
+    },
+    "status_code": 200,
+    "response_text": "{\"Products\":[{\"Description\":{\"ProductDescription\":\"IC MCU 32BIT 2MB FLASH 100LQFP\",\"DetailedDescription\":\"ARM\u00ae Cortex\u00ae-M4 STM32F4 Microcontroller IC 32-Bit 180MHz 2MB (2M x 8) FLASH 100-LQFP (14x14)\"},\"Manufacturer\":{\"Id\":497,\"Name\":\"STMicroelectronics\"},\"ManufacturerProductNumber\":\"STM32F427VIT6\",\"UnitPrice\":15.73,\"ProductUrl\":\"https://www.digikey.com/en/products/detail/stmicroelectronics/STM32F427VIT6/4357419\",\"DatasheetUrl\":\"https://www.st.com/resource/en/datasheet/stm32f427ag.pdf\",\"PhotoUrl\":\"https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6249/497%7E1L_ME%7ET%7E100.jpg\",\"ProductVariations\":[{\"DigiKeyProductNumber\":\"497-14049-ND\",\"PackageType\":{\"Id\":17,\"Name\":\"Tray\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":15.73,\"TotalPrice\":15.73},{\"BreakQuantity\":10,\"UnitPrice\":12.443,\"TotalPrice\":124.430},{\"BreakQuantity\":24,\"UnitPrice\":11.65333,\"TotalPrice\":279.67992},{\"BreakQuantity\":90,\"UnitPrice\":10.77478,\"TotalPrice\":969.73020},{\"BreakQuantity\":270,\"UnitPrice\":10.25581,\"TotalPrice\":2769.06870},{\"BreakQuantity\":450,\"UnitPrice\":10.064,\"TotalPrice\":4528.800},{\"BreakQuantity\":990,\"UnitPrice\":9.81697,\"TotalPrice\":9718.80030}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":497,\"Name\":\"STMicroelectronics\"},\"QuantityAvailableforPackageType\":225,\"MaxQuantityForDistribution\":0,\"MinimumOrderQuantity\":1,\"StandardPackage\":0,\"DigiReelFee\":0.0}],\"QuantityAvailable\":225,\"ProductStatus\":{\"Id\":0,\"Status\":\"Active\"},\"BackOrderNotAllowed\":false,\"NormallyStocking\":true,\"Discontinued\":false,\"EndOfLife\":false,\"Ncnr\":false,\"PrimaryVideoUrl\":\"https://www.digikey.com/api/videos/videoplayer/smallplayer/6080749895001\",\"Parameters\":[{\"ParameterId\":2697,\"ParameterText\":\"DigiKey Programmable\",\"ParameterType\":\"String\",\"ValueId\":\"750490\",\"ValueText\":\"Verified\"},{\"ParameterId\":506,\"ParameterText\":\"Core Processor\",\"ParameterType\":\"String\",\"ValueId\":\"314895\",\"ValueText\":\"ARM\u00ae Cortex\u00ae-M4\"},{\"ParameterId\":689,\"ParameterText\":\"Core Size\",\"ParameterType\":\"String\",\"ValueId\":\"188239\",\"ValueText\":\"32-Bit\"},{\"ParameterId\":143,\"ParameterText\":\"Speed\",\"ParameterType\":\"String\",\"ValueId\":\"114552\",\"ValueText\":\"180MHz\"},{\"ParameterId\":1113,\"ParameterText\":\"Connectivity\",\"ParameterType\":\"String\",\"ValueId\":\"800566\",\"ValueText\":\"CANbus, EBI/EMI, Ethernet, I2C, IrDA, LINbus, SPI, UART/USART, USB OTG\"},{\"ParameterId\":1114,\"ParameterText\":\"Peripherals\",\"ParameterType\":\"String\",\"ValueId\":\"801522\",\"ValueText\":\"Brown-out Detect/Reset, DMA, I2S, POR, PWM, WDT\"},{\"ParameterId\":2208,\"ParameterText\":\"Number of I/O\",\"ParameterType\":\"Double\",\"ValueId\":\"82\",\"ValueText\":\"82\"},{\"ParameterId\":155,\"ParameterText\":\"Program Memory Size\",\"ParameterType\":\"String\",\"ValueId\":\"168287\",\"ValueText\":\"2MB (2M x 8)\"},{\"ParameterId\":290,\"ParameterText\":\"Program Memory Type\",\"ParameterType\":\"String\",\"ValueId\":\"347758\",\"ValueText\":\"FLASH\"},{\"ParameterId\":291,\"ParameterText\":\"EEPROM Size\",\"ParameterType\":\"String\",\"ValueId\":\"1\",\"ValueText\":\"-\"},{\"ParameterId\":156,\"ParameterText\":\"RAM Size\",\"ParameterType\":\"String\",\"ValueId\":\"157993\",\"ValueText\":\"256K x 8\"},{\"ParameterId\":1112,\"ParameterText\":\"Voltage - Supply (Vcc/Vdd)\",\"ParameterType\":\"String\",\"ValueId\":\"61308\",\"ValueText\":\"1.8V ~ 3.6V\"},{\"ParameterId\":519,\"ParameterText\":\"Data Converters\",\"ParameterType\":\"String\",\"ValueId\":\"306019\",\"ValueText\":\"A/D 16x12b; D/A 2x12b\"},{\"ParameterId\":283,\"ParameterText\":\"Oscillator Type\",\"ParameterType\":\"String\",\"ValueId\":\"359690\",\"ValueText\":\"Internal\"},{\"ParameterId\":252,\"ParameterText\":\"Operating Temperature\",\"ParameterType\":\"String\",\"ValueId\":\"212621\",\"ValueText\":\"-40\u00b0C ~ 85\u00b0C (TA)\"},{\"ParameterId\":69,\"ParameterText\":\"Mounting Type\",\"ParameterType\":\"String\",\"ValueId\":\"409393\",\"ValueText\":\"Surface Mount\"},{\"ParameterId\":1291,\"ParameterText\":\"Supplier Device Package\",\"ParameterType\":\"String\",\"ValueId\":\"68820\",\"ValueText\":\"100-LQFP (14x14)\"},{\"ParameterId\":16,\"ParameterText\":\"Package / Case\",\"ParameterType\":\"String\",\"ValueId\":\"68818\",\"ValueText\":\"100-LQFP\"}],\"BaseProductNumber\":{\"Id\":111756,\"Name\":\"STM32F427\"},\"Category\":{\"CategoryId\":32,\"ParentId\":0,\"Name\":\"Integrated Circuits (ICs)\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg\",\"SeoDescription\":\"Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.\",\"ChildCategories\":[{\"CategoryId\":2012,\"ParentId\":32,\"Name\":\"Embedded\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/433/524/MFG_MK21DX128VLK5_tmb.jpg\",\"SeoDescription\":\"Embedded systems perform a specific task via software within various applications. Included in this category are programmable logic devices (PLDs), complex programmable logic devices (CPLDs), digital signal processors (DSPs), field programmable gate arrays (FPGAs), microcontollers or microprocessors, system-on-chip (SoC), and more.\",\"ChildCategories\":[{\"CategoryId\":685,\"ParentId\":2012,\"Name\":\"Microcontrollers\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/116/683/28-PDip_tmb.jpg\",\"SeoDescription\":\"Microcontroller products are relatively complex, user-programmable digital logic devices. Closely related to devices considered microprocessors, the distinction between the two reduces largely to the manufacturer's choice of noun, though by tradition microcontrollers integrate working memory, are more likely to incorporate mixed-signal peripherals and tend to be used with simpler software paradigms oriented toward repetitive execution of a predefined series of tasks.\",\"ChildCategories\":[]}]}]},\"DateLastBuyChance\":null,\"ManufacturerLeadWeeks\":\"30\",\"ManufacturerPublicQuantity\":0,\"Series\":{\"Id\":42726,\"Name\":\"STM32F4\"},\"ShippingInfo\":null,\"Classifications\":{\"ReachStatus\":\"REACH Unaffected\",\"RohsStatus\":\"ROHS3 Compliant\",\"MoistureSensitivityLevel\":\"3  (168 Hours)\",\"ExportControlClassNumber\":\"3A991A2\",\"HtsusCode\":\"8542.31.0025\"},\"OtherNames\":[\"STM32F427VIT6-ND\",\"497-14049\"]},{\"Description\":{\"ProductDescription\":\"IC MCU 32BIT 2MB FLASH 100LQFP\",\"DetailedDescription\":\"ARM\u00ae Cortex\u00ae-M4 STM32F4 Microcontroller IC 32-Bit 180MHz 2MB (2M x 8) FLASH 100-LQFP (14x14)\"},\"Manufacturer\":{\"Id\":497,\"Name\":\"STMicroelectronics\"},\"ManufacturerProductNumber\":\"STM32F427VIT6TR\",\"UnitPrice\":14.84,\"ProductUrl\":\"https://www.digikey.com/en/products/detail/stmicroelectronics/STM32F427VIT6TR/7313118\",\"DatasheetUrl\":\"https://www.st.com/resource/en/datasheet/stm32f427ag.pdf\",\"PhotoUrl\":\"https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6249/497%7E1L_ME%7ET%7E100.jpg\",\"ProductVariations\":[{\"DigiKeyProductNumber\":\"497-18790-2-ND\",\"PackageType\":{\"Id\":1,\"Name\":\"Tape & Reel (TR)\"},\"StandardPricing\":[{\"BreakQuantity\":1000,\"UnitPrice\":9.21891,\"TotalPrice\":9218.91000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":497,\"Name\":\"STMicroelectronics\"},\"QuantityAvailableforPackageType\":0,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":1000,\"StandardPackage\":1000,\"DigiReelFee\":0.0},{\"DigiKeyProductNumber\":\"497-18790-1-ND\",\"PackageType\":{\"Id\":2,\"Name\":\"Cut Tape (CT)\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":14.84,\"TotalPrice\":14.84},{\"BreakQuantity\":10,\"UnitPrice\":11.717,\"TotalPrice\":117.170},{\"BreakQuantity\":25,\"UnitPrice\":10.936,\"TotalPrice\":273.400},{\"BreakQuantity\":100,\"UnitPrice\":10.0777,\"TotalPrice\":1007.7700},{\"BreakQuantity\":250,\"UnitPrice\":9.97956,\"TotalPrice\":2494.89000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":497,\"Name\":\"STMicroelectronics\"},\"QuantityAvailableforPackageType\":11,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":1,\"StandardPackage\":1,\"DigiReelFee\":0.0},{\"DigiKeyProductNumber\":\"497-18790-6-ND\",\"PackageType\":{\"Id\":243,\"Name\":\"Digi-Reel\u00ae\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":14.84,\"TotalPrice\":14.84},{\"BreakQuantity\":10,\"UnitPrice\":11.717,\"TotalPrice\":117.170},{\"BreakQuantity\":25,\"UnitPrice\":10.936,\"TotalPrice\":273.400},{\"BreakQuantity\":100,\"UnitPrice\":10.0777,\"TotalPrice\":1007.7700},{\"BreakQuantity\":250,\"UnitPrice\":9.97956,\"TotalPrice\":2494.89000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":497,\"Name\":\"STMicroelectronics\"},\"QuantityAvailableforPackageType\":11,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":1,\"StandardPackage\":1,\"DigiReelFee\":7.0}],\"QuantityAvailable\":11,\"ProductStatus\":{\"Id\":0,\"Status\":\"Active\"},\"BackOrderNotAllowed\":false,\"NormallyStocking\":true,\"Discontinued\":false,\"EndOfLife\":false,\"Ncnr\":false,\"PrimaryVideoUrl\":\"https://www.digikey.com/api/videos/videoplayer/smallplayer/6080749895001\",\"Parameters\":[{\"ParameterId\":2697,\"ParameterText\":\"DigiKey Programmable\",\"ParameterType\":\"String\",\"ValueId\":\"750490\",\"ValueText\":\"Verified\"},{\"ParameterId\":506,\"ParameterText\":\"Core Processor\",\"ParameterType\":\"String\",\"ValueId\":\"314895\",\"ValueText\":\"ARM\u00ae Cortex\u00ae-M4\"},{\"ParameterId\":689,\"ParameterText\":\"Core Size\",\"ParameterType\":\"String\",\"ValueId\":\"188239\",\"ValueText\":\"32-Bit\"},{\"ParameterId\":143,\"ParameterText\":\"Speed\",\"ParameterType\":\"String\",\"ValueId\":\"114552\",\"ValueText\":\"180MHz\"},{\"ParameterId\":1113,\"ParameterText\":\"Connectivity\",\"ParameterType\":\"String\",\"ValueId\":\"800566\",\"ValueText\":\"CANbus, EBI/EMI, Ethernet, I2C, IrDA, LINbus, SPI, UART/USART, USB OTG\"},{\"ParameterId\":1114,\"ParameterText\":\"Peripherals\",\"ParameterType\":\"String\",\"ValueId\":\"801522\",\"ValueText\":\"Brown-out Detect/Reset, DMA, I2S, POR, PWM, WDT\"},{\"ParameterId\":2208,\"ParameterText\":\"Number of I/O\",\"ParameterType\":\"Double\",\"ValueId\":\"82\",\"ValueText\":\"82\"},{\"ParameterId\":155,\"ParameterText\":\"Program Memory Size\",\"ParameterType\":\"String\",\"ValueId\":\"168287\",\"ValueText\":\"2MB (2M x 8)\"},{\"ParameterId\":290,\"ParameterText\":\"Program Memory Type\",\"ParameterType\":\"String\",\"ValueId\":\"347758\",\"ValueText\":\"FLASH\"},{\"ParameterId\":291,\"ParameterText\":\"EEPROM Size\",\"ParameterType\":\"String\",\"ValueId\":\"1\",\"ValueText\":\"-\"},{\"ParameterId\":156,\"ParameterText\":\"RAM Size\",\"ParameterType\":\"String\",\"ValueId\":\"157993\",\"ValueText\":\"256K x 8\"},{\"ParameterId\":1112,\"ParameterText\":\"Voltage - Supply (Vcc/Vdd)\",\"ParameterType\":\"String\",\"ValueId\":\"61308\",\"ValueText\":\"1.8V ~ 3.6V\"},{\"ParameterId\":519,\"ParameterText\":\"Data Converters\",\"ParameterType\":\"String\",\"ValueId\":\"306019\",\"ValueText\":\"A/D 16x12b; D/A 2x12b\"},{\"ParameterId\":283,\"ParameterText\":\"Oscillator Type\",\"ParameterType\":\"String\",\"ValueId\":\"359690\",\"ValueText\":\"Internal\"},{\"ParameterId\":252,\"ParameterText\":\"Operating Temperature\",\"ParameterType\":\"String\",\"ValueId\":\"212621\",\"ValueText\":\"-40\u00b0C ~ 85\u00b0C (TA)\"},{\"ParameterId\":69,\"ParameterText\":\"Mounting Type\",\"ParameterType\":\"String\",\"ValueId\":\"409393\",\"ValueText\":\"Surface Mount\"},{\"ParameterId\":1291,\"ParameterText\":\"Supplier Device Package\",\"ParameterType\":\"String\",\"ValueId\":\"68820\",\"ValueText\":\"100-LQFP (14x14)\"},{\"ParameterId\":16,\"ParameterText\":\"Package / Case\",\"ParameterType\":\"String\",\"ValueId\":\"68818\",\"ValueText\":\"100-LQFP\"}],\"BaseProductNumber\":{\"Id\":111756,\"Name\":\"STM32F427\"},\"Category\":{\"CategoryId\":32,\"ParentId\":0,\"Name\":\"Integrated Circuits (ICs)\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg\",\"SeoDescription\":\"Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.\",\"ChildCategories\":[{\"CategoryId\":2012,\"ParentId\":32,\"Name\":\"Embedded\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/433/524/MFG_MK21DX128VLK5_tmb.jpg\",\"SeoDescription\":\"Embedded systems perform a specific task via software within various applications. Included in this category are programmable logic devices (PLDs), complex programmable logic devices (CPLDs), digital signal processors (DSPs), field programmable gate arrays (FPGAs), microcontollers or microprocessors, system-on-chip (SoC), and more.\",\"ChildCategories\":[{\"CategoryId\":685,\"ParentId\":2012,\"Name\":\"Microcontrollers\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/116/683/28-PDip_tmb.jpg\",\"SeoDescription\":\"Microcontroller products are relatively complex, user-programmable digital logic devices. Closely related to devices considered microprocessors, the distinction between the two reduces largely to the manufacturer's choice of noun, though by tradition microcontrollers integrate working memory, are more likely to incorporate mixed-signal peripherals and tend to be used with simpler software paradigms oriented toward repetitive execution of a predefined series of tasks.\",\"ChildCategories\":[]}]}]},\"DateLastBuyChance\":null,\"ManufacturerLeadWeeks\":\"30\",\"ManufacturerPublicQuantity\":0,\"Series\":{\"Id\":42726,\"Name\":\"STM32F4\"},\"ShippingInfo\":null,\"Classifications\":{\"ReachStatus\":\"REACH Unaffected\",\"RohsStatus\":\"ROHS3 Compliant\",\"MoistureSensitivityLevel\":\"3  (168 Hours)\",\"ExportControlClassNumber\":\"3A991A2\",\"HtsusCode\":\"8542.31.0025\"},\"OtherNames\":[\"STM32F427VIT6TR-ND\",\"497-18790-2\",\"497-18790-1\",\"497-18790-6\"]}],\"ProductsCount\":2,\"ExactMatches\":[{\"Description\":{\"ProductDescription\":\"IC MCU 32BIT 2MB FLASH 100LQFP\",\"DetailedDescription\":\"ARM\u00ae Cortex\u00ae-M4 STM32F4 Microcontroller IC 32-Bit 180MHz 2MB (2M x 8) FLASH 100-LQFP (14x14)\"},\"Manufacturer\":{\"Id\":497,\"Name\":\"STMicroelectronics\"},\"ManufacturerProductNumber\":\"STM32F427VIT6\",\"UnitPrice\":15.73,\"ProductUrl\":\"https://www.digikey.com/en/products/detail/stmicroelectronics/STM32F427VIT6/4357419\",\"DatasheetUrl\":\"https://www.st.com/resource/en/datasheet/stm32f427ag.pdf\",\"PhotoUrl\":\"https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6249/497%7E1L_ME%7ET%7E100.jpg\",\"ProductVariations\":[{\"DigiKeyProductNumber\":\"497-14049-ND\",\"PackageType\":{\"Id\":17,\"Name\":\"Tray\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":15.73,\"TotalPrice\":15.73},{\"BreakQuantity\":10,\"UnitPrice\":12.443,\"TotalPrice\":124.430},{\"BreakQuantity\":24,\"UnitPrice\":11.65333,\"TotalPrice\":279.67992},{\"BreakQuantity\":90,\"UnitPrice\":10.77478,\"TotalPrice\":969.73020},{\"BreakQuantity\":270,\"UnitPrice\":10.25581,\"TotalPrice\":2769.06870},{\"BreakQuantity\":450,\"UnitPrice\":10.064,\"TotalPrice\":4528.800},{\"BreakQuantity\":990,\"UnitPrice\":9.81697,\"TotalPrice\":9718.80030}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":497,\"Name\":\"STMicroelectronics\"},\"QuantityAvailableforPackageType\":225,\"MaxQuantityForDistribution\":0,\"MinimumOrderQuantity\":1,\"StandardPackage\":0,\"DigiReelFee\":0.0}],\"QuantityAvailable\":225,\"ProductStatus\":{\"Id\":0,\"Status\":\"Active\"},\"BackOrderNotAllowed\":false,\"NormallyStocking\":true,\"Discontinued\":false,\"EndOfLife\":false,\"Ncnr\":false,\"PrimaryVideoUrl\":\"https://www.digikey.com/api/videos/videoplayer/smallplayer/6080749895001\",\"Parameters\":[{\"ParameterId\":2697,\"ParameterText\":\"DigiKey Programmable\",\"ParameterType\":\"String\",\"ValueId\":\"750490\",\"ValueText\":\"Verified\"},{\"ParameterId\":506,\"ParameterText\":\"Core Processor\",\"ParameterType\":\"String\",\"ValueId\":\"314895\",\"ValueText\":\"ARM\u00ae Cortex\u00ae-M4\"},{\"ParameterId\":689,\"ParameterText\":\"Core Size\",\"ParameterType\":\"String\",\"ValueId\":\"188239\",\"ValueText\":\"32-Bit\"},{\"ParameterId\":143,\"ParameterText\":\"Speed\",\"ParameterType\":\"String\",\"ValueId\":\"114552\",\"ValueText\":\"180MHz\"},{\"ParameterId\":1113,\"ParameterText\":\"Connectivity\",\"ParameterType\":\"String\",\"ValueId\":\"800566\",\"ValueText\":\"CANbus, EBI/EMI, Ethernet, I2C, IrDA, LINbus, SPI, UART/USART, USB OTG\"},{\"ParameterId\":1114,\"ParameterText\":\"Peripherals\",\"ParameterType\":\"String\",\"ValueId\":\"801522\",\"ValueText\":\"Brown-out Detect/Reset, DMA, I2S, POR, PWM, WDT\"},{\"ParameterId\":2208,\"ParameterText\":\"Number of I/O\",\"ParameterType\":\"Double\",\"ValueId\":\"82\",\"ValueText\":\"82\"},{\"ParameterId\":155,\"ParameterText\":\"Program Memory Size\",\"ParameterType\":\"String\",\"ValueId\":\"168287\",\"ValueText\":\"2MB (2M x 8)\"},{\"ParameterId\":290,\"ParameterText\":\"Program Memory Type\",\"ParameterType\":\"String\",\"ValueId\":\"347758\",\"ValueText\":\"FLASH\"},{\"ParameterId\":291,\"ParameterText\":\"EEPROM Size\",\"ParameterType\":\"String\",\"ValueId\":\"1\",\"ValueText\":\"-\"},{\"ParameterId\":156,\"ParameterText\":\"RAM Size\",\"ParameterType\":\"String\",\"ValueId\":\"157993\",\"ValueText\":\"256K x 8\"},{\"ParameterId\":1112,\"ParameterText\":\"Voltage - Supply (Vcc/Vdd)\",\"ParameterType\":\"String\",\"ValueId\":\"61308\",\"ValueText\":\"1.8V ~ 3.6V\"},{\"ParameterId\":519,\"ParameterText\":\"Data Converters\",\"ParameterType\":\"String\",\"ValueId\":\"306019\",\"ValueText\":\"A/D 16x12b; D/A 2x12b\"},{\"ParameterId\":283,\"ParameterText\":\"Oscillator Type\",\"ParameterType\":\"String\",\"ValueId\":\"359690\",\"ValueText\":\"Internal\"},{\"ParameterId\":252,\"ParameterText\":\"Operating Temperature\",\"ParameterType\":\"String\",\"ValueId\":\"212621\",\"ValueText\":\"-40\u00b0C ~ 85\u00b0C (TA)\"},{\"ParameterId\":69,\"ParameterText\":\"Mounting Type\",\"ParameterType\":\"String\",\"ValueId\":\"409393\",\"ValueText\":\"Surface Mount\"},{\"ParameterId\":1291,\"ParameterText\":\"Supplier Device Package\",\"ParameterType\":\"String\",\"ValueId\":\"68820\",\"ValueText\":\"100-LQFP (14x14)\"},{\"ParameterId\":16,\"ParameterText\":\"Package / Case\",\"ParameterType\":\"String\",\"ValueId\":\"68818\",\"ValueText\":\"100-LQFP\"}],\"BaseProductNumber\":{\"Id\":111756,\"Name\":\"STM32F427\"},\"Category\":{\"CategoryId\":32,\"ParentId\":0,\"Name\":\"Integrated Circuits (ICs)\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg\",\"SeoDescription\":\"Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.\",\"ChildCategories\":[{\"CategoryId\":2012,\"ParentId\":32,\"Name\":\"Embedded\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/433/524/MFG_MK21DX128VLK5_tmb.jpg\",\"SeoDescription\":\"Embedded systems perform a specific task via software within various applications. Included in this category are programmable logic devices (PLDs), complex programmable logic devices (CPLDs), digital signal processors (DSPs), field programmable gate arrays (FPGAs), microcontollers or microprocessors, system-on-chip (SoC), and more.\",\"ChildCategories\":[{\"CategoryId\":685,\"ParentId\":2012,\"Name\":\"Microcontrollers\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/116/683/28-PDip_tmb.jpg\",\"SeoDescription\":\"Microcontroller products are relatively complex, user-programmable digital logic devices. Closely related to devices considered microprocessors, the distinction between the two reduces largely to the manufacturer's choice of noun, though by tradition microcontrollers integrate working memory, are more likely to incorporate mixed-signal peripherals and tend to be used with simpler software paradigms oriented toward repetitive execution of a predefined series of tasks.\",\"ChildCategories\":[]}]}]},\"DateLastBuyChance\":null,\"ManufacturerLeadWeeks\":\"30\",\"ManufacturerPublicQuantity\":0,\"Series\":{\"Id\":42726,\"Name\":\"STM32F4\"},\"ShippingInfo\":null,\"Classifications\":{\"ReachStatus\":\"REACH Unaffected\",\"RohsStatus\":\"ROHS3 Compliant\",\"MoistureSensitivityLevel\":\"3  (168 Hours)\",\"ExportControlClassNumber\":\"3A991A2\",\"HtsusCode\":\"8542.31.0025\"},\"OtherNames\":[\"STM32F427VIT6-ND\",\"497-14049\"]}],\"FilterOptions\":{\"Manufacturers\":[{\"Id\":497,\"Value\":\"STMicroelectronics\",\"ProductCount\":2}],\"Packaging\":[{\"Id\":2,\"Value\":\"Cut Tape (CT)\",\"ProductCount\":1},{\"Id\":243,\"Value\":\"Digi-Reel\u00ae\",\"ProductCount\":1},{\"Id\":1,\"Value\":\"Tape & Reel (TR)\",\"ProductCount\":1},{\"Id\":17,\"Value\":\"Tray\",\"ProductCount\":1}],\"Status\":[{\"Id\":0,\"Value\":\"Active\",\"ProductCount\":2}],\"Series\":[{\"Id\":42726,\"Value\":\"STM32F4\",\"ProductCount\":2}],\"ParametricFilters\":[{\"Category\":{\"Id\":685,\"Value\":\"Microcontrollers\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":2697,\"ParameterName\":\"DigiKey Programmable\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"750490\",\"ValueName\":\"Verified\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":685,\"Value\":\"Microcontrollers\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":506,\"ParameterName\":\"Core Processor\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"314895\",\"ValueName\":\"ARM\u00ae Cortex\u00ae-M4\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":685,\"Value\":\"Microcontrollers\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":689,\"ParameterName\":\"Core Size\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"188239\",\"ValueName\":\"32-Bit\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":685,\"Value\":\"Microcontrollers\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":143,\"ParameterName\":\"Speed\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"114552\",\"ValueName\":\"180MHz\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":685,\"Value\":\"Microcontrollers\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":1113,\"ParameterName\":\"Connectivity\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"800566\",\"ValueName\":\"CANbus, EBI/EMI, Ethernet, I2C, IrDA, LINbus, SPI, UART/USART, USB OTG\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":685,\"Value\":\"Microcontrollers\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":1114,\"ParameterName\":\"Peripherals\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"801522\",\"ValueName\":\"Brown-out Detect/Reset, DMA, I2S, POR, PWM, WDT\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":685,\"Value\":\"Microcontrollers\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":2208,\"ParameterName\":\"Number of I/O\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"82\",\"ValueName\":\"82\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":685,\"Value\":\"Microcontrollers\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":155,\"ParameterName\":\"Program Memory Size\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"168287\",\"ValueName\":\"2MB (2M x 8)\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":685,\"Value\":\"Microcontrollers\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":290,\"ParameterName\":\"Program Memory Type\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"347758\",\"ValueName\":\"FLASH\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":685,\"Value\":\"Microcontrollers\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":291,\"ParameterName\":\"EEPROM Size\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"1\",\"ValueName\":\"-\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":685,\"Value\":\"Microcontrollers\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":156,\"ParameterName\":\"RAM Size\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"157993\",\"ValueName\":\"256K x 8\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":685,\"Value\":\"Microcontrollers\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":1112,\"ParameterName\":\"Voltage - Supply (Vcc/Vdd)\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"61308\",\"ValueName\":\"1.8V ~ 3.6V\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":685,\"Value\":\"Microcontrollers\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":519,\"ParameterName\":\"Data Converters\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"306019\",\"ValueName\":\"A/D 16x12b; D/A 2x12b\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":685,\"Value\":\"Microcontrollers\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":283,\"ParameterName\":\"Oscillator Type\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"359690\",\"ValueName\":\"Internal\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":685,\"Value\":\"Microcontrollers\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":252,\"ParameterName\":\"Operating Temperature\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"212621\",\"ValueName\":\"-40\u00b0C ~ 85\u00b0C (TA)\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":685,\"Value\":\"Microcontrollers\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":69,\"ParameterName\":\"Mounting Type\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"409393\",\"ValueName\":\"Surface Mount\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":685,\"Value\":\"Microcontrollers\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":1291,\"ParameterName\":\"Supplier Device Package\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"68820\",\"ValueName\":\"100-LQFP (14x14)\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":685,\"Value\":\"Microcontrollers\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":16,\"ParameterName\":\"Package / Case\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"68818\",\"ValueName\":\"100-LQFP\",\"RangeFilterType\":null}]}],\"TopCategories\":null,\"MarketPlaceFilters\":null},\"SearchLocaleUsed\":{\"Site\":\"US\",\"Language\":\"en\",\"Currency\":\"USD\"},\"AppliedParametricFiltersDto\":[]}",
+    "response_json": {
+        "Products": [
+            {
+                "Description": {
+                    "ProductDescription": "IC MCU 32BIT 2MB FLASH 100LQFP",
+                    "DetailedDescription": "ARM\u00ae Cortex\u00ae-M4 STM32F4 Microcontroller IC 32-Bit 180MHz 2MB (2M x 8) FLASH 100-LQFP (14x14)"
+                },
+                "Manufacturer": {
+                    "Id": 497,
+                    "Name": "STMicroelectronics"
+                },
+                "ManufacturerProductNumber": "STM32F427VIT6",
+                "UnitPrice": 15.73,
+                "ProductUrl": "https://www.digikey.com/en/products/detail/stmicroelectronics/STM32F427VIT6/4357419",
+                "DatasheetUrl": "https://www.st.com/resource/en/datasheet/stm32f427ag.pdf",
+                "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6249/497%7E1L_ME%7ET%7E100.jpg",
+                "ProductVariations": [
+                    {
+                        "DigiKeyProductNumber": "497-14049-ND",
+                        "PackageType": {
+                            "Id": 17,
+                            "Name": "Tray"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 15.73,
+                                "TotalPrice": 15.73
+                            },
+                            {
+                                "BreakQuantity": 10,
+                                "UnitPrice": 12.443,
+                                "TotalPrice": 124.43
+                            },
+                            {
+                                "BreakQuantity": 24,
+                                "UnitPrice": 11.65333,
+                                "TotalPrice": 279.67992
+                            },
+                            {
+                                "BreakQuantity": 90,
+                                "UnitPrice": 10.77478,
+                                "TotalPrice": 969.7302
+                            },
+                            {
+                                "BreakQuantity": 270,
+                                "UnitPrice": 10.25581,
+                                "TotalPrice": 2769.0687
+                            },
+                            {
+                                "BreakQuantity": 450,
+                                "UnitPrice": 10.064,
+                                "TotalPrice": 4528.8
+                            },
+                            {
+                                "BreakQuantity": 990,
+                                "UnitPrice": 9.81697,
+                                "TotalPrice": 9718.8003
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 497,
+                            "Name": "STMicroelectronics"
+                        },
+                        "QuantityAvailableforPackageType": 225,
+                        "MaxQuantityForDistribution": 0,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 0,
+                        "DigiReelFee": 0.0
+                    }
+                ],
+                "QuantityAvailable": 225,
+                "ProductStatus": {
+                    "Id": 0,
+                    "Status": "Active"
+                },
+                "BackOrderNotAllowed": false,
+                "NormallyStocking": true,
+                "Discontinued": false,
+                "EndOfLife": false,
+                "Ncnr": false,
+                "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6080749895001",
+                "Parameters": [
+                    {
+                        "ParameterId": 2697,
+                        "ParameterText": "DigiKey Programmable",
+                        "ParameterType": "String",
+                        "ValueId": "750490",
+                        "ValueText": "Verified"
+                    },
+                    {
+                        "ParameterId": 506,
+                        "ParameterText": "Core Processor",
+                        "ParameterType": "String",
+                        "ValueId": "314895",
+                        "ValueText": "ARM\u00ae Cortex\u00ae-M4"
+                    },
+                    {
+                        "ParameterId": 689,
+                        "ParameterText": "Core Size",
+                        "ParameterType": "String",
+                        "ValueId": "188239",
+                        "ValueText": "32-Bit"
+                    },
+                    {
+                        "ParameterId": 143,
+                        "ParameterText": "Speed",
+                        "ParameterType": "String",
+                        "ValueId": "114552",
+                        "ValueText": "180MHz"
+                    },
+                    {
+                        "ParameterId": 1113,
+                        "ParameterText": "Connectivity",
+                        "ParameterType": "String",
+                        "ValueId": "800566",
+                        "ValueText": "CANbus, EBI/EMI, Ethernet, I2C, IrDA, LINbus, SPI, UART/USART, USB OTG"
+                    },
+                    {
+                        "ParameterId": 1114,
+                        "ParameterText": "Peripherals",
+                        "ParameterType": "String",
+                        "ValueId": "801522",
+                        "ValueText": "Brown-out Detect/Reset, DMA, I2S, POR, PWM, WDT"
+                    },
+                    {
+                        "ParameterId": 2208,
+                        "ParameterText": "Number of I/O",
+                        "ParameterType": "Double",
+                        "ValueId": "82",
+                        "ValueText": "82"
+                    },
+                    {
+                        "ParameterId": 155,
+                        "ParameterText": "Program Memory Size",
+                        "ParameterType": "String",
+                        "ValueId": "168287",
+                        "ValueText": "2MB (2M x 8)"
+                    },
+                    {
+                        "ParameterId": 290,
+                        "ParameterText": "Program Memory Type",
+                        "ParameterType": "String",
+                        "ValueId": "347758",
+                        "ValueText": "FLASH"
+                    },
+                    {
+                        "ParameterId": 291,
+                        "ParameterText": "EEPROM Size",
+                        "ParameterType": "String",
+                        "ValueId": "1",
+                        "ValueText": "-"
+                    },
+                    {
+                        "ParameterId": 156,
+                        "ParameterText": "RAM Size",
+                        "ParameterType": "String",
+                        "ValueId": "157993",
+                        "ValueText": "256K x 8"
+                    },
+                    {
+                        "ParameterId": 1112,
+                        "ParameterText": "Voltage - Supply (Vcc/Vdd)",
+                        "ParameterType": "String",
+                        "ValueId": "61308",
+                        "ValueText": "1.8V ~ 3.6V"
+                    },
+                    {
+                        "ParameterId": 519,
+                        "ParameterText": "Data Converters",
+                        "ParameterType": "String",
+                        "ValueId": "306019",
+                        "ValueText": "A/D 16x12b; D/A 2x12b"
+                    },
+                    {
+                        "ParameterId": 283,
+                        "ParameterText": "Oscillator Type",
+                        "ParameterType": "String",
+                        "ValueId": "359690",
+                        "ValueText": "Internal"
+                    },
+                    {
+                        "ParameterId": 252,
+                        "ParameterText": "Operating Temperature",
+                        "ParameterType": "String",
+                        "ValueId": "212621",
+                        "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+                    },
+                    {
+                        "ParameterId": 69,
+                        "ParameterText": "Mounting Type",
+                        "ParameterType": "String",
+                        "ValueId": "409393",
+                        "ValueText": "Surface Mount"
+                    },
+                    {
+                        "ParameterId": 1291,
+                        "ParameterText": "Supplier Device Package",
+                        "ParameterType": "String",
+                        "ValueId": "68820",
+                        "ValueText": "100-LQFP (14x14)"
+                    },
+                    {
+                        "ParameterId": 16,
+                        "ParameterText": "Package / Case",
+                        "ParameterType": "String",
+                        "ValueId": "68818",
+                        "ValueText": "100-LQFP"
+                    }
+                ],
+                "BaseProductNumber": {
+                    "Id": 111756,
+                    "Name": "STM32F427"
+                },
+                "Category": {
+                    "CategoryId": 32,
+                    "ParentId": 0,
+                    "Name": "Integrated Circuits (ICs)",
+                    "ProductCount": 0,
+                    "NewProductCount": 0,
+                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+                    "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+                    "ChildCategories": [
+                        {
+                            "CategoryId": 2012,
+                            "ParentId": 32,
+                            "Name": "Embedded",
+                            "ProductCount": 0,
+                            "NewProductCount": 0,
+                            "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/433/524/MFG_MK21DX128VLK5_tmb.jpg",
+                            "SeoDescription": "Embedded systems perform a specific task via software within various applications. Included in this category are programmable logic devices (PLDs), complex programmable logic devices (CPLDs), digital signal processors (DSPs), field programmable gate arrays (FPGAs), microcontollers or microprocessors, system-on-chip (SoC), and more.",
+                            "ChildCategories": [
+                                {
+                                    "CategoryId": 685,
+                                    "ParentId": 2012,
+                                    "Name": "Microcontrollers",
+                                    "ProductCount": 0,
+                                    "NewProductCount": 0,
+                                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/116/683/28-PDip_tmb.jpg",
+                                    "SeoDescription": "Microcontroller products are relatively complex, user-programmable digital logic devices. Closely related to devices considered microprocessors, the distinction between the two reduces largely to the manufacturer's choice of noun, though by tradition microcontrollers integrate working memory, are more likely to incorporate mixed-signal peripherals and tend to be used with simpler software paradigms oriented toward repetitive execution of a predefined series of tasks.",
+                                    "ChildCategories": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "DateLastBuyChance": null,
+                "ManufacturerLeadWeeks": "30",
+                "ManufacturerPublicQuantity": 0,
+                "Series": {
+                    "Id": 42726,
+                    "Name": "STM32F4"
+                },
+                "ShippingInfo": null,
+                "Classifications": {
+                    "ReachStatus": "REACH Unaffected",
+                    "RohsStatus": "ROHS3 Compliant",
+                    "MoistureSensitivityLevel": "3  (168 Hours)",
+                    "ExportControlClassNumber": "3A991A2",
+                    "HtsusCode": "8542.31.0025"
+                },
+                "OtherNames": [
+                    "STM32F427VIT6-ND",
+                    "497-14049"
+                ]
+            },
+            {
+                "Description": {
+                    "ProductDescription": "IC MCU 32BIT 2MB FLASH 100LQFP",
+                    "DetailedDescription": "ARM\u00ae Cortex\u00ae-M4 STM32F4 Microcontroller IC 32-Bit 180MHz 2MB (2M x 8) FLASH 100-LQFP (14x14)"
+                },
+                "Manufacturer": {
+                    "Id": 497,
+                    "Name": "STMicroelectronics"
+                },
+                "ManufacturerProductNumber": "STM32F427VIT6TR",
+                "UnitPrice": 14.84,
+                "ProductUrl": "https://www.digikey.com/en/products/detail/stmicroelectronics/STM32F427VIT6TR/7313118",
+                "DatasheetUrl": "https://www.st.com/resource/en/datasheet/stm32f427ag.pdf",
+                "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6249/497%7E1L_ME%7ET%7E100.jpg",
+                "ProductVariations": [
+                    {
+                        "DigiKeyProductNumber": "497-18790-2-ND",
+                        "PackageType": {
+                            "Id": 1,
+                            "Name": "Tape & Reel (TR)"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1000,
+                                "UnitPrice": 9.21891,
+                                "TotalPrice": 9218.91
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 497,
+                            "Name": "STMicroelectronics"
+                        },
+                        "QuantityAvailableforPackageType": 0,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 1000,
+                        "StandardPackage": 1000,
+                        "DigiReelFee": 0.0
+                    },
+                    {
+                        "DigiKeyProductNumber": "497-18790-1-ND",
+                        "PackageType": {
+                            "Id": 2,
+                            "Name": "Cut Tape (CT)"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 14.84,
+                                "TotalPrice": 14.84
+                            },
+                            {
+                                "BreakQuantity": 10,
+                                "UnitPrice": 11.717,
+                                "TotalPrice": 117.17
+                            },
+                            {
+                                "BreakQuantity": 25,
+                                "UnitPrice": 10.936,
+                                "TotalPrice": 273.4
+                            },
+                            {
+                                "BreakQuantity": 100,
+                                "UnitPrice": 10.0777,
+                                "TotalPrice": 1007.77
+                            },
+                            {
+                                "BreakQuantity": 250,
+                                "UnitPrice": 9.97956,
+                                "TotalPrice": 2494.89
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 497,
+                            "Name": "STMicroelectronics"
+                        },
+                        "QuantityAvailableforPackageType": 11,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 1,
+                        "DigiReelFee": 0.0
+                    },
+                    {
+                        "DigiKeyProductNumber": "497-18790-6-ND",
+                        "PackageType": {
+                            "Id": 243,
+                            "Name": "Digi-Reel\u00ae"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 14.84,
+                                "TotalPrice": 14.84
+                            },
+                            {
+                                "BreakQuantity": 10,
+                                "UnitPrice": 11.717,
+                                "TotalPrice": 117.17
+                            },
+                            {
+                                "BreakQuantity": 25,
+                                "UnitPrice": 10.936,
+                                "TotalPrice": 273.4
+                            },
+                            {
+                                "BreakQuantity": 100,
+                                "UnitPrice": 10.0777,
+                                "TotalPrice": 1007.77
+                            },
+                            {
+                                "BreakQuantity": 250,
+                                "UnitPrice": 9.97956,
+                                "TotalPrice": 2494.89
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 497,
+                            "Name": "STMicroelectronics"
+                        },
+                        "QuantityAvailableforPackageType": 11,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 1,
+                        "DigiReelFee": 7.0
+                    }
+                ],
+                "QuantityAvailable": 11,
+                "ProductStatus": {
+                    "Id": 0,
+                    "Status": "Active"
+                },
+                "BackOrderNotAllowed": false,
+                "NormallyStocking": true,
+                "Discontinued": false,
+                "EndOfLife": false,
+                "Ncnr": false,
+                "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6080749895001",
+                "Parameters": [
+                    {
+                        "ParameterId": 2697,
+                        "ParameterText": "DigiKey Programmable",
+                        "ParameterType": "String",
+                        "ValueId": "750490",
+                        "ValueText": "Verified"
+                    },
+                    {
+                        "ParameterId": 506,
+                        "ParameterText": "Core Processor",
+                        "ParameterType": "String",
+                        "ValueId": "314895",
+                        "ValueText": "ARM\u00ae Cortex\u00ae-M4"
+                    },
+                    {
+                        "ParameterId": 689,
+                        "ParameterText": "Core Size",
+                        "ParameterType": "String",
+                        "ValueId": "188239",
+                        "ValueText": "32-Bit"
+                    },
+                    {
+                        "ParameterId": 143,
+                        "ParameterText": "Speed",
+                        "ParameterType": "String",
+                        "ValueId": "114552",
+                        "ValueText": "180MHz"
+                    },
+                    {
+                        "ParameterId": 1113,
+                        "ParameterText": "Connectivity",
+                        "ParameterType": "String",
+                        "ValueId": "800566",
+                        "ValueText": "CANbus, EBI/EMI, Ethernet, I2C, IrDA, LINbus, SPI, UART/USART, USB OTG"
+                    },
+                    {
+                        "ParameterId": 1114,
+                        "ParameterText": "Peripherals",
+                        "ParameterType": "String",
+                        "ValueId": "801522",
+                        "ValueText": "Brown-out Detect/Reset, DMA, I2S, POR, PWM, WDT"
+                    },
+                    {
+                        "ParameterId": 2208,
+                        "ParameterText": "Number of I/O",
+                        "ParameterType": "Double",
+                        "ValueId": "82",
+                        "ValueText": "82"
+                    },
+                    {
+                        "ParameterId": 155,
+                        "ParameterText": "Program Memory Size",
+                        "ParameterType": "String",
+                        "ValueId": "168287",
+                        "ValueText": "2MB (2M x 8)"
+                    },
+                    {
+                        "ParameterId": 290,
+                        "ParameterText": "Program Memory Type",
+                        "ParameterType": "String",
+                        "ValueId": "347758",
+                        "ValueText": "FLASH"
+                    },
+                    {
+                        "ParameterId": 291,
+                        "ParameterText": "EEPROM Size",
+                        "ParameterType": "String",
+                        "ValueId": "1",
+                        "ValueText": "-"
+                    },
+                    {
+                        "ParameterId": 156,
+                        "ParameterText": "RAM Size",
+                        "ParameterType": "String",
+                        "ValueId": "157993",
+                        "ValueText": "256K x 8"
+                    },
+                    {
+                        "ParameterId": 1112,
+                        "ParameterText": "Voltage - Supply (Vcc/Vdd)",
+                        "ParameterType": "String",
+                        "ValueId": "61308",
+                        "ValueText": "1.8V ~ 3.6V"
+                    },
+                    {
+                        "ParameterId": 519,
+                        "ParameterText": "Data Converters",
+                        "ParameterType": "String",
+                        "ValueId": "306019",
+                        "ValueText": "A/D 16x12b; D/A 2x12b"
+                    },
+                    {
+                        "ParameterId": 283,
+                        "ParameterText": "Oscillator Type",
+                        "ParameterType": "String",
+                        "ValueId": "359690",
+                        "ValueText": "Internal"
+                    },
+                    {
+                        "ParameterId": 252,
+                        "ParameterText": "Operating Temperature",
+                        "ParameterType": "String",
+                        "ValueId": "212621",
+                        "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+                    },
+                    {
+                        "ParameterId": 69,
+                        "ParameterText": "Mounting Type",
+                        "ParameterType": "String",
+                        "ValueId": "409393",
+                        "ValueText": "Surface Mount"
+                    },
+                    {
+                        "ParameterId": 1291,
+                        "ParameterText": "Supplier Device Package",
+                        "ParameterType": "String",
+                        "ValueId": "68820",
+                        "ValueText": "100-LQFP (14x14)"
+                    },
+                    {
+                        "ParameterId": 16,
+                        "ParameterText": "Package / Case",
+                        "ParameterType": "String",
+                        "ValueId": "68818",
+                        "ValueText": "100-LQFP"
+                    }
+                ],
+                "BaseProductNumber": {
+                    "Id": 111756,
+                    "Name": "STM32F427"
+                },
+                "Category": {
+                    "CategoryId": 32,
+                    "ParentId": 0,
+                    "Name": "Integrated Circuits (ICs)",
+                    "ProductCount": 0,
+                    "NewProductCount": 0,
+                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+                    "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+                    "ChildCategories": [
+                        {
+                            "CategoryId": 2012,
+                            "ParentId": 32,
+                            "Name": "Embedded",
+                            "ProductCount": 0,
+                            "NewProductCount": 0,
+                            "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/433/524/MFG_MK21DX128VLK5_tmb.jpg",
+                            "SeoDescription": "Embedded systems perform a specific task via software within various applications. Included in this category are programmable logic devices (PLDs), complex programmable logic devices (CPLDs), digital signal processors (DSPs), field programmable gate arrays (FPGAs), microcontollers or microprocessors, system-on-chip (SoC), and more.",
+                            "ChildCategories": [
+                                {
+                                    "CategoryId": 685,
+                                    "ParentId": 2012,
+                                    "Name": "Microcontrollers",
+                                    "ProductCount": 0,
+                                    "NewProductCount": 0,
+                                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/116/683/28-PDip_tmb.jpg",
+                                    "SeoDescription": "Microcontroller products are relatively complex, user-programmable digital logic devices. Closely related to devices considered microprocessors, the distinction between the two reduces largely to the manufacturer's choice of noun, though by tradition microcontrollers integrate working memory, are more likely to incorporate mixed-signal peripherals and tend to be used with simpler software paradigms oriented toward repetitive execution of a predefined series of tasks.",
+                                    "ChildCategories": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "DateLastBuyChance": null,
+                "ManufacturerLeadWeeks": "30",
+                "ManufacturerPublicQuantity": 0,
+                "Series": {
+                    "Id": 42726,
+                    "Name": "STM32F4"
+                },
+                "ShippingInfo": null,
+                "Classifications": {
+                    "ReachStatus": "REACH Unaffected",
+                    "RohsStatus": "ROHS3 Compliant",
+                    "MoistureSensitivityLevel": "3  (168 Hours)",
+                    "ExportControlClassNumber": "3A991A2",
+                    "HtsusCode": "8542.31.0025"
+                },
+                "OtherNames": [
+                    "STM32F427VIT6TR-ND",
+                    "497-18790-2",
+                    "497-18790-1",
+                    "497-18790-6"
+                ]
+            }
+        ],
+        "ProductsCount": 2,
+        "ExactMatches": [
+            {
+                "Description": {
+                    "ProductDescription": "IC MCU 32BIT 2MB FLASH 100LQFP",
+                    "DetailedDescription": "ARM\u00ae Cortex\u00ae-M4 STM32F4 Microcontroller IC 32-Bit 180MHz 2MB (2M x 8) FLASH 100-LQFP (14x14)"
+                },
+                "Manufacturer": {
+                    "Id": 497,
+                    "Name": "STMicroelectronics"
+                },
+                "ManufacturerProductNumber": "STM32F427VIT6",
+                "UnitPrice": 15.73,
+                "ProductUrl": "https://www.digikey.com/en/products/detail/stmicroelectronics/STM32F427VIT6/4357419",
+                "DatasheetUrl": "https://www.st.com/resource/en/datasheet/stm32f427ag.pdf",
+                "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6249/497%7E1L_ME%7ET%7E100.jpg",
+                "ProductVariations": [
+                    {
+                        "DigiKeyProductNumber": "497-14049-ND",
+                        "PackageType": {
+                            "Id": 17,
+                            "Name": "Tray"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 15.73,
+                                "TotalPrice": 15.73
+                            },
+                            {
+                                "BreakQuantity": 10,
+                                "UnitPrice": 12.443,
+                                "TotalPrice": 124.43
+                            },
+                            {
+                                "BreakQuantity": 24,
+                                "UnitPrice": 11.65333,
+                                "TotalPrice": 279.67992
+                            },
+                            {
+                                "BreakQuantity": 90,
+                                "UnitPrice": 10.77478,
+                                "TotalPrice": 969.7302
+                            },
+                            {
+                                "BreakQuantity": 270,
+                                "UnitPrice": 10.25581,
+                                "TotalPrice": 2769.0687
+                            },
+                            {
+                                "BreakQuantity": 450,
+                                "UnitPrice": 10.064,
+                                "TotalPrice": 4528.8
+                            },
+                            {
+                                "BreakQuantity": 990,
+                                "UnitPrice": 9.81697,
+                                "TotalPrice": 9718.8003
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 497,
+                            "Name": "STMicroelectronics"
+                        },
+                        "QuantityAvailableforPackageType": 225,
+                        "MaxQuantityForDistribution": 0,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 0,
+                        "DigiReelFee": 0.0
+                    }
+                ],
+                "QuantityAvailable": 225,
+                "ProductStatus": {
+                    "Id": 0,
+                    "Status": "Active"
+                },
+                "BackOrderNotAllowed": false,
+                "NormallyStocking": true,
+                "Discontinued": false,
+                "EndOfLife": false,
+                "Ncnr": false,
+                "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6080749895001",
+                "Parameters": [
+                    {
+                        "ParameterId": 2697,
+                        "ParameterText": "DigiKey Programmable",
+                        "ParameterType": "String",
+                        "ValueId": "750490",
+                        "ValueText": "Verified"
+                    },
+                    {
+                        "ParameterId": 506,
+                        "ParameterText": "Core Processor",
+                        "ParameterType": "String",
+                        "ValueId": "314895",
+                        "ValueText": "ARM\u00ae Cortex\u00ae-M4"
+                    },
+                    {
+                        "ParameterId": 689,
+                        "ParameterText": "Core Size",
+                        "ParameterType": "String",
+                        "ValueId": "188239",
+                        "ValueText": "32-Bit"
+                    },
+                    {
+                        "ParameterId": 143,
+                        "ParameterText": "Speed",
+                        "ParameterType": "String",
+                        "ValueId": "114552",
+                        "ValueText": "180MHz"
+                    },
+                    {
+                        "ParameterId": 1113,
+                        "ParameterText": "Connectivity",
+                        "ParameterType": "String",
+                        "ValueId": "800566",
+                        "ValueText": "CANbus, EBI/EMI, Ethernet, I2C, IrDA, LINbus, SPI, UART/USART, USB OTG"
+                    },
+                    {
+                        "ParameterId": 1114,
+                        "ParameterText": "Peripherals",
+                        "ParameterType": "String",
+                        "ValueId": "801522",
+                        "ValueText": "Brown-out Detect/Reset, DMA, I2S, POR, PWM, WDT"
+                    },
+                    {
+                        "ParameterId": 2208,
+                        "ParameterText": "Number of I/O",
+                        "ParameterType": "Double",
+                        "ValueId": "82",
+                        "ValueText": "82"
+                    },
+                    {
+                        "ParameterId": 155,
+                        "ParameterText": "Program Memory Size",
+                        "ParameterType": "String",
+                        "ValueId": "168287",
+                        "ValueText": "2MB (2M x 8)"
+                    },
+                    {
+                        "ParameterId": 290,
+                        "ParameterText": "Program Memory Type",
+                        "ParameterType": "String",
+                        "ValueId": "347758",
+                        "ValueText": "FLASH"
+                    },
+                    {
+                        "ParameterId": 291,
+                        "ParameterText": "EEPROM Size",
+                        "ParameterType": "String",
+                        "ValueId": "1",
+                        "ValueText": "-"
+                    },
+                    {
+                        "ParameterId": 156,
+                        "ParameterText": "RAM Size",
+                        "ParameterType": "String",
+                        "ValueId": "157993",
+                        "ValueText": "256K x 8"
+                    },
+                    {
+                        "ParameterId": 1112,
+                        "ParameterText": "Voltage - Supply (Vcc/Vdd)",
+                        "ParameterType": "String",
+                        "ValueId": "61308",
+                        "ValueText": "1.8V ~ 3.6V"
+                    },
+                    {
+                        "ParameterId": 519,
+                        "ParameterText": "Data Converters",
+                        "ParameterType": "String",
+                        "ValueId": "306019",
+                        "ValueText": "A/D 16x12b; D/A 2x12b"
+                    },
+                    {
+                        "ParameterId": 283,
+                        "ParameterText": "Oscillator Type",
+                        "ParameterType": "String",
+                        "ValueId": "359690",
+                        "ValueText": "Internal"
+                    },
+                    {
+                        "ParameterId": 252,
+                        "ParameterText": "Operating Temperature",
+                        "ParameterType": "String",
+                        "ValueId": "212621",
+                        "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+                    },
+                    {
+                        "ParameterId": 69,
+                        "ParameterText": "Mounting Type",
+                        "ParameterType": "String",
+                        "ValueId": "409393",
+                        "ValueText": "Surface Mount"
+                    },
+                    {
+                        "ParameterId": 1291,
+                        "ParameterText": "Supplier Device Package",
+                        "ParameterType": "String",
+                        "ValueId": "68820",
+                        "ValueText": "100-LQFP (14x14)"
+                    },
+                    {
+                        "ParameterId": 16,
+                        "ParameterText": "Package / Case",
+                        "ParameterType": "String",
+                        "ValueId": "68818",
+                        "ValueText": "100-LQFP"
+                    }
+                ],
+                "BaseProductNumber": {
+                    "Id": 111756,
+                    "Name": "STM32F427"
+                },
+                "Category": {
+                    "CategoryId": 32,
+                    "ParentId": 0,
+                    "Name": "Integrated Circuits (ICs)",
+                    "ProductCount": 0,
+                    "NewProductCount": 0,
+                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+                    "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+                    "ChildCategories": [
+                        {
+                            "CategoryId": 2012,
+                            "ParentId": 32,
+                            "Name": "Embedded",
+                            "ProductCount": 0,
+                            "NewProductCount": 0,
+                            "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/433/524/MFG_MK21DX128VLK5_tmb.jpg",
+                            "SeoDescription": "Embedded systems perform a specific task via software within various applications. Included in this category are programmable logic devices (PLDs), complex programmable logic devices (CPLDs), digital signal processors (DSPs), field programmable gate arrays (FPGAs), microcontollers or microprocessors, system-on-chip (SoC), and more.",
+                            "ChildCategories": [
+                                {
+                                    "CategoryId": 685,
+                                    "ParentId": 2012,
+                                    "Name": "Microcontrollers",
+                                    "ProductCount": 0,
+                                    "NewProductCount": 0,
+                                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/116/683/28-PDip_tmb.jpg",
+                                    "SeoDescription": "Microcontroller products are relatively complex, user-programmable digital logic devices. Closely related to devices considered microprocessors, the distinction between the two reduces largely to the manufacturer's choice of noun, though by tradition microcontrollers integrate working memory, are more likely to incorporate mixed-signal peripherals and tend to be used with simpler software paradigms oriented toward repetitive execution of a predefined series of tasks.",
+                                    "ChildCategories": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "DateLastBuyChance": null,
+                "ManufacturerLeadWeeks": "30",
+                "ManufacturerPublicQuantity": 0,
+                "Series": {
+                    "Id": 42726,
+                    "Name": "STM32F4"
+                },
+                "ShippingInfo": null,
+                "Classifications": {
+                    "ReachStatus": "REACH Unaffected",
+                    "RohsStatus": "ROHS3 Compliant",
+                    "MoistureSensitivityLevel": "3  (168 Hours)",
+                    "ExportControlClassNumber": "3A991A2",
+                    "HtsusCode": "8542.31.0025"
+                },
+                "OtherNames": [
+                    "STM32F427VIT6-ND",
+                    "497-14049"
+                ]
+            }
+        ],
+        "FilterOptions": {
+            "Manufacturers": [
+                {
+                    "Id": 497,
+                    "Value": "STMicroelectronics",
+                    "ProductCount": 2
+                }
+            ],
+            "Packaging": [
+                {
+                    "Id": 2,
+                    "Value": "Cut Tape (CT)",
+                    "ProductCount": 1
+                },
+                {
+                    "Id": 243,
+                    "Value": "Digi-Reel\u00ae",
+                    "ProductCount": 1
+                },
+                {
+                    "Id": 1,
+                    "Value": "Tape & Reel (TR)",
+                    "ProductCount": 1
+                },
+                {
+                    "Id": 17,
+                    "Value": "Tray",
+                    "ProductCount": 1
+                }
+            ],
+            "Status": [
+                {
+                    "Id": 0,
+                    "Value": "Active",
+                    "ProductCount": 2
+                }
+            ],
+            "Series": [
+                {
+                    "Id": 42726,
+                    "Value": "STM32F4",
+                    "ProductCount": 2
+                }
+            ],
+            "ParametricFilters": [
+                {
+                    "Category": {
+                        "Id": 685,
+                        "Value": "Microcontrollers",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 2697,
+                    "ParameterName": "DigiKey Programmable",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "750490",
+                            "ValueName": "Verified",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 685,
+                        "Value": "Microcontrollers",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 506,
+                    "ParameterName": "Core Processor",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "314895",
+                            "ValueName": "ARM\u00ae Cortex\u00ae-M4",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 685,
+                        "Value": "Microcontrollers",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 689,
+                    "ParameterName": "Core Size",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "188239",
+                            "ValueName": "32-Bit",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 685,
+                        "Value": "Microcontrollers",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 143,
+                    "ParameterName": "Speed",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "114552",
+                            "ValueName": "180MHz",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 685,
+                        "Value": "Microcontrollers",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 1113,
+                    "ParameterName": "Connectivity",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "800566",
+                            "ValueName": "CANbus, EBI/EMI, Ethernet, I2C, IrDA, LINbus, SPI, UART/USART, USB OTG",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 685,
+                        "Value": "Microcontrollers",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 1114,
+                    "ParameterName": "Peripherals",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "801522",
+                            "ValueName": "Brown-out Detect/Reset, DMA, I2S, POR, PWM, WDT",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 685,
+                        "Value": "Microcontrollers",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 2208,
+                    "ParameterName": "Number of I/O",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "82",
+                            "ValueName": "82",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 685,
+                        "Value": "Microcontrollers",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 155,
+                    "ParameterName": "Program Memory Size",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "168287",
+                            "ValueName": "2MB (2M x 8)",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 685,
+                        "Value": "Microcontrollers",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 290,
+                    "ParameterName": "Program Memory Type",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "347758",
+                            "ValueName": "FLASH",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 685,
+                        "Value": "Microcontrollers",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 291,
+                    "ParameterName": "EEPROM Size",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "1",
+                            "ValueName": "-",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 685,
+                        "Value": "Microcontrollers",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 156,
+                    "ParameterName": "RAM Size",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "157993",
+                            "ValueName": "256K x 8",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 685,
+                        "Value": "Microcontrollers",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 1112,
+                    "ParameterName": "Voltage - Supply (Vcc/Vdd)",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "61308",
+                            "ValueName": "1.8V ~ 3.6V",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 685,
+                        "Value": "Microcontrollers",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 519,
+                    "ParameterName": "Data Converters",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "306019",
+                            "ValueName": "A/D 16x12b; D/A 2x12b",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 685,
+                        "Value": "Microcontrollers",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 283,
+                    "ParameterName": "Oscillator Type",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "359690",
+                            "ValueName": "Internal",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 685,
+                        "Value": "Microcontrollers",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 252,
+                    "ParameterName": "Operating Temperature",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "212621",
+                            "ValueName": "-40\u00b0C ~ 85\u00b0C (TA)",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 685,
+                        "Value": "Microcontrollers",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 69,
+                    "ParameterName": "Mounting Type",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "409393",
+                            "ValueName": "Surface Mount",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 685,
+                        "Value": "Microcontrollers",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 1291,
+                    "ParameterName": "Supplier Device Package",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "68820",
+                            "ValueName": "100-LQFP (14x14)",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 685,
+                        "Value": "Microcontrollers",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 16,
+                    "ParameterName": "Package / Case",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "68818",
+                            "ValueName": "100-LQFP",
+                            "RangeFilterType": null
+                        }
+                    ]
+                }
+            ],
+            "TopCategories": null,
+            "MarketPlaceFilters": null
+        },
+        "SearchLocaleUsed": {
+            "Site": "US",
+            "Language": "en",
+            "Currency": "USD"
+        },
+        "AppliedParametricFiltersDto": []
+    }
+}

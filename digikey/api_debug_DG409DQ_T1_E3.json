@@ -1,0 +1,714 @@
+{
+    "timestamp": "2026-07-07 14:22:56",
+    "part_number": "DG409DQ-T1-E3",
+    "request_payload": {
+        "Keywords": "DG409DQ-T1-E3",
+        "SearchOptions": "ManufacturerProductNumber",
+        "RecordCount": 10,
+        "RecordStartPosition": 0,
+        "Sort": {
+            "Option": "SortByDigiKeyPartNumber",
+            "Direction": "Ascending",
+            "SortParameterId": 0
+        },
+        "RequestedQuantity": 0
+    },
+    "status_code": 200,
+    "response_text": "{\"Products\":[{\"Description\":{\"ProductDescription\":\"IC SWITCH SP4TX2 100OHM 16TSSOP\",\"DetailedDescription\":\"2 Circuit IC Switch 4:1 100Ohm 16-TSSOP\"},\"Manufacturer\":{\"Id\":742,\"Name\":\"Vishay Siliconix\"},\"ManufacturerProductNumber\":\"DG409DQ-T1-E3\",\"UnitPrice\":4.55,\"ProductUrl\":\"https://www.digikey.com/en/products/detail/vishay-siliconix/DG409DQ-T1-E3/1850001\",\"DatasheetUrl\":\"https://www.vishay.com/docs/70062/dg408.pdf\",\"PhotoUrl\":\"https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6348/742%7E5624%7ECQ%7E16.jpg\",\"ProductVariations\":[{\"DigiKeyProductNumber\":\"DG409DQ-T1-E3TR-ND\",\"PackageType\":{\"Id\":1,\"Name\":\"Tape & Reel (TR)\"},\"StandardPricing\":[{\"BreakQuantity\":3000,\"UnitPrice\":2.48737,\"TotalPrice\":7462.11000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":742,\"Name\":\"Vishay Siliconix\"},\"QuantityAvailableforPackageType\":3000,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":3000,\"StandardPackage\":3000,\"DigiReelFee\":0.0},{\"DigiKeyProductNumber\":\"DG409DQ-T1-E3CT-ND\",\"PackageType\":{\"Id\":2,\"Name\":\"Cut Tape (CT)\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":4.55,\"TotalPrice\":4.55},{\"BreakQuantity\":10,\"UnitPrice\":3.455,\"TotalPrice\":34.550},{\"BreakQuantity\":25,\"UnitPrice\":3.18,\"TotalPrice\":79.50},{\"BreakQuantity\":100,\"UnitPrice\":2.878,\"TotalPrice\":287.800},{\"BreakQuantity\":250,\"UnitPrice\":2.73392,\"TotalPrice\":683.48000},{\"BreakQuantity\":500,\"UnitPrice\":2.73166,\"TotalPrice\":1365.83000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":742,\"Name\":\"Vishay Siliconix\"},\"QuantityAvailableforPackageType\":4589,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":1,\"StandardPackage\":1,\"DigiReelFee\":0.0},{\"DigiKeyProductNumber\":\"DG409DQ-T1-E3DKR-ND\",\"PackageType\":{\"Id\":243,\"Name\":\"Digi-Reel\u00ae\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":4.55,\"TotalPrice\":4.55},{\"BreakQuantity\":10,\"UnitPrice\":3.455,\"TotalPrice\":34.550},{\"BreakQuantity\":25,\"UnitPrice\":3.18,\"TotalPrice\":79.50},{\"BreakQuantity\":100,\"UnitPrice\":2.878,\"TotalPrice\":287.800},{\"BreakQuantity\":250,\"UnitPrice\":2.73392,\"TotalPrice\":683.48000},{\"BreakQuantity\":500,\"UnitPrice\":2.73166,\"TotalPrice\":1365.83000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":742,\"Name\":\"Vishay Siliconix\"},\"QuantityAvailableforPackageType\":4589,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":1,\"StandardPackage\":1,\"DigiReelFee\":7.0}],\"QuantityAvailable\":4589,\"ProductStatus\":{\"Id\":0,\"Status\":\"Active\"},\"BackOrderNotAllowed\":false,\"NormallyStocking\":true,\"Discontinued\":false,\"EndOfLife\":false,\"Ncnr\":false,\"PrimaryVideoUrl\":\"\",\"Parameters\":[{\"ParameterId\":1960,\"ParameterText\":\"Switch Circuit\",\"ParameterType\":\"String\",\"ValueId\":\"405720\",\"ValueText\":\"SP4T\"},{\"ParameterId\":1961,\"ParameterText\":\"Multiplexer/Demultiplexer Circuit\",\"ParameterType\":\"String\",\"ValueId\":\"211518\",\"ValueText\":\"4:1\"},{\"ParameterId\":2094,\"ParameterText\":\"Number of Circuits\",\"ParameterType\":\"Double\",\"ValueId\":\"2\",\"ValueText\":\"2\"},{\"ParameterId\":433,\"ParameterText\":\"On-State Resistance (Max)\",\"ParameterType\":\"String\",\"ValueId\":\"69506\",\"ValueText\":\"100Ohm\"},{\"ParameterId\":1962,\"ParameterText\":\"Channel-to-Channel Matching (\u0394Ron)\",\"ParameterType\":\"String\",\"ValueId\":\"103445\",\"ValueText\":\"15Ohm (Max)\"},{\"ParameterId\":1956,\"ParameterText\":\"Voltage - Supply, Single (V+)\",\"ParameterType\":\"String\",\"ValueId\":\"249345\",\"ValueText\":\"5V ~ 36V\"},{\"ParameterId\":1957,\"ParameterText\":\"Voltage - Supply, Dual (V\u00b1)\",\"ParameterType\":\"String\",\"ValueId\":\"2659\",\"ValueText\":\"\u00b15V ~ 20V\"},{\"ParameterId\":1963,\"ParameterText\":\"Switch Time (Ton, Toff) (Max)\",\"ParameterType\":\"String\",\"ValueId\":\"100617\",\"ValueText\":\"150ns, 150ns\"},{\"ParameterId\":781,\"ParameterText\":\"-3db Bandwidth\",\"ParameterType\":\"String\",\"ValueId\":\"1\",\"ValueText\":\"-\"},{\"ParameterId\":1958,\"ParameterText\":\"Charge Injection\",\"ParameterType\":\"String\",\"ValueId\":\"143600\",\"ValueText\":\"20pC\"},{\"ParameterId\":1964,\"ParameterText\":\"Channel Capacitance (CS(off), CD(off))\",\"ParameterType\":\"String\",\"ValueId\":\"97203\",\"ValueText\":\"14pF, 25pF\"},{\"ParameterId\":1965,\"ParameterText\":\"Current - Leakage (IS(off)) (Max)\",\"ParameterType\":\"String\",\"ValueId\":\"237319\",\"ValueText\":\"500pA\"},{\"ParameterId\":1959,\"ParameterText\":\"Crosstalk\",\"ParameterType\":\"String\",\"ValueId\":\"1\",\"ValueText\":\"-\"},{\"ParameterId\":252,\"ParameterText\":\"Operating Temperature\",\"ParameterType\":\"String\",\"ValueId\":\"212621\",\"ValueText\":\"-40\u00b0C ~ 85\u00b0C (TA)\"},{\"ParameterId\":69,\"ParameterText\":\"Mounting Type\",\"ParameterType\":\"String\",\"ValueId\":\"409393\",\"ValueText\":\"Surface Mount\"},{\"ParameterId\":16,\"ParameterText\":\"Package / Case\",\"ParameterType\":\"String\",\"ValueId\":\"108695\",\"ValueText\":\"16-TSSOP (0.173\\\", 4.40mm Width)\"},{\"ParameterId\":1291,\"ParameterText\":\"Supplier Device Package\",\"ParameterType\":\"String\",\"ValueId\":\"108693\",\"ValueText\":\"16-TSSOP\"}],\"BaseProductNumber\":{\"Id\":32158,\"Name\":\"DG409\"},\"Category\":{\"CategoryId\":32,\"ParentId\":0,\"Name\":\"Integrated Circuits (ICs)\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg\",\"SeoDescription\":\"Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.\",\"ChildCategories\":[{\"CategoryId\":2016,\"ParentId\":32,\"Name\":\"Interface\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/003/236/976/175-16-QSOP_tmb%2864x64%29.jpg\",\"SeoDescription\":\"Interface components are used to connect various signals or data transmission. Included in this category are analog switches, multiplexers, demultiplexers, CODECs, controllers for communication protocols, direct digital synthesis (DDS), drivers, receivers, transceivers, encoders, decoders, filters, I/O expanders, modems, modules, sensor and detectors, capacitive touch, serializers, deserializers, signal buffers, repeaters, splitters, signal terminators, telecom, universal asynchronous receiver/transmitter (UARTs), voice record and playback, and various boards and specialized products.\",\"ChildCategories\":[{\"CategoryId\":747,\"ParentId\":2016,\"Name\":\"Analog Switches, Multiplexers, Demultiplexers\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/084/032/505%7ECP-20-6%7ECP%7E20_tmb.jpg\",\"SeoDescription\":\"Products in this family are used for interconnecting or routing analog signals between multiple available signal paths. Functioning similar to a traditional electromechanical switch, their solid-state character facilitates electronic control, longer service life, and reduced switching noise compared to electromechanical switching, in trade for added constraints on the amplitude and bias of the signals being switched.\",\"ChildCategories\":[]}]}]},\"DateLastBuyChance\":null,\"ManufacturerLeadWeeks\":\"20\",\"ManufacturerPublicQuantity\":0,\"Series\":{\"Id\":818,\"Name\":\"-\"},\"ShippingInfo\":null,\"Classifications\":{\"ReachStatus\":\"REACH Unaffected\",\"RohsStatus\":\"ROHS3 Compliant\",\"MoistureSensitivityLevel\":\"1  (Unlimited)\",\"ExportControlClassNumber\":\"EAR99\",\"HtsusCode\":\"8542.39.0070\"},\"OtherNames\":[\"DG409DQ-T1-E3TR\",\"DG409DQT1E3\",\"DG409DQ-T1-E3DKR\",\"DG409DQ-T1-E3CT\"]}],\"ProductsCount\":1,\"ExactMatches\":[{\"Description\":{\"ProductDescription\":\"IC SWITCH SP4TX2 100OHM 16TSSOP\",\"DetailedDescription\":\"2 Circuit IC Switch 4:1 100Ohm 16-TSSOP\"},\"Manufacturer\":{\"Id\":742,\"Name\":\"Vishay Siliconix\"},\"ManufacturerProductNumber\":\"DG409DQ-T1-E3\",\"UnitPrice\":4.55,\"ProductUrl\":\"https://www.digikey.com/en/products/detail/vishay-siliconix/DG409DQ-T1-E3/1850001\",\"DatasheetUrl\":\"https://www.vishay.com/docs/70062/dg408.pdf\",\"PhotoUrl\":\"https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6348/742%7E5624%7ECQ%7E16.jpg\",\"ProductVariations\":[{\"DigiKeyProductNumber\":\"DG409DQ-T1-E3TR-ND\",\"PackageType\":{\"Id\":1,\"Name\":\"Tape & Reel (TR)\"},\"StandardPricing\":[{\"BreakQuantity\":3000,\"UnitPrice\":2.48737,\"TotalPrice\":7462.11000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":742,\"Name\":\"Vishay Siliconix\"},\"QuantityAvailableforPackageType\":3000,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":3000,\"StandardPackage\":3000,\"DigiReelFee\":0.0},{\"DigiKeyProductNumber\":\"DG409DQ-T1-E3CT-ND\",\"PackageType\":{\"Id\":2,\"Name\":\"Cut Tape (CT)\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":4.55,\"TotalPrice\":4.55},{\"BreakQuantity\":10,\"UnitPrice\":3.455,\"TotalPrice\":34.550},{\"BreakQuantity\":25,\"UnitPrice\":3.18,\"TotalPrice\":79.50},{\"BreakQuantity\":100,\"UnitPrice\":2.878,\"TotalPrice\":287.800},{\"BreakQuantity\":250,\"UnitPrice\":2.73392,\"TotalPrice\":683.48000},{\"BreakQuantity\":500,\"UnitPrice\":2.73166,\"TotalPrice\":1365.83000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":742,\"Name\":\"Vishay Siliconix\"},\"QuantityAvailableforPackageType\":4589,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":1,\"StandardPackage\":1,\"DigiReelFee\":0.0},{\"DigiKeyProductNumber\":\"DG409DQ-T1-E3DKR-ND\",\"PackageType\":{\"Id\":243,\"Name\":\"Digi-Reel\u00ae\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":4.55,\"TotalPrice\":4.55},{\"BreakQuantity\":10,\"UnitPrice\":3.455,\"TotalPrice\":34.550},{\"BreakQuantity\":25,\"UnitPrice\":3.18,\"TotalPrice\":79.50},{\"BreakQuantity\":100,\"UnitPrice\":2.878,\"TotalPrice\":287.800},{\"BreakQuantity\":250,\"UnitPrice\":2.73392,\"TotalPrice\":683.48000},{\"BreakQuantity\":500,\"UnitPrice\":2.73166,\"TotalPrice\":1365.83000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":742,\"Name\":\"Vishay Siliconix\"},\"QuantityAvailableforPackageType\":4589,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":1,\"StandardPackage\":1,\"DigiReelFee\":7.0}],\"QuantityAvailable\":4589,\"ProductStatus\":{\"Id\":0,\"Status\":\"Active\"},\"BackOrderNotAllowed\":false,\"NormallyStocking\":true,\"Discontinued\":false,\"EndOfLife\":false,\"Ncnr\":false,\"PrimaryVideoUrl\":\"\",\"Parameters\":[{\"ParameterId\":1960,\"ParameterText\":\"Switch Circuit\",\"ParameterType\":\"String\",\"ValueId\":\"405720\",\"ValueText\":\"SP4T\"},{\"ParameterId\":1961,\"ParameterText\":\"Multiplexer/Demultiplexer Circuit\",\"ParameterType\":\"String\",\"ValueId\":\"211518\",\"ValueText\":\"4:1\"},{\"ParameterId\":2094,\"ParameterText\":\"Number of Circuits\",\"ParameterType\":\"Double\",\"ValueId\":\"2\",\"ValueText\":\"2\"},{\"ParameterId\":433,\"ParameterText\":\"On-State Resistance (Max)\",\"ParameterType\":\"String\",\"ValueId\":\"69506\",\"ValueText\":\"100Ohm\"},{\"ParameterId\":1962,\"ParameterText\":\"Channel-to-Channel Matching (\u0394Ron)\",\"ParameterType\":\"String\",\"ValueId\":\"103445\",\"ValueText\":\"15Ohm (Max)\"},{\"ParameterId\":1956,\"ParameterText\":\"Voltage - Supply, Single (V+)\",\"ParameterType\":\"String\",\"ValueId\":\"249345\",\"ValueText\":\"5V ~ 36V\"},{\"ParameterId\":1957,\"ParameterText\":\"Voltage - Supply, Dual (V\u00b1)\",\"ParameterType\":\"String\",\"ValueId\":\"2659\",\"ValueText\":\"\u00b15V ~ 20V\"},{\"ParameterId\":1963,\"ParameterText\":\"Switch Time (Ton, Toff) (Max)\",\"ParameterType\":\"String\",\"ValueId\":\"100617\",\"ValueText\":\"150ns, 150ns\"},{\"ParameterId\":781,\"ParameterText\":\"-3db Bandwidth\",\"ParameterType\":\"String\",\"ValueId\":\"1\",\"ValueText\":\"-\"},{\"ParameterId\":1958,\"ParameterText\":\"Charge Injection\",\"ParameterType\":\"String\",\"ValueId\":\"143600\",\"ValueText\":\"20pC\"},{\"ParameterId\":1964,\"ParameterText\":\"Channel Capacitance (CS(off), CD(off))\",\"ParameterType\":\"String\",\"ValueId\":\"97203\",\"ValueText\":\"14pF, 25pF\"},{\"ParameterId\":1965,\"ParameterText\":\"Current - Leakage (IS(off)) (Max)\",\"ParameterType\":\"String\",\"ValueId\":\"237319\",\"ValueText\":\"500pA\"},{\"ParameterId\":1959,\"ParameterText\":\"Crosstalk\",\"ParameterType\":\"String\",\"ValueId\":\"1\",\"ValueText\":\"-\"},{\"ParameterId\":252,\"ParameterText\":\"Operating Temperature\",\"ParameterType\":\"String\",\"ValueId\":\"212621\",\"ValueText\":\"-40\u00b0C ~ 85\u00b0C (TA)\"},{\"ParameterId\":69,\"ParameterText\":\"Mounting Type\",\"ParameterType\":\"String\",\"ValueId\":\"409393\",\"ValueText\":\"Surface Mount\"},{\"ParameterId\":16,\"ParameterText\":\"Package / Case\",\"ParameterType\":\"String\",\"ValueId\":\"108695\",\"ValueText\":\"16-TSSOP (0.173\\\", 4.40mm Width)\"},{\"ParameterId\":1291,\"ParameterText\":\"Supplier Device Package\",\"ParameterType\":\"String\",\"ValueId\":\"108693\",\"ValueText\":\"16-TSSOP\"}],\"BaseProductNumber\":{\"Id\":32158,\"Name\":\"DG409\"},\"Category\":{\"CategoryId\":32,\"ParentId\":0,\"Name\":\"Integrated Circuits (ICs)\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg\",\"SeoDescription\":\"Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.\",\"ChildCategories\":[{\"CategoryId\":2016,\"ParentId\":32,\"Name\":\"Interface\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/003/236/976/175-16-QSOP_tmb%2864x64%29.jpg\",\"SeoDescription\":\"Interface components are used to connect various signals or data transmission. Included in this category are analog switches, multiplexers, demultiplexers, CODECs, controllers for communication protocols, direct digital synthesis (DDS), drivers, receivers, transceivers, encoders, decoders, filters, I/O expanders, modems, modules, sensor and detectors, capacitive touch, serializers, deserializers, signal buffers, repeaters, splitters, signal terminators, telecom, universal asynchronous receiver/transmitter (UARTs), voice record and playback, and various boards and specialized products.\",\"ChildCategories\":[{\"CategoryId\":747,\"ParentId\":2016,\"Name\":\"Analog Switches, Multiplexers, Demultiplexers\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/084/032/505%7ECP-20-6%7ECP%7E20_tmb.jpg\",\"SeoDescription\":\"Products in this family are used for interconnecting or routing analog signals between multiple available signal paths. Functioning similar to a traditional electromechanical switch, their solid-state character facilitates electronic control, longer service life, and reduced switching noise compared to electromechanical switching, in trade for added constraints on the amplitude and bias of the signals being switched.\",\"ChildCategories\":[]}]}]},\"DateLastBuyChance\":null,\"ManufacturerLeadWeeks\":\"20\",\"ManufacturerPublicQuantity\":0,\"Series\":{\"Id\":818,\"Name\":\"-\"},\"ShippingInfo\":null,\"Classifications\":{\"ReachStatus\":\"REACH Unaffected\",\"RohsStatus\":\"ROHS3 Compliant\",\"MoistureSensitivityLevel\":\"1  (Unlimited)\",\"ExportControlClassNumber\":\"EAR99\",\"HtsusCode\":\"8542.39.0070\"},\"OtherNames\":[\"DG409DQ-T1-E3TR\",\"DG409DQT1E3\",\"DG409DQ-T1-E3DKR\",\"DG409DQ-T1-E3CT\"]}],\"FilterOptions\":{\"Manufacturers\":[{\"Id\":742,\"Value\":\"Vishay Siliconix\",\"ProductCount\":1}],\"Packaging\":null,\"Status\":null,\"Series\":null,\"ParametricFilters\":null,\"TopCategories\":null,\"MarketPlaceFilters\":null},\"SearchLocaleUsed\":{\"Site\":\"US\",\"Language\":\"en\",\"Currency\":\"USD\"},\"AppliedParametricFiltersDto\":[]}",
+    "response_json": {
+        "Products": [
+            {
+                "Description": {
+                    "ProductDescription": "IC SWITCH SP4TX2 100OHM 16TSSOP",
+                    "DetailedDescription": "2 Circuit IC Switch 4:1 100Ohm 16-TSSOP"
+                },
+                "Manufacturer": {
+                    "Id": 742,
+                    "Name": "Vishay Siliconix"
+                },
+                "ManufacturerProductNumber": "DG409DQ-T1-E3",
+                "UnitPrice": 4.55,
+                "ProductUrl": "https://www.digikey.com/en/products/detail/vishay-siliconix/DG409DQ-T1-E3/1850001",
+                "DatasheetUrl": "https://www.vishay.com/docs/70062/dg408.pdf",
+                "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6348/742%7E5624%7ECQ%7E16.jpg",
+                "ProductVariations": [
+                    {
+                        "DigiKeyProductNumber": "DG409DQ-T1-E3TR-ND",
+                        "PackageType": {
+                            "Id": 1,
+                            "Name": "Tape & Reel (TR)"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 3000,
+                                "UnitPrice": 2.48737,
+                                "TotalPrice": 7462.11
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 742,
+                            "Name": "Vishay Siliconix"
+                        },
+                        "QuantityAvailableforPackageType": 3000,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 3000,
+                        "StandardPackage": 3000,
+                        "DigiReelFee": 0.0
+                    },
+                    {
+                        "DigiKeyProductNumber": "DG409DQ-T1-E3CT-ND",
+                        "PackageType": {
+                            "Id": 2,
+                            "Name": "Cut Tape (CT)"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 4.55,
+                                "TotalPrice": 4.55
+                            },
+                            {
+                                "BreakQuantity": 10,
+                                "UnitPrice": 3.455,
+                                "TotalPrice": 34.55
+                            },
+                            {
+                                "BreakQuantity": 25,
+                                "UnitPrice": 3.18,
+                                "TotalPrice": 79.5
+                            },
+                            {
+                                "BreakQuantity": 100,
+                                "UnitPrice": 2.878,
+                                "TotalPrice": 287.8
+                            },
+                            {
+                                "BreakQuantity": 250,
+                                "UnitPrice": 2.73392,
+                                "TotalPrice": 683.48
+                            },
+                            {
+                                "BreakQuantity": 500,
+                                "UnitPrice": 2.73166,
+                                "TotalPrice": 1365.83
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 742,
+                            "Name": "Vishay Siliconix"
+                        },
+                        "QuantityAvailableforPackageType": 4589,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 1,
+                        "DigiReelFee": 0.0
+                    },
+                    {
+                        "DigiKeyProductNumber": "DG409DQ-T1-E3DKR-ND",
+                        "PackageType": {
+                            "Id": 243,
+                            "Name": "Digi-Reel\u00ae"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 4.55,
+                                "TotalPrice": 4.55
+                            },
+                            {
+                                "BreakQuantity": 10,
+                                "UnitPrice": 3.455,
+                                "TotalPrice": 34.55
+                            },
+                            {
+                                "BreakQuantity": 25,
+                                "UnitPrice": 3.18,
+                                "TotalPrice": 79.5
+                            },
+                            {
+                                "BreakQuantity": 100,
+                                "UnitPrice": 2.878,
+                                "TotalPrice": 287.8
+                            },
+                            {
+                                "BreakQuantity": 250,
+                                "UnitPrice": 2.73392,
+                                "TotalPrice": 683.48
+                            },
+                            {
+                                "BreakQuantity": 500,
+                                "UnitPrice": 2.73166,
+                                "TotalPrice": 1365.83
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 742,
+                            "Name": "Vishay Siliconix"
+                        },
+                        "QuantityAvailableforPackageType": 4589,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 1,
+                        "DigiReelFee": 7.0
+                    }
+                ],
+                "QuantityAvailable": 4589,
+                "ProductStatus": {
+                    "Id": 0,
+                    "Status": "Active"
+                },
+                "BackOrderNotAllowed": false,
+                "NormallyStocking": true,
+                "Discontinued": false,
+                "EndOfLife": false,
+                "Ncnr": false,
+                "PrimaryVideoUrl": "",
+                "Parameters": [
+                    {
+                        "ParameterId": 1960,
+                        "ParameterText": "Switch Circuit",
+                        "ParameterType": "String",
+                        "ValueId": "405720",
+                        "ValueText": "SP4T"
+                    },
+                    {
+                        "ParameterId": 1961,
+                        "ParameterText": "Multiplexer/Demultiplexer Circuit",
+                        "ParameterType": "String",
+                        "ValueId": "211518",
+                        "ValueText": "4:1"
+                    },
+                    {
+                        "ParameterId": 2094,
+                        "ParameterText": "Number of Circuits",
+                        "ParameterType": "Double",
+                        "ValueId": "2",
+                        "ValueText": "2"
+                    },
+                    {
+                        "ParameterId": 433,
+                        "ParameterText": "On-State Resistance (Max)",
+                        "ParameterType": "String",
+                        "ValueId": "69506",
+                        "ValueText": "100Ohm"
+                    },
+                    {
+                        "ParameterId": 1962,
+                        "ParameterText": "Channel-to-Channel Matching (\u0394Ron)",
+                        "ParameterType": "String",
+                        "ValueId": "103445",
+                        "ValueText": "15Ohm (Max)"
+                    },
+                    {
+                        "ParameterId": 1956,
+                        "ParameterText": "Voltage - Supply, Single (V+)",
+                        "ParameterType": "String",
+                        "ValueId": "249345",
+                        "ValueText": "5V ~ 36V"
+                    },
+                    {
+                        "ParameterId": 1957,
+                        "ParameterText": "Voltage - Supply, Dual (V\u00b1)",
+                        "ParameterType": "String",
+                        "ValueId": "2659",
+                        "ValueText": "\u00b15V ~ 20V"
+                    },
+                    {
+                        "ParameterId": 1963,
+                        "ParameterText": "Switch Time (Ton, Toff) (Max)",
+                        "ParameterType": "String",
+                        "ValueId": "100617",
+                        "ValueText": "150ns, 150ns"
+                    },
+                    {
+                        "ParameterId": 781,
+                        "ParameterText": "-3db Bandwidth",
+                        "ParameterType": "String",
+                        "ValueId": "1",
+                        "ValueText": "-"
+                    },
+                    {
+                        "ParameterId": 1958,
+                        "ParameterText": "Charge Injection",
+                        "ParameterType": "String",
+                        "ValueId": "143600",
+                        "ValueText": "20pC"
+                    },
+                    {
+                        "ParameterId": 1964,
+                        "ParameterText": "Channel Capacitance (CS(off), CD(off))",
+                        "ParameterType": "String",
+                        "ValueId": "97203",
+                        "ValueText": "14pF, 25pF"
+                    },
+                    {
+                        "ParameterId": 1965,
+                        "ParameterText": "Current - Leakage (IS(off)) (Max)",
+                        "ParameterType": "String",
+                        "ValueId": "237319",
+                        "ValueText": "500pA"
+                    },
+                    {
+                        "ParameterId": 1959,
+                        "ParameterText": "Crosstalk",
+                        "ParameterType": "String",
+                        "ValueId": "1",
+                        "ValueText": "-"
+                    },
+                    {
+                        "ParameterId": 252,
+                        "ParameterText": "Operating Temperature",
+                        "ParameterType": "String",
+                        "ValueId": "212621",
+                        "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+                    },
+                    {
+                        "ParameterId": 69,
+                        "ParameterText": "Mounting Type",
+                        "ParameterType": "String",
+                        "ValueId": "409393",
+                        "ValueText": "Surface Mount"
+                    },
+                    {
+                        "ParameterId": 16,
+                        "ParameterText": "Package / Case",
+                        "ParameterType": "String",
+                        "ValueId": "108695",
+                        "ValueText": "16-TSSOP (0.173\", 4.40mm Width)"
+                    },
+                    {
+                        "ParameterId": 1291,
+                        "ParameterText": "Supplier Device Package",
+                        "ParameterType": "String",
+                        "ValueId": "108693",
+                        "ValueText": "16-TSSOP"
+                    }
+                ],
+                "BaseProductNumber": {
+                    "Id": 32158,
+                    "Name": "DG409"
+                },
+                "Category": {
+                    "CategoryId": 32,
+                    "ParentId": 0,
+                    "Name": "Integrated Circuits (ICs)",
+                    "ProductCount": 0,
+                    "NewProductCount": 0,
+                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+                    "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+                    "ChildCategories": [
+                        {
+                            "CategoryId": 2016,
+                            "ParentId": 32,
+                            "Name": "Interface",
+                            "ProductCount": 0,
+                            "NewProductCount": 0,
+                            "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/003/236/976/175-16-QSOP_tmb%2864x64%29.jpg",
+                            "SeoDescription": "Interface components are used to connect various signals or data transmission. Included in this category are analog switches, multiplexers, demultiplexers, CODECs, controllers for communication protocols, direct digital synthesis (DDS), drivers, receivers, transceivers, encoders, decoders, filters, I/O expanders, modems, modules, sensor and detectors, capacitive touch, serializers, deserializers, signal buffers, repeaters, splitters, signal terminators, telecom, universal asynchronous receiver/transmitter (UARTs), voice record and playback, and various boards and specialized products.",
+                            "ChildCategories": [
+                                {
+                                    "CategoryId": 747,
+                                    "ParentId": 2016,
+                                    "Name": "Analog Switches, Multiplexers, Demultiplexers",
+                                    "ProductCount": 0,
+                                    "NewProductCount": 0,
+                                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/084/032/505%7ECP-20-6%7ECP%7E20_tmb.jpg",
+                                    "SeoDescription": "Products in this family are used for interconnecting or routing analog signals between multiple available signal paths. Functioning similar to a traditional electromechanical switch, their solid-state character facilitates electronic control, longer service life, and reduced switching noise compared to electromechanical switching, in trade for added constraints on the amplitude and bias of the signals being switched.",
+                                    "ChildCategories": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "DateLastBuyChance": null,
+                "ManufacturerLeadWeeks": "20",
+                "ManufacturerPublicQuantity": 0,
+                "Series": {
+                    "Id": 818,
+                    "Name": "-"
+                },
+                "ShippingInfo": null,
+                "Classifications": {
+                    "ReachStatus": "REACH Unaffected",
+                    "RohsStatus": "ROHS3 Compliant",
+                    "MoistureSensitivityLevel": "1  (Unlimited)",
+                    "ExportControlClassNumber": "EAR99",
+                    "HtsusCode": "8542.39.0070"
+                },
+                "OtherNames": [
+                    "DG409DQ-T1-E3TR",
+                    "DG409DQT1E3",
+                    "DG409DQ-T1-E3DKR",
+                    "DG409DQ-T1-E3CT"
+                ]
+            }
+        ],
+        "ProductsCount": 1,
+        "ExactMatches": [
+            {
+                "Description": {
+                    "ProductDescription": "IC SWITCH SP4TX2 100OHM 16TSSOP",
+                    "DetailedDescription": "2 Circuit IC Switch 4:1 100Ohm 16-TSSOP"
+                },
+                "Manufacturer": {
+                    "Id": 742,
+                    "Name": "Vishay Siliconix"
+                },
+                "ManufacturerProductNumber": "DG409DQ-T1-E3",
+                "UnitPrice": 4.55,
+                "ProductUrl": "https://www.digikey.com/en/products/detail/vishay-siliconix/DG409DQ-T1-E3/1850001",
+                "DatasheetUrl": "https://www.vishay.com/docs/70062/dg408.pdf",
+                "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6348/742%7E5624%7ECQ%7E16.jpg",
+                "ProductVariations": [
+                    {
+                        "DigiKeyProductNumber": "DG409DQ-T1-E3TR-ND",
+                        "PackageType": {
+                            "Id": 1,
+                            "Name": "Tape & Reel (TR)"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 3000,
+                                "UnitPrice": 2.48737,
+                                "TotalPrice": 7462.11
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 742,
+                            "Name": "Vishay Siliconix"
+                        },
+                        "QuantityAvailableforPackageType": 3000,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 3000,
+                        "StandardPackage": 3000,
+                        "DigiReelFee": 0.0
+                    },
+                    {
+                        "DigiKeyProductNumber": "DG409DQ-T1-E3CT-ND",
+                        "PackageType": {
+                            "Id": 2,
+                            "Name": "Cut Tape (CT)"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 4.55,
+                                "TotalPrice": 4.55
+                            },
+                            {
+                                "BreakQuantity": 10,
+                                "UnitPrice": 3.455,
+                                "TotalPrice": 34.55
+                            },
+                            {
+                                "BreakQuantity": 25,
+                                "UnitPrice": 3.18,
+                                "TotalPrice": 79.5
+                            },
+                            {
+                                "BreakQuantity": 100,
+                                "UnitPrice": 2.878,
+                                "TotalPrice": 287.8
+                            },
+                            {
+                                "BreakQuantity": 250,
+                                "UnitPrice": 2.73392,
+                                "TotalPrice": 683.48
+                            },
+                            {
+                                "BreakQuantity": 500,
+                                "UnitPrice": 2.73166,
+                                "TotalPrice": 1365.83
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 742,
+                            "Name": "Vishay Siliconix"
+                        },
+                        "QuantityAvailableforPackageType": 4589,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 1,
+                        "DigiReelFee": 0.0
+                    },
+                    {
+                        "DigiKeyProductNumber": "DG409DQ-T1-E3DKR-ND",
+                        "PackageType": {
+                            "Id": 243,
+                            "Name": "Digi-Reel\u00ae"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 4.55,
+                                "TotalPrice": 4.55
+                            },
+                            {
+                                "BreakQuantity": 10,
+                                "UnitPrice": 3.455,
+                                "TotalPrice": 34.55
+                            },
+                            {
+                                "BreakQuantity": 25,
+                                "UnitPrice": 3.18,
+                                "TotalPrice": 79.5
+                            },
+                            {
+                                "BreakQuantity": 100,
+                                "UnitPrice": 2.878,
+                                "TotalPrice": 287.8
+                            },
+                            {
+                                "BreakQuantity": 250,
+                                "UnitPrice": 2.73392,
+                                "TotalPrice": 683.48
+                            },
+                            {
+                                "BreakQuantity": 500,
+                                "UnitPrice": 2.73166,
+                                "TotalPrice": 1365.83
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 742,
+                            "Name": "Vishay Siliconix"
+                        },
+                        "QuantityAvailableforPackageType": 4589,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 1,
+                        "DigiReelFee": 7.0
+                    }
+                ],
+                "QuantityAvailable": 4589,
+                "ProductStatus": {
+                    "Id": 0,
+                    "Status": "Active"
+                },
+                "BackOrderNotAllowed": false,
+                "NormallyStocking": true,
+                "Discontinued": false,
+                "EndOfLife": false,
+                "Ncnr": false,
+                "PrimaryVideoUrl": "",
+                "Parameters": [
+                    {
+                        "ParameterId": 1960,
+                        "ParameterText": "Switch Circuit",
+                        "ParameterType": "String",
+                        "ValueId": "405720",
+                        "ValueText": "SP4T"
+                    },
+                    {
+                        "ParameterId": 1961,
+                        "ParameterText": "Multiplexer/Demultiplexer Circuit",
+                        "ParameterType": "String",
+                        "ValueId": "211518",
+                        "ValueText": "4:1"
+                    },
+                    {
+                        "ParameterId": 2094,
+                        "ParameterText": "Number of Circuits",
+                        "ParameterType": "Double",
+                        "ValueId": "2",
+                        "ValueText": "2"
+                    },
+                    {
+                        "ParameterId": 433,
+                        "ParameterText": "On-State Resistance (Max)",
+                        "ParameterType": "String",
+                        "ValueId": "69506",
+                        "ValueText": "100Ohm"
+                    },
+                    {
+                        "ParameterId": 1962,
+                        "ParameterText": "Channel-to-Channel Matching (\u0394Ron)",
+                        "ParameterType": "String",
+                        "ValueId": "103445",
+                        "ValueText": "15Ohm (Max)"
+                    },
+                    {
+                        "ParameterId": 1956,
+                        "ParameterText": "Voltage - Supply, Single (V+)",
+                        "ParameterType": "String",
+                        "ValueId": "249345",
+                        "ValueText": "5V ~ 36V"
+                    },
+                    {
+                        "ParameterId": 1957,
+                        "ParameterText": "Voltage - Supply, Dual (V\u00b1)",
+                        "ParameterType": "String",
+                        "ValueId": "2659",
+                        "ValueText": "\u00b15V ~ 20V"
+                    },
+                    {
+                        "ParameterId": 1963,
+                        "ParameterText": "Switch Time (Ton, Toff) (Max)",
+                        "ParameterType": "String",
+                        "ValueId": "100617",
+                        "ValueText": "150ns, 150ns"
+                    },
+                    {
+                        "ParameterId": 781,
+                        "ParameterText": "-3db Bandwidth",
+                        "ParameterType": "String",
+                        "ValueId": "1",
+                        "ValueText": "-"
+                    },
+                    {
+                        "ParameterId": 1958,
+                        "ParameterText": "Charge Injection",
+                        "ParameterType": "String",
+                        "ValueId": "143600",
+                        "ValueText": "20pC"
+                    },
+                    {
+                        "ParameterId": 1964,
+                        "ParameterText": "Channel Capacitance (CS(off), CD(off))",
+                        "ParameterType": "String",
+                        "ValueId": "97203",
+                        "ValueText": "14pF, 25pF"
+                    },
+                    {
+                        "ParameterId": 1965,
+                        "ParameterText": "Current - Leakage (IS(off)) (Max)",
+                        "ParameterType": "String",
+                        "ValueId": "237319",
+                        "ValueText": "500pA"
+                    },
+                    {
+                        "ParameterId": 1959,
+                        "ParameterText": "Crosstalk",
+                        "ParameterType": "String",
+                        "ValueId": "1",
+                        "ValueText": "-"
+                    },
+                    {
+                        "ParameterId": 252,
+                        "ParameterText": "Operating Temperature",
+                        "ParameterType": "String",
+                        "ValueId": "212621",
+                        "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+                    },
+                    {
+                        "ParameterId": 69,
+                        "ParameterText": "Mounting Type",
+                        "ParameterType": "String",
+                        "ValueId": "409393",
+                        "ValueText": "Surface Mount"
+                    },
+                    {
+                        "ParameterId": 16,
+                        "ParameterText": "Package / Case",
+                        "ParameterType": "String",
+                        "ValueId": "108695",
+                        "ValueText": "16-TSSOP (0.173\", 4.40mm Width)"
+                    },
+                    {
+                        "ParameterId": 1291,
+                        "ParameterText": "Supplier Device Package",
+                        "ParameterType": "String",
+                        "ValueId": "108693",
+                        "ValueText": "16-TSSOP"
+                    }
+                ],
+                "BaseProductNumber": {
+                    "Id": 32158,
+                    "Name": "DG409"
+                },
+                "Category": {
+                    "CategoryId": 32,
+                    "ParentId": 0,
+                    "Name": "Integrated Circuits (ICs)",
+                    "ProductCount": 0,
+                    "NewProductCount": 0,
+                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+                    "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+                    "ChildCategories": [
+                        {
+                            "CategoryId": 2016,
+                            "ParentId": 32,
+                            "Name": "Interface",
+                            "ProductCount": 0,
+                            "NewProductCount": 0,
+                            "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/003/236/976/175-16-QSOP_tmb%2864x64%29.jpg",
+                            "SeoDescription": "Interface components are used to connect various signals or data transmission. Included in this category are analog switches, multiplexers, demultiplexers, CODECs, controllers for communication protocols, direct digital synthesis (DDS), drivers, receivers, transceivers, encoders, decoders, filters, I/O expanders, modems, modules, sensor and detectors, capacitive touch, serializers, deserializers, signal buffers, repeaters, splitters, signal terminators, telecom, universal asynchronous receiver/transmitter (UARTs), voice record and playback, and various boards and specialized products.",
+                            "ChildCategories": [
+                                {
+                                    "CategoryId": 747,
+                                    "ParentId": 2016,
+                                    "Name": "Analog Switches, Multiplexers, Demultiplexers",
+                                    "ProductCount": 0,
+                                    "NewProductCount": 0,
+                                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/084/032/505%7ECP-20-6%7ECP%7E20_tmb.jpg",
+                                    "SeoDescription": "Products in this family are used for interconnecting or routing analog signals between multiple available signal paths. Functioning similar to a traditional electromechanical switch, their solid-state character facilitates electronic control, longer service life, and reduced switching noise compared to electromechanical switching, in trade for added constraints on the amplitude and bias of the signals being switched.",
+                                    "ChildCategories": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "DateLastBuyChance": null,
+                "ManufacturerLeadWeeks": "20",
+                "ManufacturerPublicQuantity": 0,
+                "Series": {
+                    "Id": 818,
+                    "Name": "-"
+                },
+                "ShippingInfo": null,
+                "Classifications": {
+                    "ReachStatus": "REACH Unaffected",
+                    "RohsStatus": "ROHS3 Compliant",
+                    "MoistureSensitivityLevel": "1  (Unlimited)",
+                    "ExportControlClassNumber": "EAR99",
+                    "HtsusCode": "8542.39.0070"
+                },
+                "OtherNames": [
+                    "DG409DQ-T1-E3TR",
+                    "DG409DQT1E3",
+                    "DG409DQ-T1-E3DKR",
+                    "DG409DQ-T1-E3CT"
+                ]
+            }
+        ],
+        "FilterOptions": {
+            "Manufacturers": [
+                {
+                    "Id": 742,
+                    "Value": "Vishay Siliconix",
+                    "ProductCount": 1
+                }
+            ],
+            "Packaging": null,
+            "Status": null,
+            "Series": null,
+            "ParametricFilters": null,
+            "TopCategories": null,
+            "MarketPlaceFilters": null
+        },
+        "SearchLocaleUsed": {
+            "Site": "US",
+            "Language": "en",
+            "Currency": "USD"
+        },
+        "AppliedParametricFiltersDto": []
+    }
+}

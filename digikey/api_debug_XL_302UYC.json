@@ -1,0 +1,564 @@
+{
+    "timestamp": "2026-07-07 14:23:03",
+    "part_number": "XL-302UYC",
+    "request_payload": {
+        "Keywords": "XL-302UYC",
+        "SearchOptions": "ManufacturerProductNumber",
+        "RecordCount": 10,
+        "RecordStartPosition": 0,
+        "Sort": {
+            "Option": "SortByDigiKeyPartNumber",
+            "Direction": "Ascending",
+            "SortParameterId": 0
+        },
+        "RequestedQuantity": 0
+    },
+    "status_code": 200,
+    "response_text": "{\"Products\":[{\"Description\":{\"ProductDescription\":\"DIP LED 3MM YELLOW T/H\",\"DetailedDescription\":\"Yellow 590nm LED Indication - Discrete 2.2V Radial\"},\"Manufacturer\":{\"Id\":5962,\"Name\":\"XINGLIGHT\"},\"ManufacturerProductNumber\":\"XL-302UYC\",\"UnitPrice\":0.04375,\"ProductUrl\":\"https://www.digikey.com/en/products/detail/xinglight/XL-302UYC/25673314\",\"DatasheetUrl\":\"//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/8903/XL-302UYC.pdf\",\"PhotoUrl\":\"https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/8812/MFG_5962_XL-302UYC.jpg\",\"ProductVariations\":[{\"DigiKeyProductNumber\":\"5962-XL-302UYC-ND\",\"PackageType\":{\"Id\":62,\"Name\":\"Bag\"},\"StandardPricing\":[{\"BreakQuantity\":1000,\"UnitPrice\":0.04375,\"TotalPrice\":43.75000},{\"BreakQuantity\":2000,\"UnitPrice\":0.04156,\"TotalPrice\":83.12000},{\"BreakQuantity\":3000,\"UnitPrice\":0.03948,\"TotalPrice\":118.44000},{\"BreakQuantity\":4000,\"UnitPrice\":0.03751,\"TotalPrice\":150.04000},{\"BreakQuantity\":5000,\"UnitPrice\":0.03563,\"TotalPrice\":178.15000}],\"MyPricing\":[],\"MarketPlace\":true,\"TariffActive\":false,\"Supplier\":{\"Id\":5962,\"Name\":\"XINGLIGHT\"},\"QuantityAvailableforPackageType\":20000,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":1000,\"StandardPackage\":1000,\"DigiReelFee\":0.0}],\"QuantityAvailable\":20000,\"ProductStatus\":{\"Id\":0,\"Status\":\"Active\"},\"BackOrderNotAllowed\":true,\"NormallyStocking\":true,\"Discontinued\":false,\"EndOfLife\":false,\"Ncnr\":false,\"PrimaryVideoUrl\":\"\",\"Parameters\":[{\"ParameterId\":37,\"ParameterText\":\"Color\",\"ParameterType\":\"String\",\"ValueId\":\"423204\",\"ValueText\":\"Yellow\"},{\"ParameterId\":207,\"ParameterText\":\"Configuration\",\"ParameterType\":\"String\",\"ValueId\":\"358527\",\"ValueText\":\"Independent\"},{\"ParameterId\":525,\"ParameterText\":\"Lens Color\",\"ParameterType\":\"String\",\"ValueId\":\"332225\",\"ValueText\":\"Colorless\"},{\"ParameterId\":1843,\"ParameterText\":\"Lens Transparency\",\"ParameterType\":\"String\",\"ValueId\":\"338652\",\"ValueText\":\"Diffused\"},{\"ParameterId\":206,\"ParameterText\":\"Millicandela Rating\",\"ParameterType\":\"String\",\"ValueId\":\"68312\",\"ValueText\":\"1000mcd\"},{\"ParameterId\":2028,\"ParameterText\":\"Lens Style\",\"ParameterType\":\"String\",\"ValueId\":\"398078\",\"ValueText\":\"Round with Domed Top\"},{\"ParameterId\":2029,\"ParameterText\":\"Lens Size\",\"ParameterType\":\"String\",\"ValueId\":\"170366\",\"ValueText\":\"3.00mm Dia\"},{\"ParameterId\":319,\"ParameterText\":\"Voltage - Forward (Vf) (Typ)\",\"ParameterType\":\"String\",\"ValueId\":\"126943\",\"ValueText\":\"2.2V\"},{\"ParameterId\":543,\"ParameterText\":\"Current - Test\",\"ParameterType\":\"String\",\"ValueId\":\"143056\",\"ValueText\":\"20mA\"},{\"ParameterId\":551,\"ParameterText\":\"Viewing Angle\",\"ParameterType\":\"String\",\"ValueId\":\"181474\",\"ValueText\":\"30\u00b0\"},{\"ParameterId\":69,\"ParameterText\":\"Mounting Type\",\"ParameterType\":\"String\",\"ValueId\":\"411897\",\"ValueText\":\"Through Hole\"},{\"ParameterId\":969,\"ParameterText\":\"Wavelength - Dominant\",\"ParameterType\":\"String\",\"ValueId\":\"247296\",\"ValueText\":\"590nm\"},{\"ParameterId\":968,\"ParameterText\":\"Wavelength - Peak\",\"ParameterType\":\"String\",\"ValueId\":\"246792\",\"ValueText\":\"588nm\"},{\"ParameterId\":5,\"ParameterText\":\"Features\",\"ParameterType\":\"String\",\"ValueId\":\"1\",\"ValueText\":\"-\"},{\"ParameterId\":1977,\"ParameterText\":\"Grade\",\"ParameterType\":\"String\",\"ValueId\":\"1\",\"ValueText\":\"-\"},{\"ParameterId\":2700,\"ParameterText\":\"Qualification\",\"ParameterType\":\"String\",\"ValueId\":\"1\",\"ValueText\":\"-\"},{\"ParameterId\":16,\"ParameterText\":\"Package / Case\",\"ParameterType\":\"String\",\"ValueId\":\"392278\",\"ValueText\":\"Radial\"},{\"ParameterId\":1291,\"ParameterText\":\"Supplier Device Package\",\"ParameterType\":\"String\",\"ValueId\":\"392278\",\"ValueText\":\"Radial\"},{\"ParameterId\":46,\"ParameterText\":\"Size / Dimension\",\"ParameterType\":\"String\",\"ValueId\":\"1\",\"ValueText\":\"-\"},{\"ParameterId\":966,\"ParameterText\":\"Height (Max)\",\"ParameterType\":\"String\",\"ValueId\":\"231601\",\"ValueText\":\"5.30mm\"}],\"BaseProductNumber\":{\"Id\":null,\"Name\":null},\"Category\":{\"CategoryId\":7,\"ParentId\":0,\"Name\":\"Optoelectronics\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/510/MFG_ELI70-CR_tmb%2864x64%29.jpg\",\"SeoDescription\":\"Broadly defined, optoelectronic products are devices that convert electricity to light, and accessory or supporting items such as reflectors or mounting hardware designed for use with such products. It is a diverse product category, including LEDs, fiber optic transmitters and receivers, LCD, OLED, and VFD displays, EL wire, incandescent lamps, lasers, light pipes and xenon flash tubes, among many other product types.\",\"ChildCategories\":[{\"CategoryId\":105,\"ParentId\":7,\"Name\":\"LED Indication - Discrete\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/001/626/HLMP-3507%2CHLMP-3680%2CHLMP-3962_tmb%2864x64%29.jpg\",\"SeoDescription\":\"Light emitting diodes are semiconductor devices that emit light when conducting current. LEDs in this family are single or array configuration for status indication on printed circuit boards. They are differentiated by package/case, wavelength, viewing angle, forward voltage, current rating, millicandela rating, color, and mounting type. Configurations include common anode or cathode and bidirectional.\",\"ChildCategories\":[]}]},\"DateLastBuyChance\":null,\"ManufacturerLeadWeeks\":\"0\",\"ManufacturerPublicQuantity\":0,\"Series\":{\"Id\":41054,\"Name\":\"F3\"},\"ShippingInfo\":null,\"Classifications\":{\"ReachStatus\":\"REACH Unaffected\",\"RohsStatus\":\"RoHS Compliant\",\"MoistureSensitivityLevel\":\"2A  (4 Weeks)\",\"ExportControlClassNumber\":\"EAR99\",\"HtsusCode\":\"8541.41.0000\"},\"OtherNames\":[\"5962-XL-302UYC\"]}],\"ProductsCount\":1,\"ExactMatches\":[{\"Description\":{\"ProductDescription\":\"DIP LED 3MM YELLOW T/H\",\"DetailedDescription\":\"Yellow 590nm LED Indication - Discrete 2.2V Radial\"},\"Manufacturer\":{\"Id\":5962,\"Name\":\"XINGLIGHT\"},\"ManufacturerProductNumber\":\"XL-302UYC\",\"UnitPrice\":0.04375,\"ProductUrl\":\"https://www.digikey.com/en/products/detail/xinglight/XL-302UYC/25673314\",\"DatasheetUrl\":\"//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/8903/XL-302UYC.pdf\",\"PhotoUrl\":\"https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/8812/MFG_5962_XL-302UYC.jpg\",\"ProductVariations\":[{\"DigiKeyProductNumber\":\"5962-XL-302UYC-ND\",\"PackageType\":{\"Id\":62,\"Name\":\"Bag\"},\"StandardPricing\":[{\"BreakQuantity\":1000,\"UnitPrice\":0.04375,\"TotalPrice\":43.75000},{\"BreakQuantity\":2000,\"UnitPrice\":0.04156,\"TotalPrice\":83.12000},{\"BreakQuantity\":3000,\"UnitPrice\":0.03948,\"TotalPrice\":118.44000},{\"BreakQuantity\":4000,\"UnitPrice\":0.03751,\"TotalPrice\":150.04000},{\"BreakQuantity\":5000,\"UnitPrice\":0.03563,\"TotalPrice\":178.15000}],\"MyPricing\":[],\"MarketPlace\":true,\"TariffActive\":false,\"Supplier\":{\"Id\":5962,\"Name\":\"XINGLIGHT\"},\"QuantityAvailableforPackageType\":20000,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":1000,\"StandardPackage\":1000,\"DigiReelFee\":0.0}],\"QuantityAvailable\":20000,\"ProductStatus\":{\"Id\":0,\"Status\":\"Active\"},\"BackOrderNotAllowed\":true,\"NormallyStocking\":true,\"Discontinued\":false,\"EndOfLife\":false,\"Ncnr\":false,\"PrimaryVideoUrl\":\"\",\"Parameters\":[{\"ParameterId\":37,\"ParameterText\":\"Color\",\"ParameterType\":\"String\",\"ValueId\":\"423204\",\"ValueText\":\"Yellow\"},{\"ParameterId\":207,\"ParameterText\":\"Configuration\",\"ParameterType\":\"String\",\"ValueId\":\"358527\",\"ValueText\":\"Independent\"},{\"ParameterId\":525,\"ParameterText\":\"Lens Color\",\"ParameterType\":\"String\",\"ValueId\":\"332225\",\"ValueText\":\"Colorless\"},{\"ParameterId\":1843,\"ParameterText\":\"Lens Transparency\",\"ParameterType\":\"String\",\"ValueId\":\"338652\",\"ValueText\":\"Diffused\"},{\"ParameterId\":206,\"ParameterText\":\"Millicandela Rating\",\"ParameterType\":\"String\",\"ValueId\":\"68312\",\"ValueText\":\"1000mcd\"},{\"ParameterId\":2028,\"ParameterText\":\"Lens Style\",\"ParameterType\":\"String\",\"ValueId\":\"398078\",\"ValueText\":\"Round with Domed Top\"},{\"ParameterId\":2029,\"ParameterText\":\"Lens Size\",\"ParameterType\":\"String\",\"ValueId\":\"170366\",\"ValueText\":\"3.00mm Dia\"},{\"ParameterId\":319,\"ParameterText\":\"Voltage - Forward (Vf) (Typ)\",\"ParameterType\":\"String\",\"ValueId\":\"126943\",\"ValueText\":\"2.2V\"},{\"ParameterId\":543,\"ParameterText\":\"Current - Test\",\"ParameterType\":\"String\",\"ValueId\":\"143056\",\"ValueText\":\"20mA\"},{\"ParameterId\":551,\"ParameterText\":\"Viewing Angle\",\"ParameterType\":\"String\",\"ValueId\":\"181474\",\"ValueText\":\"30\u00b0\"},{\"ParameterId\":69,\"ParameterText\":\"Mounting Type\",\"ParameterType\":\"String\",\"ValueId\":\"411897\",\"ValueText\":\"Through Hole\"},{\"ParameterId\":969,\"ParameterText\":\"Wavelength - Dominant\",\"ParameterType\":\"String\",\"ValueId\":\"247296\",\"ValueText\":\"590nm\"},{\"ParameterId\":968,\"ParameterText\":\"Wavelength - Peak\",\"ParameterType\":\"String\",\"ValueId\":\"246792\",\"ValueText\":\"588nm\"},{\"ParameterId\":5,\"ParameterText\":\"Features\",\"ParameterType\":\"String\",\"ValueId\":\"1\",\"ValueText\":\"-\"},{\"ParameterId\":1977,\"ParameterText\":\"Grade\",\"ParameterType\":\"String\",\"ValueId\":\"1\",\"ValueText\":\"-\"},{\"ParameterId\":2700,\"ParameterText\":\"Qualification\",\"ParameterType\":\"String\",\"ValueId\":\"1\",\"ValueText\":\"-\"},{\"ParameterId\":16,\"ParameterText\":\"Package / Case\",\"ParameterType\":\"String\",\"ValueId\":\"392278\",\"ValueText\":\"Radial\"},{\"ParameterId\":1291,\"ParameterText\":\"Supplier Device Package\",\"ParameterType\":\"String\",\"ValueId\":\"392278\",\"ValueText\":\"Radial\"},{\"ParameterId\":46,\"ParameterText\":\"Size / Dimension\",\"ParameterType\":\"String\",\"ValueId\":\"1\",\"ValueText\":\"-\"},{\"ParameterId\":966,\"ParameterText\":\"Height (Max)\",\"ParameterType\":\"String\",\"ValueId\":\"231601\",\"ValueText\":\"5.30mm\"}],\"BaseProductNumber\":{\"Id\":null,\"Name\":null},\"Category\":{\"CategoryId\":7,\"ParentId\":0,\"Name\":\"Optoelectronics\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/510/MFG_ELI70-CR_tmb%2864x64%29.jpg\",\"SeoDescription\":\"Broadly defined, optoelectronic products are devices that convert electricity to light, and accessory or supporting items such as reflectors or mounting hardware designed for use with such products. It is a diverse product category, including LEDs, fiber optic transmitters and receivers, LCD, OLED, and VFD displays, EL wire, incandescent lamps, lasers, light pipes and xenon flash tubes, among many other product types.\",\"ChildCategories\":[{\"CategoryId\":105,\"ParentId\":7,\"Name\":\"LED Indication - Discrete\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/001/626/HLMP-3507%2CHLMP-3680%2CHLMP-3962_tmb%2864x64%29.jpg\",\"SeoDescription\":\"Light emitting diodes are semiconductor devices that emit light when conducting current. LEDs in this family are single or array configuration for status indication on printed circuit boards. They are differentiated by package/case, wavelength, viewing angle, forward voltage, current rating, millicandela rating, color, and mounting type. Configurations include common anode or cathode and bidirectional.\",\"ChildCategories\":[]}]},\"DateLastBuyChance\":null,\"ManufacturerLeadWeeks\":\"0\",\"ManufacturerPublicQuantity\":0,\"Series\":{\"Id\":41054,\"Name\":\"F3\"},\"ShippingInfo\":null,\"Classifications\":{\"ReachStatus\":\"REACH Unaffected\",\"RohsStatus\":\"RoHS Compliant\",\"MoistureSensitivityLevel\":\"2A  (4 Weeks)\",\"ExportControlClassNumber\":\"EAR99\",\"HtsusCode\":\"8541.41.0000\"},\"OtherNames\":[\"5962-XL-302UYC\"]}],\"FilterOptions\":{\"Manufacturers\":[{\"Id\":5962,\"Value\":\"XINGLIGHT\",\"ProductCount\":1}],\"Packaging\":null,\"Status\":null,\"Series\":null,\"ParametricFilters\":null,\"TopCategories\":null,\"MarketPlaceFilters\":null},\"SearchLocaleUsed\":{\"Site\":\"US\",\"Language\":\"en\",\"Currency\":\"USD\"},\"AppliedParametricFiltersDto\":[]}",
+    "response_json": {
+        "Products": [
+            {
+                "Description": {
+                    "ProductDescription": "DIP LED 3MM YELLOW T/H",
+                    "DetailedDescription": "Yellow 590nm LED Indication - Discrete 2.2V Radial"
+                },
+                "Manufacturer": {
+                    "Id": 5962,
+                    "Name": "XINGLIGHT"
+                },
+                "ManufacturerProductNumber": "XL-302UYC",
+                "UnitPrice": 0.04375,
+                "ProductUrl": "https://www.digikey.com/en/products/detail/xinglight/XL-302UYC/25673314",
+                "DatasheetUrl": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/8903/XL-302UYC.pdf",
+                "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/8812/MFG_5962_XL-302UYC.jpg",
+                "ProductVariations": [
+                    {
+                        "DigiKeyProductNumber": "5962-XL-302UYC-ND",
+                        "PackageType": {
+                            "Id": 62,
+                            "Name": "Bag"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1000,
+                                "UnitPrice": 0.04375,
+                                "TotalPrice": 43.75
+                            },
+                            {
+                                "BreakQuantity": 2000,
+                                "UnitPrice": 0.04156,
+                                "TotalPrice": 83.12
+                            },
+                            {
+                                "BreakQuantity": 3000,
+                                "UnitPrice": 0.03948,
+                                "TotalPrice": 118.44
+                            },
+                            {
+                                "BreakQuantity": 4000,
+                                "UnitPrice": 0.03751,
+                                "TotalPrice": 150.04
+                            },
+                            {
+                                "BreakQuantity": 5000,
+                                "UnitPrice": 0.03563,
+                                "TotalPrice": 178.15
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": true,
+                        "TariffActive": false,
+                        "Supplier": {
+                            "Id": 5962,
+                            "Name": "XINGLIGHT"
+                        },
+                        "QuantityAvailableforPackageType": 20000,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 1000,
+                        "StandardPackage": 1000,
+                        "DigiReelFee": 0.0
+                    }
+                ],
+                "QuantityAvailable": 20000,
+                "ProductStatus": {
+                    "Id": 0,
+                    "Status": "Active"
+                },
+                "BackOrderNotAllowed": true,
+                "NormallyStocking": true,
+                "Discontinued": false,
+                "EndOfLife": false,
+                "Ncnr": false,
+                "PrimaryVideoUrl": "",
+                "Parameters": [
+                    {
+                        "ParameterId": 37,
+                        "ParameterText": "Color",
+                        "ParameterType": "String",
+                        "ValueId": "423204",
+                        "ValueText": "Yellow"
+                    },
+                    {
+                        "ParameterId": 207,
+                        "ParameterText": "Configuration",
+                        "ParameterType": "String",
+                        "ValueId": "358527",
+                        "ValueText": "Independent"
+                    },
+                    {
+                        "ParameterId": 525,
+                        "ParameterText": "Lens Color",
+                        "ParameterType": "String",
+                        "ValueId": "332225",
+                        "ValueText": "Colorless"
+                    },
+                    {
+                        "ParameterId": 1843,
+                        "ParameterText": "Lens Transparency",
+                        "ParameterType": "String",
+                        "ValueId": "338652",
+                        "ValueText": "Diffused"
+                    },
+                    {
+                        "ParameterId": 206,
+                        "ParameterText": "Millicandela Rating",
+                        "ParameterType": "String",
+                        "ValueId": "68312",
+                        "ValueText": "1000mcd"
+                    },
+                    {
+                        "ParameterId": 2028,
+                        "ParameterText": "Lens Style",
+                        "ParameterType": "String",
+                        "ValueId": "398078",
+                        "ValueText": "Round with Domed Top"
+                    },
+                    {
+                        "ParameterId": 2029,
+                        "ParameterText": "Lens Size",
+                        "ParameterType": "String",
+                        "ValueId": "170366",
+                        "ValueText": "3.00mm Dia"
+                    },
+                    {
+                        "ParameterId": 319,
+                        "ParameterText": "Voltage - Forward (Vf) (Typ)",
+                        "ParameterType": "String",
+                        "ValueId": "126943",
+                        "ValueText": "2.2V"
+                    },
+                    {
+                        "ParameterId": 543,
+                        "ParameterText": "Current - Test",
+                        "ParameterType": "String",
+                        "ValueId": "143056",
+                        "ValueText": "20mA"
+                    },
+                    {
+                        "ParameterId": 551,
+                        "ParameterText": "Viewing Angle",
+                        "ParameterType": "String",
+                        "ValueId": "181474",
+                        "ValueText": "30\u00b0"
+                    },
+                    {
+                        "ParameterId": 69,
+                        "ParameterText": "Mounting Type",
+                        "ParameterType": "String",
+                        "ValueId": "411897",
+                        "ValueText": "Through Hole"
+                    },
+                    {
+                        "ParameterId": 969,
+                        "ParameterText": "Wavelength - Dominant",
+                        "ParameterType": "String",
+                        "ValueId": "247296",
+                        "ValueText": "590nm"
+                    },
+                    {
+                        "ParameterId": 968,
+                        "ParameterText": "Wavelength - Peak",
+                        "ParameterType": "String",
+                        "ValueId": "246792",
+                        "ValueText": "588nm"
+                    },
+                    {
+                        "ParameterId": 5,
+                        "ParameterText": "Features",
+                        "ParameterType": "String",
+                        "ValueId": "1",
+                        "ValueText": "-"
+                    },
+                    {
+                        "ParameterId": 1977,
+                        "ParameterText": "Grade",
+                        "ParameterType": "String",
+                        "ValueId": "1",
+                        "ValueText": "-"
+                    },
+                    {
+                        "ParameterId": 2700,
+                        "ParameterText": "Qualification",
+                        "ParameterType": "String",
+                        "ValueId": "1",
+                        "ValueText": "-"
+                    },
+                    {
+                        "ParameterId": 16,
+                        "ParameterText": "Package / Case",
+                        "ParameterType": "String",
+                        "ValueId": "392278",
+                        "ValueText": "Radial"
+                    },
+                    {
+                        "ParameterId": 1291,
+                        "ParameterText": "Supplier Device Package",
+                        "ParameterType": "String",
+                        "ValueId": "392278",
+                        "ValueText": "Radial"
+                    },
+                    {
+                        "ParameterId": 46,
+                        "ParameterText": "Size / Dimension",
+                        "ParameterType": "String",
+                        "ValueId": "1",
+                        "ValueText": "-"
+                    },
+                    {
+                        "ParameterId": 966,
+                        "ParameterText": "Height (Max)",
+                        "ParameterType": "String",
+                        "ValueId": "231601",
+                        "ValueText": "5.30mm"
+                    }
+                ],
+                "BaseProductNumber": {
+                    "Id": null,
+                    "Name": null
+                },
+                "Category": {
+                    "CategoryId": 7,
+                    "ParentId": 0,
+                    "Name": "Optoelectronics",
+                    "ProductCount": 0,
+                    "NewProductCount": 0,
+                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/510/MFG_ELI70-CR_tmb%2864x64%29.jpg",
+                    "SeoDescription": "Broadly defined, optoelectronic products are devices that convert electricity to light, and accessory or supporting items such as reflectors or mounting hardware designed for use with such products. It is a diverse product category, including LEDs, fiber optic transmitters and receivers, LCD, OLED, and VFD displays, EL wire, incandescent lamps, lasers, light pipes and xenon flash tubes, among many other product types.",
+                    "ChildCategories": [
+                        {
+                            "CategoryId": 105,
+                            "ParentId": 7,
+                            "Name": "LED Indication - Discrete",
+                            "ProductCount": 0,
+                            "NewProductCount": 0,
+                            "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/001/626/HLMP-3507%2CHLMP-3680%2CHLMP-3962_tmb%2864x64%29.jpg",
+                            "SeoDescription": "Light emitting diodes are semiconductor devices that emit light when conducting current. LEDs in this family are single or array configuration for status indication on printed circuit boards. They are differentiated by package/case, wavelength, viewing angle, forward voltage, current rating, millicandela rating, color, and mounting type. Configurations include common anode or cathode and bidirectional.",
+                            "ChildCategories": []
+                        }
+                    ]
+                },
+                "DateLastBuyChance": null,
+                "ManufacturerLeadWeeks": "0",
+                "ManufacturerPublicQuantity": 0,
+                "Series": {
+                    "Id": 41054,
+                    "Name": "F3"
+                },
+                "ShippingInfo": null,
+                "Classifications": {
+                    "ReachStatus": "REACH Unaffected",
+                    "RohsStatus": "RoHS Compliant",
+                    "MoistureSensitivityLevel": "2A  (4 Weeks)",
+                    "ExportControlClassNumber": "EAR99",
+                    "HtsusCode": "8541.41.0000"
+                },
+                "OtherNames": [
+                    "5962-XL-302UYC"
+                ]
+            }
+        ],
+        "ProductsCount": 1,
+        "ExactMatches": [
+            {
+                "Description": {
+                    "ProductDescription": "DIP LED 3MM YELLOW T/H",
+                    "DetailedDescription": "Yellow 590nm LED Indication - Discrete 2.2V Radial"
+                },
+                "Manufacturer": {
+                    "Id": 5962,
+                    "Name": "XINGLIGHT"
+                },
+                "ManufacturerProductNumber": "XL-302UYC",
+                "UnitPrice": 0.04375,
+                "ProductUrl": "https://www.digikey.com/en/products/detail/xinglight/XL-302UYC/25673314",
+                "DatasheetUrl": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/8903/XL-302UYC.pdf",
+                "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/8812/MFG_5962_XL-302UYC.jpg",
+                "ProductVariations": [
+                    {
+                        "DigiKeyProductNumber": "5962-XL-302UYC-ND",
+                        "PackageType": {
+                            "Id": 62,
+                            "Name": "Bag"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1000,
+                                "UnitPrice": 0.04375,
+                                "TotalPrice": 43.75
+                            },
+                            {
+                                "BreakQuantity": 2000,
+                                "UnitPrice": 0.04156,
+                                "TotalPrice": 83.12
+                            },
+                            {
+                                "BreakQuantity": 3000,
+                                "UnitPrice": 0.03948,
+                                "TotalPrice": 118.44
+                            },
+                            {
+                                "BreakQuantity": 4000,
+                                "UnitPrice": 0.03751,
+                                "TotalPrice": 150.04
+                            },
+                            {
+                                "BreakQuantity": 5000,
+                                "UnitPrice": 0.03563,
+                                "TotalPrice": 178.15
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": true,
+                        "TariffActive": false,
+                        "Supplier": {
+                            "Id": 5962,
+                            "Name": "XINGLIGHT"
+                        },
+                        "QuantityAvailableforPackageType": 20000,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 1000,
+                        "StandardPackage": 1000,
+                        "DigiReelFee": 0.0
+                    }
+                ],
+                "QuantityAvailable": 20000,
+                "ProductStatus": {
+                    "Id": 0,
+                    "Status": "Active"
+                },
+                "BackOrderNotAllowed": true,
+                "NormallyStocking": true,
+                "Discontinued": false,
+                "EndOfLife": false,
+                "Ncnr": false,
+                "PrimaryVideoUrl": "",
+                "Parameters": [
+                    {
+                        "ParameterId": 37,
+                        "ParameterText": "Color",
+                        "ParameterType": "String",
+                        "ValueId": "423204",
+                        "ValueText": "Yellow"
+                    },
+                    {
+                        "ParameterId": 207,
+                        "ParameterText": "Configuration",
+                        "ParameterType": "String",
+                        "ValueId": "358527",
+                        "ValueText": "Independent"
+                    },
+                    {
+                        "ParameterId": 525,
+                        "ParameterText": "Lens Color",
+                        "ParameterType": "String",
+                        "ValueId": "332225",
+                        "ValueText": "Colorless"
+                    },
+                    {
+                        "ParameterId": 1843,
+                        "ParameterText": "Lens Transparency",
+                        "ParameterType": "String",
+                        "ValueId": "338652",
+                        "ValueText": "Diffused"
+                    },
+                    {
+                        "ParameterId": 206,
+                        "ParameterText": "Millicandela Rating",
+                        "ParameterType": "String",
+                        "ValueId": "68312",
+                        "ValueText": "1000mcd"
+                    },
+                    {
+                        "ParameterId": 2028,
+                        "ParameterText": "Lens Style",
+                        "ParameterType": "String",
+                        "ValueId": "398078",
+                        "ValueText": "Round with Domed Top"
+                    },
+                    {
+                        "ParameterId": 2029,
+                        "ParameterText": "Lens Size",
+                        "ParameterType": "String",
+                        "ValueId": "170366",
+                        "ValueText": "3.00mm Dia"
+                    },
+                    {
+                        "ParameterId": 319,
+                        "ParameterText": "Voltage - Forward (Vf) (Typ)",
+                        "ParameterType": "String",
+                        "ValueId": "126943",
+                        "ValueText": "2.2V"
+                    },
+                    {
+                        "ParameterId": 543,
+                        "ParameterText": "Current - Test",
+                        "ParameterType": "String",
+                        "ValueId": "143056",
+                        "ValueText": "20mA"
+                    },
+                    {
+                        "ParameterId": 551,
+                        "ParameterText": "Viewing Angle",
+                        "ParameterType": "String",
+                        "ValueId": "181474",
+                        "ValueText": "30\u00b0"
+                    },
+                    {
+                        "ParameterId": 69,
+                        "ParameterText": "Mounting Type",
+                        "ParameterType": "String",
+                        "ValueId": "411897",
+                        "ValueText": "Through Hole"
+                    },
+                    {
+                        "ParameterId": 969,
+                        "ParameterText": "Wavelength - Dominant",
+                        "ParameterType": "String",
+                        "ValueId": "247296",
+                        "ValueText": "590nm"
+                    },
+                    {
+                        "ParameterId": 968,
+                        "ParameterText": "Wavelength - Peak",
+                        "ParameterType": "String",
+                        "ValueId": "246792",
+                        "ValueText": "588nm"
+                    },
+                    {
+                        "ParameterId": 5,
+                        "ParameterText": "Features",
+                        "ParameterType": "String",
+                        "ValueId": "1",
+                        "ValueText": "-"
+                    },
+                    {
+                        "ParameterId": 1977,
+                        "ParameterText": "Grade",
+                        "ParameterType": "String",
+                        "ValueId": "1",
+                        "ValueText": "-"
+                    },
+                    {
+                        "ParameterId": 2700,
+                        "ParameterText": "Qualification",
+                        "ParameterType": "String",
+                        "ValueId": "1",
+                        "ValueText": "-"
+                    },
+                    {
+                        "ParameterId": 16,
+                        "ParameterText": "Package / Case",
+                        "ParameterType": "String",
+                        "ValueId": "392278",
+                        "ValueText": "Radial"
+                    },
+                    {
+                        "ParameterId": 1291,
+                        "ParameterText": "Supplier Device Package",
+                        "ParameterType": "String",
+                        "ValueId": "392278",
+                        "ValueText": "Radial"
+                    },
+                    {
+                        "ParameterId": 46,
+                        "ParameterText": "Size / Dimension",
+                        "ParameterType": "String",
+                        "ValueId": "1",
+                        "ValueText": "-"
+                    },
+                    {
+                        "ParameterId": 966,
+                        "ParameterText": "Height (Max)",
+                        "ParameterType": "String",
+                        "ValueId": "231601",
+                        "ValueText": "5.30mm"
+                    }
+                ],
+                "BaseProductNumber": {
+                    "Id": null,
+                    "Name": null
+                },
+                "Category": {
+                    "CategoryId": 7,
+                    "ParentId": 0,
+                    "Name": "Optoelectronics",
+                    "ProductCount": 0,
+                    "NewProductCount": 0,
+                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/510/MFG_ELI70-CR_tmb%2864x64%29.jpg",
+                    "SeoDescription": "Broadly defined, optoelectronic products are devices that convert electricity to light, and accessory or supporting items such as reflectors or mounting hardware designed for use with such products. It is a diverse product category, including LEDs, fiber optic transmitters and receivers, LCD, OLED, and VFD displays, EL wire, incandescent lamps, lasers, light pipes and xenon flash tubes, among many other product types.",
+                    "ChildCategories": [
+                        {
+                            "CategoryId": 105,
+                            "ParentId": 7,
+                            "Name": "LED Indication - Discrete",
+                            "ProductCount": 0,
+                            "NewProductCount": 0,
+                            "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/001/626/HLMP-3507%2CHLMP-3680%2CHLMP-3962_tmb%2864x64%29.jpg",
+                            "SeoDescription": "Light emitting diodes are semiconductor devices that emit light when conducting current. LEDs in this family are single or array configuration for status indication on printed circuit boards. They are differentiated by package/case, wavelength, viewing angle, forward voltage, current rating, millicandela rating, color, and mounting type. Configurations include common anode or cathode and bidirectional.",
+                            "ChildCategories": []
+                        }
+                    ]
+                },
+                "DateLastBuyChance": null,
+                "ManufacturerLeadWeeks": "0",
+                "ManufacturerPublicQuantity": 0,
+                "Series": {
+                    "Id": 41054,
+                    "Name": "F3"
+                },
+                "ShippingInfo": null,
+                "Classifications": {
+                    "ReachStatus": "REACH Unaffected",
+                    "RohsStatus": "RoHS Compliant",
+                    "MoistureSensitivityLevel": "2A  (4 Weeks)",
+                    "ExportControlClassNumber": "EAR99",
+                    "HtsusCode": "8541.41.0000"
+                },
+                "OtherNames": [
+                    "5962-XL-302UYC"
+                ]
+            }
+        ],
+        "FilterOptions": {
+            "Manufacturers": [
+                {
+                    "Id": 5962,
+                    "Value": "XINGLIGHT",
+                    "ProductCount": 1
+                }
+            ],
+            "Packaging": null,
+            "Status": null,
+            "Series": null,
+            "ParametricFilters": null,
+            "TopCategories": null,
+            "MarketPlaceFilters": null
+        },
+        "SearchLocaleUsed": {
+            "Site": "US",
+            "Language": "en",
+            "Currency": "USD"
+        },
+        "AppliedParametricFiltersDto": []
+    }
+}

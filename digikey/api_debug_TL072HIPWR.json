@@ -1,0 +1,776 @@
+{
+    "timestamp": "2026-07-07 14:22:38",
+    "part_number": "TL072HIPWR",
+    "request_payload": {
+        "Keywords": "TL072HIPWR",
+        "SearchOptions": "ManufacturerProductNumber",
+        "RecordCount": 10,
+        "RecordStartPosition": 0,
+        "Sort": {
+            "Option": "SortByDigiKeyPartNumber",
+            "Direction": "Ascending",
+            "SortParameterId": 0
+        },
+        "RequestedQuantity": 0
+    },
+    "status_code": 200,
+    "response_text": "{\"Products\":[{\"Description\":{\"ProductDescription\":\"IC OPAMP JFET 2 CIRCUIT 8TSSOP\",\"DetailedDescription\":\"J-FET Amplifier 2 Circuit Push-Pull 8-TSSOP\"},\"Manufacturer\":{\"Id\":296,\"Name\":\"Texas Instruments\"},\"ManufacturerProductNumber\":\"TL072HIPWR\",\"UnitPrice\":0.35,\"ProductUrl\":\"https://www.digikey.com/en/products/detail/texas-instruments/TL072HIPWR/15212754\",\"DatasheetUrl\":\"https://www.ti.com/lit/ds/symlink/tl071.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1721694323530\",\"PhotoUrl\":\"https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/8899/MFG_296%7E4221848%7EPW%7E8.jpg\",\"ProductVariations\":[{\"DigiKeyProductNumber\":\"296-TL072HIPWRTR-ND\",\"PackageType\":{\"Id\":1,\"Name\":\"Tape & Reel (TR)\"},\"StandardPricing\":[{\"BreakQuantity\":3000,\"UnitPrice\":0.14865,\"TotalPrice\":445.95000},{\"BreakQuantity\":6000,\"UnitPrice\":0.14435,\"TotalPrice\":866.10000},{\"BreakQuantity\":9000,\"UnitPrice\":0.1422,\"TotalPrice\":1279.8000},{\"BreakQuantity\":15000,\"UnitPrice\":0.13982,\"TotalPrice\":2097.30000},{\"BreakQuantity\":21000,\"UnitPrice\":0.13843,\"TotalPrice\":2907.03000},{\"BreakQuantity\":30000,\"UnitPrice\":0.13709,\"TotalPrice\":4112.70000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":296,\"Name\":\"Texas Instruments\"},\"QuantityAvailableforPackageType\":0,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":3000,\"StandardPackage\":3000,\"DigiReelFee\":0.0},{\"DigiKeyProductNumber\":\"296-TL072HIPWRCT-ND\",\"PackageType\":{\"Id\":2,\"Name\":\"Cut Tape (CT)\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":0.35,\"TotalPrice\":0.35},{\"BreakQuantity\":10,\"UnitPrice\":0.245,\"TotalPrice\":2.450},{\"BreakQuantity\":25,\"UnitPrice\":0.2176,\"TotalPrice\":5.4400},{\"BreakQuantity\":100,\"UnitPrice\":0.1874,\"TotalPrice\":18.7400},{\"BreakQuantity\":250,\"UnitPrice\":0.17316,\"TotalPrice\":43.29000},{\"BreakQuantity\":500,\"UnitPrice\":0.16452,\"TotalPrice\":82.26000},{\"BreakQuantity\":1000,\"UnitPrice\":0.15742,\"TotalPrice\":157.42000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":296,\"Name\":\"Texas Instruments\"},\"QuantityAvailableforPackageType\":2758,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":1,\"StandardPackage\":1,\"DigiReelFee\":0.0},{\"DigiKeyProductNumber\":\"296-TL072HIPWRDKR-ND\",\"PackageType\":{\"Id\":243,\"Name\":\"Digi-Reel\u00ae\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":0.35,\"TotalPrice\":0.35},{\"BreakQuantity\":10,\"UnitPrice\":0.245,\"TotalPrice\":2.450},{\"BreakQuantity\":25,\"UnitPrice\":0.2176,\"TotalPrice\":5.4400},{\"BreakQuantity\":100,\"UnitPrice\":0.1874,\"TotalPrice\":18.7400},{\"BreakQuantity\":250,\"UnitPrice\":0.17316,\"TotalPrice\":43.29000},{\"BreakQuantity\":500,\"UnitPrice\":0.16452,\"TotalPrice\":82.26000},{\"BreakQuantity\":1000,\"UnitPrice\":0.15742,\"TotalPrice\":157.42000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":296,\"Name\":\"Texas Instruments\"},\"QuantityAvailableforPackageType\":2758,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":1,\"StandardPackage\":1,\"DigiReelFee\":7.0}],\"QuantityAvailable\":2758,\"ProductStatus\":{\"Id\":0,\"Status\":\"Active\"},\"BackOrderNotAllowed\":false,\"NormallyStocking\":true,\"Discontinued\":false,\"EndOfLife\":false,\"Ncnr\":false,\"PrimaryVideoUrl\":\"\",\"Parameters\":[{\"ParameterId\":161,\"ParameterText\":\"Amplifier Type\",\"ParameterType\":\"String\",\"ValueId\":\"362007\",\"ValueText\":\"J-FET\"},{\"ParameterId\":2094,\"ParameterText\":\"Number of Circuits\",\"ParameterType\":\"Double\",\"ValueId\":\"2\",\"ValueText\":\"2\"},{\"ParameterId\":41,\"ParameterText\":\"Output Type\",\"ParameterType\":\"String\",\"ValueId\":\"390971\",\"ValueText\":\"Push-Pull\"},{\"ParameterId\":511,\"ParameterText\":\"Slew Rate\",\"ParameterType\":\"String\",\"ValueId\":\"143874\",\"ValueText\":\"20V/\u00b5s\"},{\"ParameterId\":658,\"ParameterText\":\"Gain Bandwidth Product\",\"ParameterType\":\"UnitOfMeasure\",\"ValueId\":\"5.25 MHz\",\"ValueText\":\"5.25 MHz\"},{\"ParameterId\":974,\"ParameterText\":\"Current - Input Bias\",\"ParameterType\":\"UnitOfMeasure\",\"ValueId\":\"1 pA\",\"ValueText\":\"1 pA\"},{\"ParameterId\":975,\"ParameterText\":\"Voltage - Input Offset\",\"ParameterType\":\"UnitOfMeasure\",\"ValueId\":\"1 mV\",\"ValueText\":\"1 mV\"},{\"ParameterId\":449,\"ParameterText\":\"Current - Supply\",\"ParameterType\":\"String\",\"ValueId\":\"52927\",\"ValueText\":\"1.4mA\"},{\"ParameterId\":2115,\"ParameterText\":\"Current - Output / Channel\",\"ParameterType\":\"UnitOfMeasure\",\"ValueId\":\"26 mA\",\"ValueText\":\"26 mA\"},{\"ParameterId\":2609,\"ParameterText\":\"Voltage - Supply Span (Min)\",\"ParameterType\":\"UnitOfMeasure\",\"ValueId\":\"4.5 V\",\"ValueText\":\"4.5 V\"},{\"ParameterId\":2610,\"ParameterText\":\"Voltage - Supply Span (Max)\",\"ParameterType\":\"UnitOfMeasure\",\"ValueId\":\"40 V\",\"ValueText\":\"40 V\"},{\"ParameterId\":252,\"ParameterText\":\"Operating Temperature\",\"ParameterType\":\"String\",\"ValueId\":\"212479\",\"ValueText\":\"-40\u00b0C ~ 125\u00b0C (TA)\"},{\"ParameterId\":69,\"ParameterText\":\"Mounting Type\",\"ParameterType\":\"String\",\"ValueId\":\"409393\",\"ValueText\":\"Surface Mount\"},{\"ParameterId\":16,\"ParameterText\":\"Package / Case\",\"ParameterType\":\"String\",\"ValueId\":\"295059\",\"ValueText\":\"8-TSSOP (0.173\\\", 4.40mm Width)\"},{\"ParameterId\":1291,\"ParameterText\":\"Supplier Device Package\",\"ParameterType\":\"String\",\"ValueId\":\"295058\",\"ValueText\":\"8-TSSOP\"}],\"BaseProductNumber\":{\"Id\":null,\"Name\":null},\"Category\":{\"CategoryId\":32,\"ParentId\":0,\"Name\":\"Integrated Circuits (ICs)\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg\",\"SeoDescription\":\"Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.\",\"ChildCategories\":[{\"CategoryId\":2018,\"ParentId\":32,\"Name\":\"Linear\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/030/156/264%7E11-10C4%7E%7E8_tmb.jpg\",\"SeoDescription\":\"Linear circuits and component parameters remain unchanged in regard to voltage and current levels. Included in this category are amplifiers, OP Amps, video amps and modules, analog multipliers, dividers, comparators, video processing, and more.\",\"ChildCategories\":[{\"CategoryId\":2034,\"ParentId\":2018,\"Name\":\"Amplifiers\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/003/125/945/488%7E846A-02%7EDM%2C-CUA%2C-DMR2%2C-RM%7E8_tmb%2864x64%29.jpg\",\"SeoDescription\":\"\",\"ChildCategories\":[{\"CategoryId\":687,\"ParentId\":2034,\"Name\":\"Instrumentation, Op Amps, Buffer Amps\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/200/280/629/296%3B-4040047-5%3B-D%3B-14_tmb.jpg\",\"SeoDescription\":\"Products in this family are used for the reproduction of analog signals with an attendant increase in amplitude, reduction of source impedance, and/or isolation of a signal source from a driven load, as well as performing mathematical operations on analog signals such as summation, negation, integration, etc. Instrumentation amplifiers, chopper stabilized/auto-zero/zero-drift amplifiers, and current feedback types are included.\",\"ChildCategories\":[]}]}]}]},\"DateLastBuyChance\":null,\"ManufacturerLeadWeeks\":\"9\",\"ManufacturerPublicQuantity\":0,\"Series\":{\"Id\":818,\"Name\":\"-\"},\"ShippingInfo\":null,\"Classifications\":{\"ReachStatus\":\"REACH Unknown\",\"RohsStatus\":\"Not Applicable\",\"MoistureSensitivityLevel\":\"1  (Unlimited)\",\"ExportControlClassNumber\":\"EAR99\",\"HtsusCode\":\"8542.33.0001\"},\"OtherNames\":[\"296-TL072HIPWRCT\",\"296-TL072HIPWRDKR\",\"296-TL072HIPWRTR\"]}],\"ProductsCount\":1,\"ExactMatches\":[{\"Description\":{\"ProductDescription\":\"IC OPAMP JFET 2 CIRCUIT 8TSSOP\",\"DetailedDescription\":\"J-FET Amplifier 2 Circuit Push-Pull 8-TSSOP\"},\"Manufacturer\":{\"Id\":296,\"Name\":\"Texas Instruments\"},\"ManufacturerProductNumber\":\"TL072HIPWR\",\"UnitPrice\":0.35,\"ProductUrl\":\"https://www.digikey.com/en/products/detail/texas-instruments/TL072HIPWR/15212754\",\"DatasheetUrl\":\"https://www.ti.com/lit/ds/symlink/tl071.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1721694323530\",\"PhotoUrl\":\"https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/8899/MFG_296%7E4221848%7EPW%7E8.jpg\",\"ProductVariations\":[{\"DigiKeyProductNumber\":\"296-TL072HIPWRTR-ND\",\"PackageType\":{\"Id\":1,\"Name\":\"Tape & Reel (TR)\"},\"StandardPricing\":[{\"BreakQuantity\":3000,\"UnitPrice\":0.14865,\"TotalPrice\":445.95000},{\"BreakQuantity\":6000,\"UnitPrice\":0.14435,\"TotalPrice\":866.10000},{\"BreakQuantity\":9000,\"UnitPrice\":0.1422,\"TotalPrice\":1279.8000},{\"BreakQuantity\":15000,\"UnitPrice\":0.13982,\"TotalPrice\":2097.30000},{\"BreakQuantity\":21000,\"UnitPrice\":0.13843,\"TotalPrice\":2907.03000},{\"BreakQuantity\":30000,\"UnitPrice\":0.13709,\"TotalPrice\":4112.70000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":296,\"Name\":\"Texas Instruments\"},\"QuantityAvailableforPackageType\":0,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":3000,\"StandardPackage\":3000,\"DigiReelFee\":0.0},{\"DigiKeyProductNumber\":\"296-TL072HIPWRCT-ND\",\"PackageType\":{\"Id\":2,\"Name\":\"Cut Tape (CT)\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":0.35,\"TotalPrice\":0.35},{\"BreakQuantity\":10,\"UnitPrice\":0.245,\"TotalPrice\":2.450},{\"BreakQuantity\":25,\"UnitPrice\":0.2176,\"TotalPrice\":5.4400},{\"BreakQuantity\":100,\"UnitPrice\":0.1874,\"TotalPrice\":18.7400},{\"BreakQuantity\":250,\"UnitPrice\":0.17316,\"TotalPrice\":43.29000},{\"BreakQuantity\":500,\"UnitPrice\":0.16452,\"TotalPrice\":82.26000},{\"BreakQuantity\":1000,\"UnitPrice\":0.15742,\"TotalPrice\":157.42000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":296,\"Name\":\"Texas Instruments\"},\"QuantityAvailableforPackageType\":2758,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":1,\"StandardPackage\":1,\"DigiReelFee\":0.0},{\"DigiKeyProductNumber\":\"296-TL072HIPWRDKR-ND\",\"PackageType\":{\"Id\":243,\"Name\":\"Digi-Reel\u00ae\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":0.35,\"TotalPrice\":0.35},{\"BreakQuantity\":10,\"UnitPrice\":0.245,\"TotalPrice\":2.450},{\"BreakQuantity\":25,\"UnitPrice\":0.2176,\"TotalPrice\":5.4400},{\"BreakQuantity\":100,\"UnitPrice\":0.1874,\"TotalPrice\":18.7400},{\"BreakQuantity\":250,\"UnitPrice\":0.17316,\"TotalPrice\":43.29000},{\"BreakQuantity\":500,\"UnitPrice\":0.16452,\"TotalPrice\":82.26000},{\"BreakQuantity\":1000,\"UnitPrice\":0.15742,\"TotalPrice\":157.42000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":296,\"Name\":\"Texas Instruments\"},\"QuantityAvailableforPackageType\":2758,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":1,\"StandardPackage\":1,\"DigiReelFee\":7.0}],\"QuantityAvailable\":2758,\"ProductStatus\":{\"Id\":0,\"Status\":\"Active\"},\"BackOrderNotAllowed\":false,\"NormallyStocking\":true,\"Discontinued\":false,\"EndOfLife\":false,\"Ncnr\":false,\"PrimaryVideoUrl\":\"\",\"Parameters\":[{\"ParameterId\":161,\"ParameterText\":\"Amplifier Type\",\"ParameterType\":\"String\",\"ValueId\":\"362007\",\"ValueText\":\"J-FET\"},{\"ParameterId\":2094,\"ParameterText\":\"Number of Circuits\",\"ParameterType\":\"Double\",\"ValueId\":\"2\",\"ValueText\":\"2\"},{\"ParameterId\":41,\"ParameterText\":\"Output Type\",\"ParameterType\":\"String\",\"ValueId\":\"390971\",\"ValueText\":\"Push-Pull\"},{\"ParameterId\":511,\"ParameterText\":\"Slew Rate\",\"ParameterType\":\"String\",\"ValueId\":\"143874\",\"ValueText\":\"20V/\u00b5s\"},{\"ParameterId\":658,\"ParameterText\":\"Gain Bandwidth Product\",\"ParameterType\":\"UnitOfMeasure\",\"ValueId\":\"5.25 MHz\",\"ValueText\":\"5.25 MHz\"},{\"ParameterId\":974,\"ParameterText\":\"Current - Input Bias\",\"ParameterType\":\"UnitOfMeasure\",\"ValueId\":\"1 pA\",\"ValueText\":\"1 pA\"},{\"ParameterId\":975,\"ParameterText\":\"Voltage - Input Offset\",\"ParameterType\":\"UnitOfMeasure\",\"ValueId\":\"1 mV\",\"ValueText\":\"1 mV\"},{\"ParameterId\":449,\"ParameterText\":\"Current - Supply\",\"ParameterType\":\"String\",\"ValueId\":\"52927\",\"ValueText\":\"1.4mA\"},{\"ParameterId\":2115,\"ParameterText\":\"Current - Output / Channel\",\"ParameterType\":\"UnitOfMeasure\",\"ValueId\":\"26 mA\",\"ValueText\":\"26 mA\"},{\"ParameterId\":2609,\"ParameterText\":\"Voltage - Supply Span (Min)\",\"ParameterType\":\"UnitOfMeasure\",\"ValueId\":\"4.5 V\",\"ValueText\":\"4.5 V\"},{\"ParameterId\":2610,\"ParameterText\":\"Voltage - Supply Span (Max)\",\"ParameterType\":\"UnitOfMeasure\",\"ValueId\":\"40 V\",\"ValueText\":\"40 V\"},{\"ParameterId\":252,\"ParameterText\":\"Operating Temperature\",\"ParameterType\":\"String\",\"ValueId\":\"212479\",\"ValueText\":\"-40\u00b0C ~ 125\u00b0C (TA)\"},{\"ParameterId\":69,\"ParameterText\":\"Mounting Type\",\"ParameterType\":\"String\",\"ValueId\":\"409393\",\"ValueText\":\"Surface Mount\"},{\"ParameterId\":16,\"ParameterText\":\"Package / Case\",\"ParameterType\":\"String\",\"ValueId\":\"295059\",\"ValueText\":\"8-TSSOP (0.173\\\", 4.40mm Width)\"},{\"ParameterId\":1291,\"ParameterText\":\"Supplier Device Package\",\"ParameterType\":\"String\",\"ValueId\":\"295058\",\"ValueText\":\"8-TSSOP\"}],\"BaseProductNumber\":{\"Id\":null,\"Name\":null},\"Category\":{\"CategoryId\":32,\"ParentId\":0,\"Name\":\"Integrated Circuits (ICs)\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg\",\"SeoDescription\":\"Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.\",\"ChildCategories\":[{\"CategoryId\":2018,\"ParentId\":32,\"Name\":\"Linear\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/030/156/264%7E11-10C4%7E%7E8_tmb.jpg\",\"SeoDescription\":\"Linear circuits and component parameters remain unchanged in regard to voltage and current levels. Included in this category are amplifiers, OP Amps, video amps and modules, analog multipliers, dividers, comparators, video processing, and more.\",\"ChildCategories\":[{\"CategoryId\":2034,\"ParentId\":2018,\"Name\":\"Amplifiers\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/003/125/945/488%7E846A-02%7EDM%2C-CUA%2C-DMR2%2C-RM%7E8_tmb%2864x64%29.jpg\",\"SeoDescription\":\"\",\"ChildCategories\":[{\"CategoryId\":687,\"ParentId\":2034,\"Name\":\"Instrumentation, Op Amps, Buffer Amps\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/200/280/629/296%3B-4040047-5%3B-D%3B-14_tmb.jpg\",\"SeoDescription\":\"Products in this family are used for the reproduction of analog signals with an attendant increase in amplitude, reduction of source impedance, and/or isolation of a signal source from a driven load, as well as performing mathematical operations on analog signals such as summation, negation, integration, etc. Instrumentation amplifiers, chopper stabilized/auto-zero/zero-drift amplifiers, and current feedback types are included.\",\"ChildCategories\":[]}]}]}]},\"DateLastBuyChance\":null,\"ManufacturerLeadWeeks\":\"9\",\"ManufacturerPublicQuantity\":0,\"Series\":{\"Id\":818,\"Name\":\"-\"},\"ShippingInfo\":null,\"Classifications\":{\"ReachStatus\":\"REACH Unknown\",\"RohsStatus\":\"Not Applicable\",\"MoistureSensitivityLevel\":\"1  (Unlimited)\",\"ExportControlClassNumber\":\"EAR99\",\"HtsusCode\":\"8542.33.0001\"},\"OtherNames\":[\"296-TL072HIPWRCT\",\"296-TL072HIPWRDKR\",\"296-TL072HIPWRTR\"]}],\"FilterOptions\":{\"Manufacturers\":[{\"Id\":296,\"Value\":\"Texas Instruments\",\"ProductCount\":1}],\"Packaging\":null,\"Status\":null,\"Series\":null,\"ParametricFilters\":null,\"TopCategories\":null,\"MarketPlaceFilters\":null},\"SearchLocaleUsed\":{\"Site\":\"US\",\"Language\":\"en\",\"Currency\":\"USD\"},\"AppliedParametricFiltersDto\":[]}",
+    "response_json": {
+        "Products": [
+            {
+                "Description": {
+                    "ProductDescription": "IC OPAMP JFET 2 CIRCUIT 8TSSOP",
+                    "DetailedDescription": "J-FET Amplifier 2 Circuit Push-Pull 8-TSSOP"
+                },
+                "Manufacturer": {
+                    "Id": 296,
+                    "Name": "Texas Instruments"
+                },
+                "ManufacturerProductNumber": "TL072HIPWR",
+                "UnitPrice": 0.35,
+                "ProductUrl": "https://www.digikey.com/en/products/detail/texas-instruments/TL072HIPWR/15212754",
+                "DatasheetUrl": "https://www.ti.com/lit/ds/symlink/tl071.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1721694323530",
+                "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/8899/MFG_296%7E4221848%7EPW%7E8.jpg",
+                "ProductVariations": [
+                    {
+                        "DigiKeyProductNumber": "296-TL072HIPWRTR-ND",
+                        "PackageType": {
+                            "Id": 1,
+                            "Name": "Tape & Reel (TR)"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 3000,
+                                "UnitPrice": 0.14865,
+                                "TotalPrice": 445.95
+                            },
+                            {
+                                "BreakQuantity": 6000,
+                                "UnitPrice": 0.14435,
+                                "TotalPrice": 866.1
+                            },
+                            {
+                                "BreakQuantity": 9000,
+                                "UnitPrice": 0.1422,
+                                "TotalPrice": 1279.8
+                            },
+                            {
+                                "BreakQuantity": 15000,
+                                "UnitPrice": 0.13982,
+                                "TotalPrice": 2097.3
+                            },
+                            {
+                                "BreakQuantity": 21000,
+                                "UnitPrice": 0.13843,
+                                "TotalPrice": 2907.03
+                            },
+                            {
+                                "BreakQuantity": 30000,
+                                "UnitPrice": 0.13709,
+                                "TotalPrice": 4112.7
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 296,
+                            "Name": "Texas Instruments"
+                        },
+                        "QuantityAvailableforPackageType": 0,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 3000,
+                        "StandardPackage": 3000,
+                        "DigiReelFee": 0.0
+                    },
+                    {
+                        "DigiKeyProductNumber": "296-TL072HIPWRCT-ND",
+                        "PackageType": {
+                            "Id": 2,
+                            "Name": "Cut Tape (CT)"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 0.35,
+                                "TotalPrice": 0.35
+                            },
+                            {
+                                "BreakQuantity": 10,
+                                "UnitPrice": 0.245,
+                                "TotalPrice": 2.45
+                            },
+                            {
+                                "BreakQuantity": 25,
+                                "UnitPrice": 0.2176,
+                                "TotalPrice": 5.44
+                            },
+                            {
+                                "BreakQuantity": 100,
+                                "UnitPrice": 0.1874,
+                                "TotalPrice": 18.74
+                            },
+                            {
+                                "BreakQuantity": 250,
+                                "UnitPrice": 0.17316,
+                                "TotalPrice": 43.29
+                            },
+                            {
+                                "BreakQuantity": 500,
+                                "UnitPrice": 0.16452,
+                                "TotalPrice": 82.26
+                            },
+                            {
+                                "BreakQuantity": 1000,
+                                "UnitPrice": 0.15742,
+                                "TotalPrice": 157.42
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 296,
+                            "Name": "Texas Instruments"
+                        },
+                        "QuantityAvailableforPackageType": 2758,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 1,
+                        "DigiReelFee": 0.0
+                    },
+                    {
+                        "DigiKeyProductNumber": "296-TL072HIPWRDKR-ND",
+                        "PackageType": {
+                            "Id": 243,
+                            "Name": "Digi-Reel\u00ae"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 0.35,
+                                "TotalPrice": 0.35
+                            },
+                            {
+                                "BreakQuantity": 10,
+                                "UnitPrice": 0.245,
+                                "TotalPrice": 2.45
+                            },
+                            {
+                                "BreakQuantity": 25,
+                                "UnitPrice": 0.2176,
+                                "TotalPrice": 5.44
+                            },
+                            {
+                                "BreakQuantity": 100,
+                                "UnitPrice": 0.1874,
+                                "TotalPrice": 18.74
+                            },
+                            {
+                                "BreakQuantity": 250,
+                                "UnitPrice": 0.17316,
+                                "TotalPrice": 43.29
+                            },
+                            {
+                                "BreakQuantity": 500,
+                                "UnitPrice": 0.16452,
+                                "TotalPrice": 82.26
+                            },
+                            {
+                                "BreakQuantity": 1000,
+                                "UnitPrice": 0.15742,
+                                "TotalPrice": 157.42
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 296,
+                            "Name": "Texas Instruments"
+                        },
+                        "QuantityAvailableforPackageType": 2758,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 1,
+                        "DigiReelFee": 7.0
+                    }
+                ],
+                "QuantityAvailable": 2758,
+                "ProductStatus": {
+                    "Id": 0,
+                    "Status": "Active"
+                },
+                "BackOrderNotAllowed": false,
+                "NormallyStocking": true,
+                "Discontinued": false,
+                "EndOfLife": false,
+                "Ncnr": false,
+                "PrimaryVideoUrl": "",
+                "Parameters": [
+                    {
+                        "ParameterId": 161,
+                        "ParameterText": "Amplifier Type",
+                        "ParameterType": "String",
+                        "ValueId": "362007",
+                        "ValueText": "J-FET"
+                    },
+                    {
+                        "ParameterId": 2094,
+                        "ParameterText": "Number of Circuits",
+                        "ParameterType": "Double",
+                        "ValueId": "2",
+                        "ValueText": "2"
+                    },
+                    {
+                        "ParameterId": 41,
+                        "ParameterText": "Output Type",
+                        "ParameterType": "String",
+                        "ValueId": "390971",
+                        "ValueText": "Push-Pull"
+                    },
+                    {
+                        "ParameterId": 511,
+                        "ParameterText": "Slew Rate",
+                        "ParameterType": "String",
+                        "ValueId": "143874",
+                        "ValueText": "20V/\u00b5s"
+                    },
+                    {
+                        "ParameterId": 658,
+                        "ParameterText": "Gain Bandwidth Product",
+                        "ParameterType": "UnitOfMeasure",
+                        "ValueId": "5.25 MHz",
+                        "ValueText": "5.25 MHz"
+                    },
+                    {
+                        "ParameterId": 974,
+                        "ParameterText": "Current - Input Bias",
+                        "ParameterType": "UnitOfMeasure",
+                        "ValueId": "1 pA",
+                        "ValueText": "1 pA"
+                    },
+                    {
+                        "ParameterId": 975,
+                        "ParameterText": "Voltage - Input Offset",
+                        "ParameterType": "UnitOfMeasure",
+                        "ValueId": "1 mV",
+                        "ValueText": "1 mV"
+                    },
+                    {
+                        "ParameterId": 449,
+                        "ParameterText": "Current - Supply",
+                        "ParameterType": "String",
+                        "ValueId": "52927",
+                        "ValueText": "1.4mA"
+                    },
+                    {
+                        "ParameterId": 2115,
+                        "ParameterText": "Current - Output / Channel",
+                        "ParameterType": "UnitOfMeasure",
+                        "ValueId": "26 mA",
+                        "ValueText": "26 mA"
+                    },
+                    {
+                        "ParameterId": 2609,
+                        "ParameterText": "Voltage - Supply Span (Min)",
+                        "ParameterType": "UnitOfMeasure",
+                        "ValueId": "4.5 V",
+                        "ValueText": "4.5 V"
+                    },
+                    {
+                        "ParameterId": 2610,
+                        "ParameterText": "Voltage - Supply Span (Max)",
+                        "ParameterType": "UnitOfMeasure",
+                        "ValueId": "40 V",
+                        "ValueText": "40 V"
+                    },
+                    {
+                        "ParameterId": 252,
+                        "ParameterText": "Operating Temperature",
+                        "ParameterType": "String",
+                        "ValueId": "212479",
+                        "ValueText": "-40\u00b0C ~ 125\u00b0C (TA)"
+                    },
+                    {
+                        "ParameterId": 69,
+                        "ParameterText": "Mounting Type",
+                        "ParameterType": "String",
+                        "ValueId": "409393",
+                        "ValueText": "Surface Mount"
+                    },
+                    {
+                        "ParameterId": 16,
+                        "ParameterText": "Package / Case",
+                        "ParameterType": "String",
+                        "ValueId": "295059",
+                        "ValueText": "8-TSSOP (0.173\", 4.40mm Width)"
+                    },
+                    {
+                        "ParameterId": 1291,
+                        "ParameterText": "Supplier Device Package",
+                        "ParameterType": "String",
+                        "ValueId": "295058",
+                        "ValueText": "8-TSSOP"
+                    }
+                ],
+                "BaseProductNumber": {
+                    "Id": null,
+                    "Name": null
+                },
+                "Category": {
+                    "CategoryId": 32,
+                    "ParentId": 0,
+                    "Name": "Integrated Circuits (ICs)",
+                    "ProductCount": 0,
+                    "NewProductCount": 0,
+                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+                    "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+                    "ChildCategories": [
+                        {
+                            "CategoryId": 2018,
+                            "ParentId": 32,
+                            "Name": "Linear",
+                            "ProductCount": 0,
+                            "NewProductCount": 0,
+                            "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/030/156/264%7E11-10C4%7E%7E8_tmb.jpg",
+                            "SeoDescription": "Linear circuits and component parameters remain unchanged in regard to voltage and current levels. Included in this category are amplifiers, OP Amps, video amps and modules, analog multipliers, dividers, comparators, video processing, and more.",
+                            "ChildCategories": [
+                                {
+                                    "CategoryId": 2034,
+                                    "ParentId": 2018,
+                                    "Name": "Amplifiers",
+                                    "ProductCount": 0,
+                                    "NewProductCount": 0,
+                                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/003/125/945/488%7E846A-02%7EDM%2C-CUA%2C-DMR2%2C-RM%7E8_tmb%2864x64%29.jpg",
+                                    "SeoDescription": "",
+                                    "ChildCategories": [
+                                        {
+                                            "CategoryId": 687,
+                                            "ParentId": 2034,
+                                            "Name": "Instrumentation, Op Amps, Buffer Amps",
+                                            "ProductCount": 0,
+                                            "NewProductCount": 0,
+                                            "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/200/280/629/296%3B-4040047-5%3B-D%3B-14_tmb.jpg",
+                                            "SeoDescription": "Products in this family are used for the reproduction of analog signals with an attendant increase in amplitude, reduction of source impedance, and/or isolation of a signal source from a driven load, as well as performing mathematical operations on analog signals such as summation, negation, integration, etc. Instrumentation amplifiers, chopper stabilized/auto-zero/zero-drift amplifiers, and current feedback types are included.",
+                                            "ChildCategories": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "DateLastBuyChance": null,
+                "ManufacturerLeadWeeks": "9",
+                "ManufacturerPublicQuantity": 0,
+                "Series": {
+                    "Id": 818,
+                    "Name": "-"
+                },
+                "ShippingInfo": null,
+                "Classifications": {
+                    "ReachStatus": "REACH Unknown",
+                    "RohsStatus": "Not Applicable",
+                    "MoistureSensitivityLevel": "1  (Unlimited)",
+                    "ExportControlClassNumber": "EAR99",
+                    "HtsusCode": "8542.33.0001"
+                },
+                "OtherNames": [
+                    "296-TL072HIPWRCT",
+                    "296-TL072HIPWRDKR",
+                    "296-TL072HIPWRTR"
+                ]
+            }
+        ],
+        "ProductsCount": 1,
+        "ExactMatches": [
+            {
+                "Description": {
+                    "ProductDescription": "IC OPAMP JFET 2 CIRCUIT 8TSSOP",
+                    "DetailedDescription": "J-FET Amplifier 2 Circuit Push-Pull 8-TSSOP"
+                },
+                "Manufacturer": {
+                    "Id": 296,
+                    "Name": "Texas Instruments"
+                },
+                "ManufacturerProductNumber": "TL072HIPWR",
+                "UnitPrice": 0.35,
+                "ProductUrl": "https://www.digikey.com/en/products/detail/texas-instruments/TL072HIPWR/15212754",
+                "DatasheetUrl": "https://www.ti.com/lit/ds/symlink/tl071.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1721694323530",
+                "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/8899/MFG_296%7E4221848%7EPW%7E8.jpg",
+                "ProductVariations": [
+                    {
+                        "DigiKeyProductNumber": "296-TL072HIPWRTR-ND",
+                        "PackageType": {
+                            "Id": 1,
+                            "Name": "Tape & Reel (TR)"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 3000,
+                                "UnitPrice": 0.14865,
+                                "TotalPrice": 445.95
+                            },
+                            {
+                                "BreakQuantity": 6000,
+                                "UnitPrice": 0.14435,
+                                "TotalPrice": 866.1
+                            },
+                            {
+                                "BreakQuantity": 9000,
+                                "UnitPrice": 0.1422,
+                                "TotalPrice": 1279.8
+                            },
+                            {
+                                "BreakQuantity": 15000,
+                                "UnitPrice": 0.13982,
+                                "TotalPrice": 2097.3
+                            },
+                            {
+                                "BreakQuantity": 21000,
+                                "UnitPrice": 0.13843,
+                                "TotalPrice": 2907.03
+                            },
+                            {
+                                "BreakQuantity": 30000,
+                                "UnitPrice": 0.13709,
+                                "TotalPrice": 4112.7
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 296,
+                            "Name": "Texas Instruments"
+                        },
+                        "QuantityAvailableforPackageType": 0,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 3000,
+                        "StandardPackage": 3000,
+                        "DigiReelFee": 0.0
+                    },
+                    {
+                        "DigiKeyProductNumber": "296-TL072HIPWRCT-ND",
+                        "PackageType": {
+                            "Id": 2,
+                            "Name": "Cut Tape (CT)"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 0.35,
+                                "TotalPrice": 0.35
+                            },
+                            {
+                                "BreakQuantity": 10,
+                                "UnitPrice": 0.245,
+                                "TotalPrice": 2.45
+                            },
+                            {
+                                "BreakQuantity": 25,
+                                "UnitPrice": 0.2176,
+                                "TotalPrice": 5.44
+                            },
+                            {
+                                "BreakQuantity": 100,
+                                "UnitPrice": 0.1874,
+                                "TotalPrice": 18.74
+                            },
+                            {
+                                "BreakQuantity": 250,
+                                "UnitPrice": 0.17316,
+                                "TotalPrice": 43.29
+                            },
+                            {
+                                "BreakQuantity": 500,
+                                "UnitPrice": 0.16452,
+                                "TotalPrice": 82.26
+                            },
+                            {
+                                "BreakQuantity": 1000,
+                                "UnitPrice": 0.15742,
+                                "TotalPrice": 157.42
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 296,
+                            "Name": "Texas Instruments"
+                        },
+                        "QuantityAvailableforPackageType": 2758,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 1,
+                        "DigiReelFee": 0.0
+                    },
+                    {
+                        "DigiKeyProductNumber": "296-TL072HIPWRDKR-ND",
+                        "PackageType": {
+                            "Id": 243,
+                            "Name": "Digi-Reel\u00ae"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 0.35,
+                                "TotalPrice": 0.35
+                            },
+                            {
+                                "BreakQuantity": 10,
+                                "UnitPrice": 0.245,
+                                "TotalPrice": 2.45
+                            },
+                            {
+                                "BreakQuantity": 25,
+                                "UnitPrice": 0.2176,
+                                "TotalPrice": 5.44
+                            },
+                            {
+                                "BreakQuantity": 100,
+                                "UnitPrice": 0.1874,
+                                "TotalPrice": 18.74
+                            },
+                            {
+                                "BreakQuantity": 250,
+                                "UnitPrice": 0.17316,
+                                "TotalPrice": 43.29
+                            },
+                            {
+                                "BreakQuantity": 500,
+                                "UnitPrice": 0.16452,
+                                "TotalPrice": 82.26
+                            },
+                            {
+                                "BreakQuantity": 1000,
+                                "UnitPrice": 0.15742,
+                                "TotalPrice": 157.42
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 296,
+                            "Name": "Texas Instruments"
+                        },
+                        "QuantityAvailableforPackageType": 2758,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 1,
+                        "DigiReelFee": 7.0
+                    }
+                ],
+                "QuantityAvailable": 2758,
+                "ProductStatus": {
+                    "Id": 0,
+                    "Status": "Active"
+                },
+                "BackOrderNotAllowed": false,
+                "NormallyStocking": true,
+                "Discontinued": false,
+                "EndOfLife": false,
+                "Ncnr": false,
+                "PrimaryVideoUrl": "",
+                "Parameters": [
+                    {
+                        "ParameterId": 161,
+                        "ParameterText": "Amplifier Type",
+                        "ParameterType": "String",
+                        "ValueId": "362007",
+                        "ValueText": "J-FET"
+                    },
+                    {
+                        "ParameterId": 2094,
+                        "ParameterText": "Number of Circuits",
+                        "ParameterType": "Double",
+                        "ValueId": "2",
+                        "ValueText": "2"
+                    },
+                    {
+                        "ParameterId": 41,
+                        "ParameterText": "Output Type",
+                        "ParameterType": "String",
+                        "ValueId": "390971",
+                        "ValueText": "Push-Pull"
+                    },
+                    {
+                        "ParameterId": 511,
+                        "ParameterText": "Slew Rate",
+                        "ParameterType": "String",
+                        "ValueId": "143874",
+                        "ValueText": "20V/\u00b5s"
+                    },
+                    {
+                        "ParameterId": 658,
+                        "ParameterText": "Gain Bandwidth Product",
+                        "ParameterType": "UnitOfMeasure",
+                        "ValueId": "5.25 MHz",
+                        "ValueText": "5.25 MHz"
+                    },
+                    {
+                        "ParameterId": 974,
+                        "ParameterText": "Current - Input Bias",
+                        "ParameterType": "UnitOfMeasure",
+                        "ValueId": "1 pA",
+                        "ValueText": "1 pA"
+                    },
+                    {
+                        "ParameterId": 975,
+                        "ParameterText": "Voltage - Input Offset",
+                        "ParameterType": "UnitOfMeasure",
+                        "ValueId": "1 mV",
+                        "ValueText": "1 mV"
+                    },
+                    {
+                        "ParameterId": 449,
+                        "ParameterText": "Current - Supply",
+                        "ParameterType": "String",
+                        "ValueId": "52927",
+                        "ValueText": "1.4mA"
+                    },
+                    {
+                        "ParameterId": 2115,
+                        "ParameterText": "Current - Output / Channel",
+                        "ParameterType": "UnitOfMeasure",
+                        "ValueId": "26 mA",
+                        "ValueText": "26 mA"
+                    },
+                    {
+                        "ParameterId": 2609,
+                        "ParameterText": "Voltage - Supply Span (Min)",
+                        "ParameterType": "UnitOfMeasure",
+                        "ValueId": "4.5 V",
+                        "ValueText": "4.5 V"
+                    },
+                    {
+                        "ParameterId": 2610,
+                        "ParameterText": "Voltage - Supply Span (Max)",
+                        "ParameterType": "UnitOfMeasure",
+                        "ValueId": "40 V",
+                        "ValueText": "40 V"
+                    },
+                    {
+                        "ParameterId": 252,
+                        "ParameterText": "Operating Temperature",
+                        "ParameterType": "String",
+                        "ValueId": "212479",
+                        "ValueText": "-40\u00b0C ~ 125\u00b0C (TA)"
+                    },
+                    {
+                        "ParameterId": 69,
+                        "ParameterText": "Mounting Type",
+                        "ParameterType": "String",
+                        "ValueId": "409393",
+                        "ValueText": "Surface Mount"
+                    },
+                    {
+                        "ParameterId": 16,
+                        "ParameterText": "Package / Case",
+                        "ParameterType": "String",
+                        "ValueId": "295059",
+                        "ValueText": "8-TSSOP (0.173\", 4.40mm Width)"
+                    },
+                    {
+                        "ParameterId": 1291,
+                        "ParameterText": "Supplier Device Package",
+                        "ParameterType": "String",
+                        "ValueId": "295058",
+                        "ValueText": "8-TSSOP"
+                    }
+                ],
+                "BaseProductNumber": {
+                    "Id": null,
+                    "Name": null
+                },
+                "Category": {
+                    "CategoryId": 32,
+                    "ParentId": 0,
+                    "Name": "Integrated Circuits (ICs)",
+                    "ProductCount": 0,
+                    "NewProductCount": 0,
+                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+                    "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+                    "ChildCategories": [
+                        {
+                            "CategoryId": 2018,
+                            "ParentId": 32,
+                            "Name": "Linear",
+                            "ProductCount": 0,
+                            "NewProductCount": 0,
+                            "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/030/156/264%7E11-10C4%7E%7E8_tmb.jpg",
+                            "SeoDescription": "Linear circuits and component parameters remain unchanged in regard to voltage and current levels. Included in this category are amplifiers, OP Amps, video amps and modules, analog multipliers, dividers, comparators, video processing, and more.",
+                            "ChildCategories": [
+                                {
+                                    "CategoryId": 2034,
+                                    "ParentId": 2018,
+                                    "Name": "Amplifiers",
+                                    "ProductCount": 0,
+                                    "NewProductCount": 0,
+                                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/003/125/945/488%7E846A-02%7EDM%2C-CUA%2C-DMR2%2C-RM%7E8_tmb%2864x64%29.jpg",
+                                    "SeoDescription": "",
+                                    "ChildCategories": [
+                                        {
+                                            "CategoryId": 687,
+                                            "ParentId": 2034,
+                                            "Name": "Instrumentation, Op Amps, Buffer Amps",
+                                            "ProductCount": 0,
+                                            "NewProductCount": 0,
+                                            "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/200/280/629/296%3B-4040047-5%3B-D%3B-14_tmb.jpg",
+                                            "SeoDescription": "Products in this family are used for the reproduction of analog signals with an attendant increase in amplitude, reduction of source impedance, and/or isolation of a signal source from a driven load, as well as performing mathematical operations on analog signals such as summation, negation, integration, etc. Instrumentation amplifiers, chopper stabilized/auto-zero/zero-drift amplifiers, and current feedback types are included.",
+                                            "ChildCategories": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "DateLastBuyChance": null,
+                "ManufacturerLeadWeeks": "9",
+                "ManufacturerPublicQuantity": 0,
+                "Series": {
+                    "Id": 818,
+                    "Name": "-"
+                },
+                "ShippingInfo": null,
+                "Classifications": {
+                    "ReachStatus": "REACH Unknown",
+                    "RohsStatus": "Not Applicable",
+                    "MoistureSensitivityLevel": "1  (Unlimited)",
+                    "ExportControlClassNumber": "EAR99",
+                    "HtsusCode": "8542.33.0001"
+                },
+                "OtherNames": [
+                    "296-TL072HIPWRCT",
+                    "296-TL072HIPWRDKR",
+                    "296-TL072HIPWRTR"
+                ]
+            }
+        ],
+        "FilterOptions": {
+            "Manufacturers": [
+                {
+                    "Id": 296,
+                    "Value": "Texas Instruments",
+                    "ProductCount": 1
+                }
+            ],
+            "Packaging": null,
+            "Status": null,
+            "Series": null,
+            "ParametricFilters": null,
+            "TopCategories": null,
+            "MarketPlaceFilters": null
+        },
+        "SearchLocaleUsed": {
+            "Site": "US",
+            "Language": "en",
+            "Currency": "USD"
+        },
+        "AppliedParametricFiltersDto": []
+    }
+}

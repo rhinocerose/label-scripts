@@ -1,0 +1,30 @@
+{
+    "timestamp": "2026-07-07 14:23:12",
+    "part_number": "AONR21307-TP",
+    "request_payload": {
+        "Keywords": "AONR21307-TP",
+        "SearchOptions": "ManufacturerProductNumber",
+        "RecordCount": 10,
+        "RecordStartPosition": 0,
+        "Sort": {
+            "Option": "SortByDigiKeyPartNumber",
+            "Direction": "Ascending",
+            "SortParameterId": 0
+        },
+        "RequestedQuantity": 0
+    },
+    "status_code": 200,
+    "response_text": "{\"Products\":[],\"ProductsCount\":0,\"ExactMatches\":[],\"FilterOptions\":null,\"SearchLocaleUsed\":{\"Site\":\"US\",\"Language\":\"en\",\"Currency\":\"USD\"},\"AppliedParametricFiltersDto\":null}",
+    "response_json": {
+        "Products": [],
+        "ProductsCount": 0,
+        "ExactMatches": [],
+        "FilterOptions": null,
+        "SearchLocaleUsed": {
+            "Site": "US",
+            "Language": "en",
+            "Currency": "USD"
+        },
+        "AppliedParametricFiltersDto": null
+    }
+}

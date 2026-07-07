@@ -1,0 +1,674 @@
+{
+    "timestamp": "2026-07-07 14:22:25",
+    "part_number": "DAC8551IADGKR",
+    "request_payload": {
+        "Keywords": "DAC8551IADGKR",
+        "SearchOptions": "ManufacturerProductNumber",
+        "RecordCount": 10,
+        "RecordStartPosition": 0,
+        "Sort": {
+            "Option": "SortByDigiKeyPartNumber",
+            "Direction": "Ascending",
+            "SortParameterId": 0
+        },
+        "RequestedQuantity": 0
+    },
+    "status_code": 200,
+    "response_text": "{\"Products\":[{\"Description\":{\"ProductDescription\":\"IC DAC 16BIT 8-VSSOP\",\"DetailedDescription\":\"16 Bit Digital to Analog Converter 1 8-VSSOP\"},\"Manufacturer\":{\"Id\":296,\"Name\":\"Texas Instruments\"},\"ManufacturerProductNumber\":\"DAC8551IADGKR\",\"UnitPrice\":6.77,\"ProductUrl\":\"https://www.digikey.com/en/products/detail/texas-instruments/DAC8551IADGKR/1509340\",\"DatasheetUrl\":\"https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdac8551\",\"PhotoUrl\":\"https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/8899/MFG_296%7E4073329%7EDGK%7E8.jpg\",\"ProductVariations\":[{\"DigiKeyProductNumber\":\"296-49164-2-ND\",\"PackageType\":{\"Id\":1,\"Name\":\"Tape & Reel (TR)\"},\"StandardPricing\":[{\"BreakQuantity\":2500,\"UnitPrice\":3.8479,\"TotalPrice\":9619.7500}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":false,\"Supplier\":{\"Id\":296,\"Name\":\"Texas Instruments\"},\"QuantityAvailableforPackageType\":2500,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":2500,\"StandardPackage\":2500,\"DigiReelFee\":0.0},{\"DigiKeyProductNumber\":\"296-49164-1-ND\",\"PackageType\":{\"Id\":2,\"Name\":\"Cut Tape (CT)\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":6.77,\"TotalPrice\":6.77},{\"BreakQuantity\":10,\"UnitPrice\":5.204,\"TotalPrice\":52.040},{\"BreakQuantity\":25,\"UnitPrice\":4.814,\"TotalPrice\":120.350},{\"BreakQuantity\":100,\"UnitPrice\":4.3846,\"TotalPrice\":438.4600},{\"BreakQuantity\":250,\"UnitPrice\":4.24116,\"TotalPrice\":1060.29000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":false,\"Supplier\":{\"Id\":296,\"Name\":\"Texas Instruments\"},\"QuantityAvailableforPackageType\":4086,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":1,\"StandardPackage\":1,\"DigiReelFee\":0.0},{\"DigiKeyProductNumber\":\"296-49164-6-ND\",\"PackageType\":{\"Id\":243,\"Name\":\"Digi-Reel\u00ae\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":6.77,\"TotalPrice\":6.77},{\"BreakQuantity\":10,\"UnitPrice\":5.204,\"TotalPrice\":52.040},{\"BreakQuantity\":25,\"UnitPrice\":4.814,\"TotalPrice\":120.350},{\"BreakQuantity\":100,\"UnitPrice\":4.3846,\"TotalPrice\":438.4600},{\"BreakQuantity\":250,\"UnitPrice\":4.24116,\"TotalPrice\":1060.29000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":false,\"Supplier\":{\"Id\":296,\"Name\":\"Texas Instruments\"},\"QuantityAvailableforPackageType\":4086,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":1,\"StandardPackage\":1,\"DigiReelFee\":7.0}],\"QuantityAvailable\":4086,\"ProductStatus\":{\"Id\":0,\"Status\":\"Active\"},\"BackOrderNotAllowed\":false,\"NormallyStocking\":true,\"Discontinued\":false,\"EndOfLife\":false,\"Ncnr\":false,\"PrimaryVideoUrl\":\"\",\"Parameters\":[{\"ParameterId\":153,\"ParameterText\":\"Number of Bits\",\"ParameterType\":\"String\",\"ValueId\":\"103710\",\"ValueText\":\"16\"},{\"ParameterId\":1973,\"ParameterText\":\"Number of D/A Converters\",\"ParameterType\":\"String\",\"ValueId\":\"39665\",\"ValueText\":\"1\"},{\"ParameterId\":997,\"ParameterText\":\"Settling Time\",\"ParameterType\":\"String\",\"ValueId\":\"67248\",\"ValueText\":\"10\u00b5s\"},{\"ParameterId\":41,\"ParameterText\":\"Output Type\",\"ParameterType\":\"String\",\"ValueId\":\"420138\",\"ValueText\":\"Voltage - Buffered\"},{\"ParameterId\":1975,\"ParameterText\":\"Differential Output\",\"ParameterType\":\"String\",\"ValueId\":\"380240\",\"ValueText\":\"No\"},{\"ParameterId\":243,\"ParameterText\":\"Data Interface\",\"ParameterType\":\"String\",\"ValueId\":\"406134\",\"ValueText\":\"SPI, DSP\"},{\"ParameterId\":245,\"ParameterText\":\"Reference Type\",\"ParameterType\":\"String\",\"ValueId\":\"345656\",\"ValueText\":\"External\"},{\"ParameterId\":346,\"ParameterText\":\"Voltage - Supply, Analog\",\"ParameterType\":\"String\",\"ValueId\":\"134947\",\"ValueText\":\"2.7V ~ 5.5V\"},{\"ParameterId\":347,\"ParameterText\":\"Voltage - Supply, Digital\",\"ParameterType\":\"String\",\"ValueId\":\"134947\",\"ValueText\":\"2.7V ~ 5.5V\"},{\"ParameterId\":1974,\"ParameterText\":\"INL/DNL (LSB)\",\"ParameterType\":\"String\",\"ValueId\":\"2112\",\"ValueText\":\"\u00b13, \u00b10.25\"},{\"ParameterId\":1523,\"ParameterText\":\"Architecture\",\"ParameterType\":\"String\",\"ValueId\":\"409064\",\"ValueText\":\"String DAC\"},{\"ParameterId\":252,\"ParameterText\":\"Operating Temperature\",\"ParameterType\":\"String\",\"ValueId\":\"212434\",\"ValueText\":\"-40\u00b0C ~ 105\u00b0C\"},{\"ParameterId\":16,\"ParameterText\":\"Package / Case\",\"ParameterType\":\"String\",\"ValueId\":\"295061\",\"ValueText\":\"8-TSSOP, 8-MSOP (0.118\\\", 3.00mm Width)\"},{\"ParameterId\":1291,\"ParameterText\":\"Supplier Device Package\",\"ParameterType\":\"String\",\"ValueId\":\"295353\",\"ValueText\":\"8-VSSOP\"},{\"ParameterId\":69,\"ParameterText\":\"Mounting Type\",\"ParameterType\":\"String\",\"ValueId\":\"409393\",\"ValueText\":\"Surface Mount\"}],\"BaseProductNumber\":{\"Id\":35935,\"Name\":\"DAC8551\"},\"Category\":{\"CategoryId\":32,\"ParentId\":0,\"Name\":\"Integrated Circuits (ICs)\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg\",\"SeoDescription\":\"Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.\",\"ChildCategories\":[{\"CategoryId\":2009,\"ParentId\":32,\"Name\":\"Data Acquisition\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/030/130/296%7E4221009%7EDW%7E16_tmb.jpg\",\"SeoDescription\":\"Data Acquisition is technology used to convert real-world data into digital information. Products in this category include analog-to-digital converters (ADCs), digital-to-analog converters (DACs), special purpose, analog front end (AFE), digital potentiometers, touchscreen controllers, and more.\",\"ChildCategories\":[{\"CategoryId\":701,\"ParentId\":2009,\"Name\":\"Digital to Analog Converters (DAC)\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/001/149/429/505-SOT-23-8_1_tmb%2864x64%29.jpg\",\"SeoDescription\":\"Digital-to-analog converters (DAC, D/A, D2A, or D-to-A) convert a digital signal into an analog buffered or unbuffered voltage or current. The suitability of a DACs architecture for a particular application is determined by resolution and sampling frequency. DACs are commonly used in music players to convert digital data streams into analog audio signals. They are also used in televisions and mobile phones to convert digital video data into analog video signals which connect to the screen drivers to display monochrome or color images.\",\"ChildCategories\":[]}]}]},\"DateLastBuyChance\":null,\"ManufacturerLeadWeeks\":\"9\",\"ManufacturerPublicQuantity\":0,\"Series\":{\"Id\":14338,\"Name\":\"microPOWER\u2122\"},\"ShippingInfo\":null,\"Classifications\":{\"ReachStatus\":\"REACH Unaffected\",\"RohsStatus\":\"ROHS3 Compliant\",\"MoistureSensitivityLevel\":\"1  (Unlimited)\",\"ExportControlClassNumber\":\"EAR99\",\"HtsusCode\":\"8542.39.0040\"},\"OtherNames\":[\"TEXTISDAC8551IADGKR\",\"DAC8551IADGKRG4\",\"296-49164-6\",\"2156-DAC8551IADGKR\",\"296-49164-2\",\"296-49164-1\",\"DAC8551IADGKR-ND\",\"DAC8551IADGKRG4-ND\"]}],\"ProductsCount\":1,\"ExactMatches\":[{\"Description\":{\"ProductDescription\":\"IC DAC 16BIT 8-VSSOP\",\"DetailedDescription\":\"16 Bit Digital to Analog Converter 1 8-VSSOP\"},\"Manufacturer\":{\"Id\":296,\"Name\":\"Texas Instruments\"},\"ManufacturerProductNumber\":\"DAC8551IADGKR\",\"UnitPrice\":6.77,\"ProductUrl\":\"https://www.digikey.com/en/products/detail/texas-instruments/DAC8551IADGKR/1509340\",\"DatasheetUrl\":\"https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdac8551\",\"PhotoUrl\":\"https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/8899/MFG_296%7E4073329%7EDGK%7E8.jpg\",\"ProductVariations\":[{\"DigiKeyProductNumber\":\"296-49164-2-ND\",\"PackageType\":{\"Id\":1,\"Name\":\"Tape & Reel (TR)\"},\"StandardPricing\":[{\"BreakQuantity\":2500,\"UnitPrice\":3.8479,\"TotalPrice\":9619.7500}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":false,\"Supplier\":{\"Id\":296,\"Name\":\"Texas Instruments\"},\"QuantityAvailableforPackageType\":2500,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":2500,\"StandardPackage\":2500,\"DigiReelFee\":0.0},{\"DigiKeyProductNumber\":\"296-49164-1-ND\",\"PackageType\":{\"Id\":2,\"Name\":\"Cut Tape (CT)\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":6.77,\"TotalPrice\":6.77},{\"BreakQuantity\":10,\"UnitPrice\":5.204,\"TotalPrice\":52.040},{\"BreakQuantity\":25,\"UnitPrice\":4.814,\"TotalPrice\":120.350},{\"BreakQuantity\":100,\"UnitPrice\":4.3846,\"TotalPrice\":438.4600},{\"BreakQuantity\":250,\"UnitPrice\":4.24116,\"TotalPrice\":1060.29000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":false,\"Supplier\":{\"Id\":296,\"Name\":\"Texas Instruments\"},\"QuantityAvailableforPackageType\":4086,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":1,\"StandardPackage\":1,\"DigiReelFee\":0.0},{\"DigiKeyProductNumber\":\"296-49164-6-ND\",\"PackageType\":{\"Id\":243,\"Name\":\"Digi-Reel\u00ae\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":6.77,\"TotalPrice\":6.77},{\"BreakQuantity\":10,\"UnitPrice\":5.204,\"TotalPrice\":52.040},{\"BreakQuantity\":25,\"UnitPrice\":4.814,\"TotalPrice\":120.350},{\"BreakQuantity\":100,\"UnitPrice\":4.3846,\"TotalPrice\":438.4600},{\"BreakQuantity\":250,\"UnitPrice\":4.24116,\"TotalPrice\":1060.29000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":false,\"Supplier\":{\"Id\":296,\"Name\":\"Texas Instruments\"},\"QuantityAvailableforPackageType\":4086,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":1,\"StandardPackage\":1,\"DigiReelFee\":7.0}],\"QuantityAvailable\":4086,\"ProductStatus\":{\"Id\":0,\"Status\":\"Active\"},\"BackOrderNotAllowed\":false,\"NormallyStocking\":true,\"Discontinued\":false,\"EndOfLife\":false,\"Ncnr\":false,\"PrimaryVideoUrl\":\"\",\"Parameters\":[{\"ParameterId\":153,\"ParameterText\":\"Number of Bits\",\"ParameterType\":\"String\",\"ValueId\":\"103710\",\"ValueText\":\"16\"},{\"ParameterId\":1973,\"ParameterText\":\"Number of D/A Converters\",\"ParameterType\":\"String\",\"ValueId\":\"39665\",\"ValueText\":\"1\"},{\"ParameterId\":997,\"ParameterText\":\"Settling Time\",\"ParameterType\":\"String\",\"ValueId\":\"67248\",\"ValueText\":\"10\u00b5s\"},{\"ParameterId\":41,\"ParameterText\":\"Output Type\",\"ParameterType\":\"String\",\"ValueId\":\"420138\",\"ValueText\":\"Voltage - Buffered\"},{\"ParameterId\":1975,\"ParameterText\":\"Differential Output\",\"ParameterType\":\"String\",\"ValueId\":\"380240\",\"ValueText\":\"No\"},{\"ParameterId\":243,\"ParameterText\":\"Data Interface\",\"ParameterType\":\"String\",\"ValueId\":\"406134\",\"ValueText\":\"SPI, DSP\"},{\"ParameterId\":245,\"ParameterText\":\"Reference Type\",\"ParameterType\":\"String\",\"ValueId\":\"345656\",\"ValueText\":\"External\"},{\"ParameterId\":346,\"ParameterText\":\"Voltage - Supply, Analog\",\"ParameterType\":\"String\",\"ValueId\":\"134947\",\"ValueText\":\"2.7V ~ 5.5V\"},{\"ParameterId\":347,\"ParameterText\":\"Voltage - Supply, Digital\",\"ParameterType\":\"String\",\"ValueId\":\"134947\",\"ValueText\":\"2.7V ~ 5.5V\"},{\"ParameterId\":1974,\"ParameterText\":\"INL/DNL (LSB)\",\"ParameterType\":\"String\",\"ValueId\":\"2112\",\"ValueText\":\"\u00b13, \u00b10.25\"},{\"ParameterId\":1523,\"ParameterText\":\"Architecture\",\"ParameterType\":\"String\",\"ValueId\":\"409064\",\"ValueText\":\"String DAC\"},{\"ParameterId\":252,\"ParameterText\":\"Operating Temperature\",\"ParameterType\":\"String\",\"ValueId\":\"212434\",\"ValueText\":\"-40\u00b0C ~ 105\u00b0C\"},{\"ParameterId\":16,\"ParameterText\":\"Package / Case\",\"ParameterType\":\"String\",\"ValueId\":\"295061\",\"ValueText\":\"8-TSSOP, 8-MSOP (0.118\\\", 3.00mm Width)\"},{\"ParameterId\":1291,\"ParameterText\":\"Supplier Device Package\",\"ParameterType\":\"String\",\"ValueId\":\"295353\",\"ValueText\":\"8-VSSOP\"},{\"ParameterId\":69,\"ParameterText\":\"Mounting Type\",\"ParameterType\":\"String\",\"ValueId\":\"409393\",\"ValueText\":\"Surface Mount\"}],\"BaseProductNumber\":{\"Id\":35935,\"Name\":\"DAC8551\"},\"Category\":{\"CategoryId\":32,\"ParentId\":0,\"Name\":\"Integrated Circuits (ICs)\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg\",\"SeoDescription\":\"Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.\",\"ChildCategories\":[{\"CategoryId\":2009,\"ParentId\":32,\"Name\":\"Data Acquisition\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/030/130/296%7E4221009%7EDW%7E16_tmb.jpg\",\"SeoDescription\":\"Data Acquisition is technology used to convert real-world data into digital information. Products in this category include analog-to-digital converters (ADCs), digital-to-analog converters (DACs), special purpose, analog front end (AFE), digital potentiometers, touchscreen controllers, and more.\",\"ChildCategories\":[{\"CategoryId\":701,\"ParentId\":2009,\"Name\":\"Digital to Analog Converters (DAC)\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/001/149/429/505-SOT-23-8_1_tmb%2864x64%29.jpg\",\"SeoDescription\":\"Digital-to-analog converters (DAC, D/A, D2A, or D-to-A) convert a digital signal into an analog buffered or unbuffered voltage or current. The suitability of a DACs architecture for a particular application is determined by resolution and sampling frequency. DACs are commonly used in music players to convert digital data streams into analog audio signals. They are also used in televisions and mobile phones to convert digital video data into analog video signals which connect to the screen drivers to display monochrome or color images.\",\"ChildCategories\":[]}]}]},\"DateLastBuyChance\":null,\"ManufacturerLeadWeeks\":\"9\",\"ManufacturerPublicQuantity\":0,\"Series\":{\"Id\":14338,\"Name\":\"microPOWER\u2122\"},\"ShippingInfo\":null,\"Classifications\":{\"ReachStatus\":\"REACH Unaffected\",\"RohsStatus\":\"ROHS3 Compliant\",\"MoistureSensitivityLevel\":\"1  (Unlimited)\",\"ExportControlClassNumber\":\"EAR99\",\"HtsusCode\":\"8542.39.0040\"},\"OtherNames\":[\"TEXTISDAC8551IADGKR\",\"DAC8551IADGKRG4\",\"296-49164-6\",\"2156-DAC8551IADGKR\",\"296-49164-2\",\"296-49164-1\",\"DAC8551IADGKR-ND\",\"DAC8551IADGKRG4-ND\"]}],\"FilterOptions\":{\"Manufacturers\":[{\"Id\":296,\"Value\":\"Texas Instruments\",\"ProductCount\":1}],\"Packaging\":null,\"Status\":null,\"Series\":null,\"ParametricFilters\":null,\"TopCategories\":null,\"MarketPlaceFilters\":null},\"SearchLocaleUsed\":{\"Site\":\"US\",\"Language\":\"en\",\"Currency\":\"USD\"},\"AppliedParametricFiltersDto\":[]}",
+    "response_json": {
+        "Products": [
+            {
+                "Description": {
+                    "ProductDescription": "IC DAC 16BIT 8-VSSOP",
+                    "DetailedDescription": "16 Bit Digital to Analog Converter 1 8-VSSOP"
+                },
+                "Manufacturer": {
+                    "Id": 296,
+                    "Name": "Texas Instruments"
+                },
+                "ManufacturerProductNumber": "DAC8551IADGKR",
+                "UnitPrice": 6.77,
+                "ProductUrl": "https://www.digikey.com/en/products/detail/texas-instruments/DAC8551IADGKR/1509340",
+                "DatasheetUrl": "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdac8551",
+                "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/8899/MFG_296%7E4073329%7EDGK%7E8.jpg",
+                "ProductVariations": [
+                    {
+                        "DigiKeyProductNumber": "296-49164-2-ND",
+                        "PackageType": {
+                            "Id": 1,
+                            "Name": "Tape & Reel (TR)"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 2500,
+                                "UnitPrice": 3.8479,
+                                "TotalPrice": 9619.75
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": false,
+                        "Supplier": {
+                            "Id": 296,
+                            "Name": "Texas Instruments"
+                        },
+                        "QuantityAvailableforPackageType": 2500,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 2500,
+                        "StandardPackage": 2500,
+                        "DigiReelFee": 0.0
+                    },
+                    {
+                        "DigiKeyProductNumber": "296-49164-1-ND",
+                        "PackageType": {
+                            "Id": 2,
+                            "Name": "Cut Tape (CT)"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 6.77,
+                                "TotalPrice": 6.77
+                            },
+                            {
+                                "BreakQuantity": 10,
+                                "UnitPrice": 5.204,
+                                "TotalPrice": 52.04
+                            },
+                            {
+                                "BreakQuantity": 25,
+                                "UnitPrice": 4.814,
+                                "TotalPrice": 120.35
+                            },
+                            {
+                                "BreakQuantity": 100,
+                                "UnitPrice": 4.3846,
+                                "TotalPrice": 438.46
+                            },
+                            {
+                                "BreakQuantity": 250,
+                                "UnitPrice": 4.24116,
+                                "TotalPrice": 1060.29
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": false,
+                        "Supplier": {
+                            "Id": 296,
+                            "Name": "Texas Instruments"
+                        },
+                        "QuantityAvailableforPackageType": 4086,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 1,
+                        "DigiReelFee": 0.0
+                    },
+                    {
+                        "DigiKeyProductNumber": "296-49164-6-ND",
+                        "PackageType": {
+                            "Id": 243,
+                            "Name": "Digi-Reel\u00ae"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 6.77,
+                                "TotalPrice": 6.77
+                            },
+                            {
+                                "BreakQuantity": 10,
+                                "UnitPrice": 5.204,
+                                "TotalPrice": 52.04
+                            },
+                            {
+                                "BreakQuantity": 25,
+                                "UnitPrice": 4.814,
+                                "TotalPrice": 120.35
+                            },
+                            {
+                                "BreakQuantity": 100,
+                                "UnitPrice": 4.3846,
+                                "TotalPrice": 438.46
+                            },
+                            {
+                                "BreakQuantity": 250,
+                                "UnitPrice": 4.24116,
+                                "TotalPrice": 1060.29
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": false,
+                        "Supplier": {
+                            "Id": 296,
+                            "Name": "Texas Instruments"
+                        },
+                        "QuantityAvailableforPackageType": 4086,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 1,
+                        "DigiReelFee": 7.0
+                    }
+                ],
+                "QuantityAvailable": 4086,
+                "ProductStatus": {
+                    "Id": 0,
+                    "Status": "Active"
+                },
+                "BackOrderNotAllowed": false,
+                "NormallyStocking": true,
+                "Discontinued": false,
+                "EndOfLife": false,
+                "Ncnr": false,
+                "PrimaryVideoUrl": "",
+                "Parameters": [
+                    {
+                        "ParameterId": 153,
+                        "ParameterText": "Number of Bits",
+                        "ParameterType": "String",
+                        "ValueId": "103710",
+                        "ValueText": "16"
+                    },
+                    {
+                        "ParameterId": 1973,
+                        "ParameterText": "Number of D/A Converters",
+                        "ParameterType": "String",
+                        "ValueId": "39665",
+                        "ValueText": "1"
+                    },
+                    {
+                        "ParameterId": 997,
+                        "ParameterText": "Settling Time",
+                        "ParameterType": "String",
+                        "ValueId": "67248",
+                        "ValueText": "10\u00b5s"
+                    },
+                    {
+                        "ParameterId": 41,
+                        "ParameterText": "Output Type",
+                        "ParameterType": "String",
+                        "ValueId": "420138",
+                        "ValueText": "Voltage - Buffered"
+                    },
+                    {
+                        "ParameterId": 1975,
+                        "ParameterText": "Differential Output",
+                        "ParameterType": "String",
+                        "ValueId": "380240",
+                        "ValueText": "No"
+                    },
+                    {
+                        "ParameterId": 243,
+                        "ParameterText": "Data Interface",
+                        "ParameterType": "String",
+                        "ValueId": "406134",
+                        "ValueText": "SPI, DSP"
+                    },
+                    {
+                        "ParameterId": 245,
+                        "ParameterText": "Reference Type",
+                        "ParameterType": "String",
+                        "ValueId": "345656",
+                        "ValueText": "External"
+                    },
+                    {
+                        "ParameterId": 346,
+                        "ParameterText": "Voltage - Supply, Analog",
+                        "ParameterType": "String",
+                        "ValueId": "134947",
+                        "ValueText": "2.7V ~ 5.5V"
+                    },
+                    {
+                        "ParameterId": 347,
+                        "ParameterText": "Voltage - Supply, Digital",
+                        "ParameterType": "String",
+                        "ValueId": "134947",
+                        "ValueText": "2.7V ~ 5.5V"
+                    },
+                    {
+                        "ParameterId": 1974,
+                        "ParameterText": "INL/DNL (LSB)",
+                        "ParameterType": "String",
+                        "ValueId": "2112",
+                        "ValueText": "\u00b13, \u00b10.25"
+                    },
+                    {
+                        "ParameterId": 1523,
+                        "ParameterText": "Architecture",
+                        "ParameterType": "String",
+                        "ValueId": "409064",
+                        "ValueText": "String DAC"
+                    },
+                    {
+                        "ParameterId": 252,
+                        "ParameterText": "Operating Temperature",
+                        "ParameterType": "String",
+                        "ValueId": "212434",
+                        "ValueText": "-40\u00b0C ~ 105\u00b0C"
+                    },
+                    {
+                        "ParameterId": 16,
+                        "ParameterText": "Package / Case",
+                        "ParameterType": "String",
+                        "ValueId": "295061",
+                        "ValueText": "8-TSSOP, 8-MSOP (0.118\", 3.00mm Width)"
+                    },
+                    {
+                        "ParameterId": 1291,
+                        "ParameterText": "Supplier Device Package",
+                        "ParameterType": "String",
+                        "ValueId": "295353",
+                        "ValueText": "8-VSSOP"
+                    },
+                    {
+                        "ParameterId": 69,
+                        "ParameterText": "Mounting Type",
+                        "ParameterType": "String",
+                        "ValueId": "409393",
+                        "ValueText": "Surface Mount"
+                    }
+                ],
+                "BaseProductNumber": {
+                    "Id": 35935,
+                    "Name": "DAC8551"
+                },
+                "Category": {
+                    "CategoryId": 32,
+                    "ParentId": 0,
+                    "Name": "Integrated Circuits (ICs)",
+                    "ProductCount": 0,
+                    "NewProductCount": 0,
+                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+                    "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+                    "ChildCategories": [
+                        {
+                            "CategoryId": 2009,
+                            "ParentId": 32,
+                            "Name": "Data Acquisition",
+                            "ProductCount": 0,
+                            "NewProductCount": 0,
+                            "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/030/130/296%7E4221009%7EDW%7E16_tmb.jpg",
+                            "SeoDescription": "Data Acquisition is technology used to convert real-world data into digital information. Products in this category include analog-to-digital converters (ADCs), digital-to-analog converters (DACs), special purpose, analog front end (AFE), digital potentiometers, touchscreen controllers, and more.",
+                            "ChildCategories": [
+                                {
+                                    "CategoryId": 701,
+                                    "ParentId": 2009,
+                                    "Name": "Digital to Analog Converters (DAC)",
+                                    "ProductCount": 0,
+                                    "NewProductCount": 0,
+                                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/001/149/429/505-SOT-23-8_1_tmb%2864x64%29.jpg",
+                                    "SeoDescription": "Digital-to-analog converters (DAC, D/A, D2A, or D-to-A) convert a digital signal into an analog buffered or unbuffered voltage or current. The suitability of a DACs architecture for a particular application is determined by resolution and sampling frequency. DACs are commonly used in music players to convert digital data streams into analog audio signals. They are also used in televisions and mobile phones to convert digital video data into analog video signals which connect to the screen drivers to display monochrome or color images.",
+                                    "ChildCategories": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "DateLastBuyChance": null,
+                "ManufacturerLeadWeeks": "9",
+                "ManufacturerPublicQuantity": 0,
+                "Series": {
+                    "Id": 14338,
+                    "Name": "microPOWER\u2122"
+                },
+                "ShippingInfo": null,
+                "Classifications": {
+                    "ReachStatus": "REACH Unaffected",
+                    "RohsStatus": "ROHS3 Compliant",
+                    "MoistureSensitivityLevel": "1  (Unlimited)",
+                    "ExportControlClassNumber": "EAR99",
+                    "HtsusCode": "8542.39.0040"
+                },
+                "OtherNames": [
+                    "TEXTISDAC8551IADGKR",
+                    "DAC8551IADGKRG4",
+                    "296-49164-6",
+                    "2156-DAC8551IADGKR",
+                    "296-49164-2",
+                    "296-49164-1",
+                    "DAC8551IADGKR-ND",
+                    "DAC8551IADGKRG4-ND"
+                ]
+            }
+        ],
+        "ProductsCount": 1,
+        "ExactMatches": [
+            {
+                "Description": {
+                    "ProductDescription": "IC DAC 16BIT 8-VSSOP",
+                    "DetailedDescription": "16 Bit Digital to Analog Converter 1 8-VSSOP"
+                },
+                "Manufacturer": {
+                    "Id": 296,
+                    "Name": "Texas Instruments"
+                },
+                "ManufacturerProductNumber": "DAC8551IADGKR",
+                "UnitPrice": 6.77,
+                "ProductUrl": "https://www.digikey.com/en/products/detail/texas-instruments/DAC8551IADGKR/1509340",
+                "DatasheetUrl": "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdac8551",
+                "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/8899/MFG_296%7E4073329%7EDGK%7E8.jpg",
+                "ProductVariations": [
+                    {
+                        "DigiKeyProductNumber": "296-49164-2-ND",
+                        "PackageType": {
+                            "Id": 1,
+                            "Name": "Tape & Reel (TR)"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 2500,
+                                "UnitPrice": 3.8479,
+                                "TotalPrice": 9619.75
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": false,
+                        "Supplier": {
+                            "Id": 296,
+                            "Name": "Texas Instruments"
+                        },
+                        "QuantityAvailableforPackageType": 2500,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 2500,
+                        "StandardPackage": 2500,
+                        "DigiReelFee": 0.0
+                    },
+                    {
+                        "DigiKeyProductNumber": "296-49164-1-ND",
+                        "PackageType": {
+                            "Id": 2,
+                            "Name": "Cut Tape (CT)"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 6.77,
+                                "TotalPrice": 6.77
+                            },
+                            {
+                                "BreakQuantity": 10,
+                                "UnitPrice": 5.204,
+                                "TotalPrice": 52.04
+                            },
+                            {
+                                "BreakQuantity": 25,
+                                "UnitPrice": 4.814,
+                                "TotalPrice": 120.35
+                            },
+                            {
+                                "BreakQuantity": 100,
+                                "UnitPrice": 4.3846,
+                                "TotalPrice": 438.46
+                            },
+                            {
+                                "BreakQuantity": 250,
+                                "UnitPrice": 4.24116,
+                                "TotalPrice": 1060.29
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": false,
+                        "Supplier": {
+                            "Id": 296,
+                            "Name": "Texas Instruments"
+                        },
+                        "QuantityAvailableforPackageType": 4086,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 1,
+                        "DigiReelFee": 0.0
+                    },
+                    {
+                        "DigiKeyProductNumber": "296-49164-6-ND",
+                        "PackageType": {
+                            "Id": 243,
+                            "Name": "Digi-Reel\u00ae"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 6.77,
+                                "TotalPrice": 6.77
+                            },
+                            {
+                                "BreakQuantity": 10,
+                                "UnitPrice": 5.204,
+                                "TotalPrice": 52.04
+                            },
+                            {
+                                "BreakQuantity": 25,
+                                "UnitPrice": 4.814,
+                                "TotalPrice": 120.35
+                            },
+                            {
+                                "BreakQuantity": 100,
+                                "UnitPrice": 4.3846,
+                                "TotalPrice": 438.46
+                            },
+                            {
+                                "BreakQuantity": 250,
+                                "UnitPrice": 4.24116,
+                                "TotalPrice": 1060.29
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": false,
+                        "Supplier": {
+                            "Id": 296,
+                            "Name": "Texas Instruments"
+                        },
+                        "QuantityAvailableforPackageType": 4086,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 1,
+                        "DigiReelFee": 7.0
+                    }
+                ],
+                "QuantityAvailable": 4086,
+                "ProductStatus": {
+                    "Id": 0,
+                    "Status": "Active"
+                },
+                "BackOrderNotAllowed": false,
+                "NormallyStocking": true,
+                "Discontinued": false,
+                "EndOfLife": false,
+                "Ncnr": false,
+                "PrimaryVideoUrl": "",
+                "Parameters": [
+                    {
+                        "ParameterId": 153,
+                        "ParameterText": "Number of Bits",
+                        "ParameterType": "String",
+                        "ValueId": "103710",
+                        "ValueText": "16"
+                    },
+                    {
+                        "ParameterId": 1973,
+                        "ParameterText": "Number of D/A Converters",
+                        "ParameterType": "String",
+                        "ValueId": "39665",
+                        "ValueText": "1"
+                    },
+                    {
+                        "ParameterId": 997,
+                        "ParameterText": "Settling Time",
+                        "ParameterType": "String",
+                        "ValueId": "67248",
+                        "ValueText": "10\u00b5s"
+                    },
+                    {
+                        "ParameterId": 41,
+                        "ParameterText": "Output Type",
+                        "ParameterType": "String",
+                        "ValueId": "420138",
+                        "ValueText": "Voltage - Buffered"
+                    },
+                    {
+                        "ParameterId": 1975,
+                        "ParameterText": "Differential Output",
+                        "ParameterType": "String",
+                        "ValueId": "380240",
+                        "ValueText": "No"
+                    },
+                    {
+                        "ParameterId": 243,
+                        "ParameterText": "Data Interface",
+                        "ParameterType": "String",
+                        "ValueId": "406134",
+                        "ValueText": "SPI, DSP"
+                    },
+                    {
+                        "ParameterId": 245,
+                        "ParameterText": "Reference Type",
+                        "ParameterType": "String",
+                        "ValueId": "345656",
+                        "ValueText": "External"
+                    },
+                    {
+                        "ParameterId": 346,
+                        "ParameterText": "Voltage - Supply, Analog",
+                        "ParameterType": "String",
+                        "ValueId": "134947",
+                        "ValueText": "2.7V ~ 5.5V"
+                    },
+                    {
+                        "ParameterId": 347,
+                        "ParameterText": "Voltage - Supply, Digital",
+                        "ParameterType": "String",
+                        "ValueId": "134947",
+                        "ValueText": "2.7V ~ 5.5V"
+                    },
+                    {
+                        "ParameterId": 1974,
+                        "ParameterText": "INL/DNL (LSB)",
+                        "ParameterType": "String",
+                        "ValueId": "2112",
+                        "ValueText": "\u00b13, \u00b10.25"
+                    },
+                    {
+                        "ParameterId": 1523,
+                        "ParameterText": "Architecture",
+                        "ParameterType": "String",
+                        "ValueId": "409064",
+                        "ValueText": "String DAC"
+                    },
+                    {
+                        "ParameterId": 252,
+                        "ParameterText": "Operating Temperature",
+                        "ParameterType": "String",
+                        "ValueId": "212434",
+                        "ValueText": "-40\u00b0C ~ 105\u00b0C"
+                    },
+                    {
+                        "ParameterId": 16,
+                        "ParameterText": "Package / Case",
+                        "ParameterType": "String",
+                        "ValueId": "295061",
+                        "ValueText": "8-TSSOP, 8-MSOP (0.118\", 3.00mm Width)"
+                    },
+                    {
+                        "ParameterId": 1291,
+                        "ParameterText": "Supplier Device Package",
+                        "ParameterType": "String",
+                        "ValueId": "295353",
+                        "ValueText": "8-VSSOP"
+                    },
+                    {
+                        "ParameterId": 69,
+                        "ParameterText": "Mounting Type",
+                        "ParameterType": "String",
+                        "ValueId": "409393",
+                        "ValueText": "Surface Mount"
+                    }
+                ],
+                "BaseProductNumber": {
+                    "Id": 35935,
+                    "Name": "DAC8551"
+                },
+                "Category": {
+                    "CategoryId": 32,
+                    "ParentId": 0,
+                    "Name": "Integrated Circuits (ICs)",
+                    "ProductCount": 0,
+                    "NewProductCount": 0,
+                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+                    "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+                    "ChildCategories": [
+                        {
+                            "CategoryId": 2009,
+                            "ParentId": 32,
+                            "Name": "Data Acquisition",
+                            "ProductCount": 0,
+                            "NewProductCount": 0,
+                            "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/030/130/296%7E4221009%7EDW%7E16_tmb.jpg",
+                            "SeoDescription": "Data Acquisition is technology used to convert real-world data into digital information. Products in this category include analog-to-digital converters (ADCs), digital-to-analog converters (DACs), special purpose, analog front end (AFE), digital potentiometers, touchscreen controllers, and more.",
+                            "ChildCategories": [
+                                {
+                                    "CategoryId": 701,
+                                    "ParentId": 2009,
+                                    "Name": "Digital to Analog Converters (DAC)",
+                                    "ProductCount": 0,
+                                    "NewProductCount": 0,
+                                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/001/149/429/505-SOT-23-8_1_tmb%2864x64%29.jpg",
+                                    "SeoDescription": "Digital-to-analog converters (DAC, D/A, D2A, or D-to-A) convert a digital signal into an analog buffered or unbuffered voltage or current. The suitability of a DACs architecture for a particular application is determined by resolution and sampling frequency. DACs are commonly used in music players to convert digital data streams into analog audio signals. They are also used in televisions and mobile phones to convert digital video data into analog video signals which connect to the screen drivers to display monochrome or color images.",
+                                    "ChildCategories": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "DateLastBuyChance": null,
+                "ManufacturerLeadWeeks": "9",
+                "ManufacturerPublicQuantity": 0,
+                "Series": {
+                    "Id": 14338,
+                    "Name": "microPOWER\u2122"
+                },
+                "ShippingInfo": null,
+                "Classifications": {
+                    "ReachStatus": "REACH Unaffected",
+                    "RohsStatus": "ROHS3 Compliant",
+                    "MoistureSensitivityLevel": "1  (Unlimited)",
+                    "ExportControlClassNumber": "EAR99",
+                    "HtsusCode": "8542.39.0040"
+                },
+                "OtherNames": [
+                    "TEXTISDAC8551IADGKR",
+                    "DAC8551IADGKRG4",
+                    "296-49164-6",
+                    "2156-DAC8551IADGKR",
+                    "296-49164-2",
+                    "296-49164-1",
+                    "DAC8551IADGKR-ND",
+                    "DAC8551IADGKRG4-ND"
+                ]
+            }
+        ],
+        "FilterOptions": {
+            "Manufacturers": [
+                {
+                    "Id": 296,
+                    "Value": "Texas Instruments",
+                    "ProductCount": 1
+                }
+            ],
+            "Packaging": null,
+            "Status": null,
+            "Series": null,
+            "ParametricFilters": null,
+            "TopCategories": null,
+            "MarketPlaceFilters": null
+        },
+        "SearchLocaleUsed": {
+            "Site": "US",
+            "Language": "en",
+            "Currency": "USD"
+        },
+        "AppliedParametricFiltersDto": []
+    }
+}
