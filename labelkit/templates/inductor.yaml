@@ -1,0 +1,72 @@
+name: inductor
+part_type: inductor
+tape_mm: 12
+fields:
+- key: supplier_pn
+  header: LCSC Number
+- key: mpn
+  header: MPN
+- key: value
+  header: Value
+- key: rating
+  header: Current
+- key: tolerance
+  header: Tolerance
+- key: package
+  header: Size
+- key: description
+  header: Description
+layout:
+  length_mm: 22
+  margin_mm: 1.0
+  items:
+  - field: value
+    x: 0
+    y: 0
+    w: 10
+    h: 7
+    size: 11
+    bold: true
+    align: center
+    valign: middle
+    shrink: true
+  - field: rating
+    x: 0
+    y: 7.2
+    w: 4.7
+    h: 4
+    size: 7.5
+    bold: false
+    align: center
+    valign: top
+    shrink: true
+  - field: package
+    x: 5.3
+    y: 7.2
+    w: 4.7
+    h: 4
+    size: 7.5
+    bold: false
+    align: center
+    valign: top
+    shrink: true
+  - field: mpn
+    x: 0
+    y: 11.5
+    w: 10
+    h: 4
+    size: 6
+    bold: false
+    align: center
+    valign: top
+    shrink: true
+  - field: supplier_pn
+    x: 0
+    y: 15.7
+    w: 10
+    h: 3.5
+    size: 5.5
+    bold: false
+    align: center
+    valign: top
+    shrink: true

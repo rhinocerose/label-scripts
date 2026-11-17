@@ -1,0 +1,94 @@
+# Canonical output formats. Edit this file and re-run; no code changes needed.
+#
+# Chip passives use imperial codes; crystals keep their metric body size;
+# IC/discrete packages use FAMILY-PINS. Values are RKM (4k7, 1M69, 590R).
+
+resistance: rkm          # rkm | decimal
+capacitance: decimal     # decimal (100nF, 1uF); rkm is reserved
+dielectric: C0G          # C0G | NP0 | preserve
+
+# Imperial chip sizes (canonical) for passives.
+chip_imperial:
+  - "01005"
+  - "0201"
+  - "0402"
+  - "0603"
+  - "0805"
+  - "1206"
+  - "1210"
+  - "1218"
+  - "2010"
+  - "2512"
+  - "0612"
+  - "0816"
+  - "1020"
+  - "1812"
+  - "2220"
+  - "2225"
+  - "3640"
+
+# Metric code -> imperial canonical.
+metric_to_imperial:
+  "0402": "01005"
+  "0603": "0201"
+  "1005": "0402"
+  "1608": "0603"
+  "2012": "0805"
+  "3216": "1206"
+  "3225": "1210"
+  "3246": "1218"
+  "5025": "2010"
+  "6332": "2512"
+  "1632": "0612"
+  "2032": "0816"
+  "2550": "1020"
+  "4532": "1812"
+  "5650": "2220"
+  "5763": "2225"
+  "9110": "3640"
+
+# Crystals keep their metric size (3225), not the imperial equivalent (1210).
+crystal_sizes:
+  - "1612"
+  - "2016"
+  - "2520"
+  - "3225"
+  - "5032"
+  - "7050"
+  - "8038"
+
+crystal_aliases:
+  "1.6x1.2": "1612"
+  "1.6x1.2mm": "1612"
+  "2.0x1.6": "2016"
+  "2.0x1.6mm": "2016"
+  "2.5x2.0": "2520"
+  "2.5x2.0mm": "2520"
+  "3.2x2.5": "3225"
+  "3.2x2.5mm": "3225"
+  "5.0x3.2": "5032"
+  "5.0x3.2mm": "5032"
+  "7.0x5.0": "7050"
+  "7.0x5.0mm": "7050"
+  "8.0x3.8": "8038"
+  "8.0x3.8mm": "8038"
+
+# Pin count may come before or after the family: 14-TSSOP, 14TSSOP,
+# TSSOP14 and TSSOP-14 all become TSSOP-14. SO -> SOIC, PDIP -> DIP.
+
+# Package aliases that should collapse to one canonical spelling.
+ic_aliases:
+  "SOT-23-3": "SOT-23"
+  "SOT23-3": "SOT-23"
+  "DO-214AC": "SMA"
+  "DO-214AA": "SMB"
+  "DO-214AB": "SMC"
+  "TO-252": "DPAK"
+  "TO-263": "D2PAK"
+
+# Family spellings that collapse to one canonical family.
+ic_family_aliases:
+  "SO": "SOIC"
+  "PDIP": "DIP"
+
+

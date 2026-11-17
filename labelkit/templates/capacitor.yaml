@@ -1,0 +1,92 @@
+name: capacitor
+part_type: capacitor
+tape_mm: 12
+fields:
+- key: supplier_pn
+  header: LCSC Number
+- key: mpn
+  header: MPN
+- key: value
+  header: Capacitance
+- key: rating
+  header: Voltage
+- key: tolerance
+  header: Tolerance
+- key: dielectric
+  header: Dielectric
+- key: package
+  header: Size
+layout:
+  length_mm: 25
+  margin_mm: 1.0
+  items:
+  - field: value
+    x: 0
+    y: 0
+    w: 10
+    h: 7
+    size: 11
+    bold: true
+    align: center
+    valign: middle
+    shrink: true
+  - field: rating
+    x: 0
+    y: 7.2
+    w: 4.7
+    h: 4
+    size: 7.5
+    bold: false
+    align: center
+    valign: top
+    shrink: true
+  - field: dielectric
+    x: 5.3
+    y: 7.2
+    w: 4.7
+    h: 4
+    size: 7.5
+    bold: false
+    align: center
+    valign: top
+    shrink: true
+  - field: tolerance
+    x: 0
+    y: 11.4
+    w: 4.7
+    h: 3.5
+    size: 7
+    bold: false
+    align: center
+    valign: top
+    shrink: true
+  - field: package
+    x: 5.3
+    y: 11.4
+    w: 4.7
+    h: 3.5
+    size: 7
+    bold: false
+    align: center
+    valign: top
+    shrink: true
+  - field: mpn
+    x: 0
+    y: 15.2
+    w: 10
+    h: 4
+    size: 6
+    bold: false
+    align: center
+    valign: top
+    shrink: true
+  - field: supplier_pn
+    x: 0
+    y: 19.4
+    w: 10
+    h: 3.5
+    size: 5.5
+    bold: false
+    align: center
+    valign: top
+    shrink: true

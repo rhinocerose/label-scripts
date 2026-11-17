@@ -1,0 +1,62 @@
+name: led
+part_type: led
+tape_mm: 12
+fields:
+- key: supplier_pn
+  header: LCSC Number
+- key: mpn
+  header: MPN
+- key: color
+  header: Color
+- key: rating
+  header: Voltage
+- key: current
+  header: Current
+- key: package
+  header: Size
+- key: description
+  header: Description
+layout:
+  length_mm: 25
+  margin_mm: 1.0
+  items:
+  - field: color
+    x: 0
+    y: 0
+    w: 10
+    h: 6
+    size: 13
+    bold: true
+    align: center
+    valign: middle
+    shrink: true
+  - field: description
+    x: 0
+    y: 6.2
+    w: 10
+    h: 8
+    size: 6
+    bold: false
+    align: center
+    valign: top
+    shrink: false
+  - field: mpn
+    x: 0
+    y: 14.4
+    w: 10
+    h: 4
+    size: 5.5
+    bold: false
+    align: center
+    valign: top
+    shrink: true
+  - field: supplier_pn
+    x: 0
+    y: 18.6
+    w: 10
+    h: 3.5
+    size: 5
+    bold: false
+    align: center
+    valign: top
+    shrink: true

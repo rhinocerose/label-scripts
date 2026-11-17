@@ -1,0 +1,82 @@
+name: crystal
+part_type: crystal
+tape_mm: 12
+fields:
+- key: supplier_pn
+  header: LCSC Number
+- key: mpn
+  header: MPN
+- key: value
+  header: Frequency
+- key: load
+  header: Load
+- key: stability
+  header: Stability
+- key: package
+  header: Size
+- key: description
+  header: Description
+layout:
+  length_mm: 24
+  margin_mm: 1.0
+  items:
+  - field: value
+    x: 0
+    y: 0
+    w: 10
+    h: 6
+    size: 11
+    bold: true
+    align: center
+    valign: middle
+    shrink: true
+  - field: load
+    x: 0
+    y: 6.2
+    w: 4.7
+    h: 3.5
+    size: 7
+    bold: false
+    align: center
+    valign: top
+    shrink: true
+  - field: stability
+    x: 5.3
+    y: 6.2
+    w: 4.7
+    h: 3.5
+    size: 7
+    bold: false
+    align: center
+    valign: top
+    shrink: true
+  - field: package
+    x: 0
+    y: 9.9
+    w: 10
+    h: 3.5
+    size: 7
+    bold: false
+    align: center
+    valign: top
+    shrink: true
+  - field: mpn
+    x: 0
+    y: 14.0
+    w: 10
+    h: 4
+    size: 5.5
+    bold: false
+    align: center
+    valign: top
+    shrink: true
+  - field: supplier_pn
+    x: 0
+    y: 18.2
+    w: 10
+    h: 3.5
+    size: 5
+    bold: false
+    align: center
+    valign: top
+    shrink: true

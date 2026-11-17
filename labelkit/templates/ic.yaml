@@ -1,0 +1,56 @@
+name: ic
+part_type: ic
+tape_mm: 12
+fields:
+- key: supplier_pn
+  header: LCSC Number
+- key: mpn
+  header: MPN
+- key: package
+  header: Package
+- key: description
+  header: Description
+layout:
+  length_mm: 26
+  margin_mm: 1.0
+  items:
+  - field: description
+    x: 0
+    y: 0
+    w: 10
+    h: 12
+    size: 6
+    bold: false
+    align: center
+    valign: top
+    shrink: false
+  - field: mpn
+    x: 0
+    y: 12.2
+    w: 10
+    h: 4
+    size: 5.5
+    bold: false
+    align: center
+    valign: top
+    shrink: true
+  - field: package
+    x: 0
+    y: 16.4
+    w: 10
+    h: 3.5
+    size: 6
+    bold: false
+    align: center
+    valign: top
+    shrink: true
+  - field: supplier_pn
+    x: 0
+    y: 20.1
+    w: 10
+    h: 3.5
+    size: 5
+    bold: false
+    align: center
+    valign: top
+    shrink: true

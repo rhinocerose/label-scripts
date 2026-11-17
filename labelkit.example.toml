@@ -1,0 +1,30 @@
+# Copy to labelkit.toml to customise. Credentials stay in the environment:
+#   export DIGIKEY_CLIENT_ID=...
+#   export DIGIKEY_CLIENT_SECRET=...
+
+[digikey]
+site = "US"
+language = "en"
+currency = "USD"
+min_interval_s = 1.0
+cache_ttl_days = 7
+
+[lcsc]
+min_interval_s = 1.0
+
+[cache]
+path = "~/.cache/labelkit/cache.db"
+
+[output]
+dir = "out"
+
+[labels]
+tape_mm = 12
+# templates_dir = "labelkit/templates"
+
+[ptouch]
+# Set these if P-touch Editor asks for a printer or rejects the exported .lbx.
+# Create one blank 12 mm label in Editor, save it, and copy the values.
+# printer_name = "Brother PT-P710BT"
+# printer_id = 0
+# format = 0
