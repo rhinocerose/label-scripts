@@ -1,0 +1,40 @@
+1N5711WS-7-F,DIODES,SOD-323,Standalone 15mA 1V@15mA 70V SOD-323 RF Diodes RoHS
+STM32F373CCT6,ST,LQFP-48(7x7),ARM Cortex-M4 32 Bit 72MHz 36 LQFP-48(7x7) Microcontrollers RoHS
+ATMEGA88PA-AU,MICROCHIP,TQFP-32(7x7),AVR 8 Bit 20MHz 23 TQFP-32(7x7) Microcontrollers RoHS
+LM4562MAX/NOPB,TI,SOIC-8,"10mA 2-Channel SOIC-8 Instrumentation, Op Amps, Buffer Amps RoHS"
+OPA4171AIPWR,TI,TSSOP-14,"4 1.8mV 1.5V/us 104dB 15pA 475uA 3MHz Rail-to-rail output TSSOP-14 Instrumentation, Op Amps, Buffer Amps RoHS"
+X50328MSB2GI,YXC Crystal Oscillators,SMD5032-2P,Crystal 8MHz ±10ppm 20pF SMD5032-2P
+DAC8551IADGKR,TI,VSSOP-8-0.65mm,10us 2.7V~5.5V 1LSB SPI VSSOP-8-0.65mm Digital to Analog Converters (DAC) RoHS
+DAC8552IDGKT,TI,MSOP-8,10us 2.7V~5.5V 4LSB MSOP-8 Digital to Analog Converters (DAC) RoHS
+BLM18AG471SN1D,muRata,0603,470Ω@100MHz 1 Line Ferrite Bead 0603 550mA 350mΩ
+STM32F427VIT6,ST,LQFP-100(14x14),ARM Cortex-M4 32 Bit 180MHz 82 LQFP-100(14x14) Microcontrollers RoHS
+OPA4991IPWR,TI,TSSOP-14,"Standard (General Purpose) Amplifier 4 Circuit Rail-to-Rail Input, Rail-to-Rail Output TSSOP-14"
+MB1S-TP,MCC,MBS-1,Bridge Rectifier 100V 0.5A Surface Mount MBS-1
+OPA2171AIDGKR,TI,VSSOP-8,"2 1.8mV 3V/us 120dB 15pA 475uA 3MHz Rail-to-rail output VSSOP-8 Instrumentation, Op Amps, Buffer Amps RoHS"
+AZ1117CH-5.0TRG1,DIODES,SOT-223,Linear Voltage Regulator IC Positive Fixed 1 Output 1.35A SOT-223
+AZ1117CH-3.3TRG1,DIODES,SOT-223,Linear Voltage Regulator IC Positive Fixed 1 Output 1.35A SOT-223
+TL072HIPWR,TI,TSSOP-8,"2 1mV 20V/us 80dB 65pA 937.5uA 5.25MHz TSSOP-8 Instrumentation, Op Amps, Buffer Amps RoHS"
+MMZ1608S202ATA00,TDK,0603,2kΩ@100MHz 1 Line Ferrite Bead 0603 400mA 900mΩ
+LD2981ABU33TR,ST,SOT-89-3,"3.3V Positive Fixed SOT-89-3 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators RoHS"
+"PMST3904,115",Nexperia,SOT-323,Bipolar (BJT) Transistor NPN 40V 200mA 300MHz 200mW Surface Mount SOT-323
+MF-PSMF010X-2,BOURNS,0805,Polymeric PTC Resettable Fuse 15V 100mA Surface Mount 0805
+1206L035/16YR,Littelfuse,1206,Polymeric PTC Resettable Fuse 16V 350mA Surface Mount 1206
+UCM1V470MCL1GS,Nichicon,"SMD,D5xL6.1mm",47uF ±20% 35V Aluminum Electrolytic Capacitors 2000hrs@105℃
+MCP6004T-I/ST,MICROCHIP,TSSOP-14,"Standard (General Purpose) Amplifier 4 Circuit Rail-to-Rail Input, Rail-to-Rail Output TSSOP-14"
+TL074HIPWR,TI,TSSOP-14,"Four channels 1mV 20V/us 105dB 1pA 940uA 5.25MHz TSSOP-14 Instrumentation, Op Amps, Buffer Amps RoHS"
+OPA2172IDR,TI,SOIC-8,"2 200uV 10V/us 120dB 8pA 1.6mA 10MHz Rail-to-rail output SOIC-8 Instrumentation, Op Amps, Buffer Amps RoHS"
+SN74HC595PWR,TI,TSSOP-16,"2V~6V 1 7.8mA 26ns@6V,50pF Serial-to-Serial or Parallel TSSOP-16 Shift Registers RoHS"
+MMBT5088LT1G,onsemi,SOT-23,Bipolar (BJT) Transistor NPN 30V 50mA 50MHz 225mW Surface Mount SOT-23
+DG409DQ-T1-E3,VISHAY,TSSOP-16,"100Ω 2 TSSOP-16 Analog Switches, Multiplexers, Demultiplexers RoHS"
+1N914BWS,onsemi,SOD-323F,Diode Independent 75V 150mA Surface Mount SOD-323F
+STM32F103CBT6,ST,LQFP-48(7x7),ARM Cortex-M3 32 Bit 72MHz 37 LQFP-48(7x7) Microcontrollers RoHS
+1206L035/16YR,Littelfuse,1206,Polymeric PTC Resettable Fuse 16V 350mA Surface Mount 1206
+MF-PSMF010X-2,BOURNS,0805,Polymeric PTC Resettable Fuse 15V 100mA Surface Mount 0805
+XL-302UYC,XINGLIGHT,"Through Hole,D=3mm","Yellow 588nm LED Indication - Discrete 2.2V Through Hole,D=3mm"
+XL-302UGD,XINGLIGHT,"Through Hole,D=3mm","Emerald Green 520nm LED Indication - Discrete 3.6V Through Hole,D=3mm"
+BZT52B5V1S,HXY MOSFET,SOD-323,Zener Diode Independent 5.1V 200mW Surface Mount SOD-323
+OPA4991IPWR,TI,TSSOP-14,"Standard (General Purpose) Amplifier 4 Circuit Rail-to-Rail Input, Rail-to-Rail Output TSSOP-14"
+OPA1679IPWR,TI,TSSOP-14,"2.5mA 4-Channel TSSOP-14 Instrumentation, Op Amps, Buffer Amps RoHS"
+HUSB238_002DD,Hynetek,DFN-10L(3x3),1 DFN-10L(3x3) Interface Controllers RoHS
+AONR21307-TP,TECH PUBLIC,PDFN-8L(3x3),"30V 50A 1.5V 38W 9mΩ@10V 1 P-Channel PDFN-8L(3x3) Single FETs, MOSFETs RoHS"
+TYPE-C 16PIN 2MD(073),SHOU HAN,SMD,"USB-C (USB TYPE-C) Receptacle Connector 16 Position Surface Mount, Right Angle"

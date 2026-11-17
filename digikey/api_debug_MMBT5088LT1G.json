@@ -1,0 +1,1214 @@
+{
+    "timestamp": "2026-07-07 14:22:54",
+    "part_number": "MMBT5088LT1G",
+    "request_payload": {
+        "Keywords": "MMBT5088LT1G",
+        "SearchOptions": "ManufacturerProductNumber",
+        "RecordCount": 10,
+        "RecordStartPosition": 0,
+        "Sort": {
+            "Option": "SortByDigiKeyPartNumber",
+            "Direction": "Ascending",
+            "SortParameterId": 0
+        },
+        "RequestedQuantity": 0
+    },
+    "status_code": 200,
+    "response_text": "{\"Products\":[{\"Description\":{\"ProductDescription\":\"TRANS NPN 30V 0.05A SOT23-3\",\"DetailedDescription\":\"Bipolar (BJT) Transistor NPN 30 V 50 mA 50MHz 300 mW Surface Mount SOT-23-3 (TO-236)\"},\"Manufacturer\":{\"Id\":488,\"Name\":\"onsemi\"},\"ManufacturerProductNumber\":\"MMBT5088LT1G\",\"UnitPrice\":0.2,\"ProductUrl\":\"https://www.digikey.com/en/products/detail/onsemi/MMBT5088LT1G/919611\",\"DatasheetUrl\":\"https://www.onsemi.com/pdf/datasheet/mmbt5088lt1-d.pdf\",\"PhotoUrl\":\"https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4846/488_SOT-23-3%2CTO-236-3%2CMicro3%2CSSD3%2CSST3.jpg\",\"ProductVariations\":[{\"DigiKeyProductNumber\":\"MMBT5088LT1GOSTR-ND\",\"PackageType\":{\"Id\":1,\"Name\":\"Tape & Reel (TR)\"},\"StandardPricing\":[{\"BreakQuantity\":3000,\"UnitPrice\":0.0369,\"TotalPrice\":110.7000},{\"BreakQuantity\":6000,\"UnitPrice\":0.03291,\"TotalPrice\":197.46000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":488,\"Name\":\"onsemi\"},\"QuantityAvailableforPackageType\":0,\"MaxQuantityForDistribution\":0,\"MinimumOrderQuantity\":3000,\"StandardPackage\":0,\"DigiReelFee\":0.0},{\"DigiKeyProductNumber\":\"MMBT5088LT1GOSCT-ND\",\"PackageType\":{\"Id\":2,\"Name\":\"Cut Tape (CT)\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":0.2,\"TotalPrice\":0.2},{\"BreakQuantity\":10,\"UnitPrice\":0.12,\"TotalPrice\":1.20},{\"BreakQuantity\":100,\"UnitPrice\":0.0742,\"TotalPrice\":7.4200},{\"BreakQuantity\":500,\"UnitPrice\":0.05404,\"TotalPrice\":27.02000},{\"BreakQuantity\":1000,\"UnitPrice\":0.04748,\"TotalPrice\":47.48000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":488,\"Name\":\"onsemi\"},\"QuantityAvailableforPackageType\":2563,\"MaxQuantityForDistribution\":0,\"MinimumOrderQuantity\":1,\"StandardPackage\":0,\"DigiReelFee\":0.0},{\"DigiKeyProductNumber\":\"MMBT5088LT1GOSDKR-ND\",\"PackageType\":{\"Id\":243,\"Name\":\"Digi-Reel\u00ae\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":0.2,\"TotalPrice\":0.2},{\"BreakQuantity\":10,\"UnitPrice\":0.12,\"TotalPrice\":1.20},{\"BreakQuantity\":100,\"UnitPrice\":0.0742,\"TotalPrice\":7.4200},{\"BreakQuantity\":500,\"UnitPrice\":0.05404,\"TotalPrice\":27.02000},{\"BreakQuantity\":1000,\"UnitPrice\":0.04748,\"TotalPrice\":47.48000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":488,\"Name\":\"onsemi\"},\"QuantityAvailableforPackageType\":2563,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":1,\"StandardPackage\":1,\"DigiReelFee\":7.0}],\"QuantityAvailable\":2563,\"ProductStatus\":{\"Id\":0,\"Status\":\"Active\"},\"BackOrderNotAllowed\":false,\"NormallyStocking\":true,\"Discontinued\":false,\"EndOfLife\":false,\"Ncnr\":false,\"PrimaryVideoUrl\":\"\",\"Parameters\":[{\"ParameterId\":74,\"ParameterText\":\"Transistor Type\",\"ParameterType\":\"String\",\"ValueId\":\"380569\",\"ValueText\":\"NPN\"},{\"ParameterId\":2101,\"ParameterText\":\"Current - Collector (Ic) (Max)\",\"ParameterType\":\"UnitOfMeasure\",\"ValueId\":\"50 mA\",\"ValueText\":\"50 mA\"},{\"ParameterId\":2103,\"ParameterText\":\"Voltage - Collector Emitter Breakdown (Max)\",\"ParameterType\":\"UnitOfMeasure\",\"ValueId\":\"30 V\",\"ValueText\":\"30 V\"},{\"ParameterId\":841,\"ParameterText\":\"Vce Saturation (Max) @ Ib, Ic\",\"ParameterType\":\"String\",\"ValueId\":\"237000\",\"ValueText\":\"500mV @ 1mA, 10mA\"},{\"ParameterId\":890,\"ParameterText\":\"Current - Collector Cutoff (Max)\",\"ParameterType\":\"String\",\"ValueId\":\"238457\",\"ValueText\":\"50nA (ICBO)\"},{\"ParameterId\":891,\"ParameterText\":\"DC Current Gain (hFE) (Min) @ Ic, Vce\",\"ParameterType\":\"String\",\"ValueId\":\"181676\",\"ValueText\":\"300 @ 100\u00b5A, 5V\"},{\"ParameterId\":2109,\"ParameterText\":\"Power - Max\",\"ParameterType\":\"UnitOfMeasure\",\"ValueId\":\"300 mW\",\"ValueText\":\"300 mW\"},{\"ParameterId\":892,\"ParameterText\":\"Frequency - Transition\",\"ParameterType\":\"String\",\"ValueId\":\"238244\",\"ValueText\":\"50MHz\"},{\"ParameterId\":252,\"ParameterText\":\"Operating Temperature\",\"ParameterType\":\"String\",\"ValueId\":\"242933\",\"ValueText\":\"-55\u00b0C ~ 150\u00b0C (TJ)\"},{\"ParameterId\":69,\"ParameterText\":\"Mounting Type\",\"ParameterType\":\"String\",\"ValueId\":\"409393\",\"ValueText\":\"Surface Mount\"},{\"ParameterId\":16,\"ParameterText\":\"Package / Case\",\"ParameterType\":\"String\",\"ValueId\":\"413318\",\"ValueText\":\"TO-236-3, SC-59, SOT-23-3\"},{\"ParameterId\":1291,\"ParameterText\":\"Supplier Device Package\",\"ParameterType\":\"String\",\"ValueId\":\"405410\",\"ValueText\":\"SOT-23-3 (TO-236)\"}],\"BaseProductNumber\":{\"Id\":18010,\"Name\":\"MMBT5088\"},\"Category\":{\"CategoryId\":19,\"ParentId\":0,\"Name\":\"Discrete Semiconductor Products\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/350/MFG_CAB450M12XM3_tmb.jpg\",\"SeoDescription\":\"Discrete semiconductor products include individual transistors, diodes, and thyristors, as well as small arrays of such composed of two, three, four, or some other small number of similar devices within a single package. They are most commonly used for constructing circuits with considerable voltage or current stress, or for realizing very basic circuit functions.\",\"ChildCategories\":[{\"CategoryId\":2045,\"ParentId\":19,\"Name\":\"Transistors\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/955/997/448_TO252-3_tmb.jpg\",\"SeoDescription\":\"Transistors are discrete semiconductor devices used to switch or amplify electrical signals. Types of transistors include bipolar (BJT), RF, pre-Biased bipolar (BJT), FETs, MOSEFETs, IGBTs, JFETs, programmable, and more.\",\"ChildCategories\":[{\"CategoryId\":2087,\"ParentId\":2045,\"Name\":\"Bipolar (BJT)\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/001/149/427/MFG_MMBT5401_1_tmb%2864x64%29.jpg\",\"SeoDescription\":\"Discrete Bipolar Junction Transistors (BJTs) are commonly used to construct analog signal amplification functions in audio, radio, and other applications. One of the first semiconductor devices to be mass produced, their characteristics are less favorable than those of other device types for applications involving high frequency switching and operation with high currents or voltages, but they remain a technology of choice for applications requiring analog signal reproduction with minimal added noise and distortion.\",\"ChildCategories\":[{\"CategoryId\":276,\"ParentId\":2087,\"Name\":\"Single Bipolar Transistors\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/683/383/TO-206AA%20TO-18-3_tmb%2864x64%29.jpg\",\"SeoDescription\":\"Discrete Bipolar Junction Transistors (BJTs) are commonly used to construct analog signal amplification functions in audio, radio, and other applications. One of the first semiconductor devices to be mass produced, their characteristics are less favorable than those of other device types for applications involving high frequency switching and operation with high currents or voltages, but they remain a technology of choice for applications requiring analog signal reproduction with minimal added noise and distortion.\",\"ChildCategories\":[]}]}]}]},\"DateLastBuyChance\":null,\"ManufacturerLeadWeeks\":\"52\",\"ManufacturerPublicQuantity\":0,\"Series\":{\"Id\":818,\"Name\":\"-\"},\"ShippingInfo\":null,\"Classifications\":{\"ReachStatus\":\"REACH Unaffected\",\"RohsStatus\":\"ROHS3 Compliant\",\"MoistureSensitivityLevel\":\"1  (Unlimited)\",\"ExportControlClassNumber\":\"EAR99\",\"HtsusCode\":\"8541.21.0095\"},\"OtherNames\":[\"MMBT5088LT1GOSTR\",\"2156-MMBT5088LT1G-OS\",\"MMBT5088LT1GOS-ND\",\"ONSONSMMBT5088LT1G\",\"MMBT5088LT1GOS\",\"MMBT5088LT1GOSCT\",\"MMBT5088LT1GOSDKR\"]},{\"Description\":{\"ProductDescription\":\"TRANS NPN 30V 0.05A SOT23-3\",\"DetailedDescription\":\"Bipolar (BJT) Transistor NPN 30 V 50 mA 50MHz 300 mW Surface Mount SOT-23-3 (TO-236)\"},\"Manufacturer\":{\"Id\":488,\"Name\":\"onsemi\"},\"ManufacturerProductNumber\":\"SMMBT5088LT1G\",\"UnitPrice\":0.42,\"ProductUrl\":\"https://www.digikey.com/en/products/detail/onsemi/SMMBT5088LT1G/3062761\",\"DatasheetUrl\":\"https://www.onsemi.com/pdf/datasheet/mmbt5088lt1-d.pdf\",\"PhotoUrl\":\"https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4846/488_SOT-23-3%2CTO-236-3%2CMicro3%2CSSD3%2CSST3.jpg\",\"ProductVariations\":[{\"DigiKeyProductNumber\":\"488-SMMBT5088LT1GTR-ND\",\"PackageType\":{\"Id\":1,\"Name\":\"Tape & Reel (TR)\"},\"StandardPricing\":[{\"BreakQuantity\":3000,\"UnitPrice\":0.08447,\"TotalPrice\":253.41000},{\"BreakQuantity\":6000,\"UnitPrice\":0.0764,\"TotalPrice\":458.4000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":488,\"Name\":\"onsemi\"},\"QuantityAvailableforPackageType\":0,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":3000,\"StandardPackage\":3000,\"DigiReelFee\":0.0},{\"DigiKeyProductNumber\":\"488-SMMBT5088LT1GCT-ND\",\"PackageType\":{\"Id\":2,\"Name\":\"Cut Tape (CT)\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":0.42,\"TotalPrice\":0.42},{\"BreakQuantity\":10,\"UnitPrice\":0.256,\"TotalPrice\":2.560},{\"BreakQuantity\":100,\"UnitPrice\":0.161,\"TotalPrice\":16.100},{\"BreakQuantity\":500,\"UnitPrice\":0.11984,\"TotalPrice\":59.92000},{\"BreakQuantity\":1000,\"UnitPrice\":0.10651,\"TotalPrice\":106.51000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":488,\"Name\":\"onsemi\"},\"QuantityAvailableforPackageType\":628,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":1,\"StandardPackage\":1,\"DigiReelFee\":0.0},{\"DigiKeyProductNumber\":\"488-SMMBT5088LT1GDKR-ND\",\"PackageType\":{\"Id\":243,\"Name\":\"Digi-Reel\u00ae\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":0.42,\"TotalPrice\":0.42},{\"BreakQuantity\":10,\"UnitPrice\":0.256,\"TotalPrice\":2.560},{\"BreakQuantity\":100,\"UnitPrice\":0.161,\"TotalPrice\":16.100},{\"BreakQuantity\":500,\"UnitPrice\":0.11984,\"TotalPrice\":59.92000},{\"BreakQuantity\":1000,\"UnitPrice\":0.10651,\"TotalPrice\":106.51000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":488,\"Name\":\"onsemi\"},\"QuantityAvailableforPackageType\":628,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":1,\"StandardPackage\":1,\"DigiReelFee\":7.0}],\"QuantityAvailable\":628,\"ProductStatus\":{\"Id\":0,\"Status\":\"Active\"},\"BackOrderNotAllowed\":false,\"NormallyStocking\":true,\"Discontinued\":false,\"EndOfLife\":false,\"Ncnr\":false,\"PrimaryVideoUrl\":\"\",\"Parameters\":[{\"ParameterId\":74,\"ParameterText\":\"Transistor Type\",\"ParameterType\":\"String\",\"ValueId\":\"380569\",\"ValueText\":\"NPN\"},{\"ParameterId\":2101,\"ParameterText\":\"Current - Collector (Ic) (Max)\",\"ParameterType\":\"UnitOfMeasure\",\"ValueId\":\"50 mA\",\"ValueText\":\"50 mA\"},{\"ParameterId\":2103,\"ParameterText\":\"Voltage - Collector Emitter Breakdown (Max)\",\"ParameterType\":\"UnitOfMeasure\",\"ValueId\":\"30 V\",\"ValueText\":\"30 V\"},{\"ParameterId\":841,\"ParameterText\":\"Vce Saturation (Max) @ Ib, Ic\",\"ParameterType\":\"String\",\"ValueId\":\"237000\",\"ValueText\":\"500mV @ 1mA, 10mA\"},{\"ParameterId\":890,\"ParameterText\":\"Current - Collector Cutoff (Max)\",\"ParameterType\":\"String\",\"ValueId\":\"238457\",\"ValueText\":\"50nA (ICBO)\"},{\"ParameterId\":891,\"ParameterText\":\"DC Current Gain (hFE) (Min) @ Ic, Vce\",\"ParameterType\":\"String\",\"ValueId\":\"181676\",\"ValueText\":\"300 @ 100\u00b5A, 5V\"},{\"ParameterId\":2109,\"ParameterText\":\"Power - Max\",\"ParameterType\":\"UnitOfMeasure\",\"ValueId\":\"300 mW\",\"ValueText\":\"300 mW\"},{\"ParameterId\":892,\"ParameterText\":\"Frequency - Transition\",\"ParameterType\":\"String\",\"ValueId\":\"238244\",\"ValueText\":\"50MHz\"},{\"ParameterId\":252,\"ParameterText\":\"Operating Temperature\",\"ParameterType\":\"String\",\"ValueId\":\"242933\",\"ValueText\":\"-55\u00b0C ~ 150\u00b0C (TJ)\"},{\"ParameterId\":69,\"ParameterText\":\"Mounting Type\",\"ParameterType\":\"String\",\"ValueId\":\"409393\",\"ValueText\":\"Surface Mount\"},{\"ParameterId\":16,\"ParameterText\":\"Package / Case\",\"ParameterType\":\"String\",\"ValueId\":\"413318\",\"ValueText\":\"TO-236-3, SC-59, SOT-23-3\"},{\"ParameterId\":1291,\"ParameterText\":\"Supplier Device Package\",\"ParameterType\":\"String\",\"ValueId\":\"405410\",\"ValueText\":\"SOT-23-3 (TO-236)\"}],\"BaseProductNumber\":{\"Id\":298766,\"Name\":\"SMMBT5088\"},\"Category\":{\"CategoryId\":19,\"ParentId\":0,\"Name\":\"Discrete Semiconductor Products\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/350/MFG_CAB450M12XM3_tmb.jpg\",\"SeoDescription\":\"Discrete semiconductor products include individual transistors, diodes, and thyristors, as well as small arrays of such composed of two, three, four, or some other small number of similar devices within a single package. They are most commonly used for constructing circuits with considerable voltage or current stress, or for realizing very basic circuit functions.\",\"ChildCategories\":[{\"CategoryId\":2045,\"ParentId\":19,\"Name\":\"Transistors\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/955/997/448_TO252-3_tmb.jpg\",\"SeoDescription\":\"Transistors are discrete semiconductor devices used to switch or amplify electrical signals. Types of transistors include bipolar (BJT), RF, pre-Biased bipolar (BJT), FETs, MOSEFETs, IGBTs, JFETs, programmable, and more.\",\"ChildCategories\":[{\"CategoryId\":2087,\"ParentId\":2045,\"Name\":\"Bipolar (BJT)\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/001/149/427/MFG_MMBT5401_1_tmb%2864x64%29.jpg\",\"SeoDescription\":\"Discrete Bipolar Junction Transistors (BJTs) are commonly used to construct analog signal amplification functions in audio, radio, and other applications. One of the first semiconductor devices to be mass produced, their characteristics are less favorable than those of other device types for applications involving high frequency switching and operation with high currents or voltages, but they remain a technology of choice for applications requiring analog signal reproduction with minimal added noise and distortion.\",\"ChildCategories\":[{\"CategoryId\":276,\"ParentId\":2087,\"Name\":\"Single Bipolar Transistors\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/683/383/TO-206AA%20TO-18-3_tmb%2864x64%29.jpg\",\"SeoDescription\":\"Discrete Bipolar Junction Transistors (BJTs) are commonly used to construct analog signal amplification functions in audio, radio, and other applications. One of the first semiconductor devices to be mass produced, their characteristics are less favorable than those of other device types for applications involving high frequency switching and operation with high currents or voltages, but they remain a technology of choice for applications requiring analog signal reproduction with minimal added noise and distortion.\",\"ChildCategories\":[]}]}]}]},\"DateLastBuyChance\":null,\"ManufacturerLeadWeeks\":\"52\",\"ManufacturerPublicQuantity\":0,\"Series\":{\"Id\":818,\"Name\":\"-\"},\"ShippingInfo\":null,\"Classifications\":{\"ReachStatus\":\"REACH Unaffected\",\"RohsStatus\":\"ROHS3 Compliant\",\"MoistureSensitivityLevel\":\"1  (Unlimited)\",\"ExportControlClassNumber\":\"EAR99\",\"HtsusCode\":\"8541.21.0095\"},\"OtherNames\":[\"ONSONSSMMBT5088LT1G\",\"SMMBT5088LT1G-ND\",\"488-SMMBT5088LT1GTR\",\"488-SMMBT5088LT1GCT\",\"488-SMMBT5088LT1GDKR\",\"2156-SMMBT5088LT1G-OS\"]}],\"ProductsCount\":2,\"ExactMatches\":[{\"Description\":{\"ProductDescription\":\"TRANS NPN 30V 0.05A SOT23-3\",\"DetailedDescription\":\"Bipolar (BJT) Transistor NPN 30 V 50 mA 50MHz 300 mW Surface Mount SOT-23-3 (TO-236)\"},\"Manufacturer\":{\"Id\":488,\"Name\":\"onsemi\"},\"ManufacturerProductNumber\":\"MMBT5088LT1G\",\"UnitPrice\":0.2,\"ProductUrl\":\"https://www.digikey.com/en/products/detail/onsemi/MMBT5088LT1G/919611\",\"DatasheetUrl\":\"https://www.onsemi.com/pdf/datasheet/mmbt5088lt1-d.pdf\",\"PhotoUrl\":\"https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4846/488_SOT-23-3%2CTO-236-3%2CMicro3%2CSSD3%2CSST3.jpg\",\"ProductVariations\":[{\"DigiKeyProductNumber\":\"MMBT5088LT1GOSTR-ND\",\"PackageType\":{\"Id\":1,\"Name\":\"Tape & Reel (TR)\"},\"StandardPricing\":[{\"BreakQuantity\":3000,\"UnitPrice\":0.0369,\"TotalPrice\":110.7000},{\"BreakQuantity\":6000,\"UnitPrice\":0.03291,\"TotalPrice\":197.46000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":488,\"Name\":\"onsemi\"},\"QuantityAvailableforPackageType\":0,\"MaxQuantityForDistribution\":0,\"MinimumOrderQuantity\":3000,\"StandardPackage\":0,\"DigiReelFee\":0.0},{\"DigiKeyProductNumber\":\"MMBT5088LT1GOSCT-ND\",\"PackageType\":{\"Id\":2,\"Name\":\"Cut Tape (CT)\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":0.2,\"TotalPrice\":0.2},{\"BreakQuantity\":10,\"UnitPrice\":0.12,\"TotalPrice\":1.20},{\"BreakQuantity\":100,\"UnitPrice\":0.0742,\"TotalPrice\":7.4200},{\"BreakQuantity\":500,\"UnitPrice\":0.05404,\"TotalPrice\":27.02000},{\"BreakQuantity\":1000,\"UnitPrice\":0.04748,\"TotalPrice\":47.48000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":488,\"Name\":\"onsemi\"},\"QuantityAvailableforPackageType\":2563,\"MaxQuantityForDistribution\":0,\"MinimumOrderQuantity\":1,\"StandardPackage\":0,\"DigiReelFee\":0.0},{\"DigiKeyProductNumber\":\"MMBT5088LT1GOSDKR-ND\",\"PackageType\":{\"Id\":243,\"Name\":\"Digi-Reel\u00ae\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":0.2,\"TotalPrice\":0.2},{\"BreakQuantity\":10,\"UnitPrice\":0.12,\"TotalPrice\":1.20},{\"BreakQuantity\":100,\"UnitPrice\":0.0742,\"TotalPrice\":7.4200},{\"BreakQuantity\":500,\"UnitPrice\":0.05404,\"TotalPrice\":27.02000},{\"BreakQuantity\":1000,\"UnitPrice\":0.04748,\"TotalPrice\":47.48000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":488,\"Name\":\"onsemi\"},\"QuantityAvailableforPackageType\":2563,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":1,\"StandardPackage\":1,\"DigiReelFee\":7.0}],\"QuantityAvailable\":2563,\"ProductStatus\":{\"Id\":0,\"Status\":\"Active\"},\"BackOrderNotAllowed\":false,\"NormallyStocking\":true,\"Discontinued\":false,\"EndOfLife\":false,\"Ncnr\":false,\"PrimaryVideoUrl\":\"\",\"Parameters\":[{\"ParameterId\":74,\"ParameterText\":\"Transistor Type\",\"ParameterType\":\"String\",\"ValueId\":\"380569\",\"ValueText\":\"NPN\"},{\"ParameterId\":2101,\"ParameterText\":\"Current - Collector (Ic) (Max)\",\"ParameterType\":\"UnitOfMeasure\",\"ValueId\":\"50 mA\",\"ValueText\":\"50 mA\"},{\"ParameterId\":2103,\"ParameterText\":\"Voltage - Collector Emitter Breakdown (Max)\",\"ParameterType\":\"UnitOfMeasure\",\"ValueId\":\"30 V\",\"ValueText\":\"30 V\"},{\"ParameterId\":841,\"ParameterText\":\"Vce Saturation (Max) @ Ib, Ic\",\"ParameterType\":\"String\",\"ValueId\":\"237000\",\"ValueText\":\"500mV @ 1mA, 10mA\"},{\"ParameterId\":890,\"ParameterText\":\"Current - Collector Cutoff (Max)\",\"ParameterType\":\"String\",\"ValueId\":\"238457\",\"ValueText\":\"50nA (ICBO)\"},{\"ParameterId\":891,\"ParameterText\":\"DC Current Gain (hFE) (Min) @ Ic, Vce\",\"ParameterType\":\"String\",\"ValueId\":\"181676\",\"ValueText\":\"300 @ 100\u00b5A, 5V\"},{\"ParameterId\":2109,\"ParameterText\":\"Power - Max\",\"ParameterType\":\"UnitOfMeasure\",\"ValueId\":\"300 mW\",\"ValueText\":\"300 mW\"},{\"ParameterId\":892,\"ParameterText\":\"Frequency - Transition\",\"ParameterType\":\"String\",\"ValueId\":\"238244\",\"ValueText\":\"50MHz\"},{\"ParameterId\":252,\"ParameterText\":\"Operating Temperature\",\"ParameterType\":\"String\",\"ValueId\":\"242933\",\"ValueText\":\"-55\u00b0C ~ 150\u00b0C (TJ)\"},{\"ParameterId\":69,\"ParameterText\":\"Mounting Type\",\"ParameterType\":\"String\",\"ValueId\":\"409393\",\"ValueText\":\"Surface Mount\"},{\"ParameterId\":16,\"ParameterText\":\"Package / Case\",\"ParameterType\":\"String\",\"ValueId\":\"413318\",\"ValueText\":\"TO-236-3, SC-59, SOT-23-3\"},{\"ParameterId\":1291,\"ParameterText\":\"Supplier Device Package\",\"ParameterType\":\"String\",\"ValueId\":\"405410\",\"ValueText\":\"SOT-23-3 (TO-236)\"}],\"BaseProductNumber\":{\"Id\":18010,\"Name\":\"MMBT5088\"},\"Category\":{\"CategoryId\":19,\"ParentId\":0,\"Name\":\"Discrete Semiconductor Products\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/350/MFG_CAB450M12XM3_tmb.jpg\",\"SeoDescription\":\"Discrete semiconductor products include individual transistors, diodes, and thyristors, as well as small arrays of such composed of two, three, four, or some other small number of similar devices within a single package. They are most commonly used for constructing circuits with considerable voltage or current stress, or for realizing very basic circuit functions.\",\"ChildCategories\":[{\"CategoryId\":2045,\"ParentId\":19,\"Name\":\"Transistors\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/955/997/448_TO252-3_tmb.jpg\",\"SeoDescription\":\"Transistors are discrete semiconductor devices used to switch or amplify electrical signals. Types of transistors include bipolar (BJT), RF, pre-Biased bipolar (BJT), FETs, MOSEFETs, IGBTs, JFETs, programmable, and more.\",\"ChildCategories\":[{\"CategoryId\":2087,\"ParentId\":2045,\"Name\":\"Bipolar (BJT)\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/001/149/427/MFG_MMBT5401_1_tmb%2864x64%29.jpg\",\"SeoDescription\":\"Discrete Bipolar Junction Transistors (BJTs) are commonly used to construct analog signal amplification functions in audio, radio, and other applications. One of the first semiconductor devices to be mass produced, their characteristics are less favorable than those of other device types for applications involving high frequency switching and operation with high currents or voltages, but they remain a technology of choice for applications requiring analog signal reproduction with minimal added noise and distortion.\",\"ChildCategories\":[{\"CategoryId\":276,\"ParentId\":2087,\"Name\":\"Single Bipolar Transistors\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/683/383/TO-206AA%20TO-18-3_tmb%2864x64%29.jpg\",\"SeoDescription\":\"Discrete Bipolar Junction Transistors (BJTs) are commonly used to construct analog signal amplification functions in audio, radio, and other applications. One of the first semiconductor devices to be mass produced, their characteristics are less favorable than those of other device types for applications involving high frequency switching and operation with high currents or voltages, but they remain a technology of choice for applications requiring analog signal reproduction with minimal added noise and distortion.\",\"ChildCategories\":[]}]}]}]},\"DateLastBuyChance\":null,\"ManufacturerLeadWeeks\":\"52\",\"ManufacturerPublicQuantity\":0,\"Series\":{\"Id\":818,\"Name\":\"-\"},\"ShippingInfo\":null,\"Classifications\":{\"ReachStatus\":\"REACH Unaffected\",\"RohsStatus\":\"ROHS3 Compliant\",\"MoistureSensitivityLevel\":\"1  (Unlimited)\",\"ExportControlClassNumber\":\"EAR99\",\"HtsusCode\":\"8541.21.0095\"},\"OtherNames\":[\"MMBT5088LT1GOSTR\",\"2156-MMBT5088LT1G-OS\",\"MMBT5088LT1GOS-ND\",\"ONSONSMMBT5088LT1G\",\"MMBT5088LT1GOS\",\"MMBT5088LT1GOSCT\",\"MMBT5088LT1GOSDKR\"]}],\"FilterOptions\":{\"Manufacturers\":[{\"Id\":488,\"Value\":\"onsemi\",\"ProductCount\":2}],\"Packaging\":[{\"Id\":2,\"Value\":\"Cut Tape (CT)\",\"ProductCount\":2},{\"Id\":243,\"Value\":\"Digi-Reel\u00ae\",\"ProductCount\":2},{\"Id\":1,\"Value\":\"Tape & Reel (TR)\",\"ProductCount\":2}],\"Status\":[{\"Id\":0,\"Value\":\"Active\",\"ProductCount\":2}],\"Series\":[{\"Id\":818,\"Value\":\"-\",\"ProductCount\":2}],\"ParametricFilters\":[{\"Category\":{\"Id\":276,\"Value\":\"Single Bipolar Transistors\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":74,\"ParameterName\":\"Transistor Type\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"380569\",\"ValueName\":\"NPN\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":276,\"Value\":\"Single Bipolar Transistors\",\"ProductCount\":null},\"ParameterType\":\"UnitOfMeasure\",\"ParameterId\":2101,\"ParameterName\":\"Current - Collector (Ic) (Max)\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"50 mA\",\"ValueName\":\"50 mA\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":276,\"Value\":\"Single Bipolar Transistors\",\"ProductCount\":null},\"ParameterType\":\"UnitOfMeasure\",\"ParameterId\":2103,\"ParameterName\":\"Voltage - Collector Emitter Breakdown (Max)\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"30 V\",\"ValueName\":\"30 V\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":276,\"Value\":\"Single Bipolar Transistors\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":841,\"ParameterName\":\"Vce Saturation (Max) @ Ib, Ic\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"237000\",\"ValueName\":\"500mV @ 1mA, 10mA\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":276,\"Value\":\"Single Bipolar Transistors\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":890,\"ParameterName\":\"Current - Collector Cutoff (Max)\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"238457\",\"ValueName\":\"50nA (ICBO)\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":276,\"Value\":\"Single Bipolar Transistors\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":891,\"ParameterName\":\"DC Current Gain (hFE) (Min) @ Ic, Vce\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"181676\",\"ValueName\":\"300 @ 100\u00b5A, 5V\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":276,\"Value\":\"Single Bipolar Transistors\",\"ProductCount\":null},\"ParameterType\":\"UnitOfMeasure\",\"ParameterId\":2109,\"ParameterName\":\"Power - Max\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"300 mW\",\"ValueName\":\"300 mW\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":276,\"Value\":\"Single Bipolar Transistors\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":892,\"ParameterName\":\"Frequency - Transition\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"238244\",\"ValueName\":\"50MHz\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":276,\"Value\":\"Single Bipolar Transistors\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":252,\"ParameterName\":\"Operating Temperature\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"242933\",\"ValueName\":\"-55\u00b0C ~ 150\u00b0C (TJ)\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":276,\"Value\":\"Single Bipolar Transistors\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":69,\"ParameterName\":\"Mounting Type\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"409393\",\"ValueName\":\"Surface Mount\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":276,\"Value\":\"Single Bipolar Transistors\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":16,\"ParameterName\":\"Package / Case\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"413318\",\"ValueName\":\"TO-236-3, SC-59, SOT-23-3\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":276,\"Value\":\"Single Bipolar Transistors\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":1291,\"ParameterName\":\"Supplier Device Package\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"405410\",\"ValueName\":\"SOT-23-3 (TO-236)\",\"RangeFilterType\":null}]}],\"TopCategories\":null,\"MarketPlaceFilters\":null},\"SearchLocaleUsed\":{\"Site\":\"US\",\"Language\":\"en\",\"Currency\":\"USD\"},\"AppliedParametricFiltersDto\":[]}",
+    "response_json": {
+        "Products": [
+            {
+                "Description": {
+                    "ProductDescription": "TRANS NPN 30V 0.05A SOT23-3",
+                    "DetailedDescription": "Bipolar (BJT) Transistor NPN 30 V 50 mA 50MHz 300 mW Surface Mount SOT-23-3 (TO-236)"
+                },
+                "Manufacturer": {
+                    "Id": 488,
+                    "Name": "onsemi"
+                },
+                "ManufacturerProductNumber": "MMBT5088LT1G",
+                "UnitPrice": 0.2,
+                "ProductUrl": "https://www.digikey.com/en/products/detail/onsemi/MMBT5088LT1G/919611",
+                "DatasheetUrl": "https://www.onsemi.com/pdf/datasheet/mmbt5088lt1-d.pdf",
+                "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4846/488_SOT-23-3%2CTO-236-3%2CMicro3%2CSSD3%2CSST3.jpg",
+                "ProductVariations": [
+                    {
+                        "DigiKeyProductNumber": "MMBT5088LT1GOSTR-ND",
+                        "PackageType": {
+                            "Id": 1,
+                            "Name": "Tape & Reel (TR)"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 3000,
+                                "UnitPrice": 0.0369,
+                                "TotalPrice": 110.7
+                            },
+                            {
+                                "BreakQuantity": 6000,
+                                "UnitPrice": 0.03291,
+                                "TotalPrice": 197.46
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 488,
+                            "Name": "onsemi"
+                        },
+                        "QuantityAvailableforPackageType": 0,
+                        "MaxQuantityForDistribution": 0,
+                        "MinimumOrderQuantity": 3000,
+                        "StandardPackage": 0,
+                        "DigiReelFee": 0.0
+                    },
+                    {
+                        "DigiKeyProductNumber": "MMBT5088LT1GOSCT-ND",
+                        "PackageType": {
+                            "Id": 2,
+                            "Name": "Cut Tape (CT)"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 0.2,
+                                "TotalPrice": 0.2
+                            },
+                            {
+                                "BreakQuantity": 10,
+                                "UnitPrice": 0.12,
+                                "TotalPrice": 1.2
+                            },
+                            {
+                                "BreakQuantity": 100,
+                                "UnitPrice": 0.0742,
+                                "TotalPrice": 7.42
+                            },
+                            {
+                                "BreakQuantity": 500,
+                                "UnitPrice": 0.05404,
+                                "TotalPrice": 27.02
+                            },
+                            {
+                                "BreakQuantity": 1000,
+                                "UnitPrice": 0.04748,
+                                "TotalPrice": 47.48
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 488,
+                            "Name": "onsemi"
+                        },
+                        "QuantityAvailableforPackageType": 2563,
+                        "MaxQuantityForDistribution": 0,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 0,
+                        "DigiReelFee": 0.0
+                    },
+                    {
+                        "DigiKeyProductNumber": "MMBT5088LT1GOSDKR-ND",
+                        "PackageType": {
+                            "Id": 243,
+                            "Name": "Digi-Reel\u00ae"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 0.2,
+                                "TotalPrice": 0.2
+                            },
+                            {
+                                "BreakQuantity": 10,
+                                "UnitPrice": 0.12,
+                                "TotalPrice": 1.2
+                            },
+                            {
+                                "BreakQuantity": 100,
+                                "UnitPrice": 0.0742,
+                                "TotalPrice": 7.42
+                            },
+                            {
+                                "BreakQuantity": 500,
+                                "UnitPrice": 0.05404,
+                                "TotalPrice": 27.02
+                            },
+                            {
+                                "BreakQuantity": 1000,
+                                "UnitPrice": 0.04748,
+                                "TotalPrice": 47.48
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 488,
+                            "Name": "onsemi"
+                        },
+                        "QuantityAvailableforPackageType": 2563,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 1,
+                        "DigiReelFee": 7.0
+                    }
+                ],
+                "QuantityAvailable": 2563,
+                "ProductStatus": {
+                    "Id": 0,
+                    "Status": "Active"
+                },
+                "BackOrderNotAllowed": false,
+                "NormallyStocking": true,
+                "Discontinued": false,
+                "EndOfLife": false,
+                "Ncnr": false,
+                "PrimaryVideoUrl": "",
+                "Parameters": [
+                    {
+                        "ParameterId": 74,
+                        "ParameterText": "Transistor Type",
+                        "ParameterType": "String",
+                        "ValueId": "380569",
+                        "ValueText": "NPN"
+                    },
+                    {
+                        "ParameterId": 2101,
+                        "ParameterText": "Current - Collector (Ic) (Max)",
+                        "ParameterType": "UnitOfMeasure",
+                        "ValueId": "50 mA",
+                        "ValueText": "50 mA"
+                    },
+                    {
+                        "ParameterId": 2103,
+                        "ParameterText": "Voltage - Collector Emitter Breakdown (Max)",
+                        "ParameterType": "UnitOfMeasure",
+                        "ValueId": "30 V",
+                        "ValueText": "30 V"
+                    },
+                    {
+                        "ParameterId": 841,
+                        "ParameterText": "Vce Saturation (Max) @ Ib, Ic",
+                        "ParameterType": "String",
+                        "ValueId": "237000",
+                        "ValueText": "500mV @ 1mA, 10mA"
+                    },
+                    {
+                        "ParameterId": 890,
+                        "ParameterText": "Current - Collector Cutoff (Max)",
+                        "ParameterType": "String",
+                        "ValueId": "238457",
+                        "ValueText": "50nA (ICBO)"
+                    },
+                    {
+                        "ParameterId": 891,
+                        "ParameterText": "DC Current Gain (hFE) (Min) @ Ic, Vce",
+                        "ParameterType": "String",
+                        "ValueId": "181676",
+                        "ValueText": "300 @ 100\u00b5A, 5V"
+                    },
+                    {
+                        "ParameterId": 2109,
+                        "ParameterText": "Power - Max",
+                        "ParameterType": "UnitOfMeasure",
+                        "ValueId": "300 mW",
+                        "ValueText": "300 mW"
+                    },
+                    {
+                        "ParameterId": 892,
+                        "ParameterText": "Frequency - Transition",
+                        "ParameterType": "String",
+                        "ValueId": "238244",
+                        "ValueText": "50MHz"
+                    },
+                    {
+                        "ParameterId": 252,
+                        "ParameterText": "Operating Temperature",
+                        "ParameterType": "String",
+                        "ValueId": "242933",
+                        "ValueText": "-55\u00b0C ~ 150\u00b0C (TJ)"
+                    },
+                    {
+                        "ParameterId": 69,
+                        "ParameterText": "Mounting Type",
+                        "ParameterType": "String",
+                        "ValueId": "409393",
+                        "ValueText": "Surface Mount"
+                    },
+                    {
+                        "ParameterId": 16,
+                        "ParameterText": "Package / Case",
+                        "ParameterType": "String",
+                        "ValueId": "413318",
+                        "ValueText": "TO-236-3, SC-59, SOT-23-3"
+                    },
+                    {
+                        "ParameterId": 1291,
+                        "ParameterText": "Supplier Device Package",
+                        "ParameterType": "String",
+                        "ValueId": "405410",
+                        "ValueText": "SOT-23-3 (TO-236)"
+                    }
+                ],
+                "BaseProductNumber": {
+                    "Id": 18010,
+                    "Name": "MMBT5088"
+                },
+                "Category": {
+                    "CategoryId": 19,
+                    "ParentId": 0,
+                    "Name": "Discrete Semiconductor Products",
+                    "ProductCount": 0,
+                    "NewProductCount": 0,
+                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/350/MFG_CAB450M12XM3_tmb.jpg",
+                    "SeoDescription": "Discrete semiconductor products include individual transistors, diodes, and thyristors, as well as small arrays of such composed of two, three, four, or some other small number of similar devices within a single package. They are most commonly used for constructing circuits with considerable voltage or current stress, or for realizing very basic circuit functions.",
+                    "ChildCategories": [
+                        {
+                            "CategoryId": 2045,
+                            "ParentId": 19,
+                            "Name": "Transistors",
+                            "ProductCount": 0,
+                            "NewProductCount": 0,
+                            "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/955/997/448_TO252-3_tmb.jpg",
+                            "SeoDescription": "Transistors are discrete semiconductor devices used to switch or amplify electrical signals. Types of transistors include bipolar (BJT), RF, pre-Biased bipolar (BJT), FETs, MOSEFETs, IGBTs, JFETs, programmable, and more.",
+                            "ChildCategories": [
+                                {
+                                    "CategoryId": 2087,
+                                    "ParentId": 2045,
+                                    "Name": "Bipolar (BJT)",
+                                    "ProductCount": 0,
+                                    "NewProductCount": 0,
+                                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/001/149/427/MFG_MMBT5401_1_tmb%2864x64%29.jpg",
+                                    "SeoDescription": "Discrete Bipolar Junction Transistors (BJTs) are commonly used to construct analog signal amplification functions in audio, radio, and other applications. One of the first semiconductor devices to be mass produced, their characteristics are less favorable than those of other device types for applications involving high frequency switching and operation with high currents or voltages, but they remain a technology of choice for applications requiring analog signal reproduction with minimal added noise and distortion.",
+                                    "ChildCategories": [
+                                        {
+                                            "CategoryId": 276,
+                                            "ParentId": 2087,
+                                            "Name": "Single Bipolar Transistors",
+                                            "ProductCount": 0,
+                                            "NewProductCount": 0,
+                                            "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/683/383/TO-206AA%20TO-18-3_tmb%2864x64%29.jpg",
+                                            "SeoDescription": "Discrete Bipolar Junction Transistors (BJTs) are commonly used to construct analog signal amplification functions in audio, radio, and other applications. One of the first semiconductor devices to be mass produced, their characteristics are less favorable than those of other device types for applications involving high frequency switching and operation with high currents or voltages, but they remain a technology of choice for applications requiring analog signal reproduction with minimal added noise and distortion.",
+                                            "ChildCategories": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "DateLastBuyChance": null,
+                "ManufacturerLeadWeeks": "52",
+                "ManufacturerPublicQuantity": 0,
+                "Series": {
+                    "Id": 818,
+                    "Name": "-"
+                },
+                "ShippingInfo": null,
+                "Classifications": {
+                    "ReachStatus": "REACH Unaffected",
+                    "RohsStatus": "ROHS3 Compliant",
+                    "MoistureSensitivityLevel": "1  (Unlimited)",
+                    "ExportControlClassNumber": "EAR99",
+                    "HtsusCode": "8541.21.0095"
+                },
+                "OtherNames": [
+                    "MMBT5088LT1GOSTR",
+                    "2156-MMBT5088LT1G-OS",
+                    "MMBT5088LT1GOS-ND",
+                    "ONSONSMMBT5088LT1G",
+                    "MMBT5088LT1GOS",
+                    "MMBT5088LT1GOSCT",
+                    "MMBT5088LT1GOSDKR"
+                ]
+            },
+            {
+                "Description": {
+                    "ProductDescription": "TRANS NPN 30V 0.05A SOT23-3",
+                    "DetailedDescription": "Bipolar (BJT) Transistor NPN 30 V 50 mA 50MHz 300 mW Surface Mount SOT-23-3 (TO-236)"
+                },
+                "Manufacturer": {
+                    "Id": 488,
+                    "Name": "onsemi"
+                },
+                "ManufacturerProductNumber": "SMMBT5088LT1G",
+                "UnitPrice": 0.42,
+                "ProductUrl": "https://www.digikey.com/en/products/detail/onsemi/SMMBT5088LT1G/3062761",
+                "DatasheetUrl": "https://www.onsemi.com/pdf/datasheet/mmbt5088lt1-d.pdf",
+                "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4846/488_SOT-23-3%2CTO-236-3%2CMicro3%2CSSD3%2CSST3.jpg",
+                "ProductVariations": [
+                    {
+                        "DigiKeyProductNumber": "488-SMMBT5088LT1GTR-ND",
+                        "PackageType": {
+                            "Id": 1,
+                            "Name": "Tape & Reel (TR)"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 3000,
+                                "UnitPrice": 0.08447,
+                                "TotalPrice": 253.41
+                            },
+                            {
+                                "BreakQuantity": 6000,
+                                "UnitPrice": 0.0764,
+                                "TotalPrice": 458.4
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 488,
+                            "Name": "onsemi"
+                        },
+                        "QuantityAvailableforPackageType": 0,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 3000,
+                        "StandardPackage": 3000,
+                        "DigiReelFee": 0.0
+                    },
+                    {
+                        "DigiKeyProductNumber": "488-SMMBT5088LT1GCT-ND",
+                        "PackageType": {
+                            "Id": 2,
+                            "Name": "Cut Tape (CT)"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 0.42,
+                                "TotalPrice": 0.42
+                            },
+                            {
+                                "BreakQuantity": 10,
+                                "UnitPrice": 0.256,
+                                "TotalPrice": 2.56
+                            },
+                            {
+                                "BreakQuantity": 100,
+                                "UnitPrice": 0.161,
+                                "TotalPrice": 16.1
+                            },
+                            {
+                                "BreakQuantity": 500,
+                                "UnitPrice": 0.11984,
+                                "TotalPrice": 59.92
+                            },
+                            {
+                                "BreakQuantity": 1000,
+                                "UnitPrice": 0.10651,
+                                "TotalPrice": 106.51
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 488,
+                            "Name": "onsemi"
+                        },
+                        "QuantityAvailableforPackageType": 628,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 1,
+                        "DigiReelFee": 0.0
+                    },
+                    {
+                        "DigiKeyProductNumber": "488-SMMBT5088LT1GDKR-ND",
+                        "PackageType": {
+                            "Id": 243,
+                            "Name": "Digi-Reel\u00ae"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 0.42,
+                                "TotalPrice": 0.42
+                            },
+                            {
+                                "BreakQuantity": 10,
+                                "UnitPrice": 0.256,
+                                "TotalPrice": 2.56
+                            },
+                            {
+                                "BreakQuantity": 100,
+                                "UnitPrice": 0.161,
+                                "TotalPrice": 16.1
+                            },
+                            {
+                                "BreakQuantity": 500,
+                                "UnitPrice": 0.11984,
+                                "TotalPrice": 59.92
+                            },
+                            {
+                                "BreakQuantity": 1000,
+                                "UnitPrice": 0.10651,
+                                "TotalPrice": 106.51
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 488,
+                            "Name": "onsemi"
+                        },
+                        "QuantityAvailableforPackageType": 628,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 1,
+                        "DigiReelFee": 7.0
+                    }
+                ],
+                "QuantityAvailable": 628,
+                "ProductStatus": {
+                    "Id": 0,
+                    "Status": "Active"
+                },
+                "BackOrderNotAllowed": false,
+                "NormallyStocking": true,
+                "Discontinued": false,
+                "EndOfLife": false,
+                "Ncnr": false,
+                "PrimaryVideoUrl": "",
+                "Parameters": [
+                    {
+                        "ParameterId": 74,
+                        "ParameterText": "Transistor Type",
+                        "ParameterType": "String",
+                        "ValueId": "380569",
+                        "ValueText": "NPN"
+                    },
+                    {
+                        "ParameterId": 2101,
+                        "ParameterText": "Current - Collector (Ic) (Max)",
+                        "ParameterType": "UnitOfMeasure",
+                        "ValueId": "50 mA",
+                        "ValueText": "50 mA"
+                    },
+                    {
+                        "ParameterId": 2103,
+                        "ParameterText": "Voltage - Collector Emitter Breakdown (Max)",
+                        "ParameterType": "UnitOfMeasure",
+                        "ValueId": "30 V",
+                        "ValueText": "30 V"
+                    },
+                    {
+                        "ParameterId": 841,
+                        "ParameterText": "Vce Saturation (Max) @ Ib, Ic",
+                        "ParameterType": "String",
+                        "ValueId": "237000",
+                        "ValueText": "500mV @ 1mA, 10mA"
+                    },
+                    {
+                        "ParameterId": 890,
+                        "ParameterText": "Current - Collector Cutoff (Max)",
+                        "ParameterType": "String",
+                        "ValueId": "238457",
+                        "ValueText": "50nA (ICBO)"
+                    },
+                    {
+                        "ParameterId": 891,
+                        "ParameterText": "DC Current Gain (hFE) (Min) @ Ic, Vce",
+                        "ParameterType": "String",
+                        "ValueId": "181676",
+                        "ValueText": "300 @ 100\u00b5A, 5V"
+                    },
+                    {
+                        "ParameterId": 2109,
+                        "ParameterText": "Power - Max",
+                        "ParameterType": "UnitOfMeasure",
+                        "ValueId": "300 mW",
+                        "ValueText": "300 mW"
+                    },
+                    {
+                        "ParameterId": 892,
+                        "ParameterText": "Frequency - Transition",
+                        "ParameterType": "String",
+                        "ValueId": "238244",
+                        "ValueText": "50MHz"
+                    },
+                    {
+                        "ParameterId": 252,
+                        "ParameterText": "Operating Temperature",
+                        "ParameterType": "String",
+                        "ValueId": "242933",
+                        "ValueText": "-55\u00b0C ~ 150\u00b0C (TJ)"
+                    },
+                    {
+                        "ParameterId": 69,
+                        "ParameterText": "Mounting Type",
+                        "ParameterType": "String",
+                        "ValueId": "409393",
+                        "ValueText": "Surface Mount"
+                    },
+                    {
+                        "ParameterId": 16,
+                        "ParameterText": "Package / Case",
+                        "ParameterType": "String",
+                        "ValueId": "413318",
+                        "ValueText": "TO-236-3, SC-59, SOT-23-3"
+                    },
+                    {
+                        "ParameterId": 1291,
+                        "ParameterText": "Supplier Device Package",
+                        "ParameterType": "String",
+                        "ValueId": "405410",
+                        "ValueText": "SOT-23-3 (TO-236)"
+                    }
+                ],
+                "BaseProductNumber": {
+                    "Id": 298766,
+                    "Name": "SMMBT5088"
+                },
+                "Category": {
+                    "CategoryId": 19,
+                    "ParentId": 0,
+                    "Name": "Discrete Semiconductor Products",
+                    "ProductCount": 0,
+                    "NewProductCount": 0,
+                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/350/MFG_CAB450M12XM3_tmb.jpg",
+                    "SeoDescription": "Discrete semiconductor products include individual transistors, diodes, and thyristors, as well as small arrays of such composed of two, three, four, or some other small number of similar devices within a single package. They are most commonly used for constructing circuits with considerable voltage or current stress, or for realizing very basic circuit functions.",
+                    "ChildCategories": [
+                        {
+                            "CategoryId": 2045,
+                            "ParentId": 19,
+                            "Name": "Transistors",
+                            "ProductCount": 0,
+                            "NewProductCount": 0,
+                            "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/955/997/448_TO252-3_tmb.jpg",
+                            "SeoDescription": "Transistors are discrete semiconductor devices used to switch or amplify electrical signals. Types of transistors include bipolar (BJT), RF, pre-Biased bipolar (BJT), FETs, MOSEFETs, IGBTs, JFETs, programmable, and more.",
+                            "ChildCategories": [
+                                {
+                                    "CategoryId": 2087,
+                                    "ParentId": 2045,
+                                    "Name": "Bipolar (BJT)",
+                                    "ProductCount": 0,
+                                    "NewProductCount": 0,
+                                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/001/149/427/MFG_MMBT5401_1_tmb%2864x64%29.jpg",
+                                    "SeoDescription": "Discrete Bipolar Junction Transistors (BJTs) are commonly used to construct analog signal amplification functions in audio, radio, and other applications. One of the first semiconductor devices to be mass produced, their characteristics are less favorable than those of other device types for applications involving high frequency switching and operation with high currents or voltages, but they remain a technology of choice for applications requiring analog signal reproduction with minimal added noise and distortion.",
+                                    "ChildCategories": [
+                                        {
+                                            "CategoryId": 276,
+                                            "ParentId": 2087,
+                                            "Name": "Single Bipolar Transistors",
+                                            "ProductCount": 0,
+                                            "NewProductCount": 0,
+                                            "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/683/383/TO-206AA%20TO-18-3_tmb%2864x64%29.jpg",
+                                            "SeoDescription": "Discrete Bipolar Junction Transistors (BJTs) are commonly used to construct analog signal amplification functions in audio, radio, and other applications. One of the first semiconductor devices to be mass produced, their characteristics are less favorable than those of other device types for applications involving high frequency switching and operation with high currents or voltages, but they remain a technology of choice for applications requiring analog signal reproduction with minimal added noise and distortion.",
+                                            "ChildCategories": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "DateLastBuyChance": null,
+                "ManufacturerLeadWeeks": "52",
+                "ManufacturerPublicQuantity": 0,
+                "Series": {
+                    "Id": 818,
+                    "Name": "-"
+                },
+                "ShippingInfo": null,
+                "Classifications": {
+                    "ReachStatus": "REACH Unaffected",
+                    "RohsStatus": "ROHS3 Compliant",
+                    "MoistureSensitivityLevel": "1  (Unlimited)",
+                    "ExportControlClassNumber": "EAR99",
+                    "HtsusCode": "8541.21.0095"
+                },
+                "OtherNames": [
+                    "ONSONSSMMBT5088LT1G",
+                    "SMMBT5088LT1G-ND",
+                    "488-SMMBT5088LT1GTR",
+                    "488-SMMBT5088LT1GCT",
+                    "488-SMMBT5088LT1GDKR",
+                    "2156-SMMBT5088LT1G-OS"
+                ]
+            }
+        ],
+        "ProductsCount": 2,
+        "ExactMatches": [
+            {
+                "Description": {
+                    "ProductDescription": "TRANS NPN 30V 0.05A SOT23-3",
+                    "DetailedDescription": "Bipolar (BJT) Transistor NPN 30 V 50 mA 50MHz 300 mW Surface Mount SOT-23-3 (TO-236)"
+                },
+                "Manufacturer": {
+                    "Id": 488,
+                    "Name": "onsemi"
+                },
+                "ManufacturerProductNumber": "MMBT5088LT1G",
+                "UnitPrice": 0.2,
+                "ProductUrl": "https://www.digikey.com/en/products/detail/onsemi/MMBT5088LT1G/919611",
+                "DatasheetUrl": "https://www.onsemi.com/pdf/datasheet/mmbt5088lt1-d.pdf",
+                "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4846/488_SOT-23-3%2CTO-236-3%2CMicro3%2CSSD3%2CSST3.jpg",
+                "ProductVariations": [
+                    {
+                        "DigiKeyProductNumber": "MMBT5088LT1GOSTR-ND",
+                        "PackageType": {
+                            "Id": 1,
+                            "Name": "Tape & Reel (TR)"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 3000,
+                                "UnitPrice": 0.0369,
+                                "TotalPrice": 110.7
+                            },
+                            {
+                                "BreakQuantity": 6000,
+                                "UnitPrice": 0.03291,
+                                "TotalPrice": 197.46
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 488,
+                            "Name": "onsemi"
+                        },
+                        "QuantityAvailableforPackageType": 0,
+                        "MaxQuantityForDistribution": 0,
+                        "MinimumOrderQuantity": 3000,
+                        "StandardPackage": 0,
+                        "DigiReelFee": 0.0
+                    },
+                    {
+                        "DigiKeyProductNumber": "MMBT5088LT1GOSCT-ND",
+                        "PackageType": {
+                            "Id": 2,
+                            "Name": "Cut Tape (CT)"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 0.2,
+                                "TotalPrice": 0.2
+                            },
+                            {
+                                "BreakQuantity": 10,
+                                "UnitPrice": 0.12,
+                                "TotalPrice": 1.2
+                            },
+                            {
+                                "BreakQuantity": 100,
+                                "UnitPrice": 0.0742,
+                                "TotalPrice": 7.42
+                            },
+                            {
+                                "BreakQuantity": 500,
+                                "UnitPrice": 0.05404,
+                                "TotalPrice": 27.02
+                            },
+                            {
+                                "BreakQuantity": 1000,
+                                "UnitPrice": 0.04748,
+                                "TotalPrice": 47.48
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 488,
+                            "Name": "onsemi"
+                        },
+                        "QuantityAvailableforPackageType": 2563,
+                        "MaxQuantityForDistribution": 0,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 0,
+                        "DigiReelFee": 0.0
+                    },
+                    {
+                        "DigiKeyProductNumber": "MMBT5088LT1GOSDKR-ND",
+                        "PackageType": {
+                            "Id": 243,
+                            "Name": "Digi-Reel\u00ae"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 0.2,
+                                "TotalPrice": 0.2
+                            },
+                            {
+                                "BreakQuantity": 10,
+                                "UnitPrice": 0.12,
+                                "TotalPrice": 1.2
+                            },
+                            {
+                                "BreakQuantity": 100,
+                                "UnitPrice": 0.0742,
+                                "TotalPrice": 7.42
+                            },
+                            {
+                                "BreakQuantity": 500,
+                                "UnitPrice": 0.05404,
+                                "TotalPrice": 27.02
+                            },
+                            {
+                                "BreakQuantity": 1000,
+                                "UnitPrice": 0.04748,
+                                "TotalPrice": 47.48
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 488,
+                            "Name": "onsemi"
+                        },
+                        "QuantityAvailableforPackageType": 2563,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 1,
+                        "DigiReelFee": 7.0
+                    }
+                ],
+                "QuantityAvailable": 2563,
+                "ProductStatus": {
+                    "Id": 0,
+                    "Status": "Active"
+                },
+                "BackOrderNotAllowed": false,
+                "NormallyStocking": true,
+                "Discontinued": false,
+                "EndOfLife": false,
+                "Ncnr": false,
+                "PrimaryVideoUrl": "",
+                "Parameters": [
+                    {
+                        "ParameterId": 74,
+                        "ParameterText": "Transistor Type",
+                        "ParameterType": "String",
+                        "ValueId": "380569",
+                        "ValueText": "NPN"
+                    },
+                    {
+                        "ParameterId": 2101,
+                        "ParameterText": "Current - Collector (Ic) (Max)",
+                        "ParameterType": "UnitOfMeasure",
+                        "ValueId": "50 mA",
+                        "ValueText": "50 mA"
+                    },
+                    {
+                        "ParameterId": 2103,
+                        "ParameterText": "Voltage - Collector Emitter Breakdown (Max)",
+                        "ParameterType": "UnitOfMeasure",
+                        "ValueId": "30 V",
+                        "ValueText": "30 V"
+                    },
+                    {
+                        "ParameterId": 841,
+                        "ParameterText": "Vce Saturation (Max) @ Ib, Ic",
+                        "ParameterType": "String",
+                        "ValueId": "237000",
+                        "ValueText": "500mV @ 1mA, 10mA"
+                    },
+                    {
+                        "ParameterId": 890,
+                        "ParameterText": "Current - Collector Cutoff (Max)",
+                        "ParameterType": "String",
+                        "ValueId": "238457",
+                        "ValueText": "50nA (ICBO)"
+                    },
+                    {
+                        "ParameterId": 891,
+                        "ParameterText": "DC Current Gain (hFE) (Min) @ Ic, Vce",
+                        "ParameterType": "String",
+                        "ValueId": "181676",
+                        "ValueText": "300 @ 100\u00b5A, 5V"
+                    },
+                    {
+                        "ParameterId": 2109,
+                        "ParameterText": "Power - Max",
+                        "ParameterType": "UnitOfMeasure",
+                        "ValueId": "300 mW",
+                        "ValueText": "300 mW"
+                    },
+                    {
+                        "ParameterId": 892,
+                        "ParameterText": "Frequency - Transition",
+                        "ParameterType": "String",
+                        "ValueId": "238244",
+                        "ValueText": "50MHz"
+                    },
+                    {
+                        "ParameterId": 252,
+                        "ParameterText": "Operating Temperature",
+                        "ParameterType": "String",
+                        "ValueId": "242933",
+                        "ValueText": "-55\u00b0C ~ 150\u00b0C (TJ)"
+                    },
+                    {
+                        "ParameterId": 69,
+                        "ParameterText": "Mounting Type",
+                        "ParameterType": "String",
+                        "ValueId": "409393",
+                        "ValueText": "Surface Mount"
+                    },
+                    {
+                        "ParameterId": 16,
+                        "ParameterText": "Package / Case",
+                        "ParameterType": "String",
+                        "ValueId": "413318",
+                        "ValueText": "TO-236-3, SC-59, SOT-23-3"
+                    },
+                    {
+                        "ParameterId": 1291,
+                        "ParameterText": "Supplier Device Package",
+                        "ParameterType": "String",
+                        "ValueId": "405410",
+                        "ValueText": "SOT-23-3 (TO-236)"
+                    }
+                ],
+                "BaseProductNumber": {
+                    "Id": 18010,
+                    "Name": "MMBT5088"
+                },
+                "Category": {
+                    "CategoryId": 19,
+                    "ParentId": 0,
+                    "Name": "Discrete Semiconductor Products",
+                    "ProductCount": 0,
+                    "NewProductCount": 0,
+                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/350/MFG_CAB450M12XM3_tmb.jpg",
+                    "SeoDescription": "Discrete semiconductor products include individual transistors, diodes, and thyristors, as well as small arrays of such composed of two, three, four, or some other small number of similar devices within a single package. They are most commonly used for constructing circuits with considerable voltage or current stress, or for realizing very basic circuit functions.",
+                    "ChildCategories": [
+                        {
+                            "CategoryId": 2045,
+                            "ParentId": 19,
+                            "Name": "Transistors",
+                            "ProductCount": 0,
+                            "NewProductCount": 0,
+                            "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/955/997/448_TO252-3_tmb.jpg",
+                            "SeoDescription": "Transistors are discrete semiconductor devices used to switch or amplify electrical signals. Types of transistors include bipolar (BJT), RF, pre-Biased bipolar (BJT), FETs, MOSEFETs, IGBTs, JFETs, programmable, and more.",
+                            "ChildCategories": [
+                                {
+                                    "CategoryId": 2087,
+                                    "ParentId": 2045,
+                                    "Name": "Bipolar (BJT)",
+                                    "ProductCount": 0,
+                                    "NewProductCount": 0,
+                                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/001/149/427/MFG_MMBT5401_1_tmb%2864x64%29.jpg",
+                                    "SeoDescription": "Discrete Bipolar Junction Transistors (BJTs) are commonly used to construct analog signal amplification functions in audio, radio, and other applications. One of the first semiconductor devices to be mass produced, their characteristics are less favorable than those of other device types for applications involving high frequency switching and operation with high currents or voltages, but they remain a technology of choice for applications requiring analog signal reproduction with minimal added noise and distortion.",
+                                    "ChildCategories": [
+                                        {
+                                            "CategoryId": 276,
+                                            "ParentId": 2087,
+                                            "Name": "Single Bipolar Transistors",
+                                            "ProductCount": 0,
+                                            "NewProductCount": 0,
+                                            "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/683/383/TO-206AA%20TO-18-3_tmb%2864x64%29.jpg",
+                                            "SeoDescription": "Discrete Bipolar Junction Transistors (BJTs) are commonly used to construct analog signal amplification functions in audio, radio, and other applications. One of the first semiconductor devices to be mass produced, their characteristics are less favorable than those of other device types for applications involving high frequency switching and operation with high currents or voltages, but they remain a technology of choice for applications requiring analog signal reproduction with minimal added noise and distortion.",
+                                            "ChildCategories": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "DateLastBuyChance": null,
+                "ManufacturerLeadWeeks": "52",
+                "ManufacturerPublicQuantity": 0,
+                "Series": {
+                    "Id": 818,
+                    "Name": "-"
+                },
+                "ShippingInfo": null,
+                "Classifications": {
+                    "ReachStatus": "REACH Unaffected",
+                    "RohsStatus": "ROHS3 Compliant",
+                    "MoistureSensitivityLevel": "1  (Unlimited)",
+                    "ExportControlClassNumber": "EAR99",
+                    "HtsusCode": "8541.21.0095"
+                },
+                "OtherNames": [
+                    "MMBT5088LT1GOSTR",
+                    "2156-MMBT5088LT1G-OS",
+                    "MMBT5088LT1GOS-ND",
+                    "ONSONSMMBT5088LT1G",
+                    "MMBT5088LT1GOS",
+                    "MMBT5088LT1GOSCT",
+                    "MMBT5088LT1GOSDKR"
+                ]
+            }
+        ],
+        "FilterOptions": {
+            "Manufacturers": [
+                {
+                    "Id": 488,
+                    "Value": "onsemi",
+                    "ProductCount": 2
+                }
+            ],
+            "Packaging": [
+                {
+                    "Id": 2,
+                    "Value": "Cut Tape (CT)",
+                    "ProductCount": 2
+                },
+                {
+                    "Id": 243,
+                    "Value": "Digi-Reel\u00ae",
+                    "ProductCount": 2
+                },
+                {
+                    "Id": 1,
+                    "Value": "Tape & Reel (TR)",
+                    "ProductCount": 2
+                }
+            ],
+            "Status": [
+                {
+                    "Id": 0,
+                    "Value": "Active",
+                    "ProductCount": 2
+                }
+            ],
+            "Series": [
+                {
+                    "Id": 818,
+                    "Value": "-",
+                    "ProductCount": 2
+                }
+            ],
+            "ParametricFilters": [
+                {
+                    "Category": {
+                        "Id": 276,
+                        "Value": "Single Bipolar Transistors",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 74,
+                    "ParameterName": "Transistor Type",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "380569",
+                            "ValueName": "NPN",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 276,
+                        "Value": "Single Bipolar Transistors",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "UnitOfMeasure",
+                    "ParameterId": 2101,
+                    "ParameterName": "Current - Collector (Ic) (Max)",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "50 mA",
+                            "ValueName": "50 mA",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 276,
+                        "Value": "Single Bipolar Transistors",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "UnitOfMeasure",
+                    "ParameterId": 2103,
+                    "ParameterName": "Voltage - Collector Emitter Breakdown (Max)",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "30 V",
+                            "ValueName": "30 V",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 276,
+                        "Value": "Single Bipolar Transistors",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 841,
+                    "ParameterName": "Vce Saturation (Max) @ Ib, Ic",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "237000",
+                            "ValueName": "500mV @ 1mA, 10mA",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 276,
+                        "Value": "Single Bipolar Transistors",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 890,
+                    "ParameterName": "Current - Collector Cutoff (Max)",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "238457",
+                            "ValueName": "50nA (ICBO)",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 276,
+                        "Value": "Single Bipolar Transistors",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 891,
+                    "ParameterName": "DC Current Gain (hFE) (Min) @ Ic, Vce",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "181676",
+                            "ValueName": "300 @ 100\u00b5A, 5V",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 276,
+                        "Value": "Single Bipolar Transistors",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "UnitOfMeasure",
+                    "ParameterId": 2109,
+                    "ParameterName": "Power - Max",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "300 mW",
+                            "ValueName": "300 mW",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 276,
+                        "Value": "Single Bipolar Transistors",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 892,
+                    "ParameterName": "Frequency - Transition",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "238244",
+                            "ValueName": "50MHz",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 276,
+                        "Value": "Single Bipolar Transistors",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 252,
+                    "ParameterName": "Operating Temperature",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "242933",
+                            "ValueName": "-55\u00b0C ~ 150\u00b0C (TJ)",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 276,
+                        "Value": "Single Bipolar Transistors",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 69,
+                    "ParameterName": "Mounting Type",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "409393",
+                            "ValueName": "Surface Mount",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 276,
+                        "Value": "Single Bipolar Transistors",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 16,
+                    "ParameterName": "Package / Case",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "413318",
+                            "ValueName": "TO-236-3, SC-59, SOT-23-3",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 276,
+                        "Value": "Single Bipolar Transistors",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 1291,
+                    "ParameterName": "Supplier Device Package",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "405410",
+                            "ValueName": "SOT-23-3 (TO-236)",
+                            "RangeFilterType": null
+                        }
+                    ]
+                }
+            ],
+            "TopCategories": null,
+            "MarketPlaceFilters": null
+        },
+        "SearchLocaleUsed": {
+            "Site": "US",
+            "Language": "en",
+            "Currency": "USD"
+        },
+        "AppliedParametricFiltersDto": []
+    }
+}

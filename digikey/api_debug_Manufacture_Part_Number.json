@@ -1,0 +1,198 @@
+{
+    "timestamp": "2026-07-07 13:20:14",
+    "part_number": "Manufacture Part Number",
+    "request_payload": {
+        "Keywords": "Manufacture Part Number",
+        "SearchOptions": "ManufacturerProductNumber",
+        "RecordCount": 10,
+        "RecordStartPosition": 0,
+        "Sort": {
+            "Option": "SortByDigiKeyPartNumber",
+            "Direction": "Ascending",
+            "SortParameterId": 0
+        },
+        "RequestedQuantity": 0
+    },
+    "status_code": 200,
+    "response_text": "{\"Products\":[{\"Description\":{\"ProductDescription\":\"MANUFACTURES 2YR WARRANTY\",\"DetailedDescription\":\"Extended Warranty 2 Years Desktop PCB Milling Machine Electronically Delivered\"},\"Manufacturer\":{\"Id\":1932,\"Name\":\"Bantam Tools\"},\"ManufacturerProductNumber\":\"WY1000-2Y\",\"UnitPrice\":606.14,\"ProductUrl\":\"https://www.digikey.com/en/products/detail/bantam-tools/WY1000-2Y/9486739\",\"DatasheetUrl\":\"\",\"PhotoUrl\":\"https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/322/MFG_WY1000-2Y.jpg\",\"ProductVariations\":[{\"DigiKeyProductNumber\":\"WY1000-2Y-ND\",\"PackageType\":{\"Id\":866,\"Name\":\"Electronic Delivery\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":606.14,\"TotalPrice\":606.14}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":false,\"Supplier\":{\"Id\":1932,\"Name\":\"Bantam Tools\"},\"QuantityAvailableforPackageType\":0,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":1,\"StandardPackage\":1,\"DigiReelFee\":0.0}],\"QuantityAvailable\":0,\"ProductStatus\":{\"Id\":0,\"Status\":\"Active\"},\"BackOrderNotAllowed\":false,\"NormallyStocking\":true,\"Discontinued\":false,\"EndOfLife\":false,\"Ncnr\":true,\"PrimaryVideoUrl\":\"\",\"Parameters\":[{\"ParameterId\":183,\"ParameterText\":\"Type\",\"ParameterType\":\"String\",\"ValueId\":\"345604\",\"ValueText\":\"Extended Warranty\"},{\"ParameterId\":405,\"ParameterText\":\"Applications\",\"ParameterType\":\"String\",\"ValueId\":\"1\",\"ValueText\":\"-\"},{\"ParameterId\":1864,\"ParameterText\":\"Edition\",\"ParameterType\":\"String\",\"ValueId\":\"1\",\"ValueText\":\"-\"},{\"ParameterId\":1865,\"ParameterText\":\"License Length\",\"ParameterType\":\"String\",\"ValueId\":\"122283\",\"ValueText\":\"2 Years\"},{\"ParameterId\":1866,\"ParameterText\":\"License - User Details\",\"ParameterType\":\"String\",\"ValueId\":\"1\",\"ValueText\":\"-\"},{\"ParameterId\":1743,\"ParameterText\":\"Operating System\",\"ParameterType\":\"String\",\"ValueId\":\"1\",\"ValueText\":\"-\"},{\"ParameterId\":984,\"ParameterText\":\"Utilized IC / Part\",\"ParameterType\":\"String\",\"ValueId\":\"338198\",\"ValueText\":\"Desktop PCB Milling Machine\"},{\"ParameterId\":1867,\"ParameterText\":\"Media Delivery Type\",\"ParameterType\":\"String\",\"ValueId\":\"343669\",\"ValueText\":\"Electronically Delivered\"}],\"BaseProductNumber\":{\"Id\":350389,\"Name\":\"WY1000\"},\"Category\":{\"CategoryId\":33,\"ParentId\":0,\"Name\":\"Development Boards, Kits, Programmers\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/200/310/411/MFG_ATATMEL-ICE_tmb.jpg\",\"SeoDescription\":\"Development board, kit, and programmer products include tools and assemblies used for product development and evaluation purposes. Evaluation boards are produced by a manufacturer to allow prospective users a convenient way to characterize device behavior in context of a known-good implementation, whereas development boards and kits typically include additional features or accessories intended to aid a user in developing their own product based on some device. Programmers and related products are used for configuring products having a behavior that is user-adjustable or user-specified, such as a programmable oscillator or microcontroller.\",\"ChildCategories\":[{\"CategoryId\":784,\"ParentId\":33,\"Name\":\"Software, Services\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/401/635/MFG_2700192_tmb%2864x64%29.jpg\",\"SeoDescription\":\"Software and services are made to be used with or for specific development boards or other devices. These have many different applications, editions, and types. There are multiple licensing lengths along with\u00a0various operating system\u00a0choices. Media delivery types include: card, CD/DVD, USB flash drive, electronically delivered, and SD/microSD.\",\"ChildCategories\":[]}]},\"DateLastBuyChance\":null,\"ManufacturerLeadWeeks\":\"1\",\"ManufacturerPublicQuantity\":0,\"Series\":{\"Id\":818,\"Name\":\"-\"},\"ShippingInfo\":null,\"Classifications\":{\"ReachStatus\":\"REACH Unknown\",\"RohsStatus\":\"Unknown\",\"MoistureSensitivityLevel\":\"Not Applicable\",\"ExportControlClassNumber\":\"EAR99\",\"HtsusCode\":\"0000.00.0000\"},\"OtherNames\":[]}],\"ProductsCount\":1,\"ExactMatches\":[],\"FilterOptions\":{\"Manufacturers\":[{\"Id\":1932,\"Value\":\"Bantam Tools\",\"ProductCount\":1}],\"Packaging\":null,\"Status\":null,\"Series\":null,\"ParametricFilters\":null,\"TopCategories\":null,\"MarketPlaceFilters\":null},\"SearchLocaleUsed\":{\"Site\":\"US\",\"Language\":\"en\",\"Currency\":\"USD\"},\"AppliedParametricFiltersDto\":[]}",
+    "response_json": {
+        "Products": [
+            {
+                "Description": {
+                    "ProductDescription": "MANUFACTURES 2YR WARRANTY",
+                    "DetailedDescription": "Extended Warranty 2 Years Desktop PCB Milling Machine Electronically Delivered"
+                },
+                "Manufacturer": {
+                    "Id": 1932,
+                    "Name": "Bantam Tools"
+                },
+                "ManufacturerProductNumber": "WY1000-2Y",
+                "UnitPrice": 606.14,
+                "ProductUrl": "https://www.digikey.com/en/products/detail/bantam-tools/WY1000-2Y/9486739",
+                "DatasheetUrl": "",
+                "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/322/MFG_WY1000-2Y.jpg",
+                "ProductVariations": [
+                    {
+                        "DigiKeyProductNumber": "WY1000-2Y-ND",
+                        "PackageType": {
+                            "Id": 866,
+                            "Name": "Electronic Delivery"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 606.14,
+                                "TotalPrice": 606.14
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": false,
+                        "Supplier": {
+                            "Id": 1932,
+                            "Name": "Bantam Tools"
+                        },
+                        "QuantityAvailableforPackageType": 0,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 1,
+                        "DigiReelFee": 0.0
+                    }
+                ],
+                "QuantityAvailable": 0,
+                "ProductStatus": {
+                    "Id": 0,
+                    "Status": "Active"
+                },
+                "BackOrderNotAllowed": false,
+                "NormallyStocking": true,
+                "Discontinued": false,
+                "EndOfLife": false,
+                "Ncnr": true,
+                "PrimaryVideoUrl": "",
+                "Parameters": [
+                    {
+                        "ParameterId": 183,
+                        "ParameterText": "Type",
+                        "ParameterType": "String",
+                        "ValueId": "345604",
+                        "ValueText": "Extended Warranty"
+                    },
+                    {
+                        "ParameterId": 405,
+                        "ParameterText": "Applications",
+                        "ParameterType": "String",
+                        "ValueId": "1",
+                        "ValueText": "-"
+                    },
+                    {
+                        "ParameterId": 1864,
+                        "ParameterText": "Edition",
+                        "ParameterType": "String",
+                        "ValueId": "1",
+                        "ValueText": "-"
+                    },
+                    {
+                        "ParameterId": 1865,
+                        "ParameterText": "License Length",
+                        "ParameterType": "String",
+                        "ValueId": "122283",
+                        "ValueText": "2 Years"
+                    },
+                    {
+                        "ParameterId": 1866,
+                        "ParameterText": "License - User Details",
+                        "ParameterType": "String",
+                        "ValueId": "1",
+                        "ValueText": "-"
+                    },
+                    {
+                        "ParameterId": 1743,
+                        "ParameterText": "Operating System",
+                        "ParameterType": "String",
+                        "ValueId": "1",
+                        "ValueText": "-"
+                    },
+                    {
+                        "ParameterId": 984,
+                        "ParameterText": "Utilized IC / Part",
+                        "ParameterType": "String",
+                        "ValueId": "338198",
+                        "ValueText": "Desktop PCB Milling Machine"
+                    },
+                    {
+                        "ParameterId": 1867,
+                        "ParameterText": "Media Delivery Type",
+                        "ParameterType": "String",
+                        "ValueId": "343669",
+                        "ValueText": "Electronically Delivered"
+                    }
+                ],
+                "BaseProductNumber": {
+                    "Id": 350389,
+                    "Name": "WY1000"
+                },
+                "Category": {
+                    "CategoryId": 33,
+                    "ParentId": 0,
+                    "Name": "Development Boards, Kits, Programmers",
+                    "ProductCount": 0,
+                    "NewProductCount": 0,
+                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/200/310/411/MFG_ATATMEL-ICE_tmb.jpg",
+                    "SeoDescription": "Development board, kit, and programmer products include tools and assemblies used for product development and evaluation purposes. Evaluation boards are produced by a manufacturer to allow prospective users a convenient way to characterize device behavior in context of a known-good implementation, whereas development boards and kits typically include additional features or accessories intended to aid a user in developing their own product based on some device. Programmers and related products are used for configuring products having a behavior that is user-adjustable or user-specified, such as a programmable oscillator or microcontroller.",
+                    "ChildCategories": [
+                        {
+                            "CategoryId": 784,
+                            "ParentId": 33,
+                            "Name": "Software, Services",
+                            "ProductCount": 0,
+                            "NewProductCount": 0,
+                            "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/401/635/MFG_2700192_tmb%2864x64%29.jpg",
+                            "SeoDescription": "Software and services are made to be used with or for specific development boards or other devices. These have many different applications, editions, and types. There are multiple licensing lengths along with\u00a0various operating system\u00a0choices. Media delivery types include: card, CD/DVD, USB flash drive, electronically delivered, and SD/microSD.",
+                            "ChildCategories": []
+                        }
+                    ]
+                },
+                "DateLastBuyChance": null,
+                "ManufacturerLeadWeeks": "1",
+                "ManufacturerPublicQuantity": 0,
+                "Series": {
+                    "Id": 818,
+                    "Name": "-"
+                },
+                "ShippingInfo": null,
+                "Classifications": {
+                    "ReachStatus": "REACH Unknown",
+                    "RohsStatus": "Unknown",
+                    "MoistureSensitivityLevel": "Not Applicable",
+                    "ExportControlClassNumber": "EAR99",
+                    "HtsusCode": "0000.00.0000"
+                },
+                "OtherNames": []
+            }
+        ],
+        "ProductsCount": 1,
+        "ExactMatches": [],
+        "FilterOptions": {
+            "Manufacturers": [
+                {
+                    "Id": 1932,
+                    "Value": "Bantam Tools",
+                    "ProductCount": 1
+                }
+            ],
+            "Packaging": null,
+            "Status": null,
+            "Series": null,
+            "ParametricFilters": null,
+            "TopCategories": null,
+            "MarketPlaceFilters": null
+        },
+        "SearchLocaleUsed": {
+            "Site": "US",
+            "Language": "en",
+            "Currency": "USD"
+        },
+        "AppliedParametricFiltersDto": []
+    }
+}

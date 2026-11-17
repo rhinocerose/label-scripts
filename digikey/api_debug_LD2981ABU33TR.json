@@ -1,0 +1,786 @@
+{
+    "timestamp": "2026-07-07 14:22:41",
+    "part_number": "LD2981ABU33TR",
+    "request_payload": {
+        "Keywords": "LD2981ABU33TR",
+        "SearchOptions": "ManufacturerProductNumber",
+        "RecordCount": 10,
+        "RecordStartPosition": 0,
+        "Sort": {
+            "Option": "SortByDigiKeyPartNumber",
+            "Direction": "Ascending",
+            "SortParameterId": 0
+        },
+        "RequestedQuantity": 0
+    },
+    "status_code": 200,
+    "response_text": "{\"Products\":[{\"Description\":{\"ProductDescription\":\"IC REG LINEAR 3.3V 100MA SOT89-3\",\"DetailedDescription\":\"Linear Voltage Regulator IC Positive Fixed 1 Output 100mA SOT-89-3\"},\"Manufacturer\":{\"Id\":497,\"Name\":\"STMicroelectronics\"},\"ManufacturerProductNumber\":\"LD2981ABU33TR\",\"UnitPrice\":0.68,\"ProductUrl\":\"https://www.digikey.com/en/products/detail/stmicroelectronics/LD2981ABU33TR/591626\",\"DatasheetUrl\":\"https://www.st.com/content/ccc/resource/technical/document/datasheet/group1/b7/b5/a1/83/9c/bd/4a/90/CD00001635/files/CD00001635.pdf/jcr:content/translations/en.CD00001635.pdf\",\"PhotoUrl\":\"https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/2478/497-SOT-89%20SERIES.JPG\",\"ProductVariations\":[{\"DigiKeyProductNumber\":\"497-1524-2-ND\",\"PackageType\":{\"Id\":1,\"Name\":\"Tape & Reel (TR)\"},\"StandardPricing\":[{\"BreakQuantity\":2500,\"UnitPrice\":0.30968,\"TotalPrice\":774.20000},{\"BreakQuantity\":5000,\"UnitPrice\":0.30146,\"TotalPrice\":1507.30000},{\"BreakQuantity\":7500,\"UnitPrice\":0.29734,\"TotalPrice\":2230.05000},{\"BreakQuantity\":12500,\"UnitPrice\":0.29278,\"TotalPrice\":3659.75000},{\"BreakQuantity\":17500,\"UnitPrice\":0.29011,\"TotalPrice\":5076.92500},{\"BreakQuantity\":25000,\"UnitPrice\":0.28755,\"TotalPrice\":7188.75000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":false,\"Supplier\":{\"Id\":497,\"Name\":\"STMicroelectronics\"},\"QuantityAvailableforPackageType\":2500,\"MaxQuantityForDistribution\":0,\"MinimumOrderQuantity\":2500,\"StandardPackage\":0,\"DigiReelFee\":0.0},{\"DigiKeyProductNumber\":\"497-1524-1-ND\",\"PackageType\":{\"Id\":2,\"Name\":\"Cut Tape (CT)\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":0.68,\"TotalPrice\":0.68},{\"BreakQuantity\":10,\"UnitPrice\":0.482,\"TotalPrice\":4.820},{\"BreakQuantity\":25,\"UnitPrice\":0.4324,\"TotalPrice\":10.8100},{\"BreakQuantity\":100,\"UnitPrice\":0.378,\"TotalPrice\":37.800},{\"BreakQuantity\":250,\"UnitPrice\":0.35192,\"TotalPrice\":87.98000},{\"BreakQuantity\":500,\"UnitPrice\":0.33624,\"TotalPrice\":168.12000},{\"BreakQuantity\":1000,\"UnitPrice\":0.32332,\"TotalPrice\":323.32000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":false,\"Supplier\":{\"Id\":497,\"Name\":\"STMicroelectronics\"},\"QuantityAvailableforPackageType\":3154,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":1,\"StandardPackage\":1,\"DigiReelFee\":0.0},{\"DigiKeyProductNumber\":\"497-1524-6-ND\",\"PackageType\":{\"Id\":243,\"Name\":\"Digi-Reel\u00ae\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":0.68,\"TotalPrice\":0.68},{\"BreakQuantity\":10,\"UnitPrice\":0.482,\"TotalPrice\":4.820},{\"BreakQuantity\":25,\"UnitPrice\":0.4324,\"TotalPrice\":10.8100},{\"BreakQuantity\":100,\"UnitPrice\":0.378,\"TotalPrice\":37.800},{\"BreakQuantity\":250,\"UnitPrice\":0.35192,\"TotalPrice\":87.98000},{\"BreakQuantity\":500,\"UnitPrice\":0.33624,\"TotalPrice\":168.12000},{\"BreakQuantity\":1000,\"UnitPrice\":0.32332,\"TotalPrice\":323.32000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":false,\"Supplier\":{\"Id\":497,\"Name\":\"STMicroelectronics\"},\"QuantityAvailableforPackageType\":3154,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":1,\"StandardPackage\":1,\"DigiReelFee\":7.0}],\"QuantityAvailable\":3154,\"ProductStatus\":{\"Id\":0,\"Status\":\"Active\"},\"BackOrderNotAllowed\":false,\"NormallyStocking\":true,\"Discontinued\":false,\"EndOfLife\":false,\"Ncnr\":false,\"PrimaryVideoUrl\":\"https://www.digikey.com/api/videos/videoplayer/smallplayer/6185148583001\",\"Parameters\":[{\"ParameterId\":255,\"ParameterText\":\"Output Configuration\",\"ParameterType\":\"String\",\"ValueId\":\"389019\",\"ValueText\":\"Positive\"},{\"ParameterId\":41,\"ParameterText\":\"Output Type\",\"ParameterType\":\"String\",\"ValueId\":\"347431\",\"ValueText\":\"Fixed\"},{\"ParameterId\":1065,\"ParameterText\":\"Number of Regulators\",\"ParameterType\":\"Double\",\"ValueId\":\"1\",\"ValueText\":\"1\"},{\"ParameterId\":573,\"ParameterText\":\"Voltage - Input (Max)\",\"ParameterType\":\"String\",\"ValueId\":\"108742\",\"ValueText\":\"16V\"},{\"ParameterId\":1779,\"ParameterText\":\"Voltage - Output (Min/Fixed)\",\"ParameterType\":\"String\",\"ValueId\":\"174115\",\"ValueText\":\"3.3V\"},{\"ParameterId\":1429,\"ParameterText\":\"Voltage - Output (Max)\",\"ParameterType\":\"String\",\"ValueId\":\"1\",\"ValueText\":\"-\"},{\"ParameterId\":2065,\"ParameterText\":\"Voltage Dropout (Max)\",\"ParameterType\":\"String\",\"ValueId\":\"20888\",\"ValueText\":\"0.375V @ 100mA\"},{\"ParameterId\":129,\"ParameterText\":\"Current - Output\",\"ParameterType\":\"String\",\"ValueId\":\"68833\",\"ValueText\":\"100mA\"},{\"ParameterId\":477,\"ParameterText\":\"Current - Quiescent (Iq)\",\"ParameterType\":\"UnitOfMeasure\",\"ValueId\":\"150 \u00b5A\",\"ValueText\":\"150 \u00b5A\"},{\"ParameterId\":2196,\"ParameterText\":\"Current - Supply (Max)\",\"ParameterType\":\"UnitOfMeasure\",\"ValueId\":\"2.6 mA\",\"ValueText\":\"2.6 mA\"},{\"ParameterId\":2064,\"ParameterText\":\"PSRR\",\"ParameterType\":\"String\",\"ValueId\":\"260537\",\"ValueText\":\"63dB (1kHz)\"},{\"ParameterId\":1880,\"ParameterText\":\"Control Features\",\"ParameterType\":\"String\",\"ValueId\":\"1\",\"ValueText\":\"-\"},{\"ParameterId\":2066,\"ParameterText\":\"Protection Features\",\"ParameterType\":\"String\",\"ValueId\":\"382816\",\"ValueText\":\"Over Current, Over Temperature\"},{\"ParameterId\":252,\"ParameterText\":\"Operating Temperature\",\"ParameterType\":\"String\",\"ValueId\":\"212478\",\"ValueText\":\"-40\u00b0C ~ 125\u00b0C\"},{\"ParameterId\":69,\"ParameterText\":\"Mounting Type\",\"ParameterType\":\"String\",\"ValueId\":\"409393\",\"ValueText\":\"Surface Mount\"},{\"ParameterId\":16,\"ParameterText\":\"Package / Case\",\"ParameterType\":\"String\",\"ValueId\":\"413325\",\"ValueText\":\"TO-243AA\"},{\"ParameterId\":1291,\"ParameterText\":\"Supplier Device Package\",\"ParameterType\":\"String\",\"ValueId\":\"405578\",\"ValueText\":\"SOT-89-3\"}],\"BaseProductNumber\":{\"Id\":122066,\"Name\":\"LD2981\"},\"Category\":{\"CategoryId\":32,\"ParentId\":0,\"Name\":\"Integrated Circuits (ICs)\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg\",\"SeoDescription\":\"Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.\",\"ChildCategories\":[{\"CategoryId\":2025,\"ParentId\":32,\"Name\":\"Power Management (PMIC)\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/314/540/846%3B-TO220CP-3%3B-%3B-3_tmb.jpg\",\"SeoDescription\":\"PMIC, or Power Management Integrated Circuits, refers to a wide range of application-specific ICs or chips. Included in this category is PMICs for AC/DC Converters, Battery Chargers, Battery Management, Current Regulation, Display Drivers, Energy Metering, Full/Half-Bridge Drivers, Gate Drivers, Hot Swap Controllers, Laser Drivers, LED Drivers, Lighting/Ballast Controllers, Motor Drivers, OR Controllers, Power Factor Correction, Power Distribution Switches, PoE Controllers, Power Supply Controllers, RMS to DC Converters, Supervisors, Thermal Management, V/F and F/V Controllers, various Voltage Regulators, and More.\",\"ChildCategories\":[{\"CategoryId\":699,\"ParentId\":2025,\"Name\":\"Voltage Regulators - Linear, Low Drop Out (LDO) Regulators\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/957/739/296_SOT-23-3%20PKG_tmb.jpg\",\"SeoDescription\":\"Linear voltage regulators, including LDO (Low Drop Out) types, are used to provide a stable output voltage that is nominally invariant with respect to changes in load current, input voltage, or environmental factors. Their operating principle requires that the input voltage be maintained above the desired output voltage by some minimum amount, and function on the basis of converting whatever excess voltage is present at the input to heat. While this renders them less efficient than switch-mode voltage regulators for most applications, they are often better suited for applications with high sensitivity to noise.\",\"ChildCategories\":[]}]}]},\"DateLastBuyChance\":null,\"ManufacturerLeadWeeks\":\"30\",\"ManufacturerPublicQuantity\":0,\"Series\":{\"Id\":818,\"Name\":\"-\"},\"ShippingInfo\":null,\"Classifications\":{\"ReachStatus\":\"REACH Unaffected\",\"RohsStatus\":\"ROHS3 Compliant\",\"MoistureSensitivityLevel\":\"1  (Unlimited)\",\"ExportControlClassNumber\":\"EAR99\",\"HtsusCode\":\"8542.39.0090\"},\"OtherNames\":[\"497-1524-1\",\"497-1524-1-NDR\",\"497-1524-2-NDR\",\"497-1524-2\",\"497-1524-6\"]}],\"ProductsCount\":1,\"ExactMatches\":[{\"Description\":{\"ProductDescription\":\"IC REG LINEAR 3.3V 100MA SOT89-3\",\"DetailedDescription\":\"Linear Voltage Regulator IC Positive Fixed 1 Output 100mA SOT-89-3\"},\"Manufacturer\":{\"Id\":497,\"Name\":\"STMicroelectronics\"},\"ManufacturerProductNumber\":\"LD2981ABU33TR\",\"UnitPrice\":0.68,\"ProductUrl\":\"https://www.digikey.com/en/products/detail/stmicroelectronics/LD2981ABU33TR/591626\",\"DatasheetUrl\":\"https://www.st.com/content/ccc/resource/technical/document/datasheet/group1/b7/b5/a1/83/9c/bd/4a/90/CD00001635/files/CD00001635.pdf/jcr:content/translations/en.CD00001635.pdf\",\"PhotoUrl\":\"https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/2478/497-SOT-89%20SERIES.JPG\",\"ProductVariations\":[{\"DigiKeyProductNumber\":\"497-1524-2-ND\",\"PackageType\":{\"Id\":1,\"Name\":\"Tape & Reel (TR)\"},\"StandardPricing\":[{\"BreakQuantity\":2500,\"UnitPrice\":0.30968,\"TotalPrice\":774.20000},{\"BreakQuantity\":5000,\"UnitPrice\":0.30146,\"TotalPrice\":1507.30000},{\"BreakQuantity\":7500,\"UnitPrice\":0.29734,\"TotalPrice\":2230.05000},{\"BreakQuantity\":12500,\"UnitPrice\":0.29278,\"TotalPrice\":3659.75000},{\"BreakQuantity\":17500,\"UnitPrice\":0.29011,\"TotalPrice\":5076.92500},{\"BreakQuantity\":25000,\"UnitPrice\":0.28755,\"TotalPrice\":7188.75000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":false,\"Supplier\":{\"Id\":497,\"Name\":\"STMicroelectronics\"},\"QuantityAvailableforPackageType\":2500,\"MaxQuantityForDistribution\":0,\"MinimumOrderQuantity\":2500,\"StandardPackage\":0,\"DigiReelFee\":0.0},{\"DigiKeyProductNumber\":\"497-1524-1-ND\",\"PackageType\":{\"Id\":2,\"Name\":\"Cut Tape (CT)\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":0.68,\"TotalPrice\":0.68},{\"BreakQuantity\":10,\"UnitPrice\":0.482,\"TotalPrice\":4.820},{\"BreakQuantity\":25,\"UnitPrice\":0.4324,\"TotalPrice\":10.8100},{\"BreakQuantity\":100,\"UnitPrice\":0.378,\"TotalPrice\":37.800},{\"BreakQuantity\":250,\"UnitPrice\":0.35192,\"TotalPrice\":87.98000},{\"BreakQuantity\":500,\"UnitPrice\":0.33624,\"TotalPrice\":168.12000},{\"BreakQuantity\":1000,\"UnitPrice\":0.32332,\"TotalPrice\":323.32000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":false,\"Supplier\":{\"Id\":497,\"Name\":\"STMicroelectronics\"},\"QuantityAvailableforPackageType\":3154,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":1,\"StandardPackage\":1,\"DigiReelFee\":0.0},{\"DigiKeyProductNumber\":\"497-1524-6-ND\",\"PackageType\":{\"Id\":243,\"Name\":\"Digi-Reel\u00ae\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":0.68,\"TotalPrice\":0.68},{\"BreakQuantity\":10,\"UnitPrice\":0.482,\"TotalPrice\":4.820},{\"BreakQuantity\":25,\"UnitPrice\":0.4324,\"TotalPrice\":10.8100},{\"BreakQuantity\":100,\"UnitPrice\":0.378,\"TotalPrice\":37.800},{\"BreakQuantity\":250,\"UnitPrice\":0.35192,\"TotalPrice\":87.98000},{\"BreakQuantity\":500,\"UnitPrice\":0.33624,\"TotalPrice\":168.12000},{\"BreakQuantity\":1000,\"UnitPrice\":0.32332,\"TotalPrice\":323.32000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":false,\"Supplier\":{\"Id\":497,\"Name\":\"STMicroelectronics\"},\"QuantityAvailableforPackageType\":3154,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":1,\"StandardPackage\":1,\"DigiReelFee\":7.0}],\"QuantityAvailable\":3154,\"ProductStatus\":{\"Id\":0,\"Status\":\"Active\"},\"BackOrderNotAllowed\":false,\"NormallyStocking\":true,\"Discontinued\":false,\"EndOfLife\":false,\"Ncnr\":false,\"PrimaryVideoUrl\":\"https://www.digikey.com/api/videos/videoplayer/smallplayer/6185148583001\",\"Parameters\":[{\"ParameterId\":255,\"ParameterText\":\"Output Configuration\",\"ParameterType\":\"String\",\"ValueId\":\"389019\",\"ValueText\":\"Positive\"},{\"ParameterId\":41,\"ParameterText\":\"Output Type\",\"ParameterType\":\"String\",\"ValueId\":\"347431\",\"ValueText\":\"Fixed\"},{\"ParameterId\":1065,\"ParameterText\":\"Number of Regulators\",\"ParameterType\":\"Double\",\"ValueId\":\"1\",\"ValueText\":\"1\"},{\"ParameterId\":573,\"ParameterText\":\"Voltage - Input (Max)\",\"ParameterType\":\"String\",\"ValueId\":\"108742\",\"ValueText\":\"16V\"},{\"ParameterId\":1779,\"ParameterText\":\"Voltage - Output (Min/Fixed)\",\"ParameterType\":\"String\",\"ValueId\":\"174115\",\"ValueText\":\"3.3V\"},{\"ParameterId\":1429,\"ParameterText\":\"Voltage - Output (Max)\",\"ParameterType\":\"String\",\"ValueId\":\"1\",\"ValueText\":\"-\"},{\"ParameterId\":2065,\"ParameterText\":\"Voltage Dropout (Max)\",\"ParameterType\":\"String\",\"ValueId\":\"20888\",\"ValueText\":\"0.375V @ 100mA\"},{\"ParameterId\":129,\"ParameterText\":\"Current - Output\",\"ParameterType\":\"String\",\"ValueId\":\"68833\",\"ValueText\":\"100mA\"},{\"ParameterId\":477,\"ParameterText\":\"Current - Quiescent (Iq)\",\"ParameterType\":\"UnitOfMeasure\",\"ValueId\":\"150 \u00b5A\",\"ValueText\":\"150 \u00b5A\"},{\"ParameterId\":2196,\"ParameterText\":\"Current - Supply (Max)\",\"ParameterType\":\"UnitOfMeasure\",\"ValueId\":\"2.6 mA\",\"ValueText\":\"2.6 mA\"},{\"ParameterId\":2064,\"ParameterText\":\"PSRR\",\"ParameterType\":\"String\",\"ValueId\":\"260537\",\"ValueText\":\"63dB (1kHz)\"},{\"ParameterId\":1880,\"ParameterText\":\"Control Features\",\"ParameterType\":\"String\",\"ValueId\":\"1\",\"ValueText\":\"-\"},{\"ParameterId\":2066,\"ParameterText\":\"Protection Features\",\"ParameterType\":\"String\",\"ValueId\":\"382816\",\"ValueText\":\"Over Current, Over Temperature\"},{\"ParameterId\":252,\"ParameterText\":\"Operating Temperature\",\"ParameterType\":\"String\",\"ValueId\":\"212478\",\"ValueText\":\"-40\u00b0C ~ 125\u00b0C\"},{\"ParameterId\":69,\"ParameterText\":\"Mounting Type\",\"ParameterType\":\"String\",\"ValueId\":\"409393\",\"ValueText\":\"Surface Mount\"},{\"ParameterId\":16,\"ParameterText\":\"Package / Case\",\"ParameterType\":\"String\",\"ValueId\":\"413325\",\"ValueText\":\"TO-243AA\"},{\"ParameterId\":1291,\"ParameterText\":\"Supplier Device Package\",\"ParameterType\":\"String\",\"ValueId\":\"405578\",\"ValueText\":\"SOT-89-3\"}],\"BaseProductNumber\":{\"Id\":122066,\"Name\":\"LD2981\"},\"Category\":{\"CategoryId\":32,\"ParentId\":0,\"Name\":\"Integrated Circuits (ICs)\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg\",\"SeoDescription\":\"Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.\",\"ChildCategories\":[{\"CategoryId\":2025,\"ParentId\":32,\"Name\":\"Power Management (PMIC)\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/314/540/846%3B-TO220CP-3%3B-%3B-3_tmb.jpg\",\"SeoDescription\":\"PMIC, or Power Management Integrated Circuits, refers to a wide range of application-specific ICs or chips. Included in this category is PMICs for AC/DC Converters, Battery Chargers, Battery Management, Current Regulation, Display Drivers, Energy Metering, Full/Half-Bridge Drivers, Gate Drivers, Hot Swap Controllers, Laser Drivers, LED Drivers, Lighting/Ballast Controllers, Motor Drivers, OR Controllers, Power Factor Correction, Power Distribution Switches, PoE Controllers, Power Supply Controllers, RMS to DC Converters, Supervisors, Thermal Management, V/F and F/V Controllers, various Voltage Regulators, and More.\",\"ChildCategories\":[{\"CategoryId\":699,\"ParentId\":2025,\"Name\":\"Voltage Regulators - Linear, Low Drop Out (LDO) Regulators\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/957/739/296_SOT-23-3%20PKG_tmb.jpg\",\"SeoDescription\":\"Linear voltage regulators, including LDO (Low Drop Out) types, are used to provide a stable output voltage that is nominally invariant with respect to changes in load current, input voltage, or environmental factors. Their operating principle requires that the input voltage be maintained above the desired output voltage by some minimum amount, and function on the basis of converting whatever excess voltage is present at the input to heat. While this renders them less efficient than switch-mode voltage regulators for most applications, they are often better suited for applications with high sensitivity to noise.\",\"ChildCategories\":[]}]}]},\"DateLastBuyChance\":null,\"ManufacturerLeadWeeks\":\"30\",\"ManufacturerPublicQuantity\":0,\"Series\":{\"Id\":818,\"Name\":\"-\"},\"ShippingInfo\":null,\"Classifications\":{\"ReachStatus\":\"REACH Unaffected\",\"RohsStatus\":\"ROHS3 Compliant\",\"MoistureSensitivityLevel\":\"1  (Unlimited)\",\"ExportControlClassNumber\":\"EAR99\",\"HtsusCode\":\"8542.39.0090\"},\"OtherNames\":[\"497-1524-1\",\"497-1524-1-NDR\",\"497-1524-2-NDR\",\"497-1524-2\",\"497-1524-6\"]}],\"FilterOptions\":{\"Manufacturers\":[{\"Id\":497,\"Value\":\"STMicroelectronics\",\"ProductCount\":1}],\"Packaging\":null,\"Status\":null,\"Series\":null,\"ParametricFilters\":null,\"TopCategories\":null,\"MarketPlaceFilters\":null},\"SearchLocaleUsed\":{\"Site\":\"US\",\"Language\":\"en\",\"Currency\":\"USD\"},\"AppliedParametricFiltersDto\":[]}",
+    "response_json": {
+        "Products": [
+            {
+                "Description": {
+                    "ProductDescription": "IC REG LINEAR 3.3V 100MA SOT89-3",
+                    "DetailedDescription": "Linear Voltage Regulator IC Positive Fixed 1 Output 100mA SOT-89-3"
+                },
+                "Manufacturer": {
+                    "Id": 497,
+                    "Name": "STMicroelectronics"
+                },
+                "ManufacturerProductNumber": "LD2981ABU33TR",
+                "UnitPrice": 0.68,
+                "ProductUrl": "https://www.digikey.com/en/products/detail/stmicroelectronics/LD2981ABU33TR/591626",
+                "DatasheetUrl": "https://www.st.com/content/ccc/resource/technical/document/datasheet/group1/b7/b5/a1/83/9c/bd/4a/90/CD00001635/files/CD00001635.pdf/jcr:content/translations/en.CD00001635.pdf",
+                "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/2478/497-SOT-89%20SERIES.JPG",
+                "ProductVariations": [
+                    {
+                        "DigiKeyProductNumber": "497-1524-2-ND",
+                        "PackageType": {
+                            "Id": 1,
+                            "Name": "Tape & Reel (TR)"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 2500,
+                                "UnitPrice": 0.30968,
+                                "TotalPrice": 774.2
+                            },
+                            {
+                                "BreakQuantity": 5000,
+                                "UnitPrice": 0.30146,
+                                "TotalPrice": 1507.3
+                            },
+                            {
+                                "BreakQuantity": 7500,
+                                "UnitPrice": 0.29734,
+                                "TotalPrice": 2230.05
+                            },
+                            {
+                                "BreakQuantity": 12500,
+                                "UnitPrice": 0.29278,
+                                "TotalPrice": 3659.75
+                            },
+                            {
+                                "BreakQuantity": 17500,
+                                "UnitPrice": 0.29011,
+                                "TotalPrice": 5076.925
+                            },
+                            {
+                                "BreakQuantity": 25000,
+                                "UnitPrice": 0.28755,
+                                "TotalPrice": 7188.75
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": false,
+                        "Supplier": {
+                            "Id": 497,
+                            "Name": "STMicroelectronics"
+                        },
+                        "QuantityAvailableforPackageType": 2500,
+                        "MaxQuantityForDistribution": 0,
+                        "MinimumOrderQuantity": 2500,
+                        "StandardPackage": 0,
+                        "DigiReelFee": 0.0
+                    },
+                    {
+                        "DigiKeyProductNumber": "497-1524-1-ND",
+                        "PackageType": {
+                            "Id": 2,
+                            "Name": "Cut Tape (CT)"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 0.68,
+                                "TotalPrice": 0.68
+                            },
+                            {
+                                "BreakQuantity": 10,
+                                "UnitPrice": 0.482,
+                                "TotalPrice": 4.82
+                            },
+                            {
+                                "BreakQuantity": 25,
+                                "UnitPrice": 0.4324,
+                                "TotalPrice": 10.81
+                            },
+                            {
+                                "BreakQuantity": 100,
+                                "UnitPrice": 0.378,
+                                "TotalPrice": 37.8
+                            },
+                            {
+                                "BreakQuantity": 250,
+                                "UnitPrice": 0.35192,
+                                "TotalPrice": 87.98
+                            },
+                            {
+                                "BreakQuantity": 500,
+                                "UnitPrice": 0.33624,
+                                "TotalPrice": 168.12
+                            },
+                            {
+                                "BreakQuantity": 1000,
+                                "UnitPrice": 0.32332,
+                                "TotalPrice": 323.32
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": false,
+                        "Supplier": {
+                            "Id": 497,
+                            "Name": "STMicroelectronics"
+                        },
+                        "QuantityAvailableforPackageType": 3154,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 1,
+                        "DigiReelFee": 0.0
+                    },
+                    {
+                        "DigiKeyProductNumber": "497-1524-6-ND",
+                        "PackageType": {
+                            "Id": 243,
+                            "Name": "Digi-Reel\u00ae"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 0.68,
+                                "TotalPrice": 0.68
+                            },
+                            {
+                                "BreakQuantity": 10,
+                                "UnitPrice": 0.482,
+                                "TotalPrice": 4.82
+                            },
+                            {
+                                "BreakQuantity": 25,
+                                "UnitPrice": 0.4324,
+                                "TotalPrice": 10.81
+                            },
+                            {
+                                "BreakQuantity": 100,
+                                "UnitPrice": 0.378,
+                                "TotalPrice": 37.8
+                            },
+                            {
+                                "BreakQuantity": 250,
+                                "UnitPrice": 0.35192,
+                                "TotalPrice": 87.98
+                            },
+                            {
+                                "BreakQuantity": 500,
+                                "UnitPrice": 0.33624,
+                                "TotalPrice": 168.12
+                            },
+                            {
+                                "BreakQuantity": 1000,
+                                "UnitPrice": 0.32332,
+                                "TotalPrice": 323.32
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": false,
+                        "Supplier": {
+                            "Id": 497,
+                            "Name": "STMicroelectronics"
+                        },
+                        "QuantityAvailableforPackageType": 3154,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 1,
+                        "DigiReelFee": 7.0
+                    }
+                ],
+                "QuantityAvailable": 3154,
+                "ProductStatus": {
+                    "Id": 0,
+                    "Status": "Active"
+                },
+                "BackOrderNotAllowed": false,
+                "NormallyStocking": true,
+                "Discontinued": false,
+                "EndOfLife": false,
+                "Ncnr": false,
+                "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6185148583001",
+                "Parameters": [
+                    {
+                        "ParameterId": 255,
+                        "ParameterText": "Output Configuration",
+                        "ParameterType": "String",
+                        "ValueId": "389019",
+                        "ValueText": "Positive"
+                    },
+                    {
+                        "ParameterId": 41,
+                        "ParameterText": "Output Type",
+                        "ParameterType": "String",
+                        "ValueId": "347431",
+                        "ValueText": "Fixed"
+                    },
+                    {
+                        "ParameterId": 1065,
+                        "ParameterText": "Number of Regulators",
+                        "ParameterType": "Double",
+                        "ValueId": "1",
+                        "ValueText": "1"
+                    },
+                    {
+                        "ParameterId": 573,
+                        "ParameterText": "Voltage - Input (Max)",
+                        "ParameterType": "String",
+                        "ValueId": "108742",
+                        "ValueText": "16V"
+                    },
+                    {
+                        "ParameterId": 1779,
+                        "ParameterText": "Voltage - Output (Min/Fixed)",
+                        "ParameterType": "String",
+                        "ValueId": "174115",
+                        "ValueText": "3.3V"
+                    },
+                    {
+                        "ParameterId": 1429,
+                        "ParameterText": "Voltage - Output (Max)",
+                        "ParameterType": "String",
+                        "ValueId": "1",
+                        "ValueText": "-"
+                    },
+                    {
+                        "ParameterId": 2065,
+                        "ParameterText": "Voltage Dropout (Max)",
+                        "ParameterType": "String",
+                        "ValueId": "20888",
+                        "ValueText": "0.375V @ 100mA"
+                    },
+                    {
+                        "ParameterId": 129,
+                        "ParameterText": "Current - Output",
+                        "ParameterType": "String",
+                        "ValueId": "68833",
+                        "ValueText": "100mA"
+                    },
+                    {
+                        "ParameterId": 477,
+                        "ParameterText": "Current - Quiescent (Iq)",
+                        "ParameterType": "UnitOfMeasure",
+                        "ValueId": "150 \u00b5A",
+                        "ValueText": "150 \u00b5A"
+                    },
+                    {
+                        "ParameterId": 2196,
+                        "ParameterText": "Current - Supply (Max)",
+                        "ParameterType": "UnitOfMeasure",
+                        "ValueId": "2.6 mA",
+                        "ValueText": "2.6 mA"
+                    },
+                    {
+                        "ParameterId": 2064,
+                        "ParameterText": "PSRR",
+                        "ParameterType": "String",
+                        "ValueId": "260537",
+                        "ValueText": "63dB (1kHz)"
+                    },
+                    {
+                        "ParameterId": 1880,
+                        "ParameterText": "Control Features",
+                        "ParameterType": "String",
+                        "ValueId": "1",
+                        "ValueText": "-"
+                    },
+                    {
+                        "ParameterId": 2066,
+                        "ParameterText": "Protection Features",
+                        "ParameterType": "String",
+                        "ValueId": "382816",
+                        "ValueText": "Over Current, Over Temperature"
+                    },
+                    {
+                        "ParameterId": 252,
+                        "ParameterText": "Operating Temperature",
+                        "ParameterType": "String",
+                        "ValueId": "212478",
+                        "ValueText": "-40\u00b0C ~ 125\u00b0C"
+                    },
+                    {
+                        "ParameterId": 69,
+                        "ParameterText": "Mounting Type",
+                        "ParameterType": "String",
+                        "ValueId": "409393",
+                        "ValueText": "Surface Mount"
+                    },
+                    {
+                        "ParameterId": 16,
+                        "ParameterText": "Package / Case",
+                        "ParameterType": "String",
+                        "ValueId": "413325",
+                        "ValueText": "TO-243AA"
+                    },
+                    {
+                        "ParameterId": 1291,
+                        "ParameterText": "Supplier Device Package",
+                        "ParameterType": "String",
+                        "ValueId": "405578",
+                        "ValueText": "SOT-89-3"
+                    }
+                ],
+                "BaseProductNumber": {
+                    "Id": 122066,
+                    "Name": "LD2981"
+                },
+                "Category": {
+                    "CategoryId": 32,
+                    "ParentId": 0,
+                    "Name": "Integrated Circuits (ICs)",
+                    "ProductCount": 0,
+                    "NewProductCount": 0,
+                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+                    "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+                    "ChildCategories": [
+                        {
+                            "CategoryId": 2025,
+                            "ParentId": 32,
+                            "Name": "Power Management (PMIC)",
+                            "ProductCount": 0,
+                            "NewProductCount": 0,
+                            "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/314/540/846%3B-TO220CP-3%3B-%3B-3_tmb.jpg",
+                            "SeoDescription": "PMIC, or Power Management Integrated Circuits, refers to a wide range of application-specific ICs or chips. Included in this category is PMICs for AC/DC Converters, Battery Chargers, Battery Management, Current Regulation, Display Drivers, Energy Metering, Full/Half-Bridge Drivers, Gate Drivers, Hot Swap Controllers, Laser Drivers, LED Drivers, Lighting/Ballast Controllers, Motor Drivers, OR Controllers, Power Factor Correction, Power Distribution Switches, PoE Controllers, Power Supply Controllers, RMS to DC Converters, Supervisors, Thermal Management, V/F and F/V Controllers, various Voltage Regulators, and More.",
+                            "ChildCategories": [
+                                {
+                                    "CategoryId": 699,
+                                    "ParentId": 2025,
+                                    "Name": "Voltage Regulators - Linear, Low Drop Out (LDO) Regulators",
+                                    "ProductCount": 0,
+                                    "NewProductCount": 0,
+                                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/957/739/296_SOT-23-3%20PKG_tmb.jpg",
+                                    "SeoDescription": "Linear voltage regulators, including LDO (Low Drop Out) types, are used to provide a stable output voltage that is nominally invariant with respect to changes in load current, input voltage, or environmental factors. Their operating principle requires that the input voltage be maintained above the desired output voltage by some minimum amount, and function on the basis of converting whatever excess voltage is present at the input to heat. While this renders them less efficient than switch-mode voltage regulators for most applications, they are often better suited for applications with high sensitivity to noise.",
+                                    "ChildCategories": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "DateLastBuyChance": null,
+                "ManufacturerLeadWeeks": "30",
+                "ManufacturerPublicQuantity": 0,
+                "Series": {
+                    "Id": 818,
+                    "Name": "-"
+                },
+                "ShippingInfo": null,
+                "Classifications": {
+                    "ReachStatus": "REACH Unaffected",
+                    "RohsStatus": "ROHS3 Compliant",
+                    "MoistureSensitivityLevel": "1  (Unlimited)",
+                    "ExportControlClassNumber": "EAR99",
+                    "HtsusCode": "8542.39.0090"
+                },
+                "OtherNames": [
+                    "497-1524-1",
+                    "497-1524-1-NDR",
+                    "497-1524-2-NDR",
+                    "497-1524-2",
+                    "497-1524-6"
+                ]
+            }
+        ],
+        "ProductsCount": 1,
+        "ExactMatches": [
+            {
+                "Description": {
+                    "ProductDescription": "IC REG LINEAR 3.3V 100MA SOT89-3",
+                    "DetailedDescription": "Linear Voltage Regulator IC Positive Fixed 1 Output 100mA SOT-89-3"
+                },
+                "Manufacturer": {
+                    "Id": 497,
+                    "Name": "STMicroelectronics"
+                },
+                "ManufacturerProductNumber": "LD2981ABU33TR",
+                "UnitPrice": 0.68,
+                "ProductUrl": "https://www.digikey.com/en/products/detail/stmicroelectronics/LD2981ABU33TR/591626",
+                "DatasheetUrl": "https://www.st.com/content/ccc/resource/technical/document/datasheet/group1/b7/b5/a1/83/9c/bd/4a/90/CD00001635/files/CD00001635.pdf/jcr:content/translations/en.CD00001635.pdf",
+                "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/2478/497-SOT-89%20SERIES.JPG",
+                "ProductVariations": [
+                    {
+                        "DigiKeyProductNumber": "497-1524-2-ND",
+                        "PackageType": {
+                            "Id": 1,
+                            "Name": "Tape & Reel (TR)"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 2500,
+                                "UnitPrice": 0.30968,
+                                "TotalPrice": 774.2
+                            },
+                            {
+                                "BreakQuantity": 5000,
+                                "UnitPrice": 0.30146,
+                                "TotalPrice": 1507.3
+                            },
+                            {
+                                "BreakQuantity": 7500,
+                                "UnitPrice": 0.29734,
+                                "TotalPrice": 2230.05
+                            },
+                            {
+                                "BreakQuantity": 12500,
+                                "UnitPrice": 0.29278,
+                                "TotalPrice": 3659.75
+                            },
+                            {
+                                "BreakQuantity": 17500,
+                                "UnitPrice": 0.29011,
+                                "TotalPrice": 5076.925
+                            },
+                            {
+                                "BreakQuantity": 25000,
+                                "UnitPrice": 0.28755,
+                                "TotalPrice": 7188.75
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": false,
+                        "Supplier": {
+                            "Id": 497,
+                            "Name": "STMicroelectronics"
+                        },
+                        "QuantityAvailableforPackageType": 2500,
+                        "MaxQuantityForDistribution": 0,
+                        "MinimumOrderQuantity": 2500,
+                        "StandardPackage": 0,
+                        "DigiReelFee": 0.0
+                    },
+                    {
+                        "DigiKeyProductNumber": "497-1524-1-ND",
+                        "PackageType": {
+                            "Id": 2,
+                            "Name": "Cut Tape (CT)"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 0.68,
+                                "TotalPrice": 0.68
+                            },
+                            {
+                                "BreakQuantity": 10,
+                                "UnitPrice": 0.482,
+                                "TotalPrice": 4.82
+                            },
+                            {
+                                "BreakQuantity": 25,
+                                "UnitPrice": 0.4324,
+                                "TotalPrice": 10.81
+                            },
+                            {
+                                "BreakQuantity": 100,
+                                "UnitPrice": 0.378,
+                                "TotalPrice": 37.8
+                            },
+                            {
+                                "BreakQuantity": 250,
+                                "UnitPrice": 0.35192,
+                                "TotalPrice": 87.98
+                            },
+                            {
+                                "BreakQuantity": 500,
+                                "UnitPrice": 0.33624,
+                                "TotalPrice": 168.12
+                            },
+                            {
+                                "BreakQuantity": 1000,
+                                "UnitPrice": 0.32332,
+                                "TotalPrice": 323.32
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": false,
+                        "Supplier": {
+                            "Id": 497,
+                            "Name": "STMicroelectronics"
+                        },
+                        "QuantityAvailableforPackageType": 3154,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 1,
+                        "DigiReelFee": 0.0
+                    },
+                    {
+                        "DigiKeyProductNumber": "497-1524-6-ND",
+                        "PackageType": {
+                            "Id": 243,
+                            "Name": "Digi-Reel\u00ae"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 0.68,
+                                "TotalPrice": 0.68
+                            },
+                            {
+                                "BreakQuantity": 10,
+                                "UnitPrice": 0.482,
+                                "TotalPrice": 4.82
+                            },
+                            {
+                                "BreakQuantity": 25,
+                                "UnitPrice": 0.4324,
+                                "TotalPrice": 10.81
+                            },
+                            {
+                                "BreakQuantity": 100,
+                                "UnitPrice": 0.378,
+                                "TotalPrice": 37.8
+                            },
+                            {
+                                "BreakQuantity": 250,
+                                "UnitPrice": 0.35192,
+                                "TotalPrice": 87.98
+                            },
+                            {
+                                "BreakQuantity": 500,
+                                "UnitPrice": 0.33624,
+                                "TotalPrice": 168.12
+                            },
+                            {
+                                "BreakQuantity": 1000,
+                                "UnitPrice": 0.32332,
+                                "TotalPrice": 323.32
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": false,
+                        "Supplier": {
+                            "Id": 497,
+                            "Name": "STMicroelectronics"
+                        },
+                        "QuantityAvailableforPackageType": 3154,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 1,
+                        "DigiReelFee": 7.0
+                    }
+                ],
+                "QuantityAvailable": 3154,
+                "ProductStatus": {
+                    "Id": 0,
+                    "Status": "Active"
+                },
+                "BackOrderNotAllowed": false,
+                "NormallyStocking": true,
+                "Discontinued": false,
+                "EndOfLife": false,
+                "Ncnr": false,
+                "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6185148583001",
+                "Parameters": [
+                    {
+                        "ParameterId": 255,
+                        "ParameterText": "Output Configuration",
+                        "ParameterType": "String",
+                        "ValueId": "389019",
+                        "ValueText": "Positive"
+                    },
+                    {
+                        "ParameterId": 41,
+                        "ParameterText": "Output Type",
+                        "ParameterType": "String",
+                        "ValueId": "347431",
+                        "ValueText": "Fixed"
+                    },
+                    {
+                        "ParameterId": 1065,
+                        "ParameterText": "Number of Regulators",
+                        "ParameterType": "Double",
+                        "ValueId": "1",
+                        "ValueText": "1"
+                    },
+                    {
+                        "ParameterId": 573,
+                        "ParameterText": "Voltage - Input (Max)",
+                        "ParameterType": "String",
+                        "ValueId": "108742",
+                        "ValueText": "16V"
+                    },
+                    {
+                        "ParameterId": 1779,
+                        "ParameterText": "Voltage - Output (Min/Fixed)",
+                        "ParameterType": "String",
+                        "ValueId": "174115",
+                        "ValueText": "3.3V"
+                    },
+                    {
+                        "ParameterId": 1429,
+                        "ParameterText": "Voltage - Output (Max)",
+                        "ParameterType": "String",
+                        "ValueId": "1",
+                        "ValueText": "-"
+                    },
+                    {
+                        "ParameterId": 2065,
+                        "ParameterText": "Voltage Dropout (Max)",
+                        "ParameterType": "String",
+                        "ValueId": "20888",
+                        "ValueText": "0.375V @ 100mA"
+                    },
+                    {
+                        "ParameterId": 129,
+                        "ParameterText": "Current - Output",
+                        "ParameterType": "String",
+                        "ValueId": "68833",
+                        "ValueText": "100mA"
+                    },
+                    {
+                        "ParameterId": 477,
+                        "ParameterText": "Current - Quiescent (Iq)",
+                        "ParameterType": "UnitOfMeasure",
+                        "ValueId": "150 \u00b5A",
+                        "ValueText": "150 \u00b5A"
+                    },
+                    {
+                        "ParameterId": 2196,
+                        "ParameterText": "Current - Supply (Max)",
+                        "ParameterType": "UnitOfMeasure",
+                        "ValueId": "2.6 mA",
+                        "ValueText": "2.6 mA"
+                    },
+                    {
+                        "ParameterId": 2064,
+                        "ParameterText": "PSRR",
+                        "ParameterType": "String",
+                        "ValueId": "260537",
+                        "ValueText": "63dB (1kHz)"
+                    },
+                    {
+                        "ParameterId": 1880,
+                        "ParameterText": "Control Features",
+                        "ParameterType": "String",
+                        "ValueId": "1",
+                        "ValueText": "-"
+                    },
+                    {
+                        "ParameterId": 2066,
+                        "ParameterText": "Protection Features",
+                        "ParameterType": "String",
+                        "ValueId": "382816",
+                        "ValueText": "Over Current, Over Temperature"
+                    },
+                    {
+                        "ParameterId": 252,
+                        "ParameterText": "Operating Temperature",
+                        "ParameterType": "String",
+                        "ValueId": "212478",
+                        "ValueText": "-40\u00b0C ~ 125\u00b0C"
+                    },
+                    {
+                        "ParameterId": 69,
+                        "ParameterText": "Mounting Type",
+                        "ParameterType": "String",
+                        "ValueId": "409393",
+                        "ValueText": "Surface Mount"
+                    },
+                    {
+                        "ParameterId": 16,
+                        "ParameterText": "Package / Case",
+                        "ParameterType": "String",
+                        "ValueId": "413325",
+                        "ValueText": "TO-243AA"
+                    },
+                    {
+                        "ParameterId": 1291,
+                        "ParameterText": "Supplier Device Package",
+                        "ParameterType": "String",
+                        "ValueId": "405578",
+                        "ValueText": "SOT-89-3"
+                    }
+                ],
+                "BaseProductNumber": {
+                    "Id": 122066,
+                    "Name": "LD2981"
+                },
+                "Category": {
+                    "CategoryId": 32,
+                    "ParentId": 0,
+                    "Name": "Integrated Circuits (ICs)",
+                    "ProductCount": 0,
+                    "NewProductCount": 0,
+                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+                    "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+                    "ChildCategories": [
+                        {
+                            "CategoryId": 2025,
+                            "ParentId": 32,
+                            "Name": "Power Management (PMIC)",
+                            "ProductCount": 0,
+                            "NewProductCount": 0,
+                            "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/314/540/846%3B-TO220CP-3%3B-%3B-3_tmb.jpg",
+                            "SeoDescription": "PMIC, or Power Management Integrated Circuits, refers to a wide range of application-specific ICs or chips. Included in this category is PMICs for AC/DC Converters, Battery Chargers, Battery Management, Current Regulation, Display Drivers, Energy Metering, Full/Half-Bridge Drivers, Gate Drivers, Hot Swap Controllers, Laser Drivers, LED Drivers, Lighting/Ballast Controllers, Motor Drivers, OR Controllers, Power Factor Correction, Power Distribution Switches, PoE Controllers, Power Supply Controllers, RMS to DC Converters, Supervisors, Thermal Management, V/F and F/V Controllers, various Voltage Regulators, and More.",
+                            "ChildCategories": [
+                                {
+                                    "CategoryId": 699,
+                                    "ParentId": 2025,
+                                    "Name": "Voltage Regulators - Linear, Low Drop Out (LDO) Regulators",
+                                    "ProductCount": 0,
+                                    "NewProductCount": 0,
+                                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/957/739/296_SOT-23-3%20PKG_tmb.jpg",
+                                    "SeoDescription": "Linear voltage regulators, including LDO (Low Drop Out) types, are used to provide a stable output voltage that is nominally invariant with respect to changes in load current, input voltage, or environmental factors. Their operating principle requires that the input voltage be maintained above the desired output voltage by some minimum amount, and function on the basis of converting whatever excess voltage is present at the input to heat. While this renders them less efficient than switch-mode voltage regulators for most applications, they are often better suited for applications with high sensitivity to noise.",
+                                    "ChildCategories": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "DateLastBuyChance": null,
+                "ManufacturerLeadWeeks": "30",
+                "ManufacturerPublicQuantity": 0,
+                "Series": {
+                    "Id": 818,
+                    "Name": "-"
+                },
+                "ShippingInfo": null,
+                "Classifications": {
+                    "ReachStatus": "REACH Unaffected",
+                    "RohsStatus": "ROHS3 Compliant",
+                    "MoistureSensitivityLevel": "1  (Unlimited)",
+                    "ExportControlClassNumber": "EAR99",
+                    "HtsusCode": "8542.39.0090"
+                },
+                "OtherNames": [
+                    "497-1524-1",
+                    "497-1524-1-NDR",
+                    "497-1524-2-NDR",
+                    "497-1524-2",
+                    "497-1524-6"
+                ]
+            }
+        ],
+        "FilterOptions": {
+            "Manufacturers": [
+                {
+                    "Id": 497,
+                    "Value": "STMicroelectronics",
+                    "ProductCount": 1
+                }
+            ],
+            "Packaging": null,
+            "Status": null,
+            "Series": null,
+            "ParametricFilters": null,
+            "TopCategories": null,
+            "MarketPlaceFilters": null
+        },
+        "SearchLocaleUsed": {
+            "Site": "US",
+            "Language": "en",
+            "Currency": "USD"
+        },
+        "AppliedParametricFiltersDto": []
+    }
+}

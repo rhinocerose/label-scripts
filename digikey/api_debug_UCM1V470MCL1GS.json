@@ -1,0 +1,736 @@
+{
+    "timestamp": "2026-07-07 14:22:47",
+    "part_number": "UCM1V470MCL1GS",
+    "request_payload": {
+        "Keywords": "UCM1V470MCL1GS",
+        "SearchOptions": "ManufacturerProductNumber",
+        "RecordCount": 10,
+        "RecordStartPosition": 0,
+        "Sort": {
+            "Option": "SortByDigiKeyPartNumber",
+            "Direction": "Ascending",
+            "SortParameterId": 0
+        },
+        "RequestedQuantity": 0
+    },
+    "status_code": 200,
+    "response_text": "{\"Products\":[{\"Description\":{\"ProductDescription\":\"CAP ALUM 47UF 20% 35V SMD\",\"DetailedDescription\":\"47 \u00b5F 35 V Aluminum Electrolytic Capacitors Radial, Can - SMD 2000 Hrs @ 105\u00b0C\"},\"Manufacturer\":{\"Id\":493,\"Name\":\"Nichicon\"},\"ManufacturerProductNumber\":\"UCM1V470MCL1GS\",\"UnitPrice\":0.46,\"ProductUrl\":\"https://www.digikey.com/en/products/detail/nichicon/UCM1V470MCL1GS/4991865\",\"DatasheetUrl\":\"https://www.nichicon.co.jp/english/series_items/catalog_pdf/e-ucm.pdf\",\"PhotoUrl\":\"https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/2413/CD%20Series%205mm.jpg\",\"ProductVariations\":[{\"DigiKeyProductNumber\":\"493-14540-2-ND\",\"PackageType\":{\"Id\":1,\"Name\":\"Tape & Reel (TR)\"},\"StandardPricing\":[{\"BreakQuantity\":1000,\"UnitPrice\":0.13122,\"TotalPrice\":131.22000},{\"BreakQuantity\":2000,\"UnitPrice\":0.12045,\"TotalPrice\":240.90000},{\"BreakQuantity\":3000,\"UnitPrice\":0.11501,\"TotalPrice\":345.03000},{\"BreakQuantity\":5000,\"UnitPrice\":0.10894,\"TotalPrice\":544.70000},{\"BreakQuantity\":7000,\"UnitPrice\":0.10538,\"TotalPrice\":737.66000},{\"BreakQuantity\":10000,\"UnitPrice\":0.10193,\"TotalPrice\":1019.30000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":493,\"Name\":\"Nichicon\"},\"QuantityAvailableforPackageType\":49000,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":1000,\"StandardPackage\":1000,\"DigiReelFee\":0.0},{\"DigiKeyProductNumber\":\"493-14540-1-ND\",\"PackageType\":{\"Id\":2,\"Name\":\"Cut Tape (CT)\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":0.46,\"TotalPrice\":0.46},{\"BreakQuantity\":10,\"UnitPrice\":0.283,\"TotalPrice\":2.830},{\"BreakQuantity\":50,\"UnitPrice\":0.2088,\"TotalPrice\":10.4400},{\"BreakQuantity\":100,\"UnitPrice\":0.1852,\"TotalPrice\":18.5200},{\"BreakQuantity\":500,\"UnitPrice\":0.14418,\"TotalPrice\":72.09000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":493,\"Name\":\"Nichicon\"},\"QuantityAvailableforPackageType\":49075,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":1,\"StandardPackage\":1,\"DigiReelFee\":0.0},{\"DigiKeyProductNumber\":\"493-14540-6-ND\",\"PackageType\":{\"Id\":243,\"Name\":\"Digi-Reel\u00ae\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":0.46,\"TotalPrice\":0.46},{\"BreakQuantity\":10,\"UnitPrice\":0.283,\"TotalPrice\":2.830},{\"BreakQuantity\":50,\"UnitPrice\":0.2088,\"TotalPrice\":10.4400},{\"BreakQuantity\":100,\"UnitPrice\":0.1852,\"TotalPrice\":18.5200},{\"BreakQuantity\":500,\"UnitPrice\":0.14418,\"TotalPrice\":72.09000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":493,\"Name\":\"Nichicon\"},\"QuantityAvailableforPackageType\":49075,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":1,\"StandardPackage\":1,\"DigiReelFee\":7.0}],\"QuantityAvailable\":49075,\"ProductStatus\":{\"Id\":0,\"Status\":\"Active\"},\"BackOrderNotAllowed\":false,\"NormallyStocking\":true,\"Discontinued\":false,\"EndOfLife\":false,\"Ncnr\":false,\"PrimaryVideoUrl\":\"https://www.digikey.com/api/videos/videoplayer/smallplayer/5638136272001\",\"Parameters\":[{\"ParameterId\":2049,\"ParameterText\":\"Capacitance\",\"ParameterType\":\"UnitOfMeasure\",\"ValueId\":\"47 \u00b5F\",\"ValueText\":\"47 \u00b5F\"},{\"ParameterId\":3,\"ParameterText\":\"Tolerance\",\"ParameterType\":\"String\",\"ValueId\":\"1900\",\"ValueText\":\"\u00b120%\"},{\"ParameterId\":2079,\"ParameterText\":\"Voltage - Rated\",\"ParameterType\":\"UnitOfMeasure\",\"ValueId\":\"35 V\",\"ValueText\":\"35 V\"},{\"ParameterId\":724,\"ParameterText\":\"ESR (Equivalent Series Resistance)\",\"ParameterType\":\"String\",\"ValueId\":\"1\",\"ValueText\":\"-\"},{\"ParameterId\":725,\"ParameterText\":\"Lifetime @ Temp.\",\"ParameterType\":\"String\",\"ValueId\":\"140003\",\"ValueText\":\"2000 Hrs @ 105\u00b0C\"},{\"ParameterId\":252,\"ParameterText\":\"Operating Temperature\",\"ParameterType\":\"String\",\"ValueId\":\"242904\",\"ValueText\":\"-55\u00b0C ~ 105\u00b0C\"},{\"ParameterId\":52,\"ParameterText\":\"Polarization\",\"ParameterType\":\"String\",\"ValueId\":\"388275\",\"ValueText\":\"Polar\"},{\"ParameterId\":707,\"ParameterText\":\"Ratings\",\"ParameterType\":\"String\",\"ValueId\":\"312105\",\"ValueText\":\"AEC-Q200\"},{\"ParameterId\":405,\"ParameterText\":\"Applications\",\"ParameterType\":\"String\",\"ValueId\":\"316912\",\"ValueText\":\"Automotive\"},{\"ParameterId\":2253,\"ParameterText\":\"Ripple Current @ Low Frequency\",\"ParameterType\":\"CoupledUnitOfMeasure\",\"ValueId\":\"120 mA @ 120 Hz\",\"ValueText\":\"120 mA @ 120 Hz\"},{\"ParameterId\":2260,\"ParameterText\":\"Ripple Current @ High Frequency\",\"ParameterType\":\"CoupledUnitOfMeasure\",\"ValueId\":\"240 mA @ 100 kHz\",\"ValueText\":\"240 mA @ 100 kHz\"},{\"ParameterId\":2080,\"ParameterText\":\"Impedance\",\"ParameterType\":\"UnitOfMeasure\",\"ValueId\":\"360 mOhms\",\"ValueText\":\"360 mOhms\"},{\"ParameterId\":508,\"ParameterText\":\"Lead Spacing\",\"ParameterType\":\"String\",\"ValueId\":\"1\",\"ValueText\":\"-\"},{\"ParameterId\":46,\"ParameterText\":\"Size / Dimension\",\"ParameterType\":\"String\",\"ValueId\":\"13808\",\"ValueText\":\"0.197\\\" Dia (5.00mm)\"},{\"ParameterId\":1500,\"ParameterText\":\"Height - Seated (Max)\",\"ParameterType\":\"String\",\"ValueId\":\"15606\",\"ValueText\":\"0.240\\\" (6.10mm)\"},{\"ParameterId\":884,\"ParameterText\":\"Surface Mount Land Size\",\"ParameterType\":\"String\",\"ValueId\":\"14490\",\"ValueText\":\"0.209\\\" L x 0.209\\\" W (5.30mm x 5.30mm)\"},{\"ParameterId\":69,\"ParameterText\":\"Mounting Type\",\"ParameterType\":\"String\",\"ValueId\":\"409393\",\"ValueText\":\"Surface Mount\"},{\"ParameterId\":16,\"ParameterText\":\"Package / Case\",\"ParameterType\":\"String\",\"ValueId\":\"392327\",\"ValueText\":\"Radial, Can - SMD\"}],\"BaseProductNumber\":{\"Id\":null,\"Name\":null},\"Category\":{\"CategoryId\":3,\"ParentId\":0,\"Name\":\"Capacitors\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/640/398/BCAP0350%20E270%20T11_tmb%2864x64%29.jpg\",\"SeoDescription\":\"Capacitor products, also known as \\\"condensers\\\", are generally named and organized in reference to the dielectric material incorporated within. Along with variations in construction methods, the choice of dielectric material has strong influence on a given device's relative cost, size, parametric stability, and suitability for a particular application.\",\"ChildCategories\":[{\"CategoryId\":58,\"ParentId\":3,\"Name\":\"Aluminum Electrolytic Capacitors\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/236/495/VX-Series-5x12mm_tmb%2864x64%29.jpg\",\"SeoDescription\":\"A capacitor is a passive electronic device that stores electric charge. Polarized aluminum electrolytic capacitors have an anode electrode (+) made of pure aluminum foil, electrolyte that acts as the cathode, and a thin insulating layer of aluminum oxide that acts as the dielectric. Electrolytic capacitors have higher capacitance-voltage (CV) product per unit volume than ceramic capacitors or film capacitors. Applications include audio, automotive, bypass, decoupling, and motor starting capacitors.\",\"ChildCategories\":[]}]},\"DateLastBuyChance\":null,\"ManufacturerLeadWeeks\":\"35\",\"ManufacturerPublicQuantity\":0,\"Series\":{\"Id\":51577,\"Name\":\"UCM\"},\"ShippingInfo\":null,\"Classifications\":{\"ReachStatus\":\"REACH Affected\",\"RohsStatus\":\"ROHS3 Compliant\",\"MoistureSensitivityLevel\":\"1  (Unlimited)\",\"ExportControlClassNumber\":\"EAR99\",\"HtsusCode\":\"8532.22.0020\"},\"OtherNames\":[\"493-14540-2\",\"UCM1V470MCL1GS-ND\",\"493-14540-1\",\"493-14540-6\"]}],\"ProductsCount\":1,\"ExactMatches\":[{\"Description\":{\"ProductDescription\":\"CAP ALUM 47UF 20% 35V SMD\",\"DetailedDescription\":\"47 \u00b5F 35 V Aluminum Electrolytic Capacitors Radial, Can - SMD 2000 Hrs @ 105\u00b0C\"},\"Manufacturer\":{\"Id\":493,\"Name\":\"Nichicon\"},\"ManufacturerProductNumber\":\"UCM1V470MCL1GS\",\"UnitPrice\":0.46,\"ProductUrl\":\"https://www.digikey.com/en/products/detail/nichicon/UCM1V470MCL1GS/4991865\",\"DatasheetUrl\":\"https://www.nichicon.co.jp/english/series_items/catalog_pdf/e-ucm.pdf\",\"PhotoUrl\":\"https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/2413/CD%20Series%205mm.jpg\",\"ProductVariations\":[{\"DigiKeyProductNumber\":\"493-14540-2-ND\",\"PackageType\":{\"Id\":1,\"Name\":\"Tape & Reel (TR)\"},\"StandardPricing\":[{\"BreakQuantity\":1000,\"UnitPrice\":0.13122,\"TotalPrice\":131.22000},{\"BreakQuantity\":2000,\"UnitPrice\":0.12045,\"TotalPrice\":240.90000},{\"BreakQuantity\":3000,\"UnitPrice\":0.11501,\"TotalPrice\":345.03000},{\"BreakQuantity\":5000,\"UnitPrice\":0.10894,\"TotalPrice\":544.70000},{\"BreakQuantity\":7000,\"UnitPrice\":0.10538,\"TotalPrice\":737.66000},{\"BreakQuantity\":10000,\"UnitPrice\":0.10193,\"TotalPrice\":1019.30000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":493,\"Name\":\"Nichicon\"},\"QuantityAvailableforPackageType\":49000,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":1000,\"StandardPackage\":1000,\"DigiReelFee\":0.0},{\"DigiKeyProductNumber\":\"493-14540-1-ND\",\"PackageType\":{\"Id\":2,\"Name\":\"Cut Tape (CT)\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":0.46,\"TotalPrice\":0.46},{\"BreakQuantity\":10,\"UnitPrice\":0.283,\"TotalPrice\":2.830},{\"BreakQuantity\":50,\"UnitPrice\":0.2088,\"TotalPrice\":10.4400},{\"BreakQuantity\":100,\"UnitPrice\":0.1852,\"TotalPrice\":18.5200},{\"BreakQuantity\":500,\"UnitPrice\":0.14418,\"TotalPrice\":72.09000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":493,\"Name\":\"Nichicon\"},\"QuantityAvailableforPackageType\":49075,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":1,\"StandardPackage\":1,\"DigiReelFee\":0.0},{\"DigiKeyProductNumber\":\"493-14540-6-ND\",\"PackageType\":{\"Id\":243,\"Name\":\"Digi-Reel\u00ae\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":0.46,\"TotalPrice\":0.46},{\"BreakQuantity\":10,\"UnitPrice\":0.283,\"TotalPrice\":2.830},{\"BreakQuantity\":50,\"UnitPrice\":0.2088,\"TotalPrice\":10.4400},{\"BreakQuantity\":100,\"UnitPrice\":0.1852,\"TotalPrice\":18.5200},{\"BreakQuantity\":500,\"UnitPrice\":0.14418,\"TotalPrice\":72.09000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":493,\"Name\":\"Nichicon\"},\"QuantityAvailableforPackageType\":49075,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":1,\"StandardPackage\":1,\"DigiReelFee\":7.0}],\"QuantityAvailable\":49075,\"ProductStatus\":{\"Id\":0,\"Status\":\"Active\"},\"BackOrderNotAllowed\":false,\"NormallyStocking\":true,\"Discontinued\":false,\"EndOfLife\":false,\"Ncnr\":false,\"PrimaryVideoUrl\":\"https://www.digikey.com/api/videos/videoplayer/smallplayer/5638136272001\",\"Parameters\":[{\"ParameterId\":2049,\"ParameterText\":\"Capacitance\",\"ParameterType\":\"UnitOfMeasure\",\"ValueId\":\"47 \u00b5F\",\"ValueText\":\"47 \u00b5F\"},{\"ParameterId\":3,\"ParameterText\":\"Tolerance\",\"ParameterType\":\"String\",\"ValueId\":\"1900\",\"ValueText\":\"\u00b120%\"},{\"ParameterId\":2079,\"ParameterText\":\"Voltage - Rated\",\"ParameterType\":\"UnitOfMeasure\",\"ValueId\":\"35 V\",\"ValueText\":\"35 V\"},{\"ParameterId\":724,\"ParameterText\":\"ESR (Equivalent Series Resistance)\",\"ParameterType\":\"String\",\"ValueId\":\"1\",\"ValueText\":\"-\"},{\"ParameterId\":725,\"ParameterText\":\"Lifetime @ Temp.\",\"ParameterType\":\"String\",\"ValueId\":\"140003\",\"ValueText\":\"2000 Hrs @ 105\u00b0C\"},{\"ParameterId\":252,\"ParameterText\":\"Operating Temperature\",\"ParameterType\":\"String\",\"ValueId\":\"242904\",\"ValueText\":\"-55\u00b0C ~ 105\u00b0C\"},{\"ParameterId\":52,\"ParameterText\":\"Polarization\",\"ParameterType\":\"String\",\"ValueId\":\"388275\",\"ValueText\":\"Polar\"},{\"ParameterId\":707,\"ParameterText\":\"Ratings\",\"ParameterType\":\"String\",\"ValueId\":\"312105\",\"ValueText\":\"AEC-Q200\"},{\"ParameterId\":405,\"ParameterText\":\"Applications\",\"ParameterType\":\"String\",\"ValueId\":\"316912\",\"ValueText\":\"Automotive\"},{\"ParameterId\":2253,\"ParameterText\":\"Ripple Current @ Low Frequency\",\"ParameterType\":\"CoupledUnitOfMeasure\",\"ValueId\":\"120 mA @ 120 Hz\",\"ValueText\":\"120 mA @ 120 Hz\"},{\"ParameterId\":2260,\"ParameterText\":\"Ripple Current @ High Frequency\",\"ParameterType\":\"CoupledUnitOfMeasure\",\"ValueId\":\"240 mA @ 100 kHz\",\"ValueText\":\"240 mA @ 100 kHz\"},{\"ParameterId\":2080,\"ParameterText\":\"Impedance\",\"ParameterType\":\"UnitOfMeasure\",\"ValueId\":\"360 mOhms\",\"ValueText\":\"360 mOhms\"},{\"ParameterId\":508,\"ParameterText\":\"Lead Spacing\",\"ParameterType\":\"String\",\"ValueId\":\"1\",\"ValueText\":\"-\"},{\"ParameterId\":46,\"ParameterText\":\"Size / Dimension\",\"ParameterType\":\"String\",\"ValueId\":\"13808\",\"ValueText\":\"0.197\\\" Dia (5.00mm)\"},{\"ParameterId\":1500,\"ParameterText\":\"Height - Seated (Max)\",\"ParameterType\":\"String\",\"ValueId\":\"15606\",\"ValueText\":\"0.240\\\" (6.10mm)\"},{\"ParameterId\":884,\"ParameterText\":\"Surface Mount Land Size\",\"ParameterType\":\"String\",\"ValueId\":\"14490\",\"ValueText\":\"0.209\\\" L x 0.209\\\" W (5.30mm x 5.30mm)\"},{\"ParameterId\":69,\"ParameterText\":\"Mounting Type\",\"ParameterType\":\"String\",\"ValueId\":\"409393\",\"ValueText\":\"Surface Mount\"},{\"ParameterId\":16,\"ParameterText\":\"Package / Case\",\"ParameterType\":\"String\",\"ValueId\":\"392327\",\"ValueText\":\"Radial, Can - SMD\"}],\"BaseProductNumber\":{\"Id\":null,\"Name\":null},\"Category\":{\"CategoryId\":3,\"ParentId\":0,\"Name\":\"Capacitors\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/640/398/BCAP0350%20E270%20T11_tmb%2864x64%29.jpg\",\"SeoDescription\":\"Capacitor products, also known as \\\"condensers\\\", are generally named and organized in reference to the dielectric material incorporated within. Along with variations in construction methods, the choice of dielectric material has strong influence on a given device's relative cost, size, parametric stability, and suitability for a particular application.\",\"ChildCategories\":[{\"CategoryId\":58,\"ParentId\":3,\"Name\":\"Aluminum Electrolytic Capacitors\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/236/495/VX-Series-5x12mm_tmb%2864x64%29.jpg\",\"SeoDescription\":\"A capacitor is a passive electronic device that stores electric charge. Polarized aluminum electrolytic capacitors have an anode electrode (+) made of pure aluminum foil, electrolyte that acts as the cathode, and a thin insulating layer of aluminum oxide that acts as the dielectric. Electrolytic capacitors have higher capacitance-voltage (CV) product per unit volume than ceramic capacitors or film capacitors. Applications include audio, automotive, bypass, decoupling, and motor starting capacitors.\",\"ChildCategories\":[]}]},\"DateLastBuyChance\":null,\"ManufacturerLeadWeeks\":\"35\",\"ManufacturerPublicQuantity\":0,\"Series\":{\"Id\":51577,\"Name\":\"UCM\"},\"ShippingInfo\":null,\"Classifications\":{\"ReachStatus\":\"REACH Affected\",\"RohsStatus\":\"ROHS3 Compliant\",\"MoistureSensitivityLevel\":\"1  (Unlimited)\",\"ExportControlClassNumber\":\"EAR99\",\"HtsusCode\":\"8532.22.0020\"},\"OtherNames\":[\"493-14540-2\",\"UCM1V470MCL1GS-ND\",\"493-14540-1\",\"493-14540-6\"]}],\"FilterOptions\":{\"Manufacturers\":[{\"Id\":493,\"Value\":\"Nichicon\",\"ProductCount\":1}],\"Packaging\":null,\"Status\":null,\"Series\":null,\"ParametricFilters\":null,\"TopCategories\":null,\"MarketPlaceFilters\":null},\"SearchLocaleUsed\":{\"Site\":\"US\",\"Language\":\"en\",\"Currency\":\"USD\"},\"AppliedParametricFiltersDto\":[]}",
+    "response_json": {
+        "Products": [
+            {
+                "Description": {
+                    "ProductDescription": "CAP ALUM 47UF 20% 35V SMD",
+                    "DetailedDescription": "47 \u00b5F 35 V Aluminum Electrolytic Capacitors Radial, Can - SMD 2000 Hrs @ 105\u00b0C"
+                },
+                "Manufacturer": {
+                    "Id": 493,
+                    "Name": "Nichicon"
+                },
+                "ManufacturerProductNumber": "UCM1V470MCL1GS",
+                "UnitPrice": 0.46,
+                "ProductUrl": "https://www.digikey.com/en/products/detail/nichicon/UCM1V470MCL1GS/4991865",
+                "DatasheetUrl": "https://www.nichicon.co.jp/english/series_items/catalog_pdf/e-ucm.pdf",
+                "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/2413/CD%20Series%205mm.jpg",
+                "ProductVariations": [
+                    {
+                        "DigiKeyProductNumber": "493-14540-2-ND",
+                        "PackageType": {
+                            "Id": 1,
+                            "Name": "Tape & Reel (TR)"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1000,
+                                "UnitPrice": 0.13122,
+                                "TotalPrice": 131.22
+                            },
+                            {
+                                "BreakQuantity": 2000,
+                                "UnitPrice": 0.12045,
+                                "TotalPrice": 240.9
+                            },
+                            {
+                                "BreakQuantity": 3000,
+                                "UnitPrice": 0.11501,
+                                "TotalPrice": 345.03
+                            },
+                            {
+                                "BreakQuantity": 5000,
+                                "UnitPrice": 0.10894,
+                                "TotalPrice": 544.7
+                            },
+                            {
+                                "BreakQuantity": 7000,
+                                "UnitPrice": 0.10538,
+                                "TotalPrice": 737.66
+                            },
+                            {
+                                "BreakQuantity": 10000,
+                                "UnitPrice": 0.10193,
+                                "TotalPrice": 1019.3
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 493,
+                            "Name": "Nichicon"
+                        },
+                        "QuantityAvailableforPackageType": 49000,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 1000,
+                        "StandardPackage": 1000,
+                        "DigiReelFee": 0.0
+                    },
+                    {
+                        "DigiKeyProductNumber": "493-14540-1-ND",
+                        "PackageType": {
+                            "Id": 2,
+                            "Name": "Cut Tape (CT)"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 0.46,
+                                "TotalPrice": 0.46
+                            },
+                            {
+                                "BreakQuantity": 10,
+                                "UnitPrice": 0.283,
+                                "TotalPrice": 2.83
+                            },
+                            {
+                                "BreakQuantity": 50,
+                                "UnitPrice": 0.2088,
+                                "TotalPrice": 10.44
+                            },
+                            {
+                                "BreakQuantity": 100,
+                                "UnitPrice": 0.1852,
+                                "TotalPrice": 18.52
+                            },
+                            {
+                                "BreakQuantity": 500,
+                                "UnitPrice": 0.14418,
+                                "TotalPrice": 72.09
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 493,
+                            "Name": "Nichicon"
+                        },
+                        "QuantityAvailableforPackageType": 49075,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 1,
+                        "DigiReelFee": 0.0
+                    },
+                    {
+                        "DigiKeyProductNumber": "493-14540-6-ND",
+                        "PackageType": {
+                            "Id": 243,
+                            "Name": "Digi-Reel\u00ae"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 0.46,
+                                "TotalPrice": 0.46
+                            },
+                            {
+                                "BreakQuantity": 10,
+                                "UnitPrice": 0.283,
+                                "TotalPrice": 2.83
+                            },
+                            {
+                                "BreakQuantity": 50,
+                                "UnitPrice": 0.2088,
+                                "TotalPrice": 10.44
+                            },
+                            {
+                                "BreakQuantity": 100,
+                                "UnitPrice": 0.1852,
+                                "TotalPrice": 18.52
+                            },
+                            {
+                                "BreakQuantity": 500,
+                                "UnitPrice": 0.14418,
+                                "TotalPrice": 72.09
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 493,
+                            "Name": "Nichicon"
+                        },
+                        "QuantityAvailableforPackageType": 49075,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 1,
+                        "DigiReelFee": 7.0
+                    }
+                ],
+                "QuantityAvailable": 49075,
+                "ProductStatus": {
+                    "Id": 0,
+                    "Status": "Active"
+                },
+                "BackOrderNotAllowed": false,
+                "NormallyStocking": true,
+                "Discontinued": false,
+                "EndOfLife": false,
+                "Ncnr": false,
+                "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/5638136272001",
+                "Parameters": [
+                    {
+                        "ParameterId": 2049,
+                        "ParameterText": "Capacitance",
+                        "ParameterType": "UnitOfMeasure",
+                        "ValueId": "47 \u00b5F",
+                        "ValueText": "47 \u00b5F"
+                    },
+                    {
+                        "ParameterId": 3,
+                        "ParameterText": "Tolerance",
+                        "ParameterType": "String",
+                        "ValueId": "1900",
+                        "ValueText": "\u00b120%"
+                    },
+                    {
+                        "ParameterId": 2079,
+                        "ParameterText": "Voltage - Rated",
+                        "ParameterType": "UnitOfMeasure",
+                        "ValueId": "35 V",
+                        "ValueText": "35 V"
+                    },
+                    {
+                        "ParameterId": 724,
+                        "ParameterText": "ESR (Equivalent Series Resistance)",
+                        "ParameterType": "String",
+                        "ValueId": "1",
+                        "ValueText": "-"
+                    },
+                    {
+                        "ParameterId": 725,
+                        "ParameterText": "Lifetime @ Temp.",
+                        "ParameterType": "String",
+                        "ValueId": "140003",
+                        "ValueText": "2000 Hrs @ 105\u00b0C"
+                    },
+                    {
+                        "ParameterId": 252,
+                        "ParameterText": "Operating Temperature",
+                        "ParameterType": "String",
+                        "ValueId": "242904",
+                        "ValueText": "-55\u00b0C ~ 105\u00b0C"
+                    },
+                    {
+                        "ParameterId": 52,
+                        "ParameterText": "Polarization",
+                        "ParameterType": "String",
+                        "ValueId": "388275",
+                        "ValueText": "Polar"
+                    },
+                    {
+                        "ParameterId": 707,
+                        "ParameterText": "Ratings",
+                        "ParameterType": "String",
+                        "ValueId": "312105",
+                        "ValueText": "AEC-Q200"
+                    },
+                    {
+                        "ParameterId": 405,
+                        "ParameterText": "Applications",
+                        "ParameterType": "String",
+                        "ValueId": "316912",
+                        "ValueText": "Automotive"
+                    },
+                    {
+                        "ParameterId": 2253,
+                        "ParameterText": "Ripple Current @ Low Frequency",
+                        "ParameterType": "CoupledUnitOfMeasure",
+                        "ValueId": "120 mA @ 120 Hz",
+                        "ValueText": "120 mA @ 120 Hz"
+                    },
+                    {
+                        "ParameterId": 2260,
+                        "ParameterText": "Ripple Current @ High Frequency",
+                        "ParameterType": "CoupledUnitOfMeasure",
+                        "ValueId": "240 mA @ 100 kHz",
+                        "ValueText": "240 mA @ 100 kHz"
+                    },
+                    {
+                        "ParameterId": 2080,
+                        "ParameterText": "Impedance",
+                        "ParameterType": "UnitOfMeasure",
+                        "ValueId": "360 mOhms",
+                        "ValueText": "360 mOhms"
+                    },
+                    {
+                        "ParameterId": 508,
+                        "ParameterText": "Lead Spacing",
+                        "ParameterType": "String",
+                        "ValueId": "1",
+                        "ValueText": "-"
+                    },
+                    {
+                        "ParameterId": 46,
+                        "ParameterText": "Size / Dimension",
+                        "ParameterType": "String",
+                        "ValueId": "13808",
+                        "ValueText": "0.197\" Dia (5.00mm)"
+                    },
+                    {
+                        "ParameterId": 1500,
+                        "ParameterText": "Height - Seated (Max)",
+                        "ParameterType": "String",
+                        "ValueId": "15606",
+                        "ValueText": "0.240\" (6.10mm)"
+                    },
+                    {
+                        "ParameterId": 884,
+                        "ParameterText": "Surface Mount Land Size",
+                        "ParameterType": "String",
+                        "ValueId": "14490",
+                        "ValueText": "0.209\" L x 0.209\" W (5.30mm x 5.30mm)"
+                    },
+                    {
+                        "ParameterId": 69,
+                        "ParameterText": "Mounting Type",
+                        "ParameterType": "String",
+                        "ValueId": "409393",
+                        "ValueText": "Surface Mount"
+                    },
+                    {
+                        "ParameterId": 16,
+                        "ParameterText": "Package / Case",
+                        "ParameterType": "String",
+                        "ValueId": "392327",
+                        "ValueText": "Radial, Can - SMD"
+                    }
+                ],
+                "BaseProductNumber": {
+                    "Id": null,
+                    "Name": null
+                },
+                "Category": {
+                    "CategoryId": 3,
+                    "ParentId": 0,
+                    "Name": "Capacitors",
+                    "ProductCount": 0,
+                    "NewProductCount": 0,
+                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/640/398/BCAP0350%20E270%20T11_tmb%2864x64%29.jpg",
+                    "SeoDescription": "Capacitor products, also known as \"condensers\", are generally named and organized in reference to the dielectric material incorporated within. Along with variations in construction methods, the choice of dielectric material has strong influence on a given device's relative cost, size, parametric stability, and suitability for a particular application.",
+                    "ChildCategories": [
+                        {
+                            "CategoryId": 58,
+                            "ParentId": 3,
+                            "Name": "Aluminum Electrolytic Capacitors",
+                            "ProductCount": 0,
+                            "NewProductCount": 0,
+                            "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/236/495/VX-Series-5x12mm_tmb%2864x64%29.jpg",
+                            "SeoDescription": "A capacitor is a passive electronic device that stores electric charge. Polarized aluminum electrolytic capacitors have an anode electrode (+) made of pure aluminum foil, electrolyte that acts as the cathode, and a thin insulating layer of aluminum oxide that acts as the dielectric. Electrolytic capacitors have higher capacitance-voltage (CV) product per unit volume than ceramic capacitors or film capacitors. Applications include audio, automotive, bypass, decoupling, and motor starting capacitors.",
+                            "ChildCategories": []
+                        }
+                    ]
+                },
+                "DateLastBuyChance": null,
+                "ManufacturerLeadWeeks": "35",
+                "ManufacturerPublicQuantity": 0,
+                "Series": {
+                    "Id": 51577,
+                    "Name": "UCM"
+                },
+                "ShippingInfo": null,
+                "Classifications": {
+                    "ReachStatus": "REACH Affected",
+                    "RohsStatus": "ROHS3 Compliant",
+                    "MoistureSensitivityLevel": "1  (Unlimited)",
+                    "ExportControlClassNumber": "EAR99",
+                    "HtsusCode": "8532.22.0020"
+                },
+                "OtherNames": [
+                    "493-14540-2",
+                    "UCM1V470MCL1GS-ND",
+                    "493-14540-1",
+                    "493-14540-6"
+                ]
+            }
+        ],
+        "ProductsCount": 1,
+        "ExactMatches": [
+            {
+                "Description": {
+                    "ProductDescription": "CAP ALUM 47UF 20% 35V SMD",
+                    "DetailedDescription": "47 \u00b5F 35 V Aluminum Electrolytic Capacitors Radial, Can - SMD 2000 Hrs @ 105\u00b0C"
+                },
+                "Manufacturer": {
+                    "Id": 493,
+                    "Name": "Nichicon"
+                },
+                "ManufacturerProductNumber": "UCM1V470MCL1GS",
+                "UnitPrice": 0.46,
+                "ProductUrl": "https://www.digikey.com/en/products/detail/nichicon/UCM1V470MCL1GS/4991865",
+                "DatasheetUrl": "https://www.nichicon.co.jp/english/series_items/catalog_pdf/e-ucm.pdf",
+                "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/2413/CD%20Series%205mm.jpg",
+                "ProductVariations": [
+                    {
+                        "DigiKeyProductNumber": "493-14540-2-ND",
+                        "PackageType": {
+                            "Id": 1,
+                            "Name": "Tape & Reel (TR)"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1000,
+                                "UnitPrice": 0.13122,
+                                "TotalPrice": 131.22
+                            },
+                            {
+                                "BreakQuantity": 2000,
+                                "UnitPrice": 0.12045,
+                                "TotalPrice": 240.9
+                            },
+                            {
+                                "BreakQuantity": 3000,
+                                "UnitPrice": 0.11501,
+                                "TotalPrice": 345.03
+                            },
+                            {
+                                "BreakQuantity": 5000,
+                                "UnitPrice": 0.10894,
+                                "TotalPrice": 544.7
+                            },
+                            {
+                                "BreakQuantity": 7000,
+                                "UnitPrice": 0.10538,
+                                "TotalPrice": 737.66
+                            },
+                            {
+                                "BreakQuantity": 10000,
+                                "UnitPrice": 0.10193,
+                                "TotalPrice": 1019.3
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 493,
+                            "Name": "Nichicon"
+                        },
+                        "QuantityAvailableforPackageType": 49000,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 1000,
+                        "StandardPackage": 1000,
+                        "DigiReelFee": 0.0
+                    },
+                    {
+                        "DigiKeyProductNumber": "493-14540-1-ND",
+                        "PackageType": {
+                            "Id": 2,
+                            "Name": "Cut Tape (CT)"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 0.46,
+                                "TotalPrice": 0.46
+                            },
+                            {
+                                "BreakQuantity": 10,
+                                "UnitPrice": 0.283,
+                                "TotalPrice": 2.83
+                            },
+                            {
+                                "BreakQuantity": 50,
+                                "UnitPrice": 0.2088,
+                                "TotalPrice": 10.44
+                            },
+                            {
+                                "BreakQuantity": 100,
+                                "UnitPrice": 0.1852,
+                                "TotalPrice": 18.52
+                            },
+                            {
+                                "BreakQuantity": 500,
+                                "UnitPrice": 0.14418,
+                                "TotalPrice": 72.09
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 493,
+                            "Name": "Nichicon"
+                        },
+                        "QuantityAvailableforPackageType": 49075,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 1,
+                        "DigiReelFee": 0.0
+                    },
+                    {
+                        "DigiKeyProductNumber": "493-14540-6-ND",
+                        "PackageType": {
+                            "Id": 243,
+                            "Name": "Digi-Reel\u00ae"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 0.46,
+                                "TotalPrice": 0.46
+                            },
+                            {
+                                "BreakQuantity": 10,
+                                "UnitPrice": 0.283,
+                                "TotalPrice": 2.83
+                            },
+                            {
+                                "BreakQuantity": 50,
+                                "UnitPrice": 0.2088,
+                                "TotalPrice": 10.44
+                            },
+                            {
+                                "BreakQuantity": 100,
+                                "UnitPrice": 0.1852,
+                                "TotalPrice": 18.52
+                            },
+                            {
+                                "BreakQuantity": 500,
+                                "UnitPrice": 0.14418,
+                                "TotalPrice": 72.09
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 493,
+                            "Name": "Nichicon"
+                        },
+                        "QuantityAvailableforPackageType": 49075,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 1,
+                        "DigiReelFee": 7.0
+                    }
+                ],
+                "QuantityAvailable": 49075,
+                "ProductStatus": {
+                    "Id": 0,
+                    "Status": "Active"
+                },
+                "BackOrderNotAllowed": false,
+                "NormallyStocking": true,
+                "Discontinued": false,
+                "EndOfLife": false,
+                "Ncnr": false,
+                "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/5638136272001",
+                "Parameters": [
+                    {
+                        "ParameterId": 2049,
+                        "ParameterText": "Capacitance",
+                        "ParameterType": "UnitOfMeasure",
+                        "ValueId": "47 \u00b5F",
+                        "ValueText": "47 \u00b5F"
+                    },
+                    {
+                        "ParameterId": 3,
+                        "ParameterText": "Tolerance",
+                        "ParameterType": "String",
+                        "ValueId": "1900",
+                        "ValueText": "\u00b120%"
+                    },
+                    {
+                        "ParameterId": 2079,
+                        "ParameterText": "Voltage - Rated",
+                        "ParameterType": "UnitOfMeasure",
+                        "ValueId": "35 V",
+                        "ValueText": "35 V"
+                    },
+                    {
+                        "ParameterId": 724,
+                        "ParameterText": "ESR (Equivalent Series Resistance)",
+                        "ParameterType": "String",
+                        "ValueId": "1",
+                        "ValueText": "-"
+                    },
+                    {
+                        "ParameterId": 725,
+                        "ParameterText": "Lifetime @ Temp.",
+                        "ParameterType": "String",
+                        "ValueId": "140003",
+                        "ValueText": "2000 Hrs @ 105\u00b0C"
+                    },
+                    {
+                        "ParameterId": 252,
+                        "ParameterText": "Operating Temperature",
+                        "ParameterType": "String",
+                        "ValueId": "242904",
+                        "ValueText": "-55\u00b0C ~ 105\u00b0C"
+                    },
+                    {
+                        "ParameterId": 52,
+                        "ParameterText": "Polarization",
+                        "ParameterType": "String",
+                        "ValueId": "388275",
+                        "ValueText": "Polar"
+                    },
+                    {
+                        "ParameterId": 707,
+                        "ParameterText": "Ratings",
+                        "ParameterType": "String",
+                        "ValueId": "312105",
+                        "ValueText": "AEC-Q200"
+                    },
+                    {
+                        "ParameterId": 405,
+                        "ParameterText": "Applications",
+                        "ParameterType": "String",
+                        "ValueId": "316912",
+                        "ValueText": "Automotive"
+                    },
+                    {
+                        "ParameterId": 2253,
+                        "ParameterText": "Ripple Current @ Low Frequency",
+                        "ParameterType": "CoupledUnitOfMeasure",
+                        "ValueId": "120 mA @ 120 Hz",
+                        "ValueText": "120 mA @ 120 Hz"
+                    },
+                    {
+                        "ParameterId": 2260,
+                        "ParameterText": "Ripple Current @ High Frequency",
+                        "ParameterType": "CoupledUnitOfMeasure",
+                        "ValueId": "240 mA @ 100 kHz",
+                        "ValueText": "240 mA @ 100 kHz"
+                    },
+                    {
+                        "ParameterId": 2080,
+                        "ParameterText": "Impedance",
+                        "ParameterType": "UnitOfMeasure",
+                        "ValueId": "360 mOhms",
+                        "ValueText": "360 mOhms"
+                    },
+                    {
+                        "ParameterId": 508,
+                        "ParameterText": "Lead Spacing",
+                        "ParameterType": "String",
+                        "ValueId": "1",
+                        "ValueText": "-"
+                    },
+                    {
+                        "ParameterId": 46,
+                        "ParameterText": "Size / Dimension",
+                        "ParameterType": "String",
+                        "ValueId": "13808",
+                        "ValueText": "0.197\" Dia (5.00mm)"
+                    },
+                    {
+                        "ParameterId": 1500,
+                        "ParameterText": "Height - Seated (Max)",
+                        "ParameterType": "String",
+                        "ValueId": "15606",
+                        "ValueText": "0.240\" (6.10mm)"
+                    },
+                    {
+                        "ParameterId": 884,
+                        "ParameterText": "Surface Mount Land Size",
+                        "ParameterType": "String",
+                        "ValueId": "14490",
+                        "ValueText": "0.209\" L x 0.209\" W (5.30mm x 5.30mm)"
+                    },
+                    {
+                        "ParameterId": 69,
+                        "ParameterText": "Mounting Type",
+                        "ParameterType": "String",
+                        "ValueId": "409393",
+                        "ValueText": "Surface Mount"
+                    },
+                    {
+                        "ParameterId": 16,
+                        "ParameterText": "Package / Case",
+                        "ParameterType": "String",
+                        "ValueId": "392327",
+                        "ValueText": "Radial, Can - SMD"
+                    }
+                ],
+                "BaseProductNumber": {
+                    "Id": null,
+                    "Name": null
+                },
+                "Category": {
+                    "CategoryId": 3,
+                    "ParentId": 0,
+                    "Name": "Capacitors",
+                    "ProductCount": 0,
+                    "NewProductCount": 0,
+                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/640/398/BCAP0350%20E270%20T11_tmb%2864x64%29.jpg",
+                    "SeoDescription": "Capacitor products, also known as \"condensers\", are generally named and organized in reference to the dielectric material incorporated within. Along with variations in construction methods, the choice of dielectric material has strong influence on a given device's relative cost, size, parametric stability, and suitability for a particular application.",
+                    "ChildCategories": [
+                        {
+                            "CategoryId": 58,
+                            "ParentId": 3,
+                            "Name": "Aluminum Electrolytic Capacitors",
+                            "ProductCount": 0,
+                            "NewProductCount": 0,
+                            "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/236/495/VX-Series-5x12mm_tmb%2864x64%29.jpg",
+                            "SeoDescription": "A capacitor is a passive electronic device that stores electric charge. Polarized aluminum electrolytic capacitors have an anode electrode (+) made of pure aluminum foil, electrolyte that acts as the cathode, and a thin insulating layer of aluminum oxide that acts as the dielectric. Electrolytic capacitors have higher capacitance-voltage (CV) product per unit volume than ceramic capacitors or film capacitors. Applications include audio, automotive, bypass, decoupling, and motor starting capacitors.",
+                            "ChildCategories": []
+                        }
+                    ]
+                },
+                "DateLastBuyChance": null,
+                "ManufacturerLeadWeeks": "35",
+                "ManufacturerPublicQuantity": 0,
+                "Series": {
+                    "Id": 51577,
+                    "Name": "UCM"
+                },
+                "ShippingInfo": null,
+                "Classifications": {
+                    "ReachStatus": "REACH Affected",
+                    "RohsStatus": "ROHS3 Compliant",
+                    "MoistureSensitivityLevel": "1  (Unlimited)",
+                    "ExportControlClassNumber": "EAR99",
+                    "HtsusCode": "8532.22.0020"
+                },
+                "OtherNames": [
+                    "493-14540-2",
+                    "UCM1V470MCL1GS-ND",
+                    "493-14540-1",
+                    "493-14540-6"
+                ]
+            }
+        ],
+        "FilterOptions": {
+            "Manufacturers": [
+                {
+                    "Id": 493,
+                    "Value": "Nichicon",
+                    "ProductCount": 1
+                }
+            ],
+            "Packaging": null,
+            "Status": null,
+            "Series": null,
+            "ParametricFilters": null,
+            "TopCategories": null,
+            "MarketPlaceFilters": null
+        },
+        "SearchLocaleUsed": {
+            "Site": "US",
+            "Language": "en",
+            "Currency": "USD"
+        },
+        "AppliedParametricFiltersDto": []
+    }
+}

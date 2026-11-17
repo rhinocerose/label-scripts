@@ -1,0 +1,646 @@
+{
+    "timestamp": "2026-07-07 14:22:32",
+    "part_number": "MB1S-TP",
+    "request_payload": {
+        "Keywords": "MB1S-TP",
+        "SearchOptions": "ManufacturerProductNumber",
+        "RecordCount": 10,
+        "RecordStartPosition": 0,
+        "Sort": {
+            "Option": "SortByDigiKeyPartNumber",
+            "Direction": "Ascending",
+            "SortParameterId": 0
+        },
+        "RequestedQuantity": 0
+    },
+    "status_code": 200,
+    "response_text": "{\"Products\":[{\"Description\":{\"ProductDescription\":\"BRIDGE RECT 1P 100V 500MA MBS-1\",\"DetailedDescription\":\"Bridge Rectifier Single Phase Standard 100 V Surface Mount MBS-1\"},\"Manufacturer\":{\"Id\":353,\"Name\":\"MCC (Micro Commercial Components)\"},\"ManufacturerProductNumber\":\"MB1S-TP\",\"UnitPrice\":0.57,\"ProductUrl\":\"https://www.digikey.com/en/products/detail/mcc-micro-commercial-components/MB1S-TP/722459\",\"DatasheetUrl\":\"https://www.mccsemi.com/pdf/Products/MB05S_MB10S(MBS-1).pdf\",\"PhotoUrl\":\"https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6166/353%7EMBS1%7EMB%7E4.jpg\",\"ProductVariations\":[{\"DigiKeyProductNumber\":\"MB1S-TPMSTR-ND\",\"PackageType\":{\"Id\":1,\"Name\":\"Tape & Reel (TR)\"},\"StandardPricing\":[{\"BreakQuantity\":3000,\"UnitPrice\":0.12598,\"TotalPrice\":377.94000},{\"BreakQuantity\":6000,\"UnitPrice\":0.11446,\"TotalPrice\":686.76000},{\"BreakQuantity\":9000,\"UnitPrice\":0.10859,\"TotalPrice\":977.31000},{\"BreakQuantity\":15000,\"UnitPrice\":0.10199,\"TotalPrice\":1529.85000},{\"BreakQuantity\":21000,\"UnitPrice\":0.09808,\"TotalPrice\":2059.68000},{\"BreakQuantity\":30000,\"UnitPrice\":0.09428,\"TotalPrice\":2828.40000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":353,\"Name\":\"MCC (Micro Commercial Components)\"},\"QuantityAvailableforPackageType\":3000,\"MaxQuantityForDistribution\":0,\"MinimumOrderQuantity\":3000,\"StandardPackage\":0,\"DigiReelFee\":0.0},{\"DigiKeyProductNumber\":\"MB1S-TPMSCT-ND\",\"PackageType\":{\"Id\":2,\"Name\":\"Cut Tape (CT)\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":0.57,\"TotalPrice\":0.57},{\"BreakQuantity\":10,\"UnitPrice\":0.351,\"TotalPrice\":3.510},{\"BreakQuantity\":100,\"UnitPrice\":0.2223,\"TotalPrice\":22.2300},{\"BreakQuantity\":500,\"UnitPrice\":0.16678,\"TotalPrice\":83.39000},{\"BreakQuantity\":1000,\"UnitPrice\":0.14882,\"TotalPrice\":148.82000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":353,\"Name\":\"MCC (Micro Commercial Components)\"},\"QuantityAvailableforPackageType\":4418,\"MaxQuantityForDistribution\":0,\"MinimumOrderQuantity\":1,\"StandardPackage\":0,\"DigiReelFee\":0.0},{\"DigiKeyProductNumber\":\"MB1S-TPMSDKR-ND\",\"PackageType\":{\"Id\":243,\"Name\":\"Digi-Reel\u00ae\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":0.57,\"TotalPrice\":0.57},{\"BreakQuantity\":10,\"UnitPrice\":0.351,\"TotalPrice\":3.510},{\"BreakQuantity\":100,\"UnitPrice\":0.2223,\"TotalPrice\":22.2300},{\"BreakQuantity\":500,\"UnitPrice\":0.16678,\"TotalPrice\":83.39000},{\"BreakQuantity\":1000,\"UnitPrice\":0.14882,\"TotalPrice\":148.82000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":353,\"Name\":\"MCC (Micro Commercial Components)\"},\"QuantityAvailableforPackageType\":4418,\"MaxQuantityForDistribution\":4680,\"MinimumOrderQuantity\":1,\"StandardPackage\":1,\"DigiReelFee\":7.0}],\"QuantityAvailable\":4418,\"ProductStatus\":{\"Id\":7,\"Status\":\"Not For New Designs\"},\"BackOrderNotAllowed\":true,\"NormallyStocking\":true,\"Discontinued\":false,\"EndOfLife\":false,\"Ncnr\":false,\"PrimaryVideoUrl\":\"https://www.digikey.com/api/videos/videoplayer/smallplayer/6163116372001\",\"Parameters\":[{\"ParameterId\":96,\"ParameterText\":\"Diode Type\",\"ParameterType\":\"String\",\"ValueId\":\"403042\",\"ValueText\":\"Single Phase\"},{\"ParameterId\":570,\"ParameterText\":\"Technology\",\"ParameterType\":\"String\",\"ValueId\":\"407938\",\"ValueText\":\"Standard\"},{\"ParameterId\":2117,\"ParameterText\":\"Voltage - Peak Reverse (Max)\",\"ParameterType\":\"UnitOfMeasure\",\"ValueId\":\"100 V\",\"ValueText\":\"100 V\"},{\"ParameterId\":2158,\"ParameterText\":\"Current - Average Rectified (Io)\",\"ParameterType\":\"UnitOfMeasure\",\"ValueId\":\"500 mA\",\"ValueText\":\"500 mA\"},{\"ParameterId\":2261,\"ParameterText\":\"Voltage - Forward (Vf) (Max) @ If\",\"ParameterType\":\"CoupledUnitOfMeasure\",\"ValueId\":\"1 V @ 400 mA\",\"ValueText\":\"1 V @ 400 mA\"},{\"ParameterId\":2269,\"ParameterText\":\"Current - Reverse Leakage @ Vr\",\"ParameterType\":\"CoupledUnitOfMeasure\",\"ValueId\":\"5 \u00b5A @ 100 V\",\"ValueText\":\"5 \u00b5A @ 100 V\"},{\"ParameterId\":252,\"ParameterText\":\"Operating Temperature\",\"ParameterType\":\"String\",\"ValueId\":\"242933\",\"ValueText\":\"-55\u00b0C ~ 150\u00b0C (TJ)\"},{\"ParameterId\":69,\"ParameterText\":\"Mounting Type\",\"ParameterType\":\"String\",\"ValueId\":\"409393\",\"ValueText\":\"Surface Mount\"},{\"ParameterId\":16,\"ParameterText\":\"Package / Case\",\"ParameterType\":\"String\",\"ValueId\":\"413533\",\"ValueText\":\"TO-269AA, 4-BESOP\"},{\"ParameterId\":1291,\"ParameterText\":\"Supplier Device Package\",\"ParameterType\":\"String\",\"ValueId\":\"373744\",\"ValueText\":\"MBS-1\"}],\"BaseProductNumber\":{\"Id\":30754,\"Name\":\"MB1\"},\"Category\":{\"CategoryId\":19,\"ParentId\":0,\"Name\":\"Discrete Semiconductor Products\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/350/MFG_CAB450M12XM3_tmb.jpg\",\"SeoDescription\":\"Discrete semiconductor products include individual transistors, diodes, and thyristors, as well as small arrays of such composed of two, three, four, or some other small number of similar devices within a single package. They are most commonly used for constructing circuits with considerable voltage or current stress, or for realizing very basic circuit functions.\",\"ChildCategories\":[{\"CategoryId\":2042,\"ParentId\":19,\"Name\":\"Diodes\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/961/736/31_SOT-23-3%20PKG_tmb.jpg\",\"SeoDescription\":\"Diodes are devices that allow the flow of current in one direction and block current flow in the opposite direction. Types of diodes include current regulation, bridge rectifiers, RF, rectifier arrays, rectifiers, variable capacitance (varicaps, varactors), zener, zener arrays, and more.\",\"ChildCategories\":[{\"CategoryId\":299,\"ParentId\":2042,\"Name\":\"Bridge Rectifiers\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/137/865/SOT143_tmb%2864x64%29.jpg\",\"SeoDescription\":\"Diode bridge rectifiers are an arrangement of diodes in a bridge circuit configuration for conversion of an alternating current (AC) input to a direct current (DC) output. These components can be chassis, DIN rail, surface or through-hole mounted, and are selected by single phase or three phase diode type, forward voltage rating, average rectified current, and technology.\",\"ChildCategories\":[]}]}]},\"DateLastBuyChance\":null,\"ManufacturerLeadWeeks\":\"15\",\"ManufacturerPublicQuantity\":0,\"Series\":{\"Id\":818,\"Name\":\"-\"},\"ShippingInfo\":null,\"Classifications\":{\"ReachStatus\":\"REACH Unaffected\",\"RohsStatus\":\"ROHS3 Compliant\",\"MoistureSensitivityLevel\":\"1  (Unlimited)\",\"ExportControlClassNumber\":\"EAR99\",\"HtsusCode\":\"8541.10.0070\"},\"OtherNames\":[\"MB1S-TPMSCT\",\"MB1S-TPMSTR\",\"MB1S-TPMSDKR\",\"MB1STP\"]}],\"ProductsCount\":1,\"ExactMatches\":[{\"Description\":{\"ProductDescription\":\"BRIDGE RECT 1P 100V 500MA MBS-1\",\"DetailedDescription\":\"Bridge Rectifier Single Phase Standard 100 V Surface Mount MBS-1\"},\"Manufacturer\":{\"Id\":353,\"Name\":\"MCC (Micro Commercial Components)\"},\"ManufacturerProductNumber\":\"MB1S-TP\",\"UnitPrice\":0.57,\"ProductUrl\":\"https://www.digikey.com/en/products/detail/mcc-micro-commercial-components/MB1S-TP/722459\",\"DatasheetUrl\":\"https://www.mccsemi.com/pdf/Products/MB05S_MB10S(MBS-1).pdf\",\"PhotoUrl\":\"https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6166/353%7EMBS1%7EMB%7E4.jpg\",\"ProductVariations\":[{\"DigiKeyProductNumber\":\"MB1S-TPMSTR-ND\",\"PackageType\":{\"Id\":1,\"Name\":\"Tape & Reel (TR)\"},\"StandardPricing\":[{\"BreakQuantity\":3000,\"UnitPrice\":0.12598,\"TotalPrice\":377.94000},{\"BreakQuantity\":6000,\"UnitPrice\":0.11446,\"TotalPrice\":686.76000},{\"BreakQuantity\":9000,\"UnitPrice\":0.10859,\"TotalPrice\":977.31000},{\"BreakQuantity\":15000,\"UnitPrice\":0.10199,\"TotalPrice\":1529.85000},{\"BreakQuantity\":21000,\"UnitPrice\":0.09808,\"TotalPrice\":2059.68000},{\"BreakQuantity\":30000,\"UnitPrice\":0.09428,\"TotalPrice\":2828.40000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":353,\"Name\":\"MCC (Micro Commercial Components)\"},\"QuantityAvailableforPackageType\":3000,\"MaxQuantityForDistribution\":0,\"MinimumOrderQuantity\":3000,\"StandardPackage\":0,\"DigiReelFee\":0.0},{\"DigiKeyProductNumber\":\"MB1S-TPMSCT-ND\",\"PackageType\":{\"Id\":2,\"Name\":\"Cut Tape (CT)\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":0.57,\"TotalPrice\":0.57},{\"BreakQuantity\":10,\"UnitPrice\":0.351,\"TotalPrice\":3.510},{\"BreakQuantity\":100,\"UnitPrice\":0.2223,\"TotalPrice\":22.2300},{\"BreakQuantity\":500,\"UnitPrice\":0.16678,\"TotalPrice\":83.39000},{\"BreakQuantity\":1000,\"UnitPrice\":0.14882,\"TotalPrice\":148.82000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":353,\"Name\":\"MCC (Micro Commercial Components)\"},\"QuantityAvailableforPackageType\":4418,\"MaxQuantityForDistribution\":0,\"MinimumOrderQuantity\":1,\"StandardPackage\":0,\"DigiReelFee\":0.0},{\"DigiKeyProductNumber\":\"MB1S-TPMSDKR-ND\",\"PackageType\":{\"Id\":243,\"Name\":\"Digi-Reel\u00ae\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":0.57,\"TotalPrice\":0.57},{\"BreakQuantity\":10,\"UnitPrice\":0.351,\"TotalPrice\":3.510},{\"BreakQuantity\":100,\"UnitPrice\":0.2223,\"TotalPrice\":22.2300},{\"BreakQuantity\":500,\"UnitPrice\":0.16678,\"TotalPrice\":83.39000},{\"BreakQuantity\":1000,\"UnitPrice\":0.14882,\"TotalPrice\":148.82000}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":353,\"Name\":\"MCC (Micro Commercial Components)\"},\"QuantityAvailableforPackageType\":4418,\"MaxQuantityForDistribution\":4680,\"MinimumOrderQuantity\":1,\"StandardPackage\":1,\"DigiReelFee\":7.0}],\"QuantityAvailable\":4418,\"ProductStatus\":{\"Id\":7,\"Status\":\"Not For New Designs\"},\"BackOrderNotAllowed\":true,\"NormallyStocking\":true,\"Discontinued\":false,\"EndOfLife\":false,\"Ncnr\":false,\"PrimaryVideoUrl\":\"https://www.digikey.com/api/videos/videoplayer/smallplayer/6163116372001\",\"Parameters\":[{\"ParameterId\":96,\"ParameterText\":\"Diode Type\",\"ParameterType\":\"String\",\"ValueId\":\"403042\",\"ValueText\":\"Single Phase\"},{\"ParameterId\":570,\"ParameterText\":\"Technology\",\"ParameterType\":\"String\",\"ValueId\":\"407938\",\"ValueText\":\"Standard\"},{\"ParameterId\":2117,\"ParameterText\":\"Voltage - Peak Reverse (Max)\",\"ParameterType\":\"UnitOfMeasure\",\"ValueId\":\"100 V\",\"ValueText\":\"100 V\"},{\"ParameterId\":2158,\"ParameterText\":\"Current - Average Rectified (Io)\",\"ParameterType\":\"UnitOfMeasure\",\"ValueId\":\"500 mA\",\"ValueText\":\"500 mA\"},{\"ParameterId\":2261,\"ParameterText\":\"Voltage - Forward (Vf) (Max) @ If\",\"ParameterType\":\"CoupledUnitOfMeasure\",\"ValueId\":\"1 V @ 400 mA\",\"ValueText\":\"1 V @ 400 mA\"},{\"ParameterId\":2269,\"ParameterText\":\"Current - Reverse Leakage @ Vr\",\"ParameterType\":\"CoupledUnitOfMeasure\",\"ValueId\":\"5 \u00b5A @ 100 V\",\"ValueText\":\"5 \u00b5A @ 100 V\"},{\"ParameterId\":252,\"ParameterText\":\"Operating Temperature\",\"ParameterType\":\"String\",\"ValueId\":\"242933\",\"ValueText\":\"-55\u00b0C ~ 150\u00b0C (TJ)\"},{\"ParameterId\":69,\"ParameterText\":\"Mounting Type\",\"ParameterType\":\"String\",\"ValueId\":\"409393\",\"ValueText\":\"Surface Mount\"},{\"ParameterId\":16,\"ParameterText\":\"Package / Case\",\"ParameterType\":\"String\",\"ValueId\":\"413533\",\"ValueText\":\"TO-269AA, 4-BESOP\"},{\"ParameterId\":1291,\"ParameterText\":\"Supplier Device Package\",\"ParameterType\":\"String\",\"ValueId\":\"373744\",\"ValueText\":\"MBS-1\"}],\"BaseProductNumber\":{\"Id\":30754,\"Name\":\"MB1\"},\"Category\":{\"CategoryId\":19,\"ParentId\":0,\"Name\":\"Discrete Semiconductor Products\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/350/MFG_CAB450M12XM3_tmb.jpg\",\"SeoDescription\":\"Discrete semiconductor products include individual transistors, diodes, and thyristors, as well as small arrays of such composed of two, three, four, or some other small number of similar devices within a single package. They are most commonly used for constructing circuits with considerable voltage or current stress, or for realizing very basic circuit functions.\",\"ChildCategories\":[{\"CategoryId\":2042,\"ParentId\":19,\"Name\":\"Diodes\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/961/736/31_SOT-23-3%20PKG_tmb.jpg\",\"SeoDescription\":\"Diodes are devices that allow the flow of current in one direction and block current flow in the opposite direction. Types of diodes include current regulation, bridge rectifiers, RF, rectifier arrays, rectifiers, variable capacitance (varicaps, varactors), zener, zener arrays, and more.\",\"ChildCategories\":[{\"CategoryId\":299,\"ParentId\":2042,\"Name\":\"Bridge Rectifiers\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/137/865/SOT143_tmb%2864x64%29.jpg\",\"SeoDescription\":\"Diode bridge rectifiers are an arrangement of diodes in a bridge circuit configuration for conversion of an alternating current (AC) input to a direct current (DC) output. These components can be chassis, DIN rail, surface or through-hole mounted, and are selected by single phase or three phase diode type, forward voltage rating, average rectified current, and technology.\",\"ChildCategories\":[]}]}]},\"DateLastBuyChance\":null,\"ManufacturerLeadWeeks\":\"15\",\"ManufacturerPublicQuantity\":0,\"Series\":{\"Id\":818,\"Name\":\"-\"},\"ShippingInfo\":null,\"Classifications\":{\"ReachStatus\":\"REACH Unaffected\",\"RohsStatus\":\"ROHS3 Compliant\",\"MoistureSensitivityLevel\":\"1  (Unlimited)\",\"ExportControlClassNumber\":\"EAR99\",\"HtsusCode\":\"8541.10.0070\"},\"OtherNames\":[\"MB1S-TPMSCT\",\"MB1S-TPMSTR\",\"MB1S-TPMSDKR\",\"MB1STP\"]}],\"FilterOptions\":{\"Manufacturers\":[{\"Id\":353,\"Value\":\"MCC (Micro Commercial Components)\",\"ProductCount\":1}],\"Packaging\":null,\"Status\":null,\"Series\":null,\"ParametricFilters\":null,\"TopCategories\":null,\"MarketPlaceFilters\":null},\"SearchLocaleUsed\":{\"Site\":\"US\",\"Language\":\"en\",\"Currency\":\"USD\"},\"AppliedParametricFiltersDto\":[]}",
+    "response_json": {
+        "Products": [
+            {
+                "Description": {
+                    "ProductDescription": "BRIDGE RECT 1P 100V 500MA MBS-1",
+                    "DetailedDescription": "Bridge Rectifier Single Phase Standard 100 V Surface Mount MBS-1"
+                },
+                "Manufacturer": {
+                    "Id": 353,
+                    "Name": "MCC (Micro Commercial Components)"
+                },
+                "ManufacturerProductNumber": "MB1S-TP",
+                "UnitPrice": 0.57,
+                "ProductUrl": "https://www.digikey.com/en/products/detail/mcc-micro-commercial-components/MB1S-TP/722459",
+                "DatasheetUrl": "https://www.mccsemi.com/pdf/Products/MB05S_MB10S(MBS-1).pdf",
+                "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6166/353%7EMBS1%7EMB%7E4.jpg",
+                "ProductVariations": [
+                    {
+                        "DigiKeyProductNumber": "MB1S-TPMSTR-ND",
+                        "PackageType": {
+                            "Id": 1,
+                            "Name": "Tape & Reel (TR)"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 3000,
+                                "UnitPrice": 0.12598,
+                                "TotalPrice": 377.94
+                            },
+                            {
+                                "BreakQuantity": 6000,
+                                "UnitPrice": 0.11446,
+                                "TotalPrice": 686.76
+                            },
+                            {
+                                "BreakQuantity": 9000,
+                                "UnitPrice": 0.10859,
+                                "TotalPrice": 977.31
+                            },
+                            {
+                                "BreakQuantity": 15000,
+                                "UnitPrice": 0.10199,
+                                "TotalPrice": 1529.85
+                            },
+                            {
+                                "BreakQuantity": 21000,
+                                "UnitPrice": 0.09808,
+                                "TotalPrice": 2059.68
+                            },
+                            {
+                                "BreakQuantity": 30000,
+                                "UnitPrice": 0.09428,
+                                "TotalPrice": 2828.4
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 353,
+                            "Name": "MCC (Micro Commercial Components)"
+                        },
+                        "QuantityAvailableforPackageType": 3000,
+                        "MaxQuantityForDistribution": 0,
+                        "MinimumOrderQuantity": 3000,
+                        "StandardPackage": 0,
+                        "DigiReelFee": 0.0
+                    },
+                    {
+                        "DigiKeyProductNumber": "MB1S-TPMSCT-ND",
+                        "PackageType": {
+                            "Id": 2,
+                            "Name": "Cut Tape (CT)"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 0.57,
+                                "TotalPrice": 0.57
+                            },
+                            {
+                                "BreakQuantity": 10,
+                                "UnitPrice": 0.351,
+                                "TotalPrice": 3.51
+                            },
+                            {
+                                "BreakQuantity": 100,
+                                "UnitPrice": 0.2223,
+                                "TotalPrice": 22.23
+                            },
+                            {
+                                "BreakQuantity": 500,
+                                "UnitPrice": 0.16678,
+                                "TotalPrice": 83.39
+                            },
+                            {
+                                "BreakQuantity": 1000,
+                                "UnitPrice": 0.14882,
+                                "TotalPrice": 148.82
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 353,
+                            "Name": "MCC (Micro Commercial Components)"
+                        },
+                        "QuantityAvailableforPackageType": 4418,
+                        "MaxQuantityForDistribution": 0,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 0,
+                        "DigiReelFee": 0.0
+                    },
+                    {
+                        "DigiKeyProductNumber": "MB1S-TPMSDKR-ND",
+                        "PackageType": {
+                            "Id": 243,
+                            "Name": "Digi-Reel\u00ae"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 0.57,
+                                "TotalPrice": 0.57
+                            },
+                            {
+                                "BreakQuantity": 10,
+                                "UnitPrice": 0.351,
+                                "TotalPrice": 3.51
+                            },
+                            {
+                                "BreakQuantity": 100,
+                                "UnitPrice": 0.2223,
+                                "TotalPrice": 22.23
+                            },
+                            {
+                                "BreakQuantity": 500,
+                                "UnitPrice": 0.16678,
+                                "TotalPrice": 83.39
+                            },
+                            {
+                                "BreakQuantity": 1000,
+                                "UnitPrice": 0.14882,
+                                "TotalPrice": 148.82
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 353,
+                            "Name": "MCC (Micro Commercial Components)"
+                        },
+                        "QuantityAvailableforPackageType": 4418,
+                        "MaxQuantityForDistribution": 4680,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 1,
+                        "DigiReelFee": 7.0
+                    }
+                ],
+                "QuantityAvailable": 4418,
+                "ProductStatus": {
+                    "Id": 7,
+                    "Status": "Not For New Designs"
+                },
+                "BackOrderNotAllowed": true,
+                "NormallyStocking": true,
+                "Discontinued": false,
+                "EndOfLife": false,
+                "Ncnr": false,
+                "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6163116372001",
+                "Parameters": [
+                    {
+                        "ParameterId": 96,
+                        "ParameterText": "Diode Type",
+                        "ParameterType": "String",
+                        "ValueId": "403042",
+                        "ValueText": "Single Phase"
+                    },
+                    {
+                        "ParameterId": 570,
+                        "ParameterText": "Technology",
+                        "ParameterType": "String",
+                        "ValueId": "407938",
+                        "ValueText": "Standard"
+                    },
+                    {
+                        "ParameterId": 2117,
+                        "ParameterText": "Voltage - Peak Reverse (Max)",
+                        "ParameterType": "UnitOfMeasure",
+                        "ValueId": "100 V",
+                        "ValueText": "100 V"
+                    },
+                    {
+                        "ParameterId": 2158,
+                        "ParameterText": "Current - Average Rectified (Io)",
+                        "ParameterType": "UnitOfMeasure",
+                        "ValueId": "500 mA",
+                        "ValueText": "500 mA"
+                    },
+                    {
+                        "ParameterId": 2261,
+                        "ParameterText": "Voltage - Forward (Vf) (Max) @ If",
+                        "ParameterType": "CoupledUnitOfMeasure",
+                        "ValueId": "1 V @ 400 mA",
+                        "ValueText": "1 V @ 400 mA"
+                    },
+                    {
+                        "ParameterId": 2269,
+                        "ParameterText": "Current - Reverse Leakage @ Vr",
+                        "ParameterType": "CoupledUnitOfMeasure",
+                        "ValueId": "5 \u00b5A @ 100 V",
+                        "ValueText": "5 \u00b5A @ 100 V"
+                    },
+                    {
+                        "ParameterId": 252,
+                        "ParameterText": "Operating Temperature",
+                        "ParameterType": "String",
+                        "ValueId": "242933",
+                        "ValueText": "-55\u00b0C ~ 150\u00b0C (TJ)"
+                    },
+                    {
+                        "ParameterId": 69,
+                        "ParameterText": "Mounting Type",
+                        "ParameterType": "String",
+                        "ValueId": "409393",
+                        "ValueText": "Surface Mount"
+                    },
+                    {
+                        "ParameterId": 16,
+                        "ParameterText": "Package / Case",
+                        "ParameterType": "String",
+                        "ValueId": "413533",
+                        "ValueText": "TO-269AA, 4-BESOP"
+                    },
+                    {
+                        "ParameterId": 1291,
+                        "ParameterText": "Supplier Device Package",
+                        "ParameterType": "String",
+                        "ValueId": "373744",
+                        "ValueText": "MBS-1"
+                    }
+                ],
+                "BaseProductNumber": {
+                    "Id": 30754,
+                    "Name": "MB1"
+                },
+                "Category": {
+                    "CategoryId": 19,
+                    "ParentId": 0,
+                    "Name": "Discrete Semiconductor Products",
+                    "ProductCount": 0,
+                    "NewProductCount": 0,
+                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/350/MFG_CAB450M12XM3_tmb.jpg",
+                    "SeoDescription": "Discrete semiconductor products include individual transistors, diodes, and thyristors, as well as small arrays of such composed of two, three, four, or some other small number of similar devices within a single package. They are most commonly used for constructing circuits with considerable voltage or current stress, or for realizing very basic circuit functions.",
+                    "ChildCategories": [
+                        {
+                            "CategoryId": 2042,
+                            "ParentId": 19,
+                            "Name": "Diodes",
+                            "ProductCount": 0,
+                            "NewProductCount": 0,
+                            "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/961/736/31_SOT-23-3%20PKG_tmb.jpg",
+                            "SeoDescription": "Diodes are devices that allow the flow of current in one direction and block current flow in the opposite direction. Types of diodes include current regulation, bridge rectifiers, RF, rectifier arrays, rectifiers, variable capacitance (varicaps, varactors), zener, zener arrays, and more.",
+                            "ChildCategories": [
+                                {
+                                    "CategoryId": 299,
+                                    "ParentId": 2042,
+                                    "Name": "Bridge Rectifiers",
+                                    "ProductCount": 0,
+                                    "NewProductCount": 0,
+                                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/137/865/SOT143_tmb%2864x64%29.jpg",
+                                    "SeoDescription": "Diode bridge rectifiers are an arrangement of diodes in a bridge circuit configuration for conversion of an alternating current (AC) input to a direct current (DC) output. These components can be chassis, DIN rail, surface or through-hole mounted, and are selected by single phase or three phase diode type, forward voltage rating, average rectified current, and technology.",
+                                    "ChildCategories": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "DateLastBuyChance": null,
+                "ManufacturerLeadWeeks": "15",
+                "ManufacturerPublicQuantity": 0,
+                "Series": {
+                    "Id": 818,
+                    "Name": "-"
+                },
+                "ShippingInfo": null,
+                "Classifications": {
+                    "ReachStatus": "REACH Unaffected",
+                    "RohsStatus": "ROHS3 Compliant",
+                    "MoistureSensitivityLevel": "1  (Unlimited)",
+                    "ExportControlClassNumber": "EAR99",
+                    "HtsusCode": "8541.10.0070"
+                },
+                "OtherNames": [
+                    "MB1S-TPMSCT",
+                    "MB1S-TPMSTR",
+                    "MB1S-TPMSDKR",
+                    "MB1STP"
+                ]
+            }
+        ],
+        "ProductsCount": 1,
+        "ExactMatches": [
+            {
+                "Description": {
+                    "ProductDescription": "BRIDGE RECT 1P 100V 500MA MBS-1",
+                    "DetailedDescription": "Bridge Rectifier Single Phase Standard 100 V Surface Mount MBS-1"
+                },
+                "Manufacturer": {
+                    "Id": 353,
+                    "Name": "MCC (Micro Commercial Components)"
+                },
+                "ManufacturerProductNumber": "MB1S-TP",
+                "UnitPrice": 0.57,
+                "ProductUrl": "https://www.digikey.com/en/products/detail/mcc-micro-commercial-components/MB1S-TP/722459",
+                "DatasheetUrl": "https://www.mccsemi.com/pdf/Products/MB05S_MB10S(MBS-1).pdf",
+                "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6166/353%7EMBS1%7EMB%7E4.jpg",
+                "ProductVariations": [
+                    {
+                        "DigiKeyProductNumber": "MB1S-TPMSTR-ND",
+                        "PackageType": {
+                            "Id": 1,
+                            "Name": "Tape & Reel (TR)"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 3000,
+                                "UnitPrice": 0.12598,
+                                "TotalPrice": 377.94
+                            },
+                            {
+                                "BreakQuantity": 6000,
+                                "UnitPrice": 0.11446,
+                                "TotalPrice": 686.76
+                            },
+                            {
+                                "BreakQuantity": 9000,
+                                "UnitPrice": 0.10859,
+                                "TotalPrice": 977.31
+                            },
+                            {
+                                "BreakQuantity": 15000,
+                                "UnitPrice": 0.10199,
+                                "TotalPrice": 1529.85
+                            },
+                            {
+                                "BreakQuantity": 21000,
+                                "UnitPrice": 0.09808,
+                                "TotalPrice": 2059.68
+                            },
+                            {
+                                "BreakQuantity": 30000,
+                                "UnitPrice": 0.09428,
+                                "TotalPrice": 2828.4
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 353,
+                            "Name": "MCC (Micro Commercial Components)"
+                        },
+                        "QuantityAvailableforPackageType": 3000,
+                        "MaxQuantityForDistribution": 0,
+                        "MinimumOrderQuantity": 3000,
+                        "StandardPackage": 0,
+                        "DigiReelFee": 0.0
+                    },
+                    {
+                        "DigiKeyProductNumber": "MB1S-TPMSCT-ND",
+                        "PackageType": {
+                            "Id": 2,
+                            "Name": "Cut Tape (CT)"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 0.57,
+                                "TotalPrice": 0.57
+                            },
+                            {
+                                "BreakQuantity": 10,
+                                "UnitPrice": 0.351,
+                                "TotalPrice": 3.51
+                            },
+                            {
+                                "BreakQuantity": 100,
+                                "UnitPrice": 0.2223,
+                                "TotalPrice": 22.23
+                            },
+                            {
+                                "BreakQuantity": 500,
+                                "UnitPrice": 0.16678,
+                                "TotalPrice": 83.39
+                            },
+                            {
+                                "BreakQuantity": 1000,
+                                "UnitPrice": 0.14882,
+                                "TotalPrice": 148.82
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 353,
+                            "Name": "MCC (Micro Commercial Components)"
+                        },
+                        "QuantityAvailableforPackageType": 4418,
+                        "MaxQuantityForDistribution": 0,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 0,
+                        "DigiReelFee": 0.0
+                    },
+                    {
+                        "DigiKeyProductNumber": "MB1S-TPMSDKR-ND",
+                        "PackageType": {
+                            "Id": 243,
+                            "Name": "Digi-Reel\u00ae"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 0.57,
+                                "TotalPrice": 0.57
+                            },
+                            {
+                                "BreakQuantity": 10,
+                                "UnitPrice": 0.351,
+                                "TotalPrice": 3.51
+                            },
+                            {
+                                "BreakQuantity": 100,
+                                "UnitPrice": 0.2223,
+                                "TotalPrice": 22.23
+                            },
+                            {
+                                "BreakQuantity": 500,
+                                "UnitPrice": 0.16678,
+                                "TotalPrice": 83.39
+                            },
+                            {
+                                "BreakQuantity": 1000,
+                                "UnitPrice": 0.14882,
+                                "TotalPrice": 148.82
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 353,
+                            "Name": "MCC (Micro Commercial Components)"
+                        },
+                        "QuantityAvailableforPackageType": 4418,
+                        "MaxQuantityForDistribution": 4680,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 1,
+                        "DigiReelFee": 7.0
+                    }
+                ],
+                "QuantityAvailable": 4418,
+                "ProductStatus": {
+                    "Id": 7,
+                    "Status": "Not For New Designs"
+                },
+                "BackOrderNotAllowed": true,
+                "NormallyStocking": true,
+                "Discontinued": false,
+                "EndOfLife": false,
+                "Ncnr": false,
+                "PrimaryVideoUrl": "https://www.digikey.com/api/videos/videoplayer/smallplayer/6163116372001",
+                "Parameters": [
+                    {
+                        "ParameterId": 96,
+                        "ParameterText": "Diode Type",
+                        "ParameterType": "String",
+                        "ValueId": "403042",
+                        "ValueText": "Single Phase"
+                    },
+                    {
+                        "ParameterId": 570,
+                        "ParameterText": "Technology",
+                        "ParameterType": "String",
+                        "ValueId": "407938",
+                        "ValueText": "Standard"
+                    },
+                    {
+                        "ParameterId": 2117,
+                        "ParameterText": "Voltage - Peak Reverse (Max)",
+                        "ParameterType": "UnitOfMeasure",
+                        "ValueId": "100 V",
+                        "ValueText": "100 V"
+                    },
+                    {
+                        "ParameterId": 2158,
+                        "ParameterText": "Current - Average Rectified (Io)",
+                        "ParameterType": "UnitOfMeasure",
+                        "ValueId": "500 mA",
+                        "ValueText": "500 mA"
+                    },
+                    {
+                        "ParameterId": 2261,
+                        "ParameterText": "Voltage - Forward (Vf) (Max) @ If",
+                        "ParameterType": "CoupledUnitOfMeasure",
+                        "ValueId": "1 V @ 400 mA",
+                        "ValueText": "1 V @ 400 mA"
+                    },
+                    {
+                        "ParameterId": 2269,
+                        "ParameterText": "Current - Reverse Leakage @ Vr",
+                        "ParameterType": "CoupledUnitOfMeasure",
+                        "ValueId": "5 \u00b5A @ 100 V",
+                        "ValueText": "5 \u00b5A @ 100 V"
+                    },
+                    {
+                        "ParameterId": 252,
+                        "ParameterText": "Operating Temperature",
+                        "ParameterType": "String",
+                        "ValueId": "242933",
+                        "ValueText": "-55\u00b0C ~ 150\u00b0C (TJ)"
+                    },
+                    {
+                        "ParameterId": 69,
+                        "ParameterText": "Mounting Type",
+                        "ParameterType": "String",
+                        "ValueId": "409393",
+                        "ValueText": "Surface Mount"
+                    },
+                    {
+                        "ParameterId": 16,
+                        "ParameterText": "Package / Case",
+                        "ParameterType": "String",
+                        "ValueId": "413533",
+                        "ValueText": "TO-269AA, 4-BESOP"
+                    },
+                    {
+                        "ParameterId": 1291,
+                        "ParameterText": "Supplier Device Package",
+                        "ParameterType": "String",
+                        "ValueId": "373744",
+                        "ValueText": "MBS-1"
+                    }
+                ],
+                "BaseProductNumber": {
+                    "Id": 30754,
+                    "Name": "MB1"
+                },
+                "Category": {
+                    "CategoryId": 19,
+                    "ParentId": 0,
+                    "Name": "Discrete Semiconductor Products",
+                    "ProductCount": 0,
+                    "NewProductCount": 0,
+                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/350/MFG_CAB450M12XM3_tmb.jpg",
+                    "SeoDescription": "Discrete semiconductor products include individual transistors, diodes, and thyristors, as well as small arrays of such composed of two, three, four, or some other small number of similar devices within a single package. They are most commonly used for constructing circuits with considerable voltage or current stress, or for realizing very basic circuit functions.",
+                    "ChildCategories": [
+                        {
+                            "CategoryId": 2042,
+                            "ParentId": 19,
+                            "Name": "Diodes",
+                            "ProductCount": 0,
+                            "NewProductCount": 0,
+                            "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/961/736/31_SOT-23-3%20PKG_tmb.jpg",
+                            "SeoDescription": "Diodes are devices that allow the flow of current in one direction and block current flow in the opposite direction. Types of diodes include current regulation, bridge rectifiers, RF, rectifier arrays, rectifiers, variable capacitance (varicaps, varactors), zener, zener arrays, and more.",
+                            "ChildCategories": [
+                                {
+                                    "CategoryId": 299,
+                                    "ParentId": 2042,
+                                    "Name": "Bridge Rectifiers",
+                                    "ProductCount": 0,
+                                    "NewProductCount": 0,
+                                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/137/865/SOT143_tmb%2864x64%29.jpg",
+                                    "SeoDescription": "Diode bridge rectifiers are an arrangement of diodes in a bridge circuit configuration for conversion of an alternating current (AC) input to a direct current (DC) output. These components can be chassis, DIN rail, surface or through-hole mounted, and are selected by single phase or three phase diode type, forward voltage rating, average rectified current, and technology.",
+                                    "ChildCategories": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "DateLastBuyChance": null,
+                "ManufacturerLeadWeeks": "15",
+                "ManufacturerPublicQuantity": 0,
+                "Series": {
+                    "Id": 818,
+                    "Name": "-"
+                },
+                "ShippingInfo": null,
+                "Classifications": {
+                    "ReachStatus": "REACH Unaffected",
+                    "RohsStatus": "ROHS3 Compliant",
+                    "MoistureSensitivityLevel": "1  (Unlimited)",
+                    "ExportControlClassNumber": "EAR99",
+                    "HtsusCode": "8541.10.0070"
+                },
+                "OtherNames": [
+                    "MB1S-TPMSCT",
+                    "MB1S-TPMSTR",
+                    "MB1S-TPMSDKR",
+                    "MB1STP"
+                ]
+            }
+        ],
+        "FilterOptions": {
+            "Manufacturers": [
+                {
+                    "Id": 353,
+                    "Value": "MCC (Micro Commercial Components)",
+                    "ProductCount": 1
+                }
+            ],
+            "Packaging": null,
+            "Status": null,
+            "Series": null,
+            "ParametricFilters": null,
+            "TopCategories": null,
+            "MarketPlaceFilters": null
+        },
+        "SearchLocaleUsed": {
+            "Site": "US",
+            "Language": "en",
+            "Currency": "USD"
+        },
+        "AppliedParametricFiltersDto": []
+    }
+}

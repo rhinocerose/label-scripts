@@ -1,0 +1,1198 @@
+{
+    "timestamp": "2026-07-07 14:22:19",
+    "part_number": "ATMEGA88PA-AU",
+    "request_payload": {
+        "Keywords": "ATMEGA88PA-AU",
+        "SearchOptions": "ManufacturerProductNumber",
+        "RecordCount": 10,
+        "RecordStartPosition": 0,
+        "Sort": {
+            "Option": "SortByDigiKeyPartNumber",
+            "Direction": "Ascending",
+            "SortParameterId": 0
+        },
+        "RequestedQuantity": 0
+    },
+    "status_code": 200,
+    "response_text": "{\"Products\":[{\"Description\":{\"ProductDescription\":\"IC MCU 8BIT 8KB FLASH 32TQFP\",\"DetailedDescription\":\"AVR AVR\u00ae ATmega Microcontroller IC 8-Bit 20MHz 8KB (4K x 16) FLASH 32-TQFP (7x7)\"},\"Manufacturer\":{\"Id\":150,\"Name\":\"Microchip Technology\"},\"ManufacturerProductNumber\":\"ATMEGA88PA-AU\",\"UnitPrice\":1.8,\"ProductUrl\":\"https://www.digikey.com/en/products/detail/microchip-technology/ATMEGA88PA-AU/1886228\",\"DatasheetUrl\":\"https://ww1.microchip.com/downloads/en/DeviceDoc/ATmega48A-PA-88A-PA-168A-PA-328-P-DS-DS40002061B.pdf\",\"PhotoUrl\":\"https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/5054/150%7E32A%7EA%2CAU%7E32-Top.jpg\",\"ProductVariations\":[{\"DigiKeyProductNumber\":\"ATMEGA88PA-AU-ND\",\"PackageType\":{\"Id\":17,\"Name\":\"Tray\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":1.8,\"TotalPrice\":1.8},{\"BreakQuantity\":25,\"UnitPrice\":1.65,\"TotalPrice\":41.25},{\"BreakQuantity\":100,\"UnitPrice\":1.5,\"TotalPrice\":150.0}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":150,\"Name\":\"Microchip Technology\"},\"QuantityAvailableforPackageType\":7273,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":1,\"StandardPackage\":250,\"DigiReelFee\":0.0}],\"QuantityAvailable\":7273,\"ProductStatus\":{\"Id\":0,\"Status\":\"Active\"},\"BackOrderNotAllowed\":false,\"NormallyStocking\":true,\"Discontinued\":false,\"EndOfLife\":false,\"Ncnr\":false,\"PrimaryVideoUrl\":\"\",\"Parameters\":[{\"ParameterId\":2697,\"ParameterText\":\"DigiKey Programmable\",\"ParameterType\":\"String\",\"ValueId\":\"750490\",\"ValueText\":\"Verified\"},{\"ParameterId\":506,\"ParameterText\":\"Core Processor\",\"ParameterType\":\"String\",\"ValueId\":\"317125\",\"ValueText\":\"AVR\"},{\"ParameterId\":689,\"ParameterText\":\"Core Size\",\"ParameterType\":\"String\",\"ValueId\":\"293889\",\"ValueText\":\"8-Bit\"},{\"ParameterId\":143,\"ParameterText\":\"Speed\",\"ParameterType\":\"String\",\"ValueId\":\"143250\",\"ValueText\":\"20MHz\"},{\"ParameterId\":1113,\"ParameterText\":\"Connectivity\",\"ParameterType\":\"String\",\"ValueId\":\"799927\",\"ValueText\":\"I2C, SPI, UART/USART\"},{\"ParameterId\":1114,\"ParameterText\":\"Peripherals\",\"ParameterType\":\"String\",\"ValueId\":\"323363\",\"ValueText\":\"Brown-out Detect/Reset, POR, PWM, WDT\"},{\"ParameterId\":2208,\"ParameterText\":\"Number of I/O\",\"ParameterType\":\"Double\",\"ValueId\":\"23\",\"ValueText\":\"23\"},{\"ParameterId\":155,\"ParameterText\":\"Program Memory Size\",\"ParameterType\":\"String\",\"ValueId\":\"294232\",\"ValueText\":\"8KB (4K x 16)\"},{\"ParameterId\":290,\"ParameterText\":\"Program Memory Type\",\"ParameterType\":\"String\",\"ValueId\":\"347758\",\"ValueText\":\"FLASH\"},{\"ParameterId\":291,\"ParameterText\":\"EEPROM Size\",\"ParameterType\":\"String\",\"ValueId\":\"239280\",\"ValueText\":\"512 x 8\"},{\"ParameterId\":156,\"ParameterText\":\"RAM Size\",\"ParameterType\":\"String\",\"ValueId\":\"120264\",\"ValueText\":\"1K x 8\"},{\"ParameterId\":1112,\"ParameterText\":\"Voltage - Supply (Vcc/Vdd)\",\"ParameterType\":\"String\",\"ValueId\":\"61334\",\"ValueText\":\"1.8V ~ 5.5V\"},{\"ParameterId\":519,\"ParameterText\":\"Data Converters\",\"ParameterType\":\"String\",\"ValueId\":\"306519\",\"ValueText\":\"A/D 8x10b\"},{\"ParameterId\":283,\"ParameterText\":\"Oscillator Type\",\"ParameterType\":\"String\",\"ValueId\":\"359690\",\"ValueText\":\"Internal\"},{\"ParameterId\":252,\"ParameterText\":\"Operating Temperature\",\"ParameterType\":\"String\",\"ValueId\":\"212621\",\"ValueText\":\"-40\u00b0C ~ 85\u00b0C (TA)\"},{\"ParameterId\":69,\"ParameterText\":\"Mounting Type\",\"ParameterType\":\"String\",\"ValueId\":\"409393\",\"ValueText\":\"Surface Mount\"},{\"ParameterId\":1291,\"ParameterText\":\"Supplier Device Package\",\"ParameterType\":\"String\",\"ValueId\":\"188793\",\"ValueText\":\"32-TQFP (7x7)\"},{\"ParameterId\":16,\"ParameterText\":\"Package / Case\",\"ParameterType\":\"String\",\"ValueId\":\"188791\",\"ValueText\":\"32-TQFP\"}],\"BaseProductNumber\":{\"Id\":30932,\"Name\":\"ATMEGA88\"},\"Category\":{\"CategoryId\":32,\"ParentId\":0,\"Name\":\"Integrated Circuits (ICs)\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg\",\"SeoDescription\":\"Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.\",\"ChildCategories\":[{\"CategoryId\":2012,\"ParentId\":32,\"Name\":\"Embedded\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/433/524/MFG_MK21DX128VLK5_tmb.jpg\",\"SeoDescription\":\"Embedded systems perform a specific task via software within various applications. Included in this category are programmable logic devices (PLDs), complex programmable logic devices (CPLDs), digital signal processors (DSPs), field programmable gate arrays (FPGAs), microcontollers or microprocessors, system-on-chip (SoC), and more.\",\"ChildCategories\":[{\"CategoryId\":685,\"ParentId\":2012,\"Name\":\"Microcontrollers\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/116/683/28-PDip_tmb.jpg\",\"SeoDescription\":\"Microcontroller products are relatively complex, user-programmable digital logic devices. Closely related to devices considered microprocessors, the distinction between the two reduces largely to the manufacturer's choice of noun, though by tradition microcontrollers integrate working memory, are more likely to incorporate mixed-signal peripherals and tend to be used with simpler software paradigms oriented toward repetitive execution of a predefined series of tasks.\",\"ChildCategories\":[]}]}]},\"DateLastBuyChance\":null,\"ManufacturerLeadWeeks\":\"4\",\"ManufacturerPublicQuantity\":0,\"Series\":{\"Id\":22385,\"Name\":\"AVR\u00ae ATmega\"},\"ShippingInfo\":null,\"Classifications\":{\"ReachStatus\":\"REACH Unaffected\",\"RohsStatus\":\"ROHS3 Compliant\",\"MoistureSensitivityLevel\":\"3  (168 Hours)\",\"ExportControlClassNumber\":\"EAR99\",\"HtsusCode\":\"8542.31.0015\"},\"OtherNames\":[\"ATMEGA88PAAU\"]},{\"Description\":{\"ProductDescription\":\"IC MCU 8BIT 8KB FLASH 32TQFP\",\"DetailedDescription\":\"AVR AVR\u00ae ATmega Microcontroller IC 8-Bit 20MHz 8KB (4K x 16) FLASH 32-TQFP (7x7)\"},\"Manufacturer\":{\"Id\":150,\"Name\":\"Microchip Technology\"},\"ManufacturerProductNumber\":\"ATMEGA88PA-AUR\",\"UnitPrice\":1.92,\"ProductUrl\":\"https://www.digikey.com/en/products/detail/microchip-technology/ATMEGA88PA-AUR/2357263\",\"DatasheetUrl\":\"https://ww1.microchip.com/downloads/en/DeviceDoc/ATmega48A-PA-88A-PA-168A-PA-328-P-DS-DS40002061B.pdf\",\"PhotoUrl\":\"https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/5054/150%7E32A%7EA%2CAU%7E32-Top.jpg\",\"ProductVariations\":[{\"DigiKeyProductNumber\":\"ATMEGA88PA-AURTR-ND\",\"PackageType\":{\"Id\":1,\"Name\":\"Tape & Reel (TR)\"},\"StandardPricing\":[{\"BreakQuantity\":2000,\"UnitPrice\":1.59,\"TotalPrice\":3180.00}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":150,\"Name\":\"Microchip Technology\"},\"QuantityAvailableforPackageType\":0,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":2000,\"StandardPackage\":2000,\"DigiReelFee\":0.0},{\"DigiKeyProductNumber\":\"ATMEGA88PA-AURCT-ND\",\"PackageType\":{\"Id\":2,\"Name\":\"Cut Tape (CT)\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":1.92,\"TotalPrice\":1.92},{\"BreakQuantity\":25,\"UnitPrice\":1.8664,\"TotalPrice\":46.6600}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":150,\"Name\":\"Microchip Technology\"},\"QuantityAvailableforPackageType\":0,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":1,\"StandardPackage\":1,\"DigiReelFee\":0.0},{\"DigiKeyProductNumber\":\"ATMEGA88PA-AURDKR-ND\",\"PackageType\":{\"Id\":243,\"Name\":\"Digi-Reel\u00ae\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":1.92,\"TotalPrice\":1.92},{\"BreakQuantity\":25,\"UnitPrice\":1.8664,\"TotalPrice\":46.6600}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":150,\"Name\":\"Microchip Technology\"},\"QuantityAvailableforPackageType\":0,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":1,\"StandardPackage\":1,\"DigiReelFee\":7.0}],\"QuantityAvailable\":0,\"ProductStatus\":{\"Id\":0,\"Status\":\"Active\"},\"BackOrderNotAllowed\":false,\"NormallyStocking\":true,\"Discontinued\":false,\"EndOfLife\":false,\"Ncnr\":false,\"PrimaryVideoUrl\":\"\",\"Parameters\":[{\"ParameterId\":2697,\"ParameterText\":\"DigiKey Programmable\",\"ParameterType\":\"String\",\"ValueId\":\"750490\",\"ValueText\":\"Verified\"},{\"ParameterId\":506,\"ParameterText\":\"Core Processor\",\"ParameterType\":\"String\",\"ValueId\":\"317125\",\"ValueText\":\"AVR\"},{\"ParameterId\":689,\"ParameterText\":\"Core Size\",\"ParameterType\":\"String\",\"ValueId\":\"293889\",\"ValueText\":\"8-Bit\"},{\"ParameterId\":143,\"ParameterText\":\"Speed\",\"ParameterType\":\"String\",\"ValueId\":\"143250\",\"ValueText\":\"20MHz\"},{\"ParameterId\":1113,\"ParameterText\":\"Connectivity\",\"ParameterType\":\"String\",\"ValueId\":\"799927\",\"ValueText\":\"I2C, SPI, UART/USART\"},{\"ParameterId\":1114,\"ParameterText\":\"Peripherals\",\"ParameterType\":\"String\",\"ValueId\":\"323363\",\"ValueText\":\"Brown-out Detect/Reset, POR, PWM, WDT\"},{\"ParameterId\":2208,\"ParameterText\":\"Number of I/O\",\"ParameterType\":\"Double\",\"ValueId\":\"23\",\"ValueText\":\"23\"},{\"ParameterId\":155,\"ParameterText\":\"Program Memory Size\",\"ParameterType\":\"String\",\"ValueId\":\"294232\",\"ValueText\":\"8KB (4K x 16)\"},{\"ParameterId\":290,\"ParameterText\":\"Program Memory Type\",\"ParameterType\":\"String\",\"ValueId\":\"347758\",\"ValueText\":\"FLASH\"},{\"ParameterId\":291,\"ParameterText\":\"EEPROM Size\",\"ParameterType\":\"String\",\"ValueId\":\"239280\",\"ValueText\":\"512 x 8\"},{\"ParameterId\":156,\"ParameterText\":\"RAM Size\",\"ParameterType\":\"String\",\"ValueId\":\"120264\",\"ValueText\":\"1K x 8\"},{\"ParameterId\":1112,\"ParameterText\":\"Voltage - Supply (Vcc/Vdd)\",\"ParameterType\":\"String\",\"ValueId\":\"61334\",\"ValueText\":\"1.8V ~ 5.5V\"},{\"ParameterId\":519,\"ParameterText\":\"Data Converters\",\"ParameterType\":\"String\",\"ValueId\":\"306519\",\"ValueText\":\"A/D 8x10b\"},{\"ParameterId\":283,\"ParameterText\":\"Oscillator Type\",\"ParameterType\":\"String\",\"ValueId\":\"359690\",\"ValueText\":\"Internal\"},{\"ParameterId\":252,\"ParameterText\":\"Operating Temperature\",\"ParameterType\":\"String\",\"ValueId\":\"212621\",\"ValueText\":\"-40\u00b0C ~ 85\u00b0C (TA)\"},{\"ParameterId\":69,\"ParameterText\":\"Mounting Type\",\"ParameterType\":\"String\",\"ValueId\":\"409393\",\"ValueText\":\"Surface Mount\"},{\"ParameterId\":1291,\"ParameterText\":\"Supplier Device Package\",\"ParameterType\":\"String\",\"ValueId\":\"188793\",\"ValueText\":\"32-TQFP (7x7)\"},{\"ParameterId\":16,\"ParameterText\":\"Package / Case\",\"ParameterType\":\"String\",\"ValueId\":\"188791\",\"ValueText\":\"32-TQFP\"}],\"BaseProductNumber\":{\"Id\":30932,\"Name\":\"ATMEGA88\"},\"Category\":{\"CategoryId\":32,\"ParentId\":0,\"Name\":\"Integrated Circuits (ICs)\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg\",\"SeoDescription\":\"Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.\",\"ChildCategories\":[{\"CategoryId\":2012,\"ParentId\":32,\"Name\":\"Embedded\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/433/524/MFG_MK21DX128VLK5_tmb.jpg\",\"SeoDescription\":\"Embedded systems perform a specific task via software within various applications. Included in this category are programmable logic devices (PLDs), complex programmable logic devices (CPLDs), digital signal processors (DSPs), field programmable gate arrays (FPGAs), microcontollers or microprocessors, system-on-chip (SoC), and more.\",\"ChildCategories\":[{\"CategoryId\":685,\"ParentId\":2012,\"Name\":\"Microcontrollers\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/116/683/28-PDip_tmb.jpg\",\"SeoDescription\":\"Microcontroller products are relatively complex, user-programmable digital logic devices. Closely related to devices considered microprocessors, the distinction between the two reduces largely to the manufacturer's choice of noun, though by tradition microcontrollers integrate working memory, are more likely to incorporate mixed-signal peripherals and tend to be used with simpler software paradigms oriented toward repetitive execution of a predefined series of tasks.\",\"ChildCategories\":[]}]}]},\"DateLastBuyChance\":null,\"ManufacturerLeadWeeks\":\"18\",\"ManufacturerPublicQuantity\":0,\"Series\":{\"Id\":22385,\"Name\":\"AVR\u00ae ATmega\"},\"ShippingInfo\":null,\"Classifications\":{\"ReachStatus\":\"REACH Unaffected\",\"RohsStatus\":\"ROHS3 Compliant\",\"MoistureSensitivityLevel\":\"3  (168 Hours)\",\"ExportControlClassNumber\":\"EAR99\",\"HtsusCode\":\"8542.31.0015\"},\"OtherNames\":[\"ATMEGA88PA-AURDKR\",\"ATMEGA88PA-AURTR\",\"ATMEGA88PAAUR\",\"ATMEGA88PA-AUR-ND\",\"ATMEGA88PA-AURCT\"]}],\"ProductsCount\":2,\"ExactMatches\":[{\"Description\":{\"ProductDescription\":\"IC MCU 8BIT 8KB FLASH 32TQFP\",\"DetailedDescription\":\"AVR AVR\u00ae ATmega Microcontroller IC 8-Bit 20MHz 8KB (4K x 16) FLASH 32-TQFP (7x7)\"},\"Manufacturer\":{\"Id\":150,\"Name\":\"Microchip Technology\"},\"ManufacturerProductNumber\":\"ATMEGA88PA-AU\",\"UnitPrice\":1.8,\"ProductUrl\":\"https://www.digikey.com/en/products/detail/microchip-technology/ATMEGA88PA-AU/1886228\",\"DatasheetUrl\":\"https://ww1.microchip.com/downloads/en/DeviceDoc/ATmega48A-PA-88A-PA-168A-PA-328-P-DS-DS40002061B.pdf\",\"PhotoUrl\":\"https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/5054/150%7E32A%7EA%2CAU%7E32-Top.jpg\",\"ProductVariations\":[{\"DigiKeyProductNumber\":\"ATMEGA88PA-AU-ND\",\"PackageType\":{\"Id\":17,\"Name\":\"Tray\"},\"StandardPricing\":[{\"BreakQuantity\":1,\"UnitPrice\":1.8,\"TotalPrice\":1.8},{\"BreakQuantity\":25,\"UnitPrice\":1.65,\"TotalPrice\":41.25},{\"BreakQuantity\":100,\"UnitPrice\":1.5,\"TotalPrice\":150.0}],\"MyPricing\":[],\"MarketPlace\":false,\"TariffActive\":true,\"Supplier\":{\"Id\":150,\"Name\":\"Microchip Technology\"},\"QuantityAvailableforPackageType\":7273,\"MaxQuantityForDistribution\":999999999,\"MinimumOrderQuantity\":1,\"StandardPackage\":250,\"DigiReelFee\":0.0}],\"QuantityAvailable\":7273,\"ProductStatus\":{\"Id\":0,\"Status\":\"Active\"},\"BackOrderNotAllowed\":false,\"NormallyStocking\":true,\"Discontinued\":false,\"EndOfLife\":false,\"Ncnr\":false,\"PrimaryVideoUrl\":\"\",\"Parameters\":[{\"ParameterId\":2697,\"ParameterText\":\"DigiKey Programmable\",\"ParameterType\":\"String\",\"ValueId\":\"750490\",\"ValueText\":\"Verified\"},{\"ParameterId\":506,\"ParameterText\":\"Core Processor\",\"ParameterType\":\"String\",\"ValueId\":\"317125\",\"ValueText\":\"AVR\"},{\"ParameterId\":689,\"ParameterText\":\"Core Size\",\"ParameterType\":\"String\",\"ValueId\":\"293889\",\"ValueText\":\"8-Bit\"},{\"ParameterId\":143,\"ParameterText\":\"Speed\",\"ParameterType\":\"String\",\"ValueId\":\"143250\",\"ValueText\":\"20MHz\"},{\"ParameterId\":1113,\"ParameterText\":\"Connectivity\",\"ParameterType\":\"String\",\"ValueId\":\"799927\",\"ValueText\":\"I2C, SPI, UART/USART\"},{\"ParameterId\":1114,\"ParameterText\":\"Peripherals\",\"ParameterType\":\"String\",\"ValueId\":\"323363\",\"ValueText\":\"Brown-out Detect/Reset, POR, PWM, WDT\"},{\"ParameterId\":2208,\"ParameterText\":\"Number of I/O\",\"ParameterType\":\"Double\",\"ValueId\":\"23\",\"ValueText\":\"23\"},{\"ParameterId\":155,\"ParameterText\":\"Program Memory Size\",\"ParameterType\":\"String\",\"ValueId\":\"294232\",\"ValueText\":\"8KB (4K x 16)\"},{\"ParameterId\":290,\"ParameterText\":\"Program Memory Type\",\"ParameterType\":\"String\",\"ValueId\":\"347758\",\"ValueText\":\"FLASH\"},{\"ParameterId\":291,\"ParameterText\":\"EEPROM Size\",\"ParameterType\":\"String\",\"ValueId\":\"239280\",\"ValueText\":\"512 x 8\"},{\"ParameterId\":156,\"ParameterText\":\"RAM Size\",\"ParameterType\":\"String\",\"ValueId\":\"120264\",\"ValueText\":\"1K x 8\"},{\"ParameterId\":1112,\"ParameterText\":\"Voltage - Supply (Vcc/Vdd)\",\"ParameterType\":\"String\",\"ValueId\":\"61334\",\"ValueText\":\"1.8V ~ 5.5V\"},{\"ParameterId\":519,\"ParameterText\":\"Data Converters\",\"ParameterType\":\"String\",\"ValueId\":\"306519\",\"ValueText\":\"A/D 8x10b\"},{\"ParameterId\":283,\"ParameterText\":\"Oscillator Type\",\"ParameterType\":\"String\",\"ValueId\":\"359690\",\"ValueText\":\"Internal\"},{\"ParameterId\":252,\"ParameterText\":\"Operating Temperature\",\"ParameterType\":\"String\",\"ValueId\":\"212621\",\"ValueText\":\"-40\u00b0C ~ 85\u00b0C (TA)\"},{\"ParameterId\":69,\"ParameterText\":\"Mounting Type\",\"ParameterType\":\"String\",\"ValueId\":\"409393\",\"ValueText\":\"Surface Mount\"},{\"ParameterId\":1291,\"ParameterText\":\"Supplier Device Package\",\"ParameterType\":\"String\",\"ValueId\":\"188793\",\"ValueText\":\"32-TQFP (7x7)\"},{\"ParameterId\":16,\"ParameterText\":\"Package / Case\",\"ParameterType\":\"String\",\"ValueId\":\"188791\",\"ValueText\":\"32-TQFP\"}],\"BaseProductNumber\":{\"Id\":30932,\"Name\":\"ATMEGA88\"},\"Category\":{\"CategoryId\":32,\"ParentId\":0,\"Name\":\"Integrated Circuits (ICs)\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg\",\"SeoDescription\":\"Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.\",\"ChildCategories\":[{\"CategoryId\":2012,\"ParentId\":32,\"Name\":\"Embedded\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/433/524/MFG_MK21DX128VLK5_tmb.jpg\",\"SeoDescription\":\"Embedded systems perform a specific task via software within various applications. Included in this category are programmable logic devices (PLDs), complex programmable logic devices (CPLDs), digital signal processors (DSPs), field programmable gate arrays (FPGAs), microcontollers or microprocessors, system-on-chip (SoC), and more.\",\"ChildCategories\":[{\"CategoryId\":685,\"ParentId\":2012,\"Name\":\"Microcontrollers\",\"ProductCount\":0,\"NewProductCount\":0,\"ImageUrl\":\"https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/116/683/28-PDip_tmb.jpg\",\"SeoDescription\":\"Microcontroller products are relatively complex, user-programmable digital logic devices. Closely related to devices considered microprocessors, the distinction between the two reduces largely to the manufacturer's choice of noun, though by tradition microcontrollers integrate working memory, are more likely to incorporate mixed-signal peripherals and tend to be used with simpler software paradigms oriented toward repetitive execution of a predefined series of tasks.\",\"ChildCategories\":[]}]}]},\"DateLastBuyChance\":null,\"ManufacturerLeadWeeks\":\"4\",\"ManufacturerPublicQuantity\":0,\"Series\":{\"Id\":22385,\"Name\":\"AVR\u00ae ATmega\"},\"ShippingInfo\":null,\"Classifications\":{\"ReachStatus\":\"REACH Unaffected\",\"RohsStatus\":\"ROHS3 Compliant\",\"MoistureSensitivityLevel\":\"3  (168 Hours)\",\"ExportControlClassNumber\":\"EAR99\",\"HtsusCode\":\"8542.31.0015\"},\"OtherNames\":[\"ATMEGA88PAAU\"]}],\"FilterOptions\":{\"Manufacturers\":[{\"Id\":150,\"Value\":\"Microchip Technology\",\"ProductCount\":2}],\"Packaging\":[{\"Id\":2,\"Value\":\"Cut Tape (CT)\",\"ProductCount\":1},{\"Id\":243,\"Value\":\"Digi-Reel\u00ae\",\"ProductCount\":1},{\"Id\":1,\"Value\":\"Tape & Reel (TR)\",\"ProductCount\":1},{\"Id\":17,\"Value\":\"Tray\",\"ProductCount\":1}],\"Status\":[{\"Id\":0,\"Value\":\"Active\",\"ProductCount\":2}],\"Series\":[{\"Id\":22385,\"Value\":\"AVR\u00ae ATmega\",\"ProductCount\":2}],\"ParametricFilters\":[{\"Category\":{\"Id\":685,\"Value\":\"Microcontrollers\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":2697,\"ParameterName\":\"DigiKey Programmable\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"750490\",\"ValueName\":\"Verified\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":685,\"Value\":\"Microcontrollers\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":506,\"ParameterName\":\"Core Processor\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"317125\",\"ValueName\":\"AVR\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":685,\"Value\":\"Microcontrollers\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":689,\"ParameterName\":\"Core Size\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"293889\",\"ValueName\":\"8-Bit\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":685,\"Value\":\"Microcontrollers\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":143,\"ParameterName\":\"Speed\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"143250\",\"ValueName\":\"20MHz\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":685,\"Value\":\"Microcontrollers\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":1113,\"ParameterName\":\"Connectivity\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"799927\",\"ValueName\":\"I2C, SPI, UART/USART\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":685,\"Value\":\"Microcontrollers\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":1114,\"ParameterName\":\"Peripherals\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"323363\",\"ValueName\":\"Brown-out Detect/Reset, POR, PWM, WDT\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":685,\"Value\":\"Microcontrollers\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":2208,\"ParameterName\":\"Number of I/O\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"23\",\"ValueName\":\"23\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":685,\"Value\":\"Microcontrollers\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":155,\"ParameterName\":\"Program Memory Size\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"294232\",\"ValueName\":\"8KB (4K x 16)\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":685,\"Value\":\"Microcontrollers\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":290,\"ParameterName\":\"Program Memory Type\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"347758\",\"ValueName\":\"FLASH\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":685,\"Value\":\"Microcontrollers\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":291,\"ParameterName\":\"EEPROM Size\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"239280\",\"ValueName\":\"512 x 8\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":685,\"Value\":\"Microcontrollers\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":156,\"ParameterName\":\"RAM Size\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"120264\",\"ValueName\":\"1K x 8\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":685,\"Value\":\"Microcontrollers\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":1112,\"ParameterName\":\"Voltage - Supply (Vcc/Vdd)\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"61334\",\"ValueName\":\"1.8V ~ 5.5V\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":685,\"Value\":\"Microcontrollers\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":519,\"ParameterName\":\"Data Converters\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"306519\",\"ValueName\":\"A/D 8x10b\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":685,\"Value\":\"Microcontrollers\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":283,\"ParameterName\":\"Oscillator Type\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"359690\",\"ValueName\":\"Internal\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":685,\"Value\":\"Microcontrollers\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":252,\"ParameterName\":\"Operating Temperature\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"212621\",\"ValueName\":\"-40\u00b0C ~ 85\u00b0C (TA)\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":685,\"Value\":\"Microcontrollers\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":69,\"ParameterName\":\"Mounting Type\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"409393\",\"ValueName\":\"Surface Mount\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":685,\"Value\":\"Microcontrollers\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":1291,\"ParameterName\":\"Supplier Device Package\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"188793\",\"ValueName\":\"32-TQFP (7x7)\",\"RangeFilterType\":null}]},{\"Category\":{\"Id\":685,\"Value\":\"Microcontrollers\",\"ProductCount\":null},\"ParameterType\":\"String\",\"ParameterId\":16,\"ParameterName\":\"Package / Case\",\"FilterValues\":[{\"ProductCount\":2,\"ValueId\":\"188791\",\"ValueName\":\"32-TQFP\",\"RangeFilterType\":null}]}],\"TopCategories\":null,\"MarketPlaceFilters\":null},\"SearchLocaleUsed\":{\"Site\":\"US\",\"Language\":\"en\",\"Currency\":\"USD\"},\"AppliedParametricFiltersDto\":[]}",
+    "response_json": {
+        "Products": [
+            {
+                "Description": {
+                    "ProductDescription": "IC MCU 8BIT 8KB FLASH 32TQFP",
+                    "DetailedDescription": "AVR AVR\u00ae ATmega Microcontroller IC 8-Bit 20MHz 8KB (4K x 16) FLASH 32-TQFP (7x7)"
+                },
+                "Manufacturer": {
+                    "Id": 150,
+                    "Name": "Microchip Technology"
+                },
+                "ManufacturerProductNumber": "ATMEGA88PA-AU",
+                "UnitPrice": 1.8,
+                "ProductUrl": "https://www.digikey.com/en/products/detail/microchip-technology/ATMEGA88PA-AU/1886228",
+                "DatasheetUrl": "https://ww1.microchip.com/downloads/en/DeviceDoc/ATmega48A-PA-88A-PA-168A-PA-328-P-DS-DS40002061B.pdf",
+                "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/5054/150%7E32A%7EA%2CAU%7E32-Top.jpg",
+                "ProductVariations": [
+                    {
+                        "DigiKeyProductNumber": "ATMEGA88PA-AU-ND",
+                        "PackageType": {
+                            "Id": 17,
+                            "Name": "Tray"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 1.8,
+                                "TotalPrice": 1.8
+                            },
+                            {
+                                "BreakQuantity": 25,
+                                "UnitPrice": 1.65,
+                                "TotalPrice": 41.25
+                            },
+                            {
+                                "BreakQuantity": 100,
+                                "UnitPrice": 1.5,
+                                "TotalPrice": 150.0
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 150,
+                            "Name": "Microchip Technology"
+                        },
+                        "QuantityAvailableforPackageType": 7273,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 250,
+                        "DigiReelFee": 0.0
+                    }
+                ],
+                "QuantityAvailable": 7273,
+                "ProductStatus": {
+                    "Id": 0,
+                    "Status": "Active"
+                },
+                "BackOrderNotAllowed": false,
+                "NormallyStocking": true,
+                "Discontinued": false,
+                "EndOfLife": false,
+                "Ncnr": false,
+                "PrimaryVideoUrl": "",
+                "Parameters": [
+                    {
+                        "ParameterId": 2697,
+                        "ParameterText": "DigiKey Programmable",
+                        "ParameterType": "String",
+                        "ValueId": "750490",
+                        "ValueText": "Verified"
+                    },
+                    {
+                        "ParameterId": 506,
+                        "ParameterText": "Core Processor",
+                        "ParameterType": "String",
+                        "ValueId": "317125",
+                        "ValueText": "AVR"
+                    },
+                    {
+                        "ParameterId": 689,
+                        "ParameterText": "Core Size",
+                        "ParameterType": "String",
+                        "ValueId": "293889",
+                        "ValueText": "8-Bit"
+                    },
+                    {
+                        "ParameterId": 143,
+                        "ParameterText": "Speed",
+                        "ParameterType": "String",
+                        "ValueId": "143250",
+                        "ValueText": "20MHz"
+                    },
+                    {
+                        "ParameterId": 1113,
+                        "ParameterText": "Connectivity",
+                        "ParameterType": "String",
+                        "ValueId": "799927",
+                        "ValueText": "I2C, SPI, UART/USART"
+                    },
+                    {
+                        "ParameterId": 1114,
+                        "ParameterText": "Peripherals",
+                        "ParameterType": "String",
+                        "ValueId": "323363",
+                        "ValueText": "Brown-out Detect/Reset, POR, PWM, WDT"
+                    },
+                    {
+                        "ParameterId": 2208,
+                        "ParameterText": "Number of I/O",
+                        "ParameterType": "Double",
+                        "ValueId": "23",
+                        "ValueText": "23"
+                    },
+                    {
+                        "ParameterId": 155,
+                        "ParameterText": "Program Memory Size",
+                        "ParameterType": "String",
+                        "ValueId": "294232",
+                        "ValueText": "8KB (4K x 16)"
+                    },
+                    {
+                        "ParameterId": 290,
+                        "ParameterText": "Program Memory Type",
+                        "ParameterType": "String",
+                        "ValueId": "347758",
+                        "ValueText": "FLASH"
+                    },
+                    {
+                        "ParameterId": 291,
+                        "ParameterText": "EEPROM Size",
+                        "ParameterType": "String",
+                        "ValueId": "239280",
+                        "ValueText": "512 x 8"
+                    },
+                    {
+                        "ParameterId": 156,
+                        "ParameterText": "RAM Size",
+                        "ParameterType": "String",
+                        "ValueId": "120264",
+                        "ValueText": "1K x 8"
+                    },
+                    {
+                        "ParameterId": 1112,
+                        "ParameterText": "Voltage - Supply (Vcc/Vdd)",
+                        "ParameterType": "String",
+                        "ValueId": "61334",
+                        "ValueText": "1.8V ~ 5.5V"
+                    },
+                    {
+                        "ParameterId": 519,
+                        "ParameterText": "Data Converters",
+                        "ParameterType": "String",
+                        "ValueId": "306519",
+                        "ValueText": "A/D 8x10b"
+                    },
+                    {
+                        "ParameterId": 283,
+                        "ParameterText": "Oscillator Type",
+                        "ParameterType": "String",
+                        "ValueId": "359690",
+                        "ValueText": "Internal"
+                    },
+                    {
+                        "ParameterId": 252,
+                        "ParameterText": "Operating Temperature",
+                        "ParameterType": "String",
+                        "ValueId": "212621",
+                        "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+                    },
+                    {
+                        "ParameterId": 69,
+                        "ParameterText": "Mounting Type",
+                        "ParameterType": "String",
+                        "ValueId": "409393",
+                        "ValueText": "Surface Mount"
+                    },
+                    {
+                        "ParameterId": 1291,
+                        "ParameterText": "Supplier Device Package",
+                        "ParameterType": "String",
+                        "ValueId": "188793",
+                        "ValueText": "32-TQFP (7x7)"
+                    },
+                    {
+                        "ParameterId": 16,
+                        "ParameterText": "Package / Case",
+                        "ParameterType": "String",
+                        "ValueId": "188791",
+                        "ValueText": "32-TQFP"
+                    }
+                ],
+                "BaseProductNumber": {
+                    "Id": 30932,
+                    "Name": "ATMEGA88"
+                },
+                "Category": {
+                    "CategoryId": 32,
+                    "ParentId": 0,
+                    "Name": "Integrated Circuits (ICs)",
+                    "ProductCount": 0,
+                    "NewProductCount": 0,
+                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+                    "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+                    "ChildCategories": [
+                        {
+                            "CategoryId": 2012,
+                            "ParentId": 32,
+                            "Name": "Embedded",
+                            "ProductCount": 0,
+                            "NewProductCount": 0,
+                            "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/433/524/MFG_MK21DX128VLK5_tmb.jpg",
+                            "SeoDescription": "Embedded systems perform a specific task via software within various applications. Included in this category are programmable logic devices (PLDs), complex programmable logic devices (CPLDs), digital signal processors (DSPs), field programmable gate arrays (FPGAs), microcontollers or microprocessors, system-on-chip (SoC), and more.",
+                            "ChildCategories": [
+                                {
+                                    "CategoryId": 685,
+                                    "ParentId": 2012,
+                                    "Name": "Microcontrollers",
+                                    "ProductCount": 0,
+                                    "NewProductCount": 0,
+                                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/116/683/28-PDip_tmb.jpg",
+                                    "SeoDescription": "Microcontroller products are relatively complex, user-programmable digital logic devices. Closely related to devices considered microprocessors, the distinction between the two reduces largely to the manufacturer's choice of noun, though by tradition microcontrollers integrate working memory, are more likely to incorporate mixed-signal peripherals and tend to be used with simpler software paradigms oriented toward repetitive execution of a predefined series of tasks.",
+                                    "ChildCategories": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "DateLastBuyChance": null,
+                "ManufacturerLeadWeeks": "4",
+                "ManufacturerPublicQuantity": 0,
+                "Series": {
+                    "Id": 22385,
+                    "Name": "AVR\u00ae ATmega"
+                },
+                "ShippingInfo": null,
+                "Classifications": {
+                    "ReachStatus": "REACH Unaffected",
+                    "RohsStatus": "ROHS3 Compliant",
+                    "MoistureSensitivityLevel": "3  (168 Hours)",
+                    "ExportControlClassNumber": "EAR99",
+                    "HtsusCode": "8542.31.0015"
+                },
+                "OtherNames": [
+                    "ATMEGA88PAAU"
+                ]
+            },
+            {
+                "Description": {
+                    "ProductDescription": "IC MCU 8BIT 8KB FLASH 32TQFP",
+                    "DetailedDescription": "AVR AVR\u00ae ATmega Microcontroller IC 8-Bit 20MHz 8KB (4K x 16) FLASH 32-TQFP (7x7)"
+                },
+                "Manufacturer": {
+                    "Id": 150,
+                    "Name": "Microchip Technology"
+                },
+                "ManufacturerProductNumber": "ATMEGA88PA-AUR",
+                "UnitPrice": 1.92,
+                "ProductUrl": "https://www.digikey.com/en/products/detail/microchip-technology/ATMEGA88PA-AUR/2357263",
+                "DatasheetUrl": "https://ww1.microchip.com/downloads/en/DeviceDoc/ATmega48A-PA-88A-PA-168A-PA-328-P-DS-DS40002061B.pdf",
+                "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/5054/150%7E32A%7EA%2CAU%7E32-Top.jpg",
+                "ProductVariations": [
+                    {
+                        "DigiKeyProductNumber": "ATMEGA88PA-AURTR-ND",
+                        "PackageType": {
+                            "Id": 1,
+                            "Name": "Tape & Reel (TR)"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 2000,
+                                "UnitPrice": 1.59,
+                                "TotalPrice": 3180.0
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 150,
+                            "Name": "Microchip Technology"
+                        },
+                        "QuantityAvailableforPackageType": 0,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 2000,
+                        "StandardPackage": 2000,
+                        "DigiReelFee": 0.0
+                    },
+                    {
+                        "DigiKeyProductNumber": "ATMEGA88PA-AURCT-ND",
+                        "PackageType": {
+                            "Id": 2,
+                            "Name": "Cut Tape (CT)"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 1.92,
+                                "TotalPrice": 1.92
+                            },
+                            {
+                                "BreakQuantity": 25,
+                                "UnitPrice": 1.8664,
+                                "TotalPrice": 46.66
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 150,
+                            "Name": "Microchip Technology"
+                        },
+                        "QuantityAvailableforPackageType": 0,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 1,
+                        "DigiReelFee": 0.0
+                    },
+                    {
+                        "DigiKeyProductNumber": "ATMEGA88PA-AURDKR-ND",
+                        "PackageType": {
+                            "Id": 243,
+                            "Name": "Digi-Reel\u00ae"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 1.92,
+                                "TotalPrice": 1.92
+                            },
+                            {
+                                "BreakQuantity": 25,
+                                "UnitPrice": 1.8664,
+                                "TotalPrice": 46.66
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 150,
+                            "Name": "Microchip Technology"
+                        },
+                        "QuantityAvailableforPackageType": 0,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 1,
+                        "DigiReelFee": 7.0
+                    }
+                ],
+                "QuantityAvailable": 0,
+                "ProductStatus": {
+                    "Id": 0,
+                    "Status": "Active"
+                },
+                "BackOrderNotAllowed": false,
+                "NormallyStocking": true,
+                "Discontinued": false,
+                "EndOfLife": false,
+                "Ncnr": false,
+                "PrimaryVideoUrl": "",
+                "Parameters": [
+                    {
+                        "ParameterId": 2697,
+                        "ParameterText": "DigiKey Programmable",
+                        "ParameterType": "String",
+                        "ValueId": "750490",
+                        "ValueText": "Verified"
+                    },
+                    {
+                        "ParameterId": 506,
+                        "ParameterText": "Core Processor",
+                        "ParameterType": "String",
+                        "ValueId": "317125",
+                        "ValueText": "AVR"
+                    },
+                    {
+                        "ParameterId": 689,
+                        "ParameterText": "Core Size",
+                        "ParameterType": "String",
+                        "ValueId": "293889",
+                        "ValueText": "8-Bit"
+                    },
+                    {
+                        "ParameterId": 143,
+                        "ParameterText": "Speed",
+                        "ParameterType": "String",
+                        "ValueId": "143250",
+                        "ValueText": "20MHz"
+                    },
+                    {
+                        "ParameterId": 1113,
+                        "ParameterText": "Connectivity",
+                        "ParameterType": "String",
+                        "ValueId": "799927",
+                        "ValueText": "I2C, SPI, UART/USART"
+                    },
+                    {
+                        "ParameterId": 1114,
+                        "ParameterText": "Peripherals",
+                        "ParameterType": "String",
+                        "ValueId": "323363",
+                        "ValueText": "Brown-out Detect/Reset, POR, PWM, WDT"
+                    },
+                    {
+                        "ParameterId": 2208,
+                        "ParameterText": "Number of I/O",
+                        "ParameterType": "Double",
+                        "ValueId": "23",
+                        "ValueText": "23"
+                    },
+                    {
+                        "ParameterId": 155,
+                        "ParameterText": "Program Memory Size",
+                        "ParameterType": "String",
+                        "ValueId": "294232",
+                        "ValueText": "8KB (4K x 16)"
+                    },
+                    {
+                        "ParameterId": 290,
+                        "ParameterText": "Program Memory Type",
+                        "ParameterType": "String",
+                        "ValueId": "347758",
+                        "ValueText": "FLASH"
+                    },
+                    {
+                        "ParameterId": 291,
+                        "ParameterText": "EEPROM Size",
+                        "ParameterType": "String",
+                        "ValueId": "239280",
+                        "ValueText": "512 x 8"
+                    },
+                    {
+                        "ParameterId": 156,
+                        "ParameterText": "RAM Size",
+                        "ParameterType": "String",
+                        "ValueId": "120264",
+                        "ValueText": "1K x 8"
+                    },
+                    {
+                        "ParameterId": 1112,
+                        "ParameterText": "Voltage - Supply (Vcc/Vdd)",
+                        "ParameterType": "String",
+                        "ValueId": "61334",
+                        "ValueText": "1.8V ~ 5.5V"
+                    },
+                    {
+                        "ParameterId": 519,
+                        "ParameterText": "Data Converters",
+                        "ParameterType": "String",
+                        "ValueId": "306519",
+                        "ValueText": "A/D 8x10b"
+                    },
+                    {
+                        "ParameterId": 283,
+                        "ParameterText": "Oscillator Type",
+                        "ParameterType": "String",
+                        "ValueId": "359690",
+                        "ValueText": "Internal"
+                    },
+                    {
+                        "ParameterId": 252,
+                        "ParameterText": "Operating Temperature",
+                        "ParameterType": "String",
+                        "ValueId": "212621",
+                        "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+                    },
+                    {
+                        "ParameterId": 69,
+                        "ParameterText": "Mounting Type",
+                        "ParameterType": "String",
+                        "ValueId": "409393",
+                        "ValueText": "Surface Mount"
+                    },
+                    {
+                        "ParameterId": 1291,
+                        "ParameterText": "Supplier Device Package",
+                        "ParameterType": "String",
+                        "ValueId": "188793",
+                        "ValueText": "32-TQFP (7x7)"
+                    },
+                    {
+                        "ParameterId": 16,
+                        "ParameterText": "Package / Case",
+                        "ParameterType": "String",
+                        "ValueId": "188791",
+                        "ValueText": "32-TQFP"
+                    }
+                ],
+                "BaseProductNumber": {
+                    "Id": 30932,
+                    "Name": "ATMEGA88"
+                },
+                "Category": {
+                    "CategoryId": 32,
+                    "ParentId": 0,
+                    "Name": "Integrated Circuits (ICs)",
+                    "ProductCount": 0,
+                    "NewProductCount": 0,
+                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+                    "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+                    "ChildCategories": [
+                        {
+                            "CategoryId": 2012,
+                            "ParentId": 32,
+                            "Name": "Embedded",
+                            "ProductCount": 0,
+                            "NewProductCount": 0,
+                            "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/433/524/MFG_MK21DX128VLK5_tmb.jpg",
+                            "SeoDescription": "Embedded systems perform a specific task via software within various applications. Included in this category are programmable logic devices (PLDs), complex programmable logic devices (CPLDs), digital signal processors (DSPs), field programmable gate arrays (FPGAs), microcontollers or microprocessors, system-on-chip (SoC), and more.",
+                            "ChildCategories": [
+                                {
+                                    "CategoryId": 685,
+                                    "ParentId": 2012,
+                                    "Name": "Microcontrollers",
+                                    "ProductCount": 0,
+                                    "NewProductCount": 0,
+                                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/116/683/28-PDip_tmb.jpg",
+                                    "SeoDescription": "Microcontroller products are relatively complex, user-programmable digital logic devices. Closely related to devices considered microprocessors, the distinction between the two reduces largely to the manufacturer's choice of noun, though by tradition microcontrollers integrate working memory, are more likely to incorporate mixed-signal peripherals and tend to be used with simpler software paradigms oriented toward repetitive execution of a predefined series of tasks.",
+                                    "ChildCategories": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "DateLastBuyChance": null,
+                "ManufacturerLeadWeeks": "18",
+                "ManufacturerPublicQuantity": 0,
+                "Series": {
+                    "Id": 22385,
+                    "Name": "AVR\u00ae ATmega"
+                },
+                "ShippingInfo": null,
+                "Classifications": {
+                    "ReachStatus": "REACH Unaffected",
+                    "RohsStatus": "ROHS3 Compliant",
+                    "MoistureSensitivityLevel": "3  (168 Hours)",
+                    "ExportControlClassNumber": "EAR99",
+                    "HtsusCode": "8542.31.0015"
+                },
+                "OtherNames": [
+                    "ATMEGA88PA-AURDKR",
+                    "ATMEGA88PA-AURTR",
+                    "ATMEGA88PAAUR",
+                    "ATMEGA88PA-AUR-ND",
+                    "ATMEGA88PA-AURCT"
+                ]
+            }
+        ],
+        "ProductsCount": 2,
+        "ExactMatches": [
+            {
+                "Description": {
+                    "ProductDescription": "IC MCU 8BIT 8KB FLASH 32TQFP",
+                    "DetailedDescription": "AVR AVR\u00ae ATmega Microcontroller IC 8-Bit 20MHz 8KB (4K x 16) FLASH 32-TQFP (7x7)"
+                },
+                "Manufacturer": {
+                    "Id": 150,
+                    "Name": "Microchip Technology"
+                },
+                "ManufacturerProductNumber": "ATMEGA88PA-AU",
+                "UnitPrice": 1.8,
+                "ProductUrl": "https://www.digikey.com/en/products/detail/microchip-technology/ATMEGA88PA-AU/1886228",
+                "DatasheetUrl": "https://ww1.microchip.com/downloads/en/DeviceDoc/ATmega48A-PA-88A-PA-168A-PA-328-P-DS-DS40002061B.pdf",
+                "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/5054/150%7E32A%7EA%2CAU%7E32-Top.jpg",
+                "ProductVariations": [
+                    {
+                        "DigiKeyProductNumber": "ATMEGA88PA-AU-ND",
+                        "PackageType": {
+                            "Id": 17,
+                            "Name": "Tray"
+                        },
+                        "StandardPricing": [
+                            {
+                                "BreakQuantity": 1,
+                                "UnitPrice": 1.8,
+                                "TotalPrice": 1.8
+                            },
+                            {
+                                "BreakQuantity": 25,
+                                "UnitPrice": 1.65,
+                                "TotalPrice": 41.25
+                            },
+                            {
+                                "BreakQuantity": 100,
+                                "UnitPrice": 1.5,
+                                "TotalPrice": 150.0
+                            }
+                        ],
+                        "MyPricing": [],
+                        "MarketPlace": false,
+                        "TariffActive": true,
+                        "Supplier": {
+                            "Id": 150,
+                            "Name": "Microchip Technology"
+                        },
+                        "QuantityAvailableforPackageType": 7273,
+                        "MaxQuantityForDistribution": 999999999,
+                        "MinimumOrderQuantity": 1,
+                        "StandardPackage": 250,
+                        "DigiReelFee": 0.0
+                    }
+                ],
+                "QuantityAvailable": 7273,
+                "ProductStatus": {
+                    "Id": 0,
+                    "Status": "Active"
+                },
+                "BackOrderNotAllowed": false,
+                "NormallyStocking": true,
+                "Discontinued": false,
+                "EndOfLife": false,
+                "Ncnr": false,
+                "PrimaryVideoUrl": "",
+                "Parameters": [
+                    {
+                        "ParameterId": 2697,
+                        "ParameterText": "DigiKey Programmable",
+                        "ParameterType": "String",
+                        "ValueId": "750490",
+                        "ValueText": "Verified"
+                    },
+                    {
+                        "ParameterId": 506,
+                        "ParameterText": "Core Processor",
+                        "ParameterType": "String",
+                        "ValueId": "317125",
+                        "ValueText": "AVR"
+                    },
+                    {
+                        "ParameterId": 689,
+                        "ParameterText": "Core Size",
+                        "ParameterType": "String",
+                        "ValueId": "293889",
+                        "ValueText": "8-Bit"
+                    },
+                    {
+                        "ParameterId": 143,
+                        "ParameterText": "Speed",
+                        "ParameterType": "String",
+                        "ValueId": "143250",
+                        "ValueText": "20MHz"
+                    },
+                    {
+                        "ParameterId": 1113,
+                        "ParameterText": "Connectivity",
+                        "ParameterType": "String",
+                        "ValueId": "799927",
+                        "ValueText": "I2C, SPI, UART/USART"
+                    },
+                    {
+                        "ParameterId": 1114,
+                        "ParameterText": "Peripherals",
+                        "ParameterType": "String",
+                        "ValueId": "323363",
+                        "ValueText": "Brown-out Detect/Reset, POR, PWM, WDT"
+                    },
+                    {
+                        "ParameterId": 2208,
+                        "ParameterText": "Number of I/O",
+                        "ParameterType": "Double",
+                        "ValueId": "23",
+                        "ValueText": "23"
+                    },
+                    {
+                        "ParameterId": 155,
+                        "ParameterText": "Program Memory Size",
+                        "ParameterType": "String",
+                        "ValueId": "294232",
+                        "ValueText": "8KB (4K x 16)"
+                    },
+                    {
+                        "ParameterId": 290,
+                        "ParameterText": "Program Memory Type",
+                        "ParameterType": "String",
+                        "ValueId": "347758",
+                        "ValueText": "FLASH"
+                    },
+                    {
+                        "ParameterId": 291,
+                        "ParameterText": "EEPROM Size",
+                        "ParameterType": "String",
+                        "ValueId": "239280",
+                        "ValueText": "512 x 8"
+                    },
+                    {
+                        "ParameterId": 156,
+                        "ParameterText": "RAM Size",
+                        "ParameterType": "String",
+                        "ValueId": "120264",
+                        "ValueText": "1K x 8"
+                    },
+                    {
+                        "ParameterId": 1112,
+                        "ParameterText": "Voltage - Supply (Vcc/Vdd)",
+                        "ParameterType": "String",
+                        "ValueId": "61334",
+                        "ValueText": "1.8V ~ 5.5V"
+                    },
+                    {
+                        "ParameterId": 519,
+                        "ParameterText": "Data Converters",
+                        "ParameterType": "String",
+                        "ValueId": "306519",
+                        "ValueText": "A/D 8x10b"
+                    },
+                    {
+                        "ParameterId": 283,
+                        "ParameterText": "Oscillator Type",
+                        "ParameterType": "String",
+                        "ValueId": "359690",
+                        "ValueText": "Internal"
+                    },
+                    {
+                        "ParameterId": 252,
+                        "ParameterText": "Operating Temperature",
+                        "ParameterType": "String",
+                        "ValueId": "212621",
+                        "ValueText": "-40\u00b0C ~ 85\u00b0C (TA)"
+                    },
+                    {
+                        "ParameterId": 69,
+                        "ParameterText": "Mounting Type",
+                        "ParameterType": "String",
+                        "ValueId": "409393",
+                        "ValueText": "Surface Mount"
+                    },
+                    {
+                        "ParameterId": 1291,
+                        "ParameterText": "Supplier Device Package",
+                        "ParameterType": "String",
+                        "ValueId": "188793",
+                        "ValueText": "32-TQFP (7x7)"
+                    },
+                    {
+                        "ParameterId": 16,
+                        "ParameterText": "Package / Case",
+                        "ParameterType": "String",
+                        "ValueId": "188791",
+                        "ValueText": "32-TQFP"
+                    }
+                ],
+                "BaseProductNumber": {
+                    "Id": 30932,
+                    "Name": "ATMEGA88"
+                },
+                "Category": {
+                    "CategoryId": 32,
+                    "ParentId": 0,
+                    "Name": "Integrated Circuits (ICs)",
+                    "ProductCount": 0,
+                    "NewProductCount": 0,
+                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC%2CM8_tmb.jpg",
+                    "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+                    "ChildCategories": [
+                        {
+                            "CategoryId": 2012,
+                            "ParentId": 32,
+                            "Name": "Embedded",
+                            "ProductCount": 0,
+                            "NewProductCount": 0,
+                            "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/433/524/MFG_MK21DX128VLK5_tmb.jpg",
+                            "SeoDescription": "Embedded systems perform a specific task via software within various applications. Included in this category are programmable logic devices (PLDs), complex programmable logic devices (CPLDs), digital signal processors (DSPs), field programmable gate arrays (FPGAs), microcontollers or microprocessors, system-on-chip (SoC), and more.",
+                            "ChildCategories": [
+                                {
+                                    "CategoryId": 685,
+                                    "ParentId": 2012,
+                                    "Name": "Microcontrollers",
+                                    "ProductCount": 0,
+                                    "NewProductCount": 0,
+                                    "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/116/683/28-PDip_tmb.jpg",
+                                    "SeoDescription": "Microcontroller products are relatively complex, user-programmable digital logic devices. Closely related to devices considered microprocessors, the distinction between the two reduces largely to the manufacturer's choice of noun, though by tradition microcontrollers integrate working memory, are more likely to incorporate mixed-signal peripherals and tend to be used with simpler software paradigms oriented toward repetitive execution of a predefined series of tasks.",
+                                    "ChildCategories": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "DateLastBuyChance": null,
+                "ManufacturerLeadWeeks": "4",
+                "ManufacturerPublicQuantity": 0,
+                "Series": {
+                    "Id": 22385,
+                    "Name": "AVR\u00ae ATmega"
+                },
+                "ShippingInfo": null,
+                "Classifications": {
+                    "ReachStatus": "REACH Unaffected",
+                    "RohsStatus": "ROHS3 Compliant",
+                    "MoistureSensitivityLevel": "3  (168 Hours)",
+                    "ExportControlClassNumber": "EAR99",
+                    "HtsusCode": "8542.31.0015"
+                },
+                "OtherNames": [
+                    "ATMEGA88PAAU"
+                ]
+            }
+        ],
+        "FilterOptions": {
+            "Manufacturers": [
+                {
+                    "Id": 150,
+                    "Value": "Microchip Technology",
+                    "ProductCount": 2
+                }
+            ],
+            "Packaging": [
+                {
+                    "Id": 2,
+                    "Value": "Cut Tape (CT)",
+                    "ProductCount": 1
+                },
+                {
+                    "Id": 243,
+                    "Value": "Digi-Reel\u00ae",
+                    "ProductCount": 1
+                },
+                {
+                    "Id": 1,
+                    "Value": "Tape & Reel (TR)",
+                    "ProductCount": 1
+                },
+                {
+                    "Id": 17,
+                    "Value": "Tray",
+                    "ProductCount": 1
+                }
+            ],
+            "Status": [
+                {
+                    "Id": 0,
+                    "Value": "Active",
+                    "ProductCount": 2
+                }
+            ],
+            "Series": [
+                {
+                    "Id": 22385,
+                    "Value": "AVR\u00ae ATmega",
+                    "ProductCount": 2
+                }
+            ],
+            "ParametricFilters": [
+                {
+                    "Category": {
+                        "Id": 685,
+                        "Value": "Microcontrollers",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 2697,
+                    "ParameterName": "DigiKey Programmable",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "750490",
+                            "ValueName": "Verified",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 685,
+                        "Value": "Microcontrollers",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 506,
+                    "ParameterName": "Core Processor",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "317125",
+                            "ValueName": "AVR",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 685,
+                        "Value": "Microcontrollers",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 689,
+                    "ParameterName": "Core Size",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "293889",
+                            "ValueName": "8-Bit",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 685,
+                        "Value": "Microcontrollers",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 143,
+                    "ParameterName": "Speed",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "143250",
+                            "ValueName": "20MHz",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 685,
+                        "Value": "Microcontrollers",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 1113,
+                    "ParameterName": "Connectivity",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "799927",
+                            "ValueName": "I2C, SPI, UART/USART",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 685,
+                        "Value": "Microcontrollers",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 1114,
+                    "ParameterName": "Peripherals",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "323363",
+                            "ValueName": "Brown-out Detect/Reset, POR, PWM, WDT",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 685,
+                        "Value": "Microcontrollers",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 2208,
+                    "ParameterName": "Number of I/O",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "23",
+                            "ValueName": "23",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 685,
+                        "Value": "Microcontrollers",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 155,
+                    "ParameterName": "Program Memory Size",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "294232",
+                            "ValueName": "8KB (4K x 16)",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 685,
+                        "Value": "Microcontrollers",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 290,
+                    "ParameterName": "Program Memory Type",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "347758",
+                            "ValueName": "FLASH",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 685,
+                        "Value": "Microcontrollers",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 291,
+                    "ParameterName": "EEPROM Size",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "239280",
+                            "ValueName": "512 x 8",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 685,
+                        "Value": "Microcontrollers",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 156,
+                    "ParameterName": "RAM Size",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "120264",
+                            "ValueName": "1K x 8",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 685,
+                        "Value": "Microcontrollers",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 1112,
+                    "ParameterName": "Voltage - Supply (Vcc/Vdd)",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "61334",
+                            "ValueName": "1.8V ~ 5.5V",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 685,
+                        "Value": "Microcontrollers",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 519,
+                    "ParameterName": "Data Converters",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "306519",
+                            "ValueName": "A/D 8x10b",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 685,
+                        "Value": "Microcontrollers",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 283,
+                    "ParameterName": "Oscillator Type",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "359690",
+                            "ValueName": "Internal",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 685,
+                        "Value": "Microcontrollers",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 252,
+                    "ParameterName": "Operating Temperature",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "212621",
+                            "ValueName": "-40\u00b0C ~ 85\u00b0C (TA)",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 685,
+                        "Value": "Microcontrollers",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 69,
+                    "ParameterName": "Mounting Type",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "409393",
+                            "ValueName": "Surface Mount",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 685,
+                        "Value": "Microcontrollers",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 1291,
+                    "ParameterName": "Supplier Device Package",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "188793",
+                            "ValueName": "32-TQFP (7x7)",
+                            "RangeFilterType": null
+                        }
+                    ]
+                },
+                {
+                    "Category": {
+                        "Id": 685,
+                        "Value": "Microcontrollers",
+                        "ProductCount": null
+                    },
+                    "ParameterType": "String",
+                    "ParameterId": 16,
+                    "ParameterName": "Package / Case",
+                    "FilterValues": [
+                        {
+                            "ProductCount": 2,
+                            "ValueId": "188791",
+                            "ValueName": "32-TQFP",
+                            "RangeFilterType": null
+                        }
+                    ]
+                }
+            ],
+            "TopCategories": null,
+            "MarketPlaceFilters": null
+        },
+        "SearchLocaleUsed": {
+            "Site": "US",
+            "Language": "en",
+            "Currency": "USD"
+        },
+        "AppliedParametricFiltersDto": []
+    }
+}

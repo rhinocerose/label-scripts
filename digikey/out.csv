@@ -1,0 +1,41 @@
+Original Part,Match Type,DigiKey Part,Manufacturer,Footprint,Description
+1N5711WS-7-F,Exact,0,Diodes Incorporated,"SC-76, SOD-323",RF Diode Schottky - Single 70V 15 mA 150 mW SOD-323
+STM32F373CCT6,Exact,0,STMicroelectronics,48-LQFP,ARM® Cortex®-M4 STM32F3 Microcontroller IC 32-Bit 72MHz 256KB (256K x 8) FLASH 48-LQFP (7x7)
+ATMEGA88PA-AU,Exact,0,Microchip Technology,32-TQFP,AVR AVR® ATmega Microcontroller IC 8-Bit 20MHz 8KB (4K x 16) FLASH 32-TQFP (7x7)
+LM4562MAX/NOPB,Exact,0,Texas Instruments,"8-SOIC (0.154"", 3.90mm Width)",Audio Amplifier 2 Circuit 8-SOIC
+OPA4171AIPWR,Exact,0,Texas Instruments,"14-TSSOP (0.173"", 4.40mm Width)",Standard (General Purpose) Amplifier 4 Circuit Rail-to-Rail 14-TSSOP
+X50328MSB2GI,Error,,,,,
+DAC8551IADGKR,Exact,0,Texas Instruments,"8-TSSOP, 8-MSOP (0.118"", 3.00mm Width)",16 Bit Digital to Analog Converter 1 8-VSSOP
+DAC8552IDGKT,Exact,0,Texas Instruments,"8-TSSOP, 8-MSOP (0.118"", 3.00mm Width)",16 Bit Digital to Analog Converter 2 8-VSSOP
+BLM18AG471SN1D,Exact,0,Murata Electronics,0603 (1608 Metric),470 Ohms @ 100 MHz 1 Ferrite Bead 0603 (1608 Metric) 550mA 350mOhm
+STM32F427VIT6,Exact,0,STMicroelectronics,100-LQFP,ARM® Cortex®-M4 STM32F4 Microcontroller IC 32-Bit 180MHz 2MB (2M x 8) FLASH 100-LQFP (14x14)
+OPA4991IPWR,Exact,0,Texas Instruments,"14-TSSOP (0.173"", 4.40mm Width)",Standard (General Purpose) Amplifier 4 Circuit Rail-to-Rail 14-TSSOP
+MB1S-TP,Exact,0,MCC (Micro Commercial Components),"TO-269AA, 4-BESOP",Bridge Rectifier Single Phase Standard 100 V Surface Mount MBS-1
+OPA2171AIDGKR,Exact,0,Texas Instruments,"8-TSSOP, 8-MSOP (0.118"", 3.00mm Width)",Standard (General Purpose) Amplifier 2 Circuit Rail-to-Rail 8-VSSOP
+AZ1117CH-5.0TRG1,Exact,0,Diodes Incorporated,"TO-261-4, TO-261AA",Linear Voltage Regulator IC Positive Fixed 1 Output 1A SOT-223-3
+AZ1117CH-3.3TRG1,Exact,0,Diodes Incorporated,"TO-261-4, TO-261AA",Linear Voltage Regulator IC Positive Fixed 1 Output 1A SOT-223-3
+TL072HIPWR,Exact,0,Texas Instruments,"8-TSSOP (0.173"", 4.40mm Width)",J-FET Amplifier 2 Circuit Push-Pull 8-TSSOP
+MMZ1608S202ATA00,Exact,0,TDK,0603 (1608 Metric),2 kOhms @ 100 MHz 1 Signal Line Ferrite Bead 0603 (1608 Metric) 200mA 900mOhm
+LD2981ABU33TR,Exact,0,STMicroelectronics,TO-243AA,Linear Voltage Regulator IC Positive Fixed 1 Output 100mA SOT-89-3
+"PMST3904,115",Exact,0,Nexperia USA Inc.,"SC-70, SOT-323",Bipolar (BJT) Transistor NPN 40 V 200 mA 300MHz 200 mW Surface Mount SOT-323
+MF-PSMF010X-2,Exact,0,Bourns Inc.,"0805 (2012 Metric), Concave","Polymeric PTC Resettable Fuse 15V 100 mA Ih Surface Mount 0805 (2012 Metric), Concave"
+1206L035/16YR,Exact,0,Littelfuse Inc.,"1206 (3216 Metric), Concave","Polymeric PTC Resettable Fuse 16V 350 mA Ih Surface Mount 1206 (3216 Metric), Concave"
+UCM1V470MCL1GS,Exact,0,Nichicon,"Radial, Can - SMD","47 µF 35 V Aluminum Electrolytic Capacitors Radial, Can - SMD 2000 Hrs @ 105°C"
+MCP6004T-I/ST,Exact,0,Microchip Technology,"14-TSSOP (0.173"", 4.40mm Width)",Standard (General Purpose) Amplifier 4 Circuit Rail-to-Rail 14-TSSOP
+TL074HIPWR,Exact,0,Texas Instruments,"14-TSSOP (0.173"", 4.40mm Width)",J-FET Amplifier 4 Circuit 14-TSSOP
+OPA2172IDR,Exact,0,Texas Instruments,"8-SOIC (0.154"", 3.90mm Width)",Standard (General Purpose) Amplifier 2 Circuit Rail-to-Rail 8-SOIC
+SN74HC595PWR,Exact,0,Texas Instruments,"16-TSSOP (0.173"", 4.40mm Width)",Shift Shift Register 1 Element 8 Bit 16-TSSOP
+MMBT5088LT1G,Exact,0,onsemi,"TO-236-3, SC-59, SOT-23-3",Bipolar (BJT) Transistor NPN 30 V 50 mA 50MHz 300 mW Surface Mount SOT-23-3 (TO-236)
+DG409DQ-T1-E3,Exact,0,Vishay Siliconix,"16-TSSOP (0.173"", 4.40mm Width)",2 Circuit IC Switch 4:1 100Ohm 16-TSSOP
+1N914BWS,Exact,0,onsemi,"SC-90, SOD-323F",Diode 75 V 150mA Surface Mount SOD-323F
+STM32F103CBT6,Exact,0,STMicroelectronics,48-LQFP,ARM® Cortex®-M3 STM32F1 Microcontroller IC 32-Bit 72MHz 128KB (128K x 8) FLASH
+1206L035/16YR,Exact,0,Littelfuse Inc.,"1206 (3216 Metric), Concave","Polymeric PTC Resettable Fuse 16V 350 mA Ih Surface Mount 1206 (3216 Metric), Concave"
+MF-PSMF010X-2,Exact,0,Bourns Inc.,"0805 (2012 Metric), Concave","Polymeric PTC Resettable Fuse 15V 100 mA Ih Surface Mount 0805 (2012 Metric), Concave"
+XL-302UYC,Exact,0,XINGLIGHT,Radial,Yellow 590nm LED Indication - Discrete 2.2V Radial
+XL-302UGD,Exact,0,XINGLIGHT,Radial,Green 525nm LED Indication - Discrete 3.25V Radial
+BZT52B5V1S,Exact,0,"Shenzhen Slkormicro Semicon Co., Ltd.","SC-76, SOD-323",Zener Diode 5.1 V 200 mW ±1.96% Surface Mount SOD-323
+OPA4991IPWR,Exact,0,Texas Instruments,"14-TSSOP (0.173"", 4.40mm Width)",Standard (General Purpose) Amplifier 4 Circuit Rail-to-Rail 14-TSSOP
+OPA1679IPWR,Exact,0,Texas Instruments,"14-TSSOP (0.173"", 4.40mm Width)",Audio Amplifier 4 Circuit Rail-to-Rail 14-TSSOP
+HUSB238_002DD,Error,,,,,
+AONR21307-TP,Error,,,,,
+TYPE-C 16PIN 2MD(073),Error,,,,,
